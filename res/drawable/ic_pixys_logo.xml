@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?> <!-- Copyright (C) 2018 PixysOS
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License. --> <vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="1280dp"
+    android:height="510dp"
+    android:viewportWidth="1280"
+    android:viewportHeight="510">
+    <path
+        android:fillColor="?android:attr/colorAccent"
+        android:fillAlpha="0.4"
+        android:pathData="M 640 5 C 778.071187458 5 890 116.928812542 890 255 C 890 393.071187458 778.071187458 505 640 505 C 
+501.928812542 505 390 393.071187458 390 255 C 390 116.928812542 501.928812542 5 640 5 Z" />
+    <path
+        android:fillColor="?android:attr/colorAccent"
+        android:pathData="M 640 67.5 C 743.553390593 67.5 827.5 151.446609407 827.5 255 C 827.5 358.553390593 743.553390593 442.5 
+640 442.5 C 536.446609407 442.5 452.5 358.553390593 452.5 255 C 452.5 151.446609407 536.446609407 67.5 640 67.5 Z" />
+    <path
+        android:fillColor="#fff"
+        android:fillAlpha="0.4"
+        android:pathData="M 640 208.22 C 665.78617497 208.22 686.69 229.164119403 686.69 255 C 686.69 280.835880597 665.78617497 
+301.78 640 301.78 C 614.21382503 301.78 593.31 280.835880597 593.31 255 C 593.31 229.164119403 614.21382503 208.22 640 208.22 Z" />
+    <path
+        android:fillColor="#000000"
+        android:fillAlpha="0.2"
+        android:pathData="M576.21,298.33v63.73a30.19,30.19,0,0,0,60.35,1.65C606.13,360.12,581.6,333.14,576.21,298.33Z" />
+    <path
+        android:fillColor="#000000"
+        android:fillAlpha="0.2"
+        android:pathData="M653.45,191.14A77.47,77.47,0,0,0,642,345.2a76.36,76.36,0,0,0,11.49 0.86 
+c0.32,0,0.66,0,1,0a76.67,76.67,0,0,0,29-6,77.39,77.39,0,0,0,40.3-39.11,77.08,77.08,0,0,0,6.4-22.48,75.86,75.86,0,0,0,0.62-9.83A77.37,77.37,0,0,0,653.45,191.14Zm0,104.39a26.94,26.94,0,1,1,26.89-26.94A26.91,26.91,0,0,1,653.45,295.53Z" 
+/>
+    <path
+        android:fillColor="#fff"
+        android:pathData="M562.75,284.87V348.6a30.19,30.19,0,0,0,60.35,1.65C592.67,346.66,568.14,319.68,562.75,284.87Z" />
+    <path
+        android:fillColor="#fff"
+        android:pathData="M640,177.68a77.47,77.47,0,0,0-11.5,154.06,75.11,75.11,0,0,0,11.5 0.86 
+h1a76.83,76.83,0,0,0,29-6,77.41,77.41,0,0,0,40.3-39.1,77.14,77.14,0,0,0,6.4-22.49,75.86,75.86,0,0,0,0.62-9.83A77.37,77.37,0,0,0,640,177.68Zm0,104.4a26.95,26.95,0,1,1,26.89-26.95A26.92,26.92,0,0,1,640,282.08Z" 
+/>
+</vector>
