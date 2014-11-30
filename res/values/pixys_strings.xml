@@ -368,5 +368,9 @@
     <string name="app_volume">App volume</string>
     <string name="app_volume_title">Per-app volume control</string>
     <string name="app_volume_summary">Allow to set different volume levels for each app</string>
+
+     <!-- Wake on plug -->
+    <string name="wake_when_plugged_or_unplugged_title">Wake on plug</string>
+    <string name="wake_when_plugged_or_unplugged_summary">Turn the screen on when connecting or disconnecting a power source</string>
     
 </resources>
