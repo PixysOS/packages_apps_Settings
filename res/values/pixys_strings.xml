@@ -82,4 +82,11 @@
     <string name="theme_applied_toast">Theme applied!</string>
     <string name="ui_style_applied_toast">UI style applied!</string>
 
+    <!-- Battery percentage -->
+    <string name="battery_style_category_title">Battery icon</string>
+    <string name="status_bar_battery_percentage_title">Battery percentage</string>
+    <string name="status_bar_battery_percentage_default">Hidden</string>
+    <string name="status_bar_battery_percentage_text_next">Next to the icon</string>
+    <string name="status_bar_battery_percentage_text_inside">Inside the icon</string>
+
 </resources>
