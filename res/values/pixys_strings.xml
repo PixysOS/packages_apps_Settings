@@ -19,4 +19,9 @@
     <!-- Connected AP Signal Preference --> 
     <string name="connected_signal_pref_title">Signal strength: %1$s</string> 
     <string name="connected_signal_pref_summary">Tap for more info</string>
+
+    
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">Google Play</string>
+
 </resources>
