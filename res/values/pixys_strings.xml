@@ -162,4 +162,8 @@
     <!-- Quick Settings brightness icon -->
     <string name="brightness_icon_title">Adaptive brightness button</string>
     <string name="brightness_icon_summary">Show adaptive brightness button</string>
+
+    <!-- Pocket mode -->
+    <string name="proximity_wake_title">Prevent accidental wake-up</string>
+    <string name="proximity_wake_summary">Check the proximity sensor prior to waking up screen</string>
 </resources>
