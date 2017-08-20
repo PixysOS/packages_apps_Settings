@@ -136,4 +136,12 @@
             android:targetClass="com.android.touch.gestures.TouchscreenGestureSettings" />
     </Preference>
 
+    <com.pixys.support.preference.RemotePreference
+            android:key="device_touchscreen_gesture_settings"
+            android:title="@string/touchscreen_gesture_settings_title"
+            android:summary="@string/touchscreen_gesture_settings_summary"
+            settings:replacesKey="touchscreen_gesture_settings"
+            settings:requiresFeature="lineagehardware:FEATURE_TOUCHSCREEN_GESTURES">
+        <intent android:action="org.lineageos.settings.device.GESTURE_SETTINGS" />
+    </com.pixys.support.preference.RemotePreference>
 </PreferenceScreen>
