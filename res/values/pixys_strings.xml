@@ -49,4 +49,8 @@
     <!-- App details: open play store link if app is user installed -->
     <string name="app_play_store">Google Play</string>
 
+    <!-- Pixys Settings -->
+    <string name="pixys_title">Explore</string>
+    <string name="build_tweaks_summary_title">Lets Explore the Goodies</string>
+
 </resources>
