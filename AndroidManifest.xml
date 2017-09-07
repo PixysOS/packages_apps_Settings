@@ -3277,5 +3277,22 @@
         </activity>
 
         <!-- This is the longest AndroidManifest.xml ever. -->
+
+        <!-- PixysOS additions -->
+        <activity android:name=".Settings$PixysSettingsActivity"
+                  android:label="@string/pixys_title"
+                  android:icon="@drawable/ic_homepage_pixys"
+                  android:parentActivityName="com.android.settings">
+            <intent-filter android:priority="19">
+                <action android:name="com.android.settings.action.SETTINGS"/>
+            </intent-filter>
+            <meta-data android:name="com.android.settings.category"
+                       android:value="com.android.settings.category.ia.homepage"/>
+            <meta-data android:name="com.android.settings.FRAGMENT_CLASS"
+                       android:value="com.pixys.settings.PixysSettings"/>
+            <meta-data android:name="com.android.settings.summary"
+                       android:resource="@string/build_tweaks_summary_title"/>
+        </activity>
+
     </application>
 </manifest>
