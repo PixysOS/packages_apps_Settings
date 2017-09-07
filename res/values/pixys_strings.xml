@@ -31,4 +31,8 @@
     <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
     <string name="total_ram">Total RAM</string>
 
+    <!-- Pixys Settings -->
+    <string name="pixys_title">Explore</string>
+    <string name="build_tweaks_summary_title">Lets Explore the Goodies</string>
+
 </resources>
