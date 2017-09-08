@@ -55,10 +55,26 @@
     <!-- Android version -->
     <Preference
         android:key="firmware_version"
-        android:order="32"
+        android:order="31"
         android:title="@string/firmware_version"
         settings:keywords="@string/keywords_android_version"
         android:summary="@string/summary_placeholder"/>
+
+    <!-- PixysOS version --> 
+    <Preference 
+        android:key="pixys_version"
+        android:order="32"
+        android:title="@string/pixys_version"
+        settings:keywords="@string/keywords_pixys_version"
+        android:summary="@string/pixys_version_default"/>
+
+    <!-- Build date -->
+    <Preference 
+       android:key="build_date"
+       android:order="33"
+       android:title="@string/build_date"
+       settings:keywords="@string/keywords_build_date"
+       android:summary="@string/build_date_default" />
 
     <!--IP address -->
     <Preference
