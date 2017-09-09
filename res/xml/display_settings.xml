@@ -115,10 +115,16 @@
         android:summary="@string/toast_icon_summary"
         android:defaultValue="false" />
         
-    <com.pixys.settings.preferences.SystemSettingSwitchPreference
+    <com.android.settings.preferences.SystemSettingSwitchPreference
         android:key="lockscreen_battery_info"
         android:title="@string/lockscreen_battery_info_title"
         android:summary="@string/lockscreen_battery_info_summary"
+        android:defaultValue="true" />
+
+     <com.android.settings.preferences.SystemSettingSwitchPreference
+        android:key="double_tap_sleep_gesture"
+        android:title="@string/double_tap_to_sleep_title"
+        android:summary="@string/double_tap_to_sleep_summary"
         android:defaultValue="true" />
 </PreferenceCategory>
 
