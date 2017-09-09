@@ -12185,6 +12185,10 @@
     <!-- Summary for allowing screen overlays on Settings app. [CHAR LIMIT=NONE]-->
     <string name="overlay_settings_summary">Allow apps that can display over other apps to overlay Settings screens</string>
 
+    <!-- Double tap-to-sleep -->
+    <string name="double_tap_to_sleep_title">Status bar</string>
+    <string name="double_tap_to_sleep_summary">Double-tap status bar to put the device to sleep</string>
+
     <!-- Title for media control settings [CHAR LIMIT=50]-->
     <string name="media_controls_title">Media</string>
     <!-- Summary for media control settings [CHAR LIMIT=NONE]-->
