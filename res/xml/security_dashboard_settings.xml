@@ -75,6 +75,12 @@
             android:summary="@string/fprint_sucess_vib_summary"
             android:persistent="false" />
 
+        <SwitchPreference
+            android:key="double_tap_sleep_lockscreen"
+            android:title="@string/double_tap_to_sleep_lockscreen_title"
+            android:summary="@string/double_tap_to_sleep_lockscreen_summary"
+            android:defaultValue="true" />
+
     </PreferenceCategory>
 
     <!-- work profile security section -->
