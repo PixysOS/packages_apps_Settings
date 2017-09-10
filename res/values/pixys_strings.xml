@@ -71,4 +71,32 @@
     <string name="font_picker_title">Font</string>
     <string name="font_picker_progress">Applying new font\u2026</string>
 
+    <!-- About PixysOS -->
+    <string name="aex_about_info">About us</string>
+    <string name="aex_about_summary">Our introduction and our team</string>
+    <string name="aex_about_info_summary">PixysOS is an AOSP based rom which provides stock UI/UX with minimal customisations. The project has been made by cherry-picking various commits from various other projects. Being based on AOSP it provides a smooth and lag-free experience out of the box. We will constantly try to add more features and make it even better in future updates.</string>
+    <string name="dev_info">About PixysOS</string>
+    <string name="leads">Team Leads</string>
+    <string name="github">Github</string>
+    <string name="github_description">View our source code</string>
+    <string name="gplus">Google+</string>
+    <string name="gplus_description">Join our G+ community</string>
+    <string name="telegram">Telegram</string>
+    <string name="telegram_description">Join out Telegram discussion group</string>
+    <string name="web">Download Center</string>
+    <string name="web_description">Visit our download portal</string>
+    <string name="maintainers">Maintainers</string>
+    <string name="dev_1">ZJRDroid &#40;ZJRDroid&#41;</string>
+    <string name="dev1_description">Founder of PixysOS</string>
+    <string name="dev_2">Subins Mani &#40;Subinsmani&#41;</string>
+    <string name="dev2_description">co-Founder, Lead Source Maintainer</string>
+    <string name="dev_3">Rahul9999 &#40;@rahul9999xda&#41;</string>
+    <string name="dev3_description">Telegram/G+ Moderator, Osprey/Merlin Maintainer</string>
+    <string name="dev_4">Kbijaya &#40;Kbijaya&#41;</string>
+    <string name="designers">Designers</string>
+    <string name="dev_5">Akshay &#40;@Akianonymus&#41;</string>
+    <string name="dev5_description">Co-Source maintainer</string>
+    <string name="dev_6">Yash &#40;smart_geek&#41;</string>
+    <string name="dev6_description">Website Maintainer</string>
+
 </resources>
