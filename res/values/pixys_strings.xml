@@ -40,7 +40,6 @@
     <string name="telegram_description">Join our Telegram discussion group</string>
     <string name="web">Download Center</string>
     <string name="web_description">Visit our download portal</string>
-    <string name="maintainers">Maintainers</string>
     <string name="dev_1">Subins Mani &#40;Subinsmani&#41;</string>
     <string name="dev1_description">Founder, Lead Source Maintainer</string>
     <string name="dev_2">Akshay &#40;@Akianonymus&#41;</string>
@@ -52,9 +51,18 @@
     <string name="dev4_description">Lead Designer</string>
     <string name="dev_5">Yash &#40;smart_geek&#41;</string>
     <string name="dev5_description">Website Maintainer</string>
-    <string name="maintainer_description">Maintains for %1$s</string>
     <string name="dev_6">Gero &#40;@GeroED&#41;</string>
     <string name="dev6_description">Bootanimation Maker</string>
+
+    <!-- Maintainer section -->
+    <string name="maintainers">Maintainers</string>
+    <string name="maintainer_description">Maintainer: %1$s</string>
+    <string name="maintainers_title">Official maintainers</string>
+    <string name="maintainers_summary">Officially supported devices and their respective maintainers.</string>
+    <string name="loading_devices">Loading devices list...</string>
+    <string name="loading_devices_failed">Failed to load devices list</string>
+    <string name="devices_list_empty">List is empty, tap the icon to reload</string>
+    <string name="reload_list">Reload</string>
 
     <!-- Lockscreen battery info indicator  -->
     <string name="lockscreen_battery_info_title">Lockscreen charging info</string>
