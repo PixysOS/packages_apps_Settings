@@ -53,5 +53,6 @@
     <string name="dev5_description">Co-Source maintainer</string>
     <string name="dev_6">Yash &#40;smart_geek&#41;</string>
     <string name="dev6_description">Website Maintainer</string>
+    <string name="maintainer_description">Maintains for %1$s</string>
     
 </resources>
