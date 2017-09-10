@@ -72,9 +72,9 @@
     <string name="font_picker_progress">Applying new font\u2026</string>
 
     <!-- About PixysOS -->
-    <string name="aex_about_info">About us</string>
-    <string name="aex_about_summary">Our introduction and our team</string>
-    <string name="aex_about_info_summary">PixysOS is an AOSP based rom which provides stock UI/UX with minimal customisations. The project has been made by cherry-picking various commits from various other projects. Being based on AOSP it provides a smooth and lag-free experience out of the box. We will constantly try to add more features and make it even better in future updates.</string>
+    <string name="pixys_about_info">About us</string>
+    <string name="pixys_about_summary">Our introduction and our team</string>
+    <string name="pixys_about_info_summary">PixysOS is an AOSP based rom which provides stock UI/UX with minimal customisations. The project has been made by cherry-picking various commits from various other projects. Being based on AOSP it provides a smooth and lag-free experience out of the box. We will constantly try to add more features and make it even better in future updates.</string>
     <string name="dev_info">About PixysOS</string>
     <string name="leads">Team Leads</string>
     <string name="github">Github</string>
@@ -98,5 +98,5 @@
     <string name="dev5_description">Co-Source maintainer</string>
     <string name="dev_6">Yash &#40;smart_geek&#41;</string>
     <string name="dev6_description">Website Maintainer</string>
-
+    <string name="maintainer_description">Maintains for %1$s</string>
 </resources>

@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Copyright (C) 2016 AospExtended ROM Project
      Licensed under the Apache License, Version 2.0 (the "License");
@@ -56,7 +55,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
         </Preference>
 
         <Preference
-            android:title="@string/web"
+            android:title="@string/web_description"
     android:summary="@string/web"
     android:icon="@drawable/ic_web" >
     <intent
