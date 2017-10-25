@@ -122,7 +122,11 @@
         <item>300000</item>
         <item>600000</item>
         <item>1800000</item>
+<<<<<<< HEAD
     </string-array>
+=======
+   </string-array>
+>>>>>>> dac17d4d84... tem
     
     <!-- Hardware key rebinding -->
     <string-array name="hardware_keys_action_entries" translatable="false">
