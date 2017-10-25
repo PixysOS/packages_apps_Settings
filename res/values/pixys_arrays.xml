@@ -122,7 +122,7 @@
         <item>300000</item>
         <item>600000</item>
         <item>1800000</item>
-    </string-array>
+   </string-array>
     
     <!-- Hardware key rebinding -->
     <string-array name="hardware_keys_action_entries" translatable="false">
