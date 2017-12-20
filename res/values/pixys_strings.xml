@@ -38,4 +38,10 @@
     <string name="battery_percentage_beside">Show beside the battery icon</string>
     <string name="battery_percentage_inside">Show inside the battery icon</string>
 
+    <!-- Themes -->
+    <string name="system_theme_style_title">UI style</string>
+    <string name="system_theme_style_auto">Wallpaper based</string>
+    <string name="system_theme_style_light">Light UI</string>
+    <string name="system_theme_style_dark">Dark UI</string>
+
 </resources>
