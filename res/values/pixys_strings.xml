@@ -72,4 +72,11 @@
     <string name="toast_icon_title">Toast app icon</string>
     <string name="toast_icon_summary">Display the app\'s icon corresponding with the toast</string>
 
+    <!-- Themes -->
+    <string name="themes_title">Themes Setctions</string>
+    <string name="system_theme_style_title">UI style</string>
+    <string name="system_theme_style_auto">Wallpaper based</string>
+    <string name="system_theme_style_light">Light UI</string>
+    <string name="system_theme_style_dark">Dark UI</string>
+
 </resources>
