@@ -133,7 +133,8 @@ public class ThemePreferenceController extends AbstractPreferenceController impl
         List<OverlayInfo> infos = mOverlayService.getOverlayInfosForTarget("android",
                 UserHandle.myUserId());
         for (int i = 0, size = infos.size(); i < size; i++) {
-            if (infos.get(i).isEnabled() && isTheme(infos.get(i))) {
+            if (infos.get(i).isEnabled() && isTheme(infos.get(i)) &&
+                        !infos.get(i).packageName.equals("com.android.system.theme.dark")) {
                 return infos.get(i).packageName;
             }
         }
@@ -160,7 +161,9 @@ public class ThemePreferenceController extends AbstractPreferenceController impl
         List<String> pkgs = new ArrayList<>(infos.size());
         for (int i = 0, size = infos.size(); i < size; i++) {
             if (isTheme(infos.get(i))) {
-                pkgs.add(infos.get(i).packageName);
+                if (!infos.get(i).packageName.equals("com.android.system.theme.dark")) {
+                    pkgs.add(infos.get(i).packageName);
+                }
             }
         }
         return pkgs.toArray(new String[pkgs.size()]);
