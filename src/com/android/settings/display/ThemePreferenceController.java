@@ -142,7 +142,8 @@ public class ThemePreferenceController extends AbstractPreferenceController impl
                 UserHandle.myUserId());
         for (int i = 0, size = infos.size(); i < size; i++) {
             if (infos.get(i).isEnabled() && isTheme(infos.get(i)) &&
-                        !infos.get(i).packageName.equals("com.android.system.theme.dark")) {
+                        !infos.get(i).packageName.equals("com.android.system.theme.dark") &&
+                        !infos.get(i).packageName.equals("com.android.system.theme.black")) {
                 return infos.get(i).packageName;
             }
         }
@@ -169,7 +170,8 @@ public class ThemePreferenceController extends AbstractPreferenceController impl
         List<String> pkgs = new ArrayList<>(infos.size());
         for (int i = 0, size = infos.size(); i < size; i++) {
             if (isTheme(infos.get(i))) {
-                if (!infos.get(i).packageName.equals("com.android.system.theme.dark")) {
+                if (!infos.get(i).packageName.equals("com.android.system.theme.dark") && 
+                    !infos.get(i).packageName.equals("com.android.system.theme.black")) {
                     pkgs.add(infos.get(i).packageName);
                 }
             }
