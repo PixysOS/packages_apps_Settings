@@ -98,6 +98,14 @@
         settings:controller="com.android.settings.sound.VibrateForCallsPreferenceController"
         settings:keywords="@string/keywords_vibrate_for_calls"/>
 
+    <!-- Link ringtone and notification volumes -->
+    <com.pixys.settings.preferences.SystemSettingSwitchPreference
+        android:key="volume_link_notification"
+        android:title="@string/volume_link_notification_title"
+        android:defaultValue="true"
+        android:order="-138"
+        settings:controller="com.android.settings.notification.LinkedVolumesPreferenceController"/>
+
     <!-- Interruptions -->
     <com.android.settingslib.RestrictedPreference
         android:key="zen_mode"
