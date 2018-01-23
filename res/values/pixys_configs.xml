@@ -22,4 +22,7 @@
     <!-- Device specific doze package -->
     <string name="config_customDozePackage" translatable="false"></string>
 
+    <!-- Manage applications, package string displayed in app snippet -->
+    <string name="packagename_text">"<xliff:g id="package_name">%1$s</xliff:g>"</string>
+
 </resources>
