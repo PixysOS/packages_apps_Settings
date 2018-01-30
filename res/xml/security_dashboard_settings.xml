@@ -57,6 +57,19 @@
             settings:keywords="@string/keywords_fingerprint_settings"/>
 
     </PreferenceCategory>
+    
+    <PreferenceCategory
+        android:order="15"
+        android:key="security_category_smart"
+        android:title="@string/smart_settings">
+        
+        <SwitchPreference
+            android:key="face_auto_unlock"
+            android:title="@string/face_auto_unlock_title"
+            android:summary="@string/face_auto_unlock_summary"
+            android:defaultValue="false" />
+
+    </PreferenceCategory>
 
     <!-- work profile security section -->
     <PreferenceCategory
