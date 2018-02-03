@@ -23,4 +23,7 @@
     <!-- Suggestion cards -->
     <color name="suggestion_card_background">#fafafa</color>
 
+    <!-- Storage bar -->
+    <color name="storage_bar_private_tint_color">@*android:color/accent_device_default_light</color>
+
 </resources>
