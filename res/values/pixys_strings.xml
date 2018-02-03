@@ -47,7 +47,10 @@
     <string name="theme_applied_toast">Theme applied!</string>
     <string name="ui_style_applied_toast">UI style applied!</string>
 
-   <!-- Notification log -->
-   <string name="notification_log_summary">Show notifications history log</string>
+    <!-- Notification log -->
+    <string name="notification_log_summary">Show notifications history log</string>
+
+    <!-- Pixel color on sim card -->
+    <string name="pixel_sim_color">Pixel</string>
 
 </resources>
