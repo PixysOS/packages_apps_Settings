@@ -81,6 +81,10 @@
     <string name="system_theme_style_black">Black UI</string>
     <string name="theme_applied_toast">Theme applied!</string>
     <string name="ui_style_applied_toast">UI style applied!</string>
+    <string name="accent_picker_dialog_title">Select an accent color</string>
+    <string name="theme_accent_picker_title">Accent color</string>
+    <string name="theme_accent_picker_summary">Select system theme accent color</string>
+    <string name="theme_accent_picker_default">Default</string>
 
     <!-- Battery percentage -->
     <string name="battery_style_category_title">Battery icon</string>
