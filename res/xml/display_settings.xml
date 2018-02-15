@@ -171,12 +171,10 @@
         android:entries="@array/system_theme_style_entries"
         android:entryValues="@array/system_theme_style_values" />
 
-    <ListPreference
-        android:key="systemui_theme"
-        android:title="@string/device_theme"
-        android:entries="@array/systemui_theme_entries"
-        android:entryValues="@array/systemui_theme_values"
-        settings:controller="com.android.settings.display.SystemUiThemePreferenceController" />
+    <Preference
+        android:key="accent_picker"
+        android:icon="@drawable/ic_accent_picker"
+        android:title="@string/theme_accent_picker_title" />
 </PreferenceCategory>
 
     <Preference
