@@ -47,6 +47,12 @@
         android:entryValues="@array/weather_unit_values"
         settings:controller="com.android.settings.aoscp.security.WeatherTempPreferenceController" />
 
+    <com.android.settings.preferences.SystemSettingSwitchPreference
+        android:key="fp_unlock_keystore"
+        android:title="@string/fp_unlock_keystore_title"
+        android:summary="@string/fp_unlock_keystore_summary"
+        android:defaultValue="false" />
+
     <!-- Work profile settings are at the bottom with high order value to avoid users thinking that
          any of the above settings (including dynamic) are specific to the work profile. -->
     <PreferenceCategory
