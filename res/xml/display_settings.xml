@@ -142,6 +142,12 @@
         android:key="accent_picker"
         android:title="@string/theme_accent_picker_title" />
 
+    <com.android.settings.display.FontDialogPreference
+        android:key="custom_font"
+        android:title="@string/font_picker_title"
+        android:icon="@drawable/ic_font_picker"
+        android:persistent="false" />
+
     <Preference
         android:key="vr_display_pref"
         android:title="@string/display_vr_pref_title"
