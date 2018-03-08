@@ -54,10 +54,12 @@
             android:key="battery_saver_summary"
             android:title="@string/battery_saver"/>
 
-        <SwitchPreference
+        <DropDownPreference
             android:key="battery_percentage"
-            android:title="@string/battery_percentage"
-            android:summary="@string/battery_percentage_description"/>
+            android:title="@string/battery_percentage_title"
+            android:summary="%s"
+            android:entries="@array/battery_percentage_entries"
+            android:entryValues="@array/battery_percentage_values" />
 
         <!-- Cross-listed item, if you change this, also change it in display_settings.xml -->
         <SwitchPreference

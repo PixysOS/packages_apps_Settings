@@ -30,6 +30,7 @@ import android.os.Message;
 import android.os.Process;
 import android.os.UserHandle;
 import android.provider.SearchIndexableResource;
+import android.provider.Settings;
 import android.support.annotation.VisibleForTesting;
 import android.support.v7.preference.Preference;
 import android.support.v7.preference.PreferenceGroup;
@@ -41,6 +42,7 @@ import android.util.SparseArray;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
+import android.view.SubMenu;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.View.OnLongClickListener;
@@ -116,6 +118,13 @@ public class PowerUsageSummary extends PowerUsageBase implements
     static final int MENU_TOGGLE_APPS = Menu.FIRST + 5;
     private static final int MENU_HELP = Menu.FIRST + 6;
     public static final int DEBUG_INFO_LOADER = 3;
+
+    private static final int MENU_BATTERY_STYLE             = Menu.FIRST + 7;
+    private static final int SUBMENU_BATTERY_PORTRAIT       = Menu.FIRST + 8;
+    private static final int SUBMENU_BATTERY_LANDSCAPE      = Menu.FIRST + 9;
+    private static final int SUBMENU_BATTERY_CIRCLE         = Menu.FIRST + 10;
+    private static final int SUBMENU_BATTERY_TEXT           = Menu.FIRST + 11;
+    private static final int SUBMENU_BATTERY_HIDDEN         = Menu.FIRST + 12;
 
     @VisibleForTesting
     boolean mShowAllApps = false;
@@ -326,11 +335,31 @@ public class PowerUsageSummary extends PowerUsageBase implements
 
     @Override
     public void onCreateOptionsMenu(Menu menu, MenuInflater inflater) {
+        int selectedIcon = Settings.Secure.getInt(getActivity().getContentResolver(),
+                                    Settings.Secure.STATUS_BAR_BATTERY_STYLE, 0);
         if (DEBUG) {
             menu.add(Menu.NONE, MENU_STATS_TYPE, Menu.NONE, R.string.menu_stats_total)
                     .setIcon(com.android.internal.R.drawable.ic_menu_info_details)
                     .setAlphabeticShortcut('t');
         }
+
+        SubMenu batteryStyle = menu.addSubMenu(1, MENU_BATTERY_STYLE, 1, R.string.battery_style_title);
+
+        batteryStyle.add(1, SUBMENU_BATTERY_PORTRAIT, 1, R.string.battery_style_portrait)
+                    .setChecked(selectedIcon == 0);
+        batteryStyle.add(1, SUBMENU_BATTERY_LANDSCAPE, 2, R.string.battery_style_landscape)
+                    .setChecked(selectedIcon == 1);
+        batteryStyle.add(1, SUBMENU_BATTERY_CIRCLE, 3, R.string.battery_style_circle)
+                    .setChecked(selectedIcon == 2);
+        batteryStyle.add(1, SUBMENU_BATTERY_TEXT, 4, R.string.battery_style_text)
+                    .setChecked(selectedIcon == 4);
+        batteryStyle.add(1, SUBMENU_BATTERY_HIDDEN, 5, R.string.battery_style_hidden)
+                    .setChecked(selectedIcon == 5);
+        batteryStyle.setGroupCheckable(1, true, true);
+
+        MenuItem batteryIcon = batteryStyle.getItem();
+        batteryIcon.setIcon(R.drawable.ic_menu_brush)
+                   .setShowAsAction(MenuItem.SHOW_AS_ACTION_ALWAYS | MenuItem.SHOW_AS_ACTION_WITH_TEXT);
 
         menu.add(Menu.NONE, MENU_HIGH_POWER_APPS, Menu.NONE, R.string.high_power_apps);
 
@@ -388,6 +417,31 @@ public class PowerUsageSummary extends PowerUsageBase implements
                 metricsFeatureProvider.action(context,
                         MetricsEvent.ACTION_SETTINGS_MENU_BATTERY_APPS_TOGGLE, mShowAllApps);
                 restartBatteryStatsLoader(false /* clearHeader */);
+                return true;
+            case SUBMENU_BATTERY_PORTRAIT:
+                item.setChecked(true);
+                Settings.Secure.putInt(getActivity().getContentResolver(),
+                    Settings.Secure.STATUS_BAR_BATTERY_STYLE, 0);
+                return true;
+            case SUBMENU_BATTERY_LANDSCAPE:
+                item.setChecked(true);
+                Settings.Secure.putInt(getActivity().getContentResolver(),
+                    Settings.Secure.STATUS_BAR_BATTERY_STYLE, 1);
+                return true;
+            case SUBMENU_BATTERY_CIRCLE:
+                item.setChecked(true);
+                Settings.Secure.putInt(getActivity().getContentResolver(),
+                    Settings.Secure.STATUS_BAR_BATTERY_STYLE, 2);
+                return true;
+            case SUBMENU_BATTERY_TEXT:
+                item.setChecked(true);
+                Settings.Secure.putInt(getActivity().getContentResolver(),
+                    Settings.Secure.STATUS_BAR_BATTERY_STYLE, 4);
+                return true;
+            case SUBMENU_BATTERY_HIDDEN:
+                item.setChecked(true);
+                Settings.Secure.putInt(getActivity().getContentResolver(),
+                    Settings.Secure.STATUS_BAR_BATTERY_STYLE, 5);
                 return true;
             default:
                 return super.onOptionsItemSelected(item);
