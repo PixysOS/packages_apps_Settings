@@ -174,4 +174,7 @@
     <!-- Descendant Idle Manager -->
     <string name="descendant_idle_manager_title">Idle Manager</string>
     <string name="descendant_idle_manager_summary">Algorithm to ensure efficiency (recommended on)</string>
+
+    <!-- Title for connected TWS device group [CHAR LIMIT=none]-->
+    <string name="connected_tws_device_saved_title">Saved Earbuds</string>
 </resources>
