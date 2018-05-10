@@ -25,6 +25,7 @@ import android.os.SystemProperties;
 import android.provider.SearchIndexableResource;
 import android.support.v7.preference.Preference;
 import android.support.v7.preference.PreferenceScreen;
+import android.telecom.PhoneAccount;
 import android.telecom.PhoneAccountHandle;
 import android.telecom.TelecomManager;
 import android.telephony.PhoneNumberUtils;
@@ -195,14 +196,17 @@ public class SimSettings extends RestrictedSettingsFragment implements Indexable
         final Preference simPref = findPreference(KEY_CALLS);
         final TelecomManager telecomManager = TelecomManager.from(mContext);
         final PhoneAccountHandle phoneAccount =
-            telecomManager.getUserSelectedOutgoingPhoneAccount();
+                telecomManager.getUserSelectedOutgoingPhoneAccount();
         final List<PhoneAccountHandle> allPhoneAccounts =
-            telecomManager.getCallCapablePhoneAccounts();
+                telecomManager.getCallCapablePhoneAccounts();
+        final PhoneAccount account = phoneAccount != null
+                ? telecomManager.getPhoneAccount(phoneAccount)
+                : null;
 
         simPref.setTitle(R.string.calls_title);
-        simPref.setSummary(phoneAccount == null
+        simPref.setSummary(account == null
                 ? mContext.getResources().getString(R.string.sim_calls_ask_first_prefs_title)
-                : (String)telecomManager.getPhoneAccount(phoneAccount).getLabel());
+                : (String) account.getLabel());
         simPref.setEnabled(allPhoneAccounts.size() > 1);
     }
 
