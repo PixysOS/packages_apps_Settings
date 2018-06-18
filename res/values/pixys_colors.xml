@@ -26,4 +26,7 @@
     <!-- Storage bar -->
     <color name="storage_bar_private_tint_color">@*android:color/accent_device_default_light</color>
 
+    <!-- Searchbar overlays -->
+    <color name="search_bar_background_color">#fafafa</color>
+
 </resources>
