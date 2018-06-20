@@ -104,4 +104,10 @@
     <string name="pixys_title_ota">OTA Updates</string>
     <string name="pixys_summary_ota">Check if there\'s any new release</string>
 
+    <!-- Hardware info -->
+    <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
+    <string name="platform_revision">Platform</string>
+    <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
+    <string name="total_ram">Total RAM</string>
+
 </resources>
