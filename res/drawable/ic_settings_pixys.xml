@@ -1,12 +1,26 @@
-<vector 
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    android:height="24dp" 
-    android:width="24dp"
-    android:viewportHeight="20000.0"
-    android:viewportWidth="20000.0">
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (C) 2018 PixysOS
 
-    <path android:fillColor="?android:attr/colorControlNormal"
-        android:pathData="M9388,19718C7470,19585 5668,18923 4160,17798 2060,16231 686,13921 308,11320 185,10475 185,9452 308,8576 857,4682 3729,1459 7527,477 8803,147 10187,75 11484,272c4250,645 7605,4039 8208,8304 122,862 122,1907 0,2744 -300,2063 -1228,3955 -2660,5427 -828,850 -1641,1445 -2697,1972 -1034,516 -2153,839 -3333,964 -417,44 -1230,62 -1614,35zM10506,18139c2387,-161 4521,-1289 5979,-3163 882,-1133 1462,-2523 1654,-3962 51,-386 74,-998 55,-1456 -160,-3761 -2927,-6958 -6640,-7671 -599,-115 -781,-130 -1555,-130 -791,0 -969,16 -1605,141 -1277,252 -2506,825 -3542,1651 -333,266 -981,913 -1245,1246 -996,1249 -1592,2693 -1771,4287 -43,386 -49,1246 -12,1627 251,2524 1599,4753 3702,6119 1478,960 3251,1427 4979,1311z" android:strokeWidth="23.55712509"/>
-    <path android:fillColor="?android:attr/colorControlNormal"
-        android:pathData="m11023,12512 l-3812,-3797 16,1918 16,1918 -1083,1065 -1083,1065 -16,-1466c-9,-806 -13,-3280 -9,-5497l7,-4031 3793,3775 3793,3775 14,-486c8,-267 16,-1170 18,-2005l3,-1520 1084,-1083 1084,-1083v5624c0,3093 -3,5624 -6,5624 -3,0 -1721,-1708 -3818,-3797z" android:strokeWidth="23.55712509"/>
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <path
+        android:fillColor="#fff"
+        android:pathData="M10.3,19.64a3.36,3.36,0,0,1-3.4,3.11,3.34,3.34,0,0,1-3.4-3.29V12.55A8.15,8.15,0,0,0,10.3,19.64ZM12,1.25a8.5,8.5,0,0,0-1.26,16.9,7.48,7.48,0,0,0,1.26 0.1 h0.11a8.51,8.51,0,0,0,3.19-0.67,8.13,8.13,0,0,0,1.53-0.84,8.45,8.45,0,0,0,3.6-5.91,7.73,7.73,0,0,0,0.07-1.08A8.5,8.5,0,0,0,12,1.25Zm3.28,8.5a2.73,2.73,0,0,1,0,0.41l0.91 0.7 a0.22 0.22 ,0,0,1,0.06 0.28 l-0.88,1.47a0.21 0.21 ,0,0,1-0.26 0.09 L14,12.28a3.33,3.33,0,0,1-0.74 0.41 l-0.16,1.13a0.22 0.22 ,0,0,1-0.22 0.18 H11.13a0.23 0.23 ,0,0,1-0.22-0.18l-0.17-1.13a3.1,3.1,0,0,1-0.73-0.41l-1.09 0.42 a0.24 0.24 ,0,0,1-0.27-0.09l-0.87-1.47a0.23 0.23 ,0,0,1,0-0.28l0.92-0.7a2.73,2.73,0,0,1,0-0.41,3,3,0,0,1,0-0.42l-0.92-0.7a0.2 0.2 ,0,0,1-0.06-0.27l0.88-1.47a0.21 0.21 ,0,0,1,0.26-0.09L10,7.22a3.33,3.33,0,0,1,0.74-0.41l0.16-1.13a0.22 0.22 ,0,0,1,0.22-0.18h1.74a0.21 0.21 ,0,0,1,0.22 0.18 l0.17,1.13a3.1,3.1,0,0,1,0.73 0.41 l1.09-0.42a0.22 0.22 ,0,0,1,0.27 0.09 l0.87,1.47a0.21 0.21 ,0,0,1,0,0.27l-0.92 0.7 A3,3,0,0,1,15.28,9.75Zm-1.78,0a1.5,1.5,0,1,0-1.5,1.5A1.5,1.5,0,0,0,13.5,9.75Z" />
 </vector>

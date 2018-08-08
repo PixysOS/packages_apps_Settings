@@ -3330,8 +3330,8 @@
         <!-- PixysSettings -->
         <activity android:name=".Settings$PixysSettingsActivity"
             android:label="@string/pixys_settings_title"
-            android:icon="@drawable/ic_settings_pixys"
-            android:taskAffinity="">
+            android:icon="@drawable/ic_homepage_pixys"
+            android:taskAffinity="com.android.settings">
             <intent-filter android:priority="1">
                 <action android:name="com.pixys.settings.PixysSettings" />
                 <category android:name="android.intent.category.DEFAULT" />
