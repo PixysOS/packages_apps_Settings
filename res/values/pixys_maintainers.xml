@@ -25,7 +25,7 @@
      </string-array>
 
     <!-- XDA Profile URL of maintainer -->
-    <string-array name="maintainers_url" translatable="false">
+    <string-array name="maintainers_url" translatable="false">   
         <item>https://forum.xda-developers.com/member.php?u=4912374</item> <!-- Maintainer: Rahul9999 -->
         <item>https://forum.xda-developers.com/member.php?u=7598239</item> <!-- Maintainer: Akshay -->
      </string-array>
