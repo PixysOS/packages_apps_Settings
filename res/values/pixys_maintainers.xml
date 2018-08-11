@@ -16,18 +16,21 @@
     <string-array name="maintainers_title" translatable="false">  
         <item>Rahul9999</item>  
         <item>Akshey</item>
+        <item>MiguelNdeCarvalho</item>
    </string-array>
 
     <!-- Devices maintained by maintainer -->
     <string-array name="maintainers_devices" translatable="false">
         <item>Moto G 2015 (osprey), Moto G TE (merlin)</item> <!-- Maintainer: Rahul9999 -->
         <item>Moto G4 Play (Harpia)</item> <!-- Maintainer: Akshay -->
+        <item>Xiaomi Redmi Note 5 Pro</item> <!-- Maintainer: MiguelNdeCarvalho -->
      </string-array>
 
     <!-- XDA Profile URL of maintainer -->
     <string-array name="maintainers_url" translatable="false">   
         <item>https://forum.xda-developers.com/member.php?u=4912374</item> <!-- Maintainer: Rahul9999 -->
         <item>https://forum.xda-developers.com/member.php?u=7598239</item> <!-- Maintainer: Akshay -->
+        <item>https://forum.xda-developers.com/member.php?u=7982194</item> <!-- Maintainer: MiguelNdeCarvalho -->
      </string-array>
 
 </resources>
