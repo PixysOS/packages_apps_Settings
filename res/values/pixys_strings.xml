@@ -54,5 +54,9 @@
     <string name="dev_6">Yash &#40;smart_geek&#41;</string>
     <string name="dev6_description">Website Maintainer</string>
     <string name="maintainer_description">Maintains for %1$s</string>
+
+    <!-- Lockscreen battery info indicator  -->
+    <string name="lockscreen_battery_info_title">Lockscreen charging info</string>
+    <string name="lockscreen_battery_info_summary">Display negociated charger max current and voltage and battery temperature on lockscreen while charging</string>
     
 </resources>
