@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 PixysOS
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+     http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- About phone screen, Pixys version -->
+    <string name="pixys_version">Versão PixysOS</string>
+    <string name="pixys_version_default">Unknown</string>
+    <string name="keywords_pixys_version">Versão PixysOS</string>
+
+    <!-- About phone screen, build date -->
+    <string name="build_date">Build date</string>
+    <string name="build_date_default">2015-01-01-0000</string>
+    <string name="keywords_build_date">build date, build info</string>
+
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">Google Play</string>
+
+    <!-- About PixysOS -->
+    <string name="pixys_about_info">Sobre nós</string>
+    <string name="pixys_about_summary">Nossa introdução e nosso time</string>
+    <string name="pixys_about_info_summary">PixysOS é uma Rom baseada em AOSP que fornece UI/UX de stock com o mínimo de customizações. O projeto foi feito com vários compromissos de vários outros projetos. Baseando-se no AOSP, ele fornece uma experiência suave e sem atrasos, pronta para uso. Nós vamos constantemente tentar adicionar mais recursos e torná-lo ainda melhor em futuras atualizações.</string>
+    <string name="dev_info">Sobre a PixysOS</string>
+    <string name="leads">Líderes do Time</string>
+    <string name="github">Github</string>
+    <string name="github_description">Ver nosso source code</string>
+    <string name="gplus">Google+</string>
+    <string name="gplus_description">Junte-se a nossa comunidade no G+</string>
+    <string name="telegram">Telegram</string>
+    <string name="telegram_description">Junte-se ao nosso grupo no Telegram</string>
+    <string name="web">Centro de Download</string>
+    <string name="web_description">Visite nosso portal de downloads</string>
+    <string name="maintainers">Maintainers</string>
+    <string name="dev_1">ZJRDroid &#40;ZJRDroid&#41;</string>
+    <string name="dev1_description">Fundador da PixysOS</string>
+    <string name="dev_2">Subins Mani &#40;Subinsmani&#41;</string>
+    <string name="dev2_description">Co-Fundador, Maintainer Líder da Source</string>
+    <string name="dev_3">Rahul9999 &#40;@rahul9999xda&#41;</string>
+    <string name="dev3_description">Moderador do Telegram/G+, Osprey/Merlin Maintainer</string>
+    <string name="dev_4">Kbijaya &#40;Kbijaya&#41;</string>
+    <string name="designers">Designers</string>
+    <string name="dev_5">Akshay &#40;@Akianonymus&#41;</string>
+    <string name="dev5_description">Co-Lider Maintainer da Source</string>
+    <string name="dev_6">Yash &#40;smart_geek&#41;</string>
+    <string name="dev6_description">Gerente do Website</string>
+    <string name="maintainer_description">Mantém para %1$s</string>
+
+    <!-- Lockscreen battery info indicator  -->
+    <string name="lockscreen_battery_info_title">Informação de carregamento na tela de bloqueio</string>
+    <string name="lockscreen_battery_info_summary">Exibir a corrente máxima e a temperatura da bateria do carregador negociadas na tela de bloqueio durante o carregamento</string>
+    
+</resources>
