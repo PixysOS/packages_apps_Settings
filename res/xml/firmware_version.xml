@@ -21,7 +21,15 @@
     android:title="@string/firmware_version"
     settings:keywords="@string/keywords_android_version">
 
-    <!-- Android version -->
+    <!-- PixysOS version -->
+    <Preference
+        android:key="pixys_version"
+        android:title="@string/pixys_version"
+        android:summary="@string/summary_placeholder"
+        settings:enableCopying="true"
+        settings:controller="com.android.settings.deviceinfo.firmwareversion.PixysVersionDetailPreferenceController"/>
+
+    <!-- Android version --> 
     <Preference
         android:key="os_firmware_version"
         android:title="@string/firmware_version"
@@ -62,6 +70,14 @@
         android:selectable="false"
         settings:enableCopying="true"
         settings:controller="com.android.settings.deviceinfo.firmwareversion.KernelVersionPreferenceController"/>
+
+    <!-- Build date -->
+    <Preference
+        android:key="os_build_date"
+        android:title="@string/build_date"
+        android:summary="@string/summary_placeholder"
+        settings:enableCopying="true"
+        settings:controller="com.android.settings.deviceinfo.firmwareversion.PixysBuildDatePreferenceController"/>
 
     <!-- Build -->
     <Preference
