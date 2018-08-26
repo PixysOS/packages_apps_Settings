@@ -35,4 +35,8 @@
     <string name="lockscreen_battery_info_title">Lockscreen charging info</string>
     <string name="lockscreen_battery_info_summary">Display negociated charger max current and voltage and battery temperature on lockscreen while charging</string>
 
+    <!-- PixysOS version preference -->
+    <string name="pixys_version">"PixysOS version"</string>
+    <string name="build_date">"Build date"</string>
+
 </resources>
