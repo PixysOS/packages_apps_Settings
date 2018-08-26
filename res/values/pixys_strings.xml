@@ -35,4 +35,8 @@
     <string name="pixys_title">Explore</string>
     <string name="build_tweaks_summary_title">Lets Explore the Goodies</string>
 
+    <!-- PixysOS version preference -->
+    <string name="pixys_version">"PixysOS version"</string>
+    <string name="build_date">"Build date"</string>
+
 </resources>
