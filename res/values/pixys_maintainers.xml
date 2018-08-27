@@ -19,6 +19,7 @@
         <item>BrunoRocha</item>
         <item>MiguelNdeCarvalho</item>
         <item>Chaitanaya-Mittal(@Professional_Guider)</item>
+        <item>PS217</item>
    </string-array>
 
     <!-- Devices maintained by maintainer -->
@@ -28,6 +29,7 @@
         <item>Moto Z2 Play (Albus)</item> <!-- Maintainer: BrunoRocha -->
         <item>Xiaomi Redmi Note 5 Pro (Whyred)</item> <!-- Maintainer: MiguelNdeCarvalho -->
         <item>Lenovo Vibe K5/K5+ (A6020)</item><!-- Maintainer: Chaitanaya Mittal(@Professional_Guider) -->
+        <item>Redmi 4X (Santoni) </item> <!-- Maintainer: PS217 -->
      </string-array>
 
     <!-- XDA Profile URL of maintainer -->
@@ -37,6 +39,7 @@
         <item>https://forum.xda-developers.com/member.php?u=7752351</item> <!-- Maintainer: BrunoRocha -->
         <item>https://forum.xda-developers.com/member.php?u=7982194</item> <!-- Maintainer: MiguelNdeCarvalho -->
         <item>https://forum.xda-developers.com/member.php?u=8726134</item> <!-- Maintainer: Chaitanaya Mittal (@Professional_Guider)-->
+        <item>https://forum.xda-developers.com/member.php?u=7172096</item> <!-- Maintainer: PS217 -->
      </string-array>
 
 </resources>
