@@ -71,7 +71,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
 
        <Preference
             android:title="@string/dev_1"
-    android:summary="@string/dev2_description"
+    android:summary="@string/dev1_description"
     android:icon="@drawable/ic_devs" >
     <intent
                android:action="android.intent.action.VIEW"
@@ -80,7 +80,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
 
        <Preference
             android:title="@string/dev_2"
-    android:summary="@string/dev3_description"
+    android:summary="@string/dev2_description"
     android:icon="@drawable/ic_devs" >
     <intent
                android:action="android.intent.action.VIEW"

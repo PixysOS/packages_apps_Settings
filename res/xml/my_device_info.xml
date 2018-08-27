@@ -24,14 +24,25 @@
     <!-- About us -->
     <Preference
         android:key="pixys_about_info"
-        android:order="0"
+        android:order="-1"
         android:title="@string/pixys_about_info"
         android:summary="@string/pixys_about_summary"
         android:fragment="com.android.settings.AboutUs" />
 
+    <!-- Pixys OTA -->
+    <Preference
+        android:key="update_settings"
+        android:order="0"
+        android:title="@string/pixys_title_ota"
+        android:summary="@string/pixys_summary_ota">
+        <intent android:action="android.intent.action.MAIN"
+                    android:targetPackage="com.pixys.ota"
+                    android:targetClass="com.pixys.ota.MainActivity" />
+        </Preference>
+
     <com.android.settings.applications.LayoutPreference
         android:key="my_device_info_header"
-        android:order="-1"
+        android:order="-2"
         android:layout="@layout/settings_entity_header"
         android:selectable="false"/>
 

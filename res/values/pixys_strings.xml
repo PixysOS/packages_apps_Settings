@@ -47,10 +47,10 @@
     <string name="dev2_description">Telegram/G+ Moderator</string>
     <string name="dev_3">ZJRDroid &#40;ZJRDroid&#41;</string>
     <string name="dev3_description">Co-Source maintainer</string>
+    <string name="dev_4">Akshay &#40;@Akianonymus&#41;</string>
+    <string name="dev4_description">Co-Source maintainer</string>
     <string name="dev_4">Kbijaya &#40;Kbijaya&#41;</string>
     <string name="designers">Designers</string>
-    <string name="dev_5">Akshay &#40;@Akianonymus&#41;</string>
-    <string name="dev5_description">Co-Source maintainer</string>
     <string name="dev_6">Yash &#40;smart_geek&#41;</string>
     <string name="dev6_description">Website Maintainer</string>
     <string name="maintainer_description">Maintains for %1$s</string>
@@ -58,5 +58,9 @@
     <!-- Lockscreen battery info indicator  -->
     <string name="lockscreen_battery_info_title">Lockscreen charging info</string>
     <string name="lockscreen_battery_info_summary">Display negociated charger max current and voltage and battery temperature on lockscreen while charging</string>
+
+    <!-- PixysOS OTA -->
+    <string name="pixys_title_ota">OTA Updates</string>
+    <string name="pixys_summary_ota">Check if there is any new release</string>
     
 </resources>
