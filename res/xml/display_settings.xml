@@ -105,12 +105,22 @@
         android:title="@string/ambient_display_screen_title"
         android:fragment="com.android.settings.display.AmbientDisplaySettings"
         settings:userRestriction="no_ambient_display" />
+
+<PreferenceCategory
+        android:key="misc_app_stuff"
+        android:title="@string/misc_title">
+     <com.android.settings.preferences.SystemSettingSwitchPreference
+        android:key="toast_icon"
+        android:title="@string/toast_icon_title"
+        android:summary="@string/toast_icon_summary"
+        android:defaultValue="false" />
         
     <com.pixys.settings.preferences.SystemSettingSwitchPreference
         android:key="lockscreen_battery_info"
         android:title="@string/lockscreen_battery_info_title"
         android:summary="@string/lockscreen_battery_info_summary"
         android:defaultValue="true" />
+</PreferenceCategory>
 
     <!-- Hide night mode for now
     <ListPreference

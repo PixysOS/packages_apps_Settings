@@ -49,7 +49,7 @@
     <string name="dev3_description">Co-Source maintainer</string>
     <string name="dev_4">Akshay &#40;@Akianonymus&#41;</string>
     <string name="dev4_description">Co-Source maintainer</string>
-    <string name="dev_4">Kbijaya &#40;Kbijaya&#41;</string>
+    <string name="dev_5">Kbijaya &#40;Kbijaya&#41;</string>
     <string name="designers">Designers</string>
     <string name="dev_6">Yash &#40;smart_geek&#41;</string>
     <string name="dev6_description">Website Maintainer</string>
@@ -62,5 +62,14 @@
     <!-- PixysOS OTA -->
     <string name="pixys_title_ota">OTA Updates</string>
     <string name="pixys_summary_ota">Check if there is any new release</string>
-    
+
+    <!--Miscellaneous-->
+    <string name="misc_title">Miscellaneous</string>
+    <string name="misc_settings_summary">Some random stuff that doesn\'t go in other options</string>
+    <string name="cat_misc_app">App related</string>
+
+    <!-- Toast app icon -->
+    <string name="toast_icon_title">Toast app icon</string>
+    <string name="toast_icon_summary">Display the app\'s icon corresponding with the toast</string>
+
 </resources>

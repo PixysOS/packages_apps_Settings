@@ -5,7 +5,7 @@
  * you may not use this file except in compliance with the License.
  * You may obtain a copy of the License at
  *
- *      http://www.apache.org/licenses/LICENSE-2.0
+ * http://www.apache.org/licenses/LICENSE-2.0
  *
  * Unless required by applicable law or agreed to in writing, software
  * distributed under the License is distributed on an "AS IS" BASIS,
@@ -14,23 +14,23 @@
  * limitations under the License.
  */
 
-package com.pixys.settings.preferences;
+package com.android.settings.preferences;
 
 import android.content.Context;
 import android.provider.Settings;
 import android.support.v14.preference.SwitchPreference;
 import android.util.AttributeSet;
 
-public class SecureSettingSwitchPreference extends SwitchPreference {
-    public SecureSettingSwitchPreference(Context context, AttributeSet attrs, int defStyle) {
+public class GlobalSettingSwitchPreference extends SwitchPreference {
+    public GlobalSettingSwitchPreference(Context context, AttributeSet attrs, int defStyle) {
         super(context, attrs, defStyle);
     }
 
-    public SecureSettingSwitchPreference(Context context, AttributeSet attrs) {
+    public GlobalSettingSwitchPreference(Context context, AttributeSet attrs) {
         super(context, attrs);
     }
 
-    public SecureSettingSwitchPreference(Context context) {
+    public GlobalSettingSwitchPreference(Context context) {
         super(context, null);
     }
 
@@ -41,7 +41,7 @@ public class SecureSettingSwitchPreference extends SwitchPreference {
                 // It's already there, so the same as persisting
                 return true;
             }
-            Settings.Secure.putInt(getContext().getContentResolver(), getKey(), value ? 1 : 0);
+            Settings.Global.putInt(getContext().getContentResolver(), getKey(), value ? 1 : 0);
             return true;
         }
         return false;
@@ -52,7 +52,7 @@ public class SecureSettingSwitchPreference extends SwitchPreference {
         if (!shouldPersist()) {
             return defaultReturnValue;
         }
-        return Settings.Secure.getInt(getContext().getContentResolver(),
+        return Settings.Global.getInt(getContext().getContentResolver(),
                 getKey(), defaultReturnValue ? 1 : 0) != 0;
     }
 

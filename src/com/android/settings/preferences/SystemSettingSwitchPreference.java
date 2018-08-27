@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.pixys.settings.preferences;
+package com.android.settings.preferences;
 
 import android.content.Context;
 import android.provider.Settings;
