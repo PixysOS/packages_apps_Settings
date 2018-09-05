@@ -16,18 +16,21 @@
     <string-array name="maintainers_title" translatable="false">  
         <item>Subinsmani</item>
         <item>Akshey</item>
+        <item>Rahul Mishra</item>
    </string-array>
 
     <!-- Devices maintained by maintainer -->
     <string-array name="maintainers_devices" translatable="false">
         <item>Moto G 2015 (osprey)</item> <!-- Maintainer: Subinsmani -->
         <item>Moto G4 Play (Harpia)</item> <!-- Maintainer: Akshay -->
+        <item>Oneplus One (Bacon)</item> <!-- Maintainer: Rahul Mishra -->
      </string-array>
 
     <!-- XDA Profile URL of maintainer -->
     <string-array name="maintainers_url" translatable="false">
         <item>https://forum.xda-developers.com/member.php?u=7868666</item> <!-- Maintainer: Subinsmani -->
         <item>https://forum.xda-developers.com/member.php?u=7598239</item> <!-- Maintainer: Akshay -->
+        <item>https://forum.xda-developers.com/member.php?u=7426783</item> <!-- Maintainer: Rahul Mishra -->
      </string-array>
 
 </resources>
