@@ -17,6 +17,7 @@
         <item>Subinsmani</item>
         <item>Akshey</item>
         <item>Rahul Mishra</item>
+        <item>MiguelNdeCarvalho</item>
    </string-array>
 
     <!-- Devices maintained by maintainer -->
@@ -24,6 +25,7 @@
         <item>Moto G 2015 (osprey)</item> <!-- Maintainer: Subinsmani -->
         <item>Moto G4 Play (Harpia)</item> <!-- Maintainer: Akshay -->
         <item>Oneplus One (Bacon)</item> <!-- Maintainer: Rahul Mishra -->
+        <item>Xiaomi Redmi Note 5 (Whyred)</item> <!-- Maintainer: MiguelNdeCarvalho -->
      </string-array>
 
     <!-- XDA Profile URL of maintainer -->
@@ -31,6 +33,7 @@
         <item>https://forum.xda-developers.com/member.php?u=7868666</item> <!-- Maintainer: Subinsmani -->
         <item>https://forum.xda-developers.com/member.php?u=7598239</item> <!-- Maintainer: Akshay -->
         <item>https://forum.xda-developers.com/member.php?u=7426783</item> <!-- Maintainer: Rahul Mishra -->
+        <item>https://forum.xda-developers.com/member.php?u=7982194</item> <!-- Maintainer: MiguelNdeCarvalho -->
      </string-array>
 
 </resources>
