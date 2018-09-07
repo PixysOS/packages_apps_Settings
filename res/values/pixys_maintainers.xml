@@ -18,6 +18,7 @@
         <item>Akshey</item>
         <item>Rahul Mishra</item>
         <item>MiguelNdeCarvalho</item>
+         <item>PS217</item>
    </string-array>
 
     <!-- Devices maintained by maintainer -->
@@ -26,6 +27,7 @@
         <item>Moto G4 Play (Harpia)</item> <!-- Maintainer: Akshay -->
         <item>Oneplus One (Bacon)</item> <!-- Maintainer: Rahul Mishra -->
         <item>Xiaomi Redmi Note 5 (Whyred)</item> <!-- Maintainer: MiguelNdeCarvalho -->
+         <item>Xiaomi Redmi 4X (Santoni)</item> <!-- Maintainer: PS217 -->
      </string-array>
 
     <!-- XDA Profile URL of maintainer -->
@@ -34,6 +36,7 @@
         <item>https://forum.xda-developers.com/member.php?u=7598239</item> <!-- Maintainer: Akshay -->
         <item>https://forum.xda-developers.com/member.php?u=7426783</item> <!-- Maintainer: Rahul Mishra -->
         <item>https://forum.xda-developers.com/member.php?u=7982194</item> <!-- Maintainer: MiguelNdeCarvalho -->
+        <item>https://forum.xda-developers.com/member.php?u=7172096</item> <!-- Maintainer: PS217 -->
      </string-array>
 
 </resources>
