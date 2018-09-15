@@ -50,11 +50,23 @@
     <Preference
         android:key="manage_perms"
         android:title="@string/app_permissions"
-        android:order="12"
+        android:order="13"
         settings:keywords="@string/keywords_app_permissions"
         settings:controller="com.android.settings.applications.AppPermissionsPreferenceController">
         <intent android:action="android.intent.action.MANAGE_PERMISSIONS" />
     </Preference>
+
+    <PreferenceCategory
+        android:key="headsup_notifications_category"
+        android:order="12"
+        android:title="@string/headsup_category">
+
+     <Preference
+        android:key="heads_up_notifications"
+        android:title="@string/heads_up_notifications"
+        android:fragment="com.android.settings.fragments.HeadsUpSettings"/>
+
+    </PreferenceCategory>
 
     <com.android.settingslib.RestrictedPreference
         android:key="app_and_notif_cell_broadcast_settings"
