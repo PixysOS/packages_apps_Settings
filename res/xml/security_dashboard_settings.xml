@@ -67,19 +67,19 @@
             android:title="@string/app_ops_settings"
             android:fragment="com.android.settings.applications.appops.AppOpsSummary"/>
         
-        <SwitchPreference
+        <com.android.settings.preferences.SecureSettingSwitchPreference
             android:key="face_auto_unlock"
             android:title="@string/face_auto_unlock_title"
             android:summary="@string/face_auto_unlock_summary"
             android:defaultValue="false" />
 
-        <SwitchPreference
+        <com.android.settings.preferences.SecureSettingSwitchPreference
             android:key="fingerprint_success_vib"
             android:title="@string/fprint_sucess_vib_title"
             android:summary="@string/fprint_sucess_vib_summary"
             android:persistent="false" />
 
-        <SwitchPreference
+        <com.android.settings.preferences.SystemSettingSwitchPreference
             android:key="double_tap_sleep_lockscreen"
             android:title="@string/double_tap_to_sleep_lockscreen_title"
             android:summary="@string/double_tap_to_sleep_lockscreen_summary"
