@@ -21,6 +21,7 @@
         <item>MiguelNdeCarvalho</item>
         <item>PS217</item>
 	<item>Sushant Verma</item>
+        <item>Chaitanaya-Mittal</item>
    </string-array>
 
     <!-- Devices maintained by maintainer -->
@@ -32,6 +33,7 @@
         <item>Xiaomi Redmi Note 5 (Whyred)</item> <!-- Maintainer: MiguelNdeCarvalho -->
         <item>Xiaomi Redmi 4X (Santoni)</item> <!-- Maintainer: PS217 -->
 	<item>Redmi Note 4 (Mido)</item> <!-- Maintainer: Sushant Verma -->
+        <item>Redmi 4A/5A (rolex/riva)</item> <!-- Maintainer: Chaitanaya-Mittal -->
      </string-array>
 
     <!-- XDA Profile URL of maintainer -->
@@ -43,6 +45,7 @@
         <item>https://forum.xda-developers.com/member.php?u=7982194</item> <!-- Maintainer: MiguelNdeCarvalho -->
         <item>https://forum.xda-developers.com/member.php?u=7172096</item> <!-- Maintainer: PS217 -->
 	<item>https://forum.xda-developers.com/member.php?u=8791219</item> <!-- Maintainer: Sushant Verma -->
+        <item>https://forum.xda-developers.com/member.php?u=8726134</item> <!-- Maintainer: Chaitanaya-Mittal -->
      </string-array>
 
 </resources>
