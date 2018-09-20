@@ -23,6 +23,7 @@
 	<item>Sushant Verma</item>
         <item>Chaitanaya-Mittal</item>
         <item>Syed Ehtesham</item>
+	<item>Hritik Utekar</item>
 
    </string-array>
 
@@ -37,6 +38,7 @@
 	<item>Redmi Note 4 (Mido)</item> <!-- Maintainer: Sushant Verma -->
         <item>Redmi 4A/5A (rolex/riva)</item> <!-- Maintainer: Chaitanaya-Mittal -->
         <item>Leeco Le 2 (s2)</item> <!-- Maintainer: Syed Ehtesham -->
+	<item>Moto G Turbo (merlin)</item> <!-- Maintainer: Hritik Utekar -->
 
      </string-array>
 
@@ -51,6 +53,7 @@
 	<item>https://forum.xda-developers.com/member.php?u=8791219</item> <!-- Maintainer: Sushant Verma -->
         <item>https://forum.xda-developers.com/member.php?u=8726134</item> <!-- Maintainer: Chaitanaya-Mittal -->
         <item>https://forum.xda-developers.com/member.php?u=8865764</item> <!-- Maintainer: Syed Ehtesham -->
+	<item>https://forum.xda-developers.com/member.php?u=7560545</item> <!-- Maintainer: Hritik Utekar -->
 
      </string-array>
 
