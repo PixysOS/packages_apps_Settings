@@ -120,6 +120,13 @@
             android:title="@string/enable_adb"
             android:summary="@string/enable_adb_summary" />
 
+        <com.android.settings.preferences.SecureSettingSwitchPreference
+            android:key="adb_notify"
+            android:title="@string/adb_notify"
+            android:dependency="enable_adb"
+            android:summary="@string/adb_notify_summary"
+            android:defaultValue="true" />
+
         <SwitchPreference
             android:key="enable_adb_network"
             android:title="@string/adb_over_network"
