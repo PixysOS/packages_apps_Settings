@@ -26,6 +26,7 @@
 	<item>Hritik Utekar</item>
 	<item>iCodeLife</item>
 	<item>Amar Bajpai</item>
+        <item>Amarjithtk</item>
    </string-array>
 
     <!-- Devices maintained by maintainer -->
@@ -42,6 +43,7 @@
 	<item>Moto G Turbo (merlin)</item> <!-- Maintainer: Hritik Utekar -->
         <item>Moto G5 Plus (Potter)</item> <!-- Maintainer: iCodeLife -->
         <item>Xiaomi Mi A1 (tissot)</item> <!-- Maintainer: Amar Bajpai -->
+        <item>Xiaomi Redmi 3S (land)</item> <!-- Maintainer: Amarjithtk -->
    </string-array>
 
     <!-- XDA Profile URL of maintainer -->
@@ -58,6 +60,7 @@
 	<item>https://forum.xda-developers.com/member.php?u=7560545</item> <!-- Maintainer: Hritik Utekar -->
 	<item>https://forum.xda-developers.com/member.php?u=9229743</item> <!-- Maintainer : iCodeLife -->
 	<item>https://forum.xda-developers.com/member.php?u=7590774</item> <!-- Manitainer: Amar Bajpai -->
+        <item>https://forum.xda-developers.com/member.php?u=8595889</item> <!-- Manitainer: Amarjithtk -->       
      </string-array>
 
 </resources>
