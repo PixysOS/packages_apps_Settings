@@ -85,6 +85,12 @@
             android:summary="@string/double_tap_to_sleep_lockscreen_summary"
             android:defaultValue="true" />
 
+        <com.android.settings.preferences.SystemSettingSwitchPreference
+            android:key="powermenu_lockscreen"
+            android:title="@string/powermenu_lockscreen_title"
+            android:summary="@string/powermenu_lockscreen_summary"
+            android:defaultValue="true" />
+
     </PreferenceCategory>
 
     <!-- work profile security section -->
