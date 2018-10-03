@@ -326,4 +326,7 @@
     <string name="selinux_status_permissive">Permissive</string>
     <string name="selinux_status_enforcing">Enforcing</string>
     <string name="keywords_selinux">selniux , selinux status</string>
+    
+    <string name="background_processes_settings_title">Background processes</string>
+      
 </resources>

@@ -177,4 +177,7 @@ public class Settings extends SettingsActivity {
     public static class PixysSettingsActivity extends SettingsActivity {}
     public static class HeadsUpSettingsActivity extends SettingsActivity { /* empty */ }
 
+    // Pixys Additions.
+    public static class DevRunningServicesActivity extends SettingsActivity { /* empty */ }
+
 }
