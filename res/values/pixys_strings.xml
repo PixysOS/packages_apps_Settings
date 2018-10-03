@@ -317,4 +317,6 @@
     <string name="adb_notify">ADB notification</string>
     <string name="adb_notify_summary">Display a notification when android debugging is enabled</string>
 
+    <string name="background_processes_settings_title">Background processes</string>
+
 </resources>
