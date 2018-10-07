@@ -25,7 +25,9 @@
         <item>Syed Ehtesham</item>
 	<item>Hritik Utekar</item>
 	<item>iCodeLife</item>
-
+	<item>Amar Bajpai</item>
+        <item>Amarjithtk</item>
+	<item>Askuccio</item>
    </string-array>
 
     <!-- Devices maintained by maintainer -->
@@ -40,8 +42,10 @@
         <item>Redmi 4A/5A (rolex/riva)</item> <!-- Maintainer: Chaitanaya-Mittal -->
         <item>Leeco Le 2 (s2)</item> <!-- Maintainer: Syed Ehtesham -->
 	<item>Moto G Turbo (merlin)</item> <!-- Maintainer: Hritik Utekar -->
-	<item>Moto G5 Plus (Potter)</item> <!-- Maintainer: iCodeLife -->
-     
+        <item>Moto G5 Plus (Potter)</item> <!-- Maintainer: iCodeLife -->
+        <item>Xiaomi Mi A1 (tissot)</item> <!-- Maintainer: Amar Bajpai -->
+        <item>Xiaomi Redmi 3S (land)</item> <!-- Maintainer: Amarjithtk -->
+	<item>Huawei with Kirin 65x (Hi6250)</item> <!-- Maintainer: Askuccio -->
    </string-array>
 
     <!-- XDA Profile URL of maintainer -->
@@ -57,7 +61,9 @@
         <item>https://forum.xda-developers.com/member.php?u=8865764</item> <!-- Maintainer: Syed Ehtesham -->
 	<item>https://forum.xda-developers.com/member.php?u=7560545</item> <!-- Maintainer: Hritik Utekar -->
 	<item>https://forum.xda-developers.com/member.php?u=9229743</item> <!-- Maintainer : iCodeLife -->
-
+	<item>https://forum.xda-developers.com/member.php?u=7590774</item> <!-- Manitainer: Amar Bajpai -->
+        <item>https://forum.xda-developers.com/member.php?u=8595889</item> <!-- Manitainer: Amarjithtk -->
+        <item>https://forum.xda-developers.com/member.php?u=6878128</item> <!-- Manitainer: Askuccio -->
      </string-array>
 
 </resources>
