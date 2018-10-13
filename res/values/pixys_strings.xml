@@ -319,4 +319,9 @@
 
     <string name="background_processes_settings_title">Background processes</string>
 
+    <!-- Roaming indicator icon -->
+    <string name="icons_category">Icons</string>
+    <string name="roaming_indicator_icon_title">Roaming indicator</string>
+    <string name="roaming_indicator_icon_summary">Display roaming indicator in signal icon when in roaming mode</string>
+
 </resources>
