@@ -28,6 +28,7 @@
       	<item>Amar Bajpai</item>
         <item>Amarjithtk</item>
       	<item>Askuccio</item>
+	<item>Rajkale99</item>
    </string-array>
 
     <!-- Devices maintained by maintainer -->
@@ -46,6 +47,7 @@
         <item>Xiaomi Mi A1 (tissot)</item> <!-- Maintainer: Amar Bajpai -->
         <item>Xiaomi Redmi 3S (land)</item> <!-- Maintainer: Amarjithtk -->
         <item>Huawei with Kirin 65x (Hi6250)</item> <!-- Maintainer: Askuccio -->
+	<item>Redmi Note 5 Plus (vince)</item> <!--Maintainer: Rajkale99 -->
    </string-array>
 
     <!-- XDA Profile URL of maintainer -->
@@ -64,6 +66,7 @@
       	<item>https://forum.xda-developers.com/member.php?u=7590774</item> <!-- Manitainer: Amar Bajpai -->
         <item>https://forum.xda-developers.com/member.php?u=8595889</item> <!-- Manitainer: Amarjithtk -->
         <item>https://forum.xda-developers.com/member.php?u=6878128</item> <!-- Manitainer: Askuccio -->
+	<item>https://forum.xda-developers.com/member.php?u=6895196</item> <!-- Maintainer: Rajkale99 -->
      </string-array>
 
 </resources>
