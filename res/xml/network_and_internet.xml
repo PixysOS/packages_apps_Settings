@@ -101,4 +101,16 @@
         android:positiveButtonText="@string/save"
         android:negativeButtonText="@android:string/cancel" />
 
+    <PreferenceCategory
+        android:key="misc_icons_category"
+        android:title="@string/icons_category">
+
+         <com.android.settings.preferences.SystemSettingSwitchPreference
+             android:key="roaming_indicator_icon"
+             android:title="@string/roaming_indicator_icon_title"
+             android:summary="@string/roaming_indicator_icon_summary"
+             android:defaultValue="true"/>
+
+    </PreferenceCategory>
+
 </PreferenceScreen>
