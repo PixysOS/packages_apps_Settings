@@ -29,6 +29,7 @@
         <item>Amarjithtk</item>
       	<item>Askuccio</item>
 	<item>Rajkale99</item>
+	<item>Aswin A S</item>
    </string-array>
 
     <!-- Devices maintained by maintainer -->
@@ -48,6 +49,7 @@
         <item>Xiaomi Redmi 3S (land)</item> <!-- Maintainer: Amarjithtk -->
         <item>Huawei with Kirin 65x (Hi6250)</item> <!-- Maintainer: Askuccio -->
 	<item>Redmi Note 5 Plus (vince)</item> <!--Maintainer: Rajkale99 -->
+	<item>Zuk Z2 Plus (z2_plus)</item> <!--Maintainer: Aswin A S -->
    </string-array>
 
     <!-- XDA Profile URL of maintainer -->
@@ -67,6 +69,7 @@
         <item>https://forum.xda-developers.com/member.php?u=8595889</item> <!-- Manitainer: Amarjithtk -->
         <item>https://forum.xda-developers.com/member.php?u=6878128</item> <!-- Manitainer: Askuccio -->
 	<item>https://forum.xda-developers.com/member.php?u=6895196</item> <!-- Maintainer: Rajkale99 -->
+	<item>https://forum.xda-developers.com/member.php?u=8499818</item> <!--Maintainer: Aswin A S -->
      </string-array>
 
 </resources>
