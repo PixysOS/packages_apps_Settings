@@ -13,60 +13,66 @@
 -->
     <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Maintainers -->
-    <string-array name="maintainers_title" translatable="false">  
+    <string-array name="maintainers_title" translatable="false">
+
         <item>Akshat</item>
         <item>Subinsmani</item>
         <item>Akshey</item>
         <item>Rahul Mishra</item>
         <item>MiguelNdeCarvalho</item>
         <item>PS217</item>
-      	<item>Sushant Verma</item>
+        <item>Sushant Verma</item>
         <item>Chaitanaya-Mittal</item>
         <item>Syed Ehtesham</item>
-      	<item>Hritik Utekar</item>
-       	<item>iCodeLife</item>
-      	<item>Amar Bajpai</item>
+        <item>Hritik Utekar</item>
+        <item>iCodeLife</item>
+        <item>Amar Bajpai</item>
         <item>Amarjithtk</item>
-      	<item>Askuccio</item>
-	<item>Rajkale99</item>
-   </string-array>
+        <item>Askuccio</item>
+        <item>Aswin A S</item>
+
+    </string-array>
 
     <!-- Devices maintained by maintainer -->
     <string-array name="maintainers_devices" translatable="false">
+
         <item>Asus Max Pro M1 (X00TD)</item> <!-- Maintsiner: Akshat -->
         <item>Moto G 2015 (osprey)</item> <!-- Maintainer: Subinsmani -->
         <item>Moto G4 Play (Harpia)</item> <!-- Maintainer: Akshay -->
         <item>Oneplus One (Bacon)</item> <!-- Maintainer: Rahul Mishra -->
         <item>Xiaomi Redmi Note 5 (Whyred)</item> <!-- Maintainer: MiguelNdeCarvalho -->
         <item>Xiaomi Redmi 4X (Santoni)</item> <!-- Maintainer: PS217 -->
-       	<item>Redmi Note 4 (Mido)</item> <!-- Maintainer: Sushant Verma -->
+        <item>Redmi Note 4 (Mido)</item> <!-- Maintainer: Sushant Verma -->
         <item>Redmi 4A/5A (rolex/riva)</item> <!-- Maintainer: Chaitanaya-Mittal -->
         <item>Leeco Le 2 (s2)</item> <!-- Maintainer: Syed Ehtesham -->
-      	<item>Moto G Turbo (merlin)</item> <!-- Maintainer: Hritik Utekar -->
+        <item>Moto G Turbo (merlin)</item> <!-- Maintainer: Hritik Utekar -->
         <item>Moto G5 Plus (Potter)</item> <!-- Maintainer: iCodeLife -->
         <item>Xiaomi Mi A1 (tissot)</item> <!-- Maintainer: Amar Bajpai -->
         <item>Xiaomi Redmi 3S (land)</item> <!-- Maintainer: Amarjithtk -->
         <item>Huawei with Kirin 65x (Hi6250)</item> <!-- Maintainer: Askuccio -->
-	<item>Redmi Note 5 Plus (vince)</item> <!--Maintainer: Rajkale99 -->
-   </string-array>
+        <item>Zuk Z2 Plus (z2_plus)</item> <!--Maintainer: Aswin A S -->
+
+    </string-array>
 
     <!-- XDA Profile URL of maintainer -->
     <string-array name="maintainers_url" translatable="false">
+
         <item>https://forum.xda-developers.com/member.php?u=7085442</item> <!-- Maintainer: Akshat -->
         <item>https://forum.xda-developers.com/member.php?u=7868666</item> <!-- Maintainer: Subinsmani -->
         <item>https://forum.xda-developers.com/member.php?u=7598239</item> <!-- Maintainer: Akshay -->
         <item>https://forum.xda-developers.com/member.php?u=7426783</item> <!-- Maintainer: Rahul Mishra -->
         <item>https://forum.xda-developers.com/member.php?u=7982194</item> <!-- Maintainer: MiguelNdeCarvalho -->
         <item>https://forum.xda-developers.com/member.php?u=7172096</item> <!-- Maintainer: PS217 -->
-      	<item>https://forum.xda-developers.com/member.php?u=8791219</item> <!-- Maintainer: Sushant Verma -->
+        <item>https://forum.xda-developers.com/member.php?u=8791219</item> <!-- Maintainer: Sushant Verma -->
         <item>https://forum.xda-developers.com/member.php?u=8726134</item> <!-- Maintainer: Chaitanaya-Mittal -->
         <item>https://forum.xda-developers.com/member.php?u=8865764</item> <!-- Maintainer: Syed Ehtesham -->
-      	<item>https://forum.xda-developers.com/member.php?u=7560545</item> <!-- Maintainer: Hritik Utekar -->
-      	<item>https://forum.xda-developers.com/member.php?u=9229743</item> <!-- Maintainer : iCodeLife -->
-      	<item>https://forum.xda-developers.com/member.php?u=7590774</item> <!-- Manitainer: Amar Bajpai -->
+        <item>https://forum.xda-developers.com/member.php?u=7560545</item> <!-- Maintainer: Hritik Utekar -->
+        <item>https://forum.xda-developers.com/member.php?u=9229743</item> <!-- Maintainer : iCodeLife -->
+        <item>https://forum.xda-developers.com/member.php?u=7590774</item> <!-- Manitainer: Amar Bajpai -->
         <item>https://forum.xda-developers.com/member.php?u=8595889</item> <!-- Manitainer: Amarjithtk -->
         <item>https://forum.xda-developers.com/member.php?u=6878128</item> <!-- Manitainer: Askuccio -->
-	<item>https://forum.xda-developers.com/member.php?u=6895196</item> <!-- Maintainer: Rajkale99 -->
-     </string-array>
+        <item>https://forum.xda-developers.com/member.php?u=8499818</item> <!-- Maintainer: Aswin A S -->
+
+    </string-array>
 
 </resources>
