@@ -137,10 +137,9 @@
             android:summary="@string/anbi_summary"
             android:defaultValue="false" />
 
-     <com.android.settings.preferences.CardviewPreference
+     <Preference
             android:key="recents_ui"
-            android:fragment="org.aospextended.extensions.fragments.RecentsUI"
-            android:icon="@drawable/ic_recents_ui"
+            android:fragment="com.android.settings.fragments.RecentsUI"
             android:title="@string/recents_ui_title" />
 
 </PreferenceCategory>
