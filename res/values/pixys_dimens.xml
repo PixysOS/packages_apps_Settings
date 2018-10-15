@@ -25,4 +25,15 @@
     <dimen name="card_margin_right">12dp</dimen>
     <dimen name="card_margin_left">12dp</dimen>
 
+   <!-- Pie and Oreo recents -->
+    <string-array name="recents_component_type_title_entries">
+        <item>@string/recents_pie</item>
+        <item>@string/recents_oreo</item>
+    </string-array>
+
+    <string-array name="recents_component_type_title_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+
 </resources>

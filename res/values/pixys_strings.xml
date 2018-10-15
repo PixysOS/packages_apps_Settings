@@ -332,4 +332,9 @@
     <string name="recents_ui_title">Recents UI</string>
     <string name="aosp_recents_category">AOSP recents</string>
 
+    <!-- AOSP Recents component Style -->
+    <string name="recents_component_type_title">Recents Style</string>
+    <string name="recents_pie">Pie</string>
+    <string name="recents_oreo">Oreo</string>
+
 </resources>
