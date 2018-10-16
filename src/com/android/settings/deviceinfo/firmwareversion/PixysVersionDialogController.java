@@ -21,15 +21,22 @@ import android.content.Context;
 import android.content.Intent;
 import android.os.Build;
 import android.os.SystemClock;
+import android.os.SELinux;
 import android.os.UserHandle;
 import android.os.UserManager;
 import android.support.annotation.VisibleForTesting;
 import android.text.BidiFormatter;
 import android.util.Log;
 import android.view.View;
-
+import android.widget.TextView;
+import android.content.res.Resources;
+import android.text.TextUtils;
 import com.android.settings.R;
 import com.android.settingslib.RestrictedLockUtils;
+import android.os.SystemProperties;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
 
 public class PixysVersionDialogController  implements View.OnClickListener {
 
@@ -88,6 +95,8 @@ public class PixysVersionDialogController  implements View.OnClickListener {
         initializeAdminPermissions();
         registerClickListeners();
 
+        initializeSelinuxProperties();
+
         mDialog.setText(PIXYS_VERSION_VALUE_ID,
                 BidiFormatter.getInstance().unicodeWrap(Build.PIXYS_DISPLAY_VERSION));
     }
@@ -95,6 +104,31 @@ public class PixysVersionDialogController  implements View.OnClickListener {
     private void registerClickListeners() {
         mDialog.registerClickListener(PIXYS_VERSION_LABEL_ID, this /* listener */);
         mDialog.registerClickListener(PIXYS_VERSION_VALUE_ID, this /* listener */);
+    }
+
+    /**
+     * Fetch the selinux status and export it to selinuxStatus.
+     */
+    static final String PROPERTY_SELINUX_STATUS = "ro.boot.selinux";
+    private String selinuxStatus;
+    private View mRootView;
+    private Context context;
+    private void initializeSelinuxProperties() {
+
+	String selinuxStatusProp =  SystemProperties.get(PROPERTY_SELINUX_STATUS);
+	//SELinux status check, taken from SELinuxPreferenceController.java
+        if (selinuxStatusProp != null || SELinux.isSELinuxEnabled()) {
+            if (SELinux.isSELinuxEnforced()) {
+                selinuxStatus = context.getResources().getString(R.string.selinux_status_enforcing);
+	    } else if (!SELinux.isSELinuxEnforced()) {
+                selinuxStatus = context.getResources().getString(R.string.selinux_status_permissive);
+       	    } else {
+                selinuxStatus = context.getResources().getString(R.string.selinux_status_disabled);
+	    }
+        }
+        // export string to the id
+        TextView textview = mRootView.findViewById(R.id.selinux_status_value);
+        textview.setText(selinuxStatus);
     }
 
     /**
