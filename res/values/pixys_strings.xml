@@ -413,4 +413,11 @@
     <string name="font_picker_title">Font</string>
     <string name="font_picker_progress">Applying new font\u2026</string>
 
+    <!-- QS tile styles -->
+    <string name="qs_tile_style_title">QS tile style</string>
+    <string name="qs_tile_style_default">Default</string>
+    <string name="qs_tile_style_circle_trim">Circle with trim</string>
+    <string name="qs_tile_style_two_tone_circle">Two-toned circle with trim</string>
+    <string name="qs_tile_style_squircle_trim">Squircle with trim</string>
+
 </resources>
