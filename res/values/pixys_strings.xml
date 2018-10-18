@@ -421,4 +421,8 @@
     <string name="qs_tile_style_squircle">Squircle</string>
     <string name="qs_tile_style_tear_drop">Tear drop</string>
 
+    <!-- Option defining the phone ringtone for slot1 on Muilti SIM device -->
+    <string name="ringtone1_title">Phone ringtone - SIM 1</string>
+    <string name="ringtone2_title">Phone ringtone - SIM 2</string>
+
 </resources>
