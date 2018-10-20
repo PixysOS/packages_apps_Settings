@@ -76,4 +76,10 @@
             android:fragment="com.android.settings.pixys.fragments.EdgeGesturesSettings"
             android:title="@string/edge_gestures_title" />
 
+     <com.android.settings.preferences.SystemSettingSwitchPreference
+        android:key="three_finger_gesture"
+        android:title="@string/three_finger_gesture"
+        android:summary="@string/three_finger_gesture_summary"
+        android:defaultValue="false" />
+
 </PreferenceScreen>
