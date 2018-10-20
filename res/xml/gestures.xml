@@ -69,4 +69,11 @@
         android:fragment="com.android.settings.gestures.PreventRingingGestureSettings"
         settings:controller="com.android.settings.gestures.PreventRingingPreferenceController" />
 
+     <com.android.settings.preferences.SystemSettingSwitchPreference
+        android:key="three_finger_gesture"
+        android:title="@string/three_finger_gesture"
+        android:summary="@string/three_finger_gesture_summary"
+        android:defaultValue="false" />
+
+>>>>>>> 7120973... settings: Add three-fingers-swipe to screenshot [2/2]
 </PreferenceScreen>
