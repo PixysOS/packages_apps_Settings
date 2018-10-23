@@ -133,7 +133,7 @@
 
     <!-- Pixys Settings -->
     <string name="pixys_settings_title">Buttons</string>
-    <string name="pixys_settings_summary">Additional settings for Bottons</string>
+    <string name="pixys_settings_summary">Additional settings for Buttons</string>
 
     <!-- Changelog -->
     <string name="changelog_title">Changelog</string>
