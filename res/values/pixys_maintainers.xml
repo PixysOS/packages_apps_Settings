@@ -31,7 +31,7 @@
         <item>Askuccio</item>
         <item>Rajkale99</item>
         <item>Aswin A S</item>
-
+        <item>Arpon Sarkar</item>
     </string-array>
 
     <!-- Devices maintained by maintainer -->
@@ -44,7 +44,7 @@
         <item>Xiaomi Redmi Note 5 (Whyred)</item> <!-- Maintainer: MiguelNdeCarvalho -->
         <item>Xiaomi Redmi 4X (Santoni)</item> <!-- Maintainer: PS217 -->
         <item>Redmi Note 4 (Mido)</item> <!-- Maintainer: Sushant Verma -->
-        <item>Redmi 4A/5A (rolex/riva)</item> <!-- Maintainer: Chaitanaya-Mittal -->
+        <item>Redmi 4A (rolex) </item> <!-- Maintainer: Arpon Sarkar -->
         <item>Leeco Le 2 (s2)</item> <!-- Maintainer: Syed Ehtesham -->
         <item>Moto G Turbo (merlin)</item> <!-- Maintainer: Hritik Utekar -->
         <item>Moto G5 Plus (Potter)</item> <!-- Maintainer: iCodeLife -->
@@ -66,7 +66,6 @@
         <item>https://forum.xda-developers.com/member.php?u=7982194</item> <!-- Maintainer: MiguelNdeCarvalho -->
         <item>https://forum.xda-developers.com/member.php?u=7172096</item> <!-- Maintainer: PS217 -->
         <item>https://forum.xda-developers.com/member.php?u=8791219</item> <!-- Maintainer: Sushant Verma -->
-        <item>https://forum.xda-developers.com/member.php?u=8726134</item> <!-- Maintainer: Chaitanaya-Mittal -->
         <item>https://forum.xda-developers.com/member.php?u=8865764</item> <!-- Maintainer: Syed Ehtesham -->
         <item>https://forum.xda-developers.com/member.php?u=7560545</item> <!-- Maintainer: Hritik Utekar -->
         <item>https://forum.xda-developers.com/member.php?u=9229743</item> <!-- Maintainer : iCodeLife -->
@@ -75,7 +74,7 @@
         <item>https://forum.xda-developers.com/member.php?u=6878128</item> <!-- Manitainer: Askuccio -->
         <item>https://forum.xda-developers.com/member.php?u=6895196</item> <!-- Maintainer: Rajkale99 -->
         <item>https://forum.xda-developers.com/member.php?u=8499818</item> <!-- Maintainer: Aswin A S -->
-
+        <item>https://forum.xda-developers.com/member.php?u=8843815</item> <!-- Maintainer : Arpon Sarkar -->
     </string-array>
 
 </resources>
