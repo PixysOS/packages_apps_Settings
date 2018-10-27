@@ -43,16 +43,15 @@
     <string name="maintainers">Maintainers</string>
     <string name="dev_1">Subins Mani &#40;Subinsmani&#41;</string>
     <string name="dev1_description">Founder, Lead Source Maintainer</string>
-    <string name="dev_2">Rahul9999 &#40;@rahul9999xda&#41;</string>
-    <string name="dev2_description">Telegram/G+ Moderator</string>
-    <string name="dev_3">ZJRDroid &#40;ZJRDroid&#41;</string>
-    <string name="dev3_description">Co-Source maintainer</string>
-    <string name="dev_4">Akshay &#40;@Akianonymus&#41;</string>
-    <string name="dev4_description">Co-Source maintainer</string>
-    <string name="dev_5">Kbijaya &#40;Kbijaya&#41;</string>
+    <string name="dev_2">Akshay &#40;@Akianonymus&#41;</string>
+    <string name="dev2_description">Co-Source maintainer</string>
+    <string name="dev_3">Rahul9999 &#40;@rahul9999xda&#41;</string>
+    <string name="moderator">Telegram/G+ Moderator</string>
+    <string name="dev_4">Kbijaya &#40;Kbijaya&#41;</string>
     <string name="designers">Designers</string>
-    <string name="dev_6">Yash &#40;smart_geek&#41;</string>
-    <string name="dev6_description">Website Maintainer</string>
+    <string name="dev4_description">Lead Designer</string>
+    <string name="dev_5">Yash &#40;smart_geek&#41;</string>
+    <string name="dev5_description">Website Maintainer</string>
     <string name="maintainer_description">Maintains for %1$s</string>
 
     <!-- Lockscreen battery info indicator  -->
