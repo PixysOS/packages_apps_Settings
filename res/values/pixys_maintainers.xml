@@ -14,7 +14,6 @@
     <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Maintainers -->
     <string-array name="maintainers_title" translatable="false">
-
         <item>Akshat</item>
         <item>Subinsmani</item>
         <item>Akshey</item>
@@ -22,7 +21,6 @@
         <item>MiguelNdeCarvalho</item>
         <item>PS217</item>
         <item>Sushant Verma</item>
-        <item>Chaitanaya-Mittal</item>
         <item>Syed Ehtesham</item>
         <item>Hritik Utekar</item>
         <item>iCodeLife</item>
@@ -36,13 +34,11 @@
 
     <!-- Devices maintained by maintainer -->
     <string-array name="maintainers_devices" translatable="false">
-
         <item>Asus Max Pro M1 (X00TD)</item> <!-- Maintsiner: Akshat -->
         <item>Moto G 2015 (osprey)</item> <!-- Maintainer: Subinsmani -->
         <item>Moto G4 Play (Harpia)</item> <!-- Maintainer: Akshay -->
         <item>Oneplus One (Bacon)</item> <!-- Maintainer: Rahul Mishra -->
         <item>Xiaomi Redmi Note 5 (Whyred)</item> <!-- Maintainer: MiguelNdeCarvalho -->
-        <item>Xiaomi Redmi 4X (Santoni)</item> <!-- Maintainer: PS217 -->
         <item>Redmi Note 4 (Mido)</item> <!-- Maintainer: Sushant Verma -->
         <item>Redmi 4A (rolex) </item> <!-- Maintainer: Arpon Sarkar -->
         <item>Leeco Le 2 (s2)</item> <!-- Maintainer: Syed Ehtesham -->
@@ -53,12 +49,11 @@
         <item>Huawei with Kirin 65x (Hi6250)</item> <!-- Maintainer: Askuccio -->
         <item>Redmi Note 5 Plus (vince)</item> <!--Maintainer: Rajkale99 -->
         <item>Zuk Z2 Plus (z2_plus)</item> <!--Maintainer: Aswin A S -->
-
+        <item>Xiaomi Redmi 4X (Santoni)</item> <!-- Maintainer: PS217 -->
     </string-array>
 
     <!-- XDA Profile URL of maintainer -->
     <string-array name="maintainers_url" translatable="false">
-
         <item>https://forum.xda-developers.com/member.php?u=7085442</item> <!-- Maintainer: Akshat -->
         <item>https://forum.xda-developers.com/member.php?u=7868666</item> <!-- Maintainer: Subinsmani -->
         <item>https://forum.xda-developers.com/member.php?u=7598239</item> <!-- Maintainer: Akshay -->
