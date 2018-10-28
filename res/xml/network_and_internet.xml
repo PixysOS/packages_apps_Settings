@@ -117,6 +117,12 @@
              android:summary="@string/show_fourg_icon_summary"
              android:defaultValue="false"/>
 
+         <com.android.settings.preferences.SystemSettingSwitchPreference
+             android:key="volte_icon"
+             android:title="@string/volte_icon_title"
+             android:summary="@string/volte_icon_summary"
+             android:defaultValue="true"/>
+
     </PreferenceCategory>
 
 </PreferenceScreen>
