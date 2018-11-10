@@ -118,6 +118,15 @@ xmlns:android="http://schemas.android.com/apk/res/android"
       </Preference>
 
        <Preference
+            android:title="@string/dev_6"
+    android:summary="@string/dev6_description"
+    android:icon="@drawable/ic_design">
+    <intent
+               android:action="android.intent.action.VIEW"
+               android:data="https://t.me/GeroED" />
+      </Preference>
+
+       <Preference
             android:title="@string/dev_5"
     android:summary="@string/dev5_description"
     android:icon="@drawable/ic_design">
