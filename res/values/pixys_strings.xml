@@ -53,6 +53,8 @@
     <string name="dev_5">Yash &#40;smart_geek&#41;</string>
     <string name="dev5_description">Website Maintainer</string>
     <string name="maintainer_description">Maintains for %1$s</string>
+    <string name="dev_6">Gero🌱&#40;@GeroED&#41;</strign>
+    <string name="dev6_description">Bootanimation Maker</string>
 
     <!-- Lockscreen battery info indicator  -->
     <string name="lockscreen_battery_info_title">Lockscreen charging info</string>
