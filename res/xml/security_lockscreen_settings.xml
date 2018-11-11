@@ -47,6 +47,13 @@
         android:summary="@string/ambient_play_summary"
         android:fragment="com.android.settings.custom.ambient.AmbientPlaySettings" />
 
+    <ListPreference
+        android:key="weather_temp"
+        android:title="@string/weather_title"
+        android:entries="@array/weather_unit_entries"
+        android:entryValues="@array/weather_unit_values"
+        settings:controller="com.android.settings.aoscp.security.WeatherTempPreferenceController" />
+
     <!-- Work profile settings are at the bottom with high order value to avoid users thinking that
          any of the above settings (including dynamic) are specific to the work profile. -->
     <PreferenceCategory
