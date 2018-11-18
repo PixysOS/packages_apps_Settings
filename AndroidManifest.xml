@@ -1032,6 +1032,15 @@
                        android:value="true" />
         </activity>
 
+        <activity android:name=".pixys.FirstTimeIntroduction"
+            android:exported="true"
+            android:theme="@style/GlifTheme.Light">
+            <intent-filter>
+                <action android:name="android.settings.DEVICE_INTRODUCTION" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
         <activity
             android:name="SettingsLicenseActivity"
             android:label="@string/settings_license_activity_title"
