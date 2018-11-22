@@ -44,6 +44,14 @@
         android:fragment="com.android.settings.custom.buttons.ButtonSettings"
         settings:controller="com.android.settings.custom.buttons.ButtonSettingsPreferenceController"/>
 
+    <!-- Statusbar clock Settings -->
+    <Preference
+        android:key="status_bar_clock"
+        android:icon="@drawable/ic_status_bar_clock"
+        android:order="-248"
+        android:fragment="com.android.settings.pixys.fragments.ClockDateSettings"
+        android:title="@string/status_bar_clock_title" />
+
     <Preference
         android:key="date_time_settings"
         android:title="@string/date_and_time"
