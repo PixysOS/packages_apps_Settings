@@ -29,6 +29,7 @@
         <item>Rajkale99</item>
         <item>Aswin A S</item>
         <item>Arpon Sarkar</item>
+        <item>Rohit Sinha</item>
     </string-array>
 
     <!-- Devices maintained by maintainer -->
@@ -48,6 +49,7 @@
         <item>Redmi Note 5 Plus (vince)</item> <!--Maintainer: Rajkale99 -->
         <item>Zuk Z2 Plus (z2_plus)</item> <!--Maintainer: Aswin A S -->
         <item>Redmi 4A (rolex) </item> <!-- Maintainer: Arpon Sarkar -->
+        <item>Lenovo A6000 (a6000)</item> <!-- Maintainer: Rohit Sinha -->
     </string-array>
 
     <!-- XDA Profile URL of maintainer -->
@@ -67,6 +69,7 @@
         <item>https://forum.xda-developers.com/member.php?u=6895196</item> <!-- Maintainer: Rajkale99 -->
         <item>https://forum.xda-developers.com/member.php?u=8499818</item> <!-- Maintainer: Aswin A S -->
         <item>https://forum.xda-developers.com/member.php?u=8843815</item> <!-- Maintainer : Arpon Sarkar -->
+        <item>https://forum.xda-developers.com/member.php?u=8680598</item> <!-- Maintainer : Rohit Sinha -->
     </string-array>
 
 </resources>
