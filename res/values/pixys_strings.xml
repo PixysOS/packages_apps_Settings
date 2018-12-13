@@ -358,12 +358,6 @@
     <string name="data_disabled_icon_title">Show data disabled icon</string>
     <string name="data_disabled_icon_summary">Display the cross sign next to signal bar when data is disabled</string>
 
-    <!-- Weather -->
-    <string name="weather_title">Weather</string>
-    <string name="weather_unit">Temperature unit</string>
-    <string name="weather_unit_metric" translatable="false">Celsius</string>
-    <string name="weather_unit_imperial" translatable="false">Fahrenheit</string>
-
     <!-- Ambient Play -->
     <string name="ambient_play_title" translatable="false">@*android:string/ambient_recognition_notification</string>
     <string name="ambient_play_recognition_information" translatable="false">@*android:string/ambient_recognition_information</string>
