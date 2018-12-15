@@ -69,4 +69,11 @@
         android:fragment="com.android.settings.gestures.PreventRingingGestureSettings"
         settings:controller="com.android.settings.gestures.PreventRingingPreferenceController" />
 
+     <!-- Edge gestures -->
+     <Preference
+            android:id="@+id/edge_gestures"
+            android:key="edge_gestures"
+            android:fragment="com.android.settings.pixys.fragments.EdgeGesturesSettings"
+            android:title="@string/edge_gestures_title" />
+
 </PreferenceScreen>
