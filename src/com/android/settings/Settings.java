@@ -181,7 +181,4 @@ public class Settings extends SettingsActivity {
     // Pixys Additions.
     public static class DevRunningServicesActivity extends SettingsActivity { /* empty */ }
 
-    // Ambient play
-    public static class AmbientPlayHistoryActivity extends SettingsActivity { /* empty */ }
-
 }
