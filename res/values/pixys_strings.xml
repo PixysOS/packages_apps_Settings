@@ -133,7 +133,7 @@
     <string name="screenshot_sound_title">Screenshot sound</string>
 
     <!-- Pixys Settings -->
-    <string name="pixys_settings_title">Buttons</string>
+    <string name="pixys_settings_title">PixysSettings</string>
     <string name="pixys_settings_summary">Additional settings for Buttons</string>
 
     <!-- Changelog -->
