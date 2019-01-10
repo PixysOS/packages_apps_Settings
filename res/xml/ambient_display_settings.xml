@@ -62,6 +62,13 @@
             android:key="ambient_display_custom"
             android:title="@string/advanced_settings" />
 
+        <Preference
+            android:key="force_ambient_for_media_pref"
+            android:fragment="com.android.settings.fragments.AmbientTicker"
+            android:title="@string/force_ambient_for_media_pref_title"
+            android:summary="@string/force_ambient_for_media_pref_summary"
+            settings:userRestriction="no_ambient_display" />
+
     </PreferenceCategory>
 
     <PreferenceCategory android:key="divider" />
