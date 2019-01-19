@@ -483,4 +483,8 @@
     to get started:\n\n- Setup Swipe up on Home button\n- Play around with our built-in theming options. You can choose the background colour from Light, Dark, Black, and there are also a number of accent colours available.</string>
     <string name="first_time_confirm_button">GOT IT</string>
 
+    <!-- Battery temp -->
+    <string name="battery_temp_title">Battery temperature</string>
+    <string name="battery_temp_summary">Tap to switch scale</string>
+
 </resources>
