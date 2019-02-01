@@ -484,4 +484,8 @@
     <string name="one_hand_mode_title">Enable using one-hand mode</string>
     <string name="one_hand_mode_summary">Allow swiping across right or left on navbar to enable</string>
 
+    <!-- Doze on charge -->
+    <string name="doze_on_charge_title">Always on when charging</string>
+    <string name="doze_on_charge_summary">Show time, notification icons, and other info when charging</string>
+
 </resources>
