@@ -55,6 +55,12 @@
             android:title="@string/battery_style_category_title"
             android:fragment="com.android.settings.fragments.StatusBarBattery" />
 
+ 	<Preference
+        android:key="battery_bar_category"
+        android:fragment="com.android.settings.fragments.BatteryBar"
+        android:title="@string/battery_bar_title"
+        android:summary="@string/battery_bar_summary" />
+
     <com.android.settings.preferences.GlobalSettingSwitchPreference
         android:key="wake_when_plugged_or_unplugged"
         android:title="@string/wakeup_when_plugged_unplugged_title"
