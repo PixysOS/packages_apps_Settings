@@ -53,4 +53,13 @@
     <string name="pixys_title">Explore</string>
     <string name="build_tweaks_summary_title">Lets Explore the Goodies</string>
 
+    <!-- Pocket judge -->
+    <string name="pocket_judge_title">Pocket detection</string>
+    <string name="pocket_judge_summary">Block screen and button inputs when device is in pocket</string>
+
+    <!-- Notch behavior -->
+    <string name="display_cutout_mode_title">Notch behavior</string>
+    <string name="display_cutout_mode_normal">Default</string>
+    <string name="display_cutout_mode_hidden">Hidden</string>
+
 </resources>
