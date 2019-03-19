@@ -53,6 +53,14 @@
         android:summary="@string/fp_unlock_keystore_summary"
         android:defaultValue="false" />
 
+    <com.android.settings.preferences.SystemSettingListPreference
+        android:key="lockscreen_album_art_filter"
+        android:title="@string/lockscreen_cover_filter_title"
+        android:entries="@array/lockscreen_cover_filter_entries"
+        android:entryValues="@array/lockscreen_cover_filter_values"
+        android:dependency="lockscreen_media_metadata"
+        android:defaultValue="0" />
+
     <!-- Work profile settings are at the bottom with high order value to avoid users thinking that
          any of the above settings (including dynamic) are specific to the work profile. -->
     <PreferenceCategory
