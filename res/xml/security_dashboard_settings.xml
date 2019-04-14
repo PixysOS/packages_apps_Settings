@@ -74,6 +74,13 @@
             android:entryValues="@array/lockscreen_clock_selection_values"
             android:defaultValue="0" />
 
+        <com.android.settings.preferences.SystemSettingListPreference
+            android:key="lockscreen_album_art_filter"
+            android:title="@string/lockscreen_cover_filter_title"
+            android:entries="@array/lockscreen_cover_filter_entries"
+            android:entryValues="@array/lockscreen_cover_filter_values"
+            android:defaultValue="0" />
+
         <com.android.settings.preferences.SecureSettingSwitchPreference
             android:key="face_auto_unlock"
             android:title="@string/face_auto_unlock_title"
