@@ -455,7 +455,7 @@
     <string name="lockscreen_clock_selection_du">Analog (du)</string>
     <string name="lockscreen_clock_selection_sammy">Sammy</string>
     <string name="lockscreen_clock_selection_sammy_bold">Sammy (bold)</string>
-
+    <string name="lockscreen_clock_selection_text_clock">Text clock (Q beta inspired)</string>
     <!-- Device Introduction -->
     <string name="first_time_introduction_header">Welcome to</string>
     <string name="first_time_introduction_message">Experience Android like never before: outstanding battery life, buttery smooth feel and an extra set of custom features. You can customize the status bar, quick settings, navigation bar, lock screen, recents, notifications, and even the animations. Most of the features are present under respective Dashboards. Here are some thing\'s you can do
