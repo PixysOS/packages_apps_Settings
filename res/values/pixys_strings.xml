@@ -522,4 +522,10 @@
     <string name="fp_swipe_to_dismiss_notifications_title">Swipe fingerprint to dismiss notifications</string>
     <string name="fp_swipe_to_dismiss_notifications_summary">To dismiss your notifications, swipe left or right on the fingerprint sensor.</string>
 
+    <!-- Lockscreen text clock align -->
+    <string name="lockscreen_clock_align_title">Q Text Clock Alignment</string>
+    <string name="lockscreen_clock_align0">Left</string>
+    <string name="lockscreen_clock_align1">Center</string>
+    <string name="lockscreen_clock_align2">Right</string>
+
 </resources>
