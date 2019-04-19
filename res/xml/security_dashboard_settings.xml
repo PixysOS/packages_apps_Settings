@@ -74,6 +74,13 @@
             android:entryValues="@array/lockscreen_clock_selection_values"
             android:defaultValue="0" />
 
+	<com.android.settings.preferences.SystemSettingListPreference
+            android:key="lockscreen_text_clock_align"
+            android:title="@string/lockscreen_clock_align_title"
+            android:entries="@array/lockscreen_clock_align_entries"
+            android:entryValues="@array/lockscreen_clock_align_values"
+            android:defaultValue="0" />
+
         <com.android.settings.preferences.SystemSettingListPreference
             android:key="lockscreen_album_art_filter"
             android:title="@string/lockscreen_cover_filter_title"
