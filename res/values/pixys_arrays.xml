@@ -46,6 +46,7 @@
         <item>@string/battery_style_dotted_circle</item>
         <item>@string/status_bar_battery_style_text</item>
         <item>@string/status_bar_battery_style_hidden</item>
+	<item>@string/status_bar_battery_style_q</item>
     </string-array>
 
     <string-array name="values_status_bar_battery" translatable="false">
@@ -54,6 +55,7 @@
         <item>2</item>
         <item>3</item>
         <item>4</item>
+	<item>5</item>
     </string-array>
 
     <!-- Names of categories of app ops tabs -->
