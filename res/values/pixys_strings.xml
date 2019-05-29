@@ -533,4 +533,7 @@
     <string name="lockscreen_clock_align1">Center</string>
     <string name="lockscreen_clock_align2">Right</string>
 
+    <!-- Lock screen visualizer -->
+    <string name="lockscreen_visualizer_title">Music visualizer</string>
+    <string name="lockscreen_visualizer_summary">Toggles visualizer display on lockscreen</string>
 </resources>
