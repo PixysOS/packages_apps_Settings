@@ -182,6 +182,13 @@
         android:summary="@string/lockscreen_visualizer_summary"
         android:defaultValue="false"/>
 
+	<com.android.settings.preferences.SecureSettingSwitchPreference
+        android:key="ambient_visualizer"
+        android:title="@string/ambient_visualizer_title"
+        android:summary="@string/ambient_visualizer_summary"
+        android:dependency="lockscreen_visualizer"
+        android:defaultValue="false"/>
+
         <Preference
             android:key="manage_device_admin"
             android:title="@string/manage_device_admin"
