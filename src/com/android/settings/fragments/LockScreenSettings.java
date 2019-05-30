@@ -28,6 +28,7 @@ import android.content.res.Resources;
 import android.hardware.fingerprint.FingerprintManager;
 import android.net.Uri;
 import android.os.Bundle;
+import android.os.UserHandle;
 import android.support.v14.preference.SwitchPreference;
 import android.support.v7.preference.ListPreference;
 import android.support.v7.preference.Preference;
@@ -37,11 +38,19 @@ import android.support.v7.preference.PreferenceScreen;
 import android.provider.Settings;
 import com.android.settings.R;
 import com.android.settings.SettingsPreferenceFragment;
+import net.margaritov.preference.colorpicker.ColorPickerPreference;
+
+import java.util.ArrayList;
+import java.util.List;
 
 import com.android.settings.preferences.Utils;
 
 public class LockScreenSettings extends SettingsPreferenceFragment implements
         Preference.OnPreferenceChangeListener {
+        
+	private static final String LOCK_SCREEN_VISUALIZER_CUSTOM_COLOR = "lock_screen_visualizer_custom_color";
+
+    private ColorPickerPreference mVisualizerColor;   	
 
     private static final String FINGERPRINT_VIB = "fingerprint_success_vib";
     private static final String KEY_FACE_AUTO_UNLOCK = "face_auto_unlock";
@@ -59,6 +68,16 @@ public class LockScreenSettings extends SettingsPreferenceFragment implements
         ContentResolver resolver = getActivity().getContentResolver();
         final PreferenceScreen prefScreen = getPreferenceScreen();
         Resources resources = getResources();
+
+        // Visualizer custom color
+        mVisualizerColor = (ColorPickerPreference) findPreference(LOCK_SCREEN_VISUALIZER_CUSTOM_COLOR);
+        int visColor = Settings.System.getInt(resolver,
+                      Settings.System.LOCK_SCREEN_VISUALIZER_CUSTOM_COLOR, 0xff1976D2);
+        String visColorHex = String.format("#%08x", (0xff1976D2 & visColor));
+        mVisualizerColor.setSummary(visColorHex);
+        mVisualizerColor.setNewPreviewColor(visColor);
+        mVisualizerColor.setAlphaSliderEnabled(true);
+        mVisualizerColor.setOnPreferenceChangeListener(this);
 
         mFingerprintManager = (FingerprintManager) getActivity().getSystemService(Context.FINGERPRINT_SERVICE);
         mFingerprintVib = (SwitchPreference) findPreference(FINGERPRINT_VIB);
@@ -82,7 +101,15 @@ public class LockScreenSettings extends SettingsPreferenceFragment implements
 
     public boolean onPreferenceChange(Preference preference, Object newValue) {
         ContentResolver resolver = getActivity().getContentResolver();
-        if (preference == mFingerprintVib) {
+        if (preference == mVisualizerColor) {
+            String hex = ColorPickerPreference.convertToARGB(
+	    Integer.valueOf(String.valueOf(newValue)));
+            int intHex = ColorPickerPreference.convertToColorInt(hex);
+	    Settings.System.putInt(resolver,
+		    Settings.System.LOCK_SCREEN_VISUALIZER_CUSTOM_COLOR, intHex);
+	    preference.setSummary(hex);
+            return true;
+        } else if (preference == mFingerprintVib) {
             boolean value = (Boolean) newValue;
             Settings.System.putInt(getActivity().getContentResolver(),
                     Settings.System.FINGERPRINT_SUCCESS_VIB, value ? 1 : 0);
