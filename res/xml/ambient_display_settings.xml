@@ -23,7 +23,8 @@
     android:title="@string/ambient_display_screen_title">
 
     <PreferenceCategory
-        android:key="ambient_display_category_when_to_show"
+        android:order="10"
+	android:key="ambient_display_category_when_to_show"
         android:title="@string/ambient_display_category_triggers">
 
         <SwitchPreference
@@ -70,7 +71,40 @@
             settings:userRestriction="no_ambient_display" />
 
     </PreferenceCategory>
+	
+	<PreferenceCategory android:key="divider" />
+	
+	<PreferenceCategory
+	android:order="20"
+        android:title="@string/lockscreen_visualizer_category">
 
-    <PreferenceCategory android:key="divider" />
+        <com.android.settings.preferences.SecureSettingSwitchPreference
+             android:key="lockscreen_visualizer"
+             android:title="@string/lockscreen_visualizer_title"
+             android:summary="@string/lockscreen_visualizer_summary"
+             android:defaultValue="false"/>
+
+        <com.android.settings.preferences.SystemSettingSwitchPreference
+             android:key="lock_screen_visualizer_use_custom_color"
+             android:title="@string/lockscreen_visualizer_enable_custom"
+             android:summary="@string/lockscreen_visualizer_enable_custom_summary"
+             android:dependency="lockscreen_visualizer"
+             android:defaultValue="false" />
+
+        <net.margaritov.preference.colorpicker.ColorPickerPreference
+             android:key="lock_screen_visualizer_custom_color"
+             android:title="@string/lockscreen_visualizer_custom_color"
+             android:dependency="lock_screen_visualizer_use_custom_color"
+             android:defaultValue="0xffffffff"
+             android:dialogTitle="@string/lockscreen_visualizer_custom_color" />
+
+        <com.android.settings.preferences.SecureSettingSwitchPreference
+             android:key="ambient_visualizer"
+             android:title="@string/ambient_visualizer_title"
+             android:summary="@string/ambient_visualizer_summary"
+             android:dependency="lockscreen_visualizer"
+             android:defaultValue="false"/>
+
+    </PreferenceCategory>
 
 </PreferenceScreen>
