@@ -111,6 +111,19 @@
         settings:userRestriction="no_ambient_display" />
 
 <PreferenceCategory
+        android:key="rounded_corners_cat"
+        android:title="@string/corners_title" >
+
+     <!-- Rounded Corners -->
+     <PreferenceScreen
+         android:key="rounded_corners"
+         android:title="@string/corners_title"
+         android:summary="@string/corners_summary"
+         android:fragment="com.android.settings.fragments.RoundedCorners" />
+
+</PreferenceCategory>
+
+<PreferenceCategory
         android:key="misc_app_stuff"
         android:title="@string/misc_title">
      <com.android.settings.preferences.SystemSettingSwitchPreference
