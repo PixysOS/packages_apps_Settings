@@ -67,6 +67,12 @@
         android:summary="@string/wakeup_when_plugged_unplugged_summary"
         android:defaultValue="true" />
 
+    <com.android.settings.preferences.SystemSettingSwitchPreference
+        android:key="charging_animation"
+        android:title="@string/charging_animation_title"
+        android:summary="@string/charging_animation_summary"
+        android:defaultValue="true" />
+
     <com.android.settings.fuelgauge.PowerGaugePreference
         android:key="last_full_charge"
         android:title="@string/battery_last_full_charge"
