@@ -4,6 +4,7 @@ import android.content.Context;
 import android.os.UserManager;
 import android.util.AttributeSet;
 import android.view.View;
+import android.view.View.OnClickListener;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
@@ -11,17 +12,22 @@ import android.content.pm.UserInfo;
 
 import com.android.settings.R;
 import com.android.settingslib.Utils;
+import com.android.settings.core.SubSettingLauncher;
+import com.android.settings.users.UserSettings;
 
-public class DashboardProfileIcon extends RelativeLayout {
+import com.android.internal.logging.nano.MetricsProto;
+
+public class DashboardProfileIcon extends RelativeLayout implements OnClickListener {
+
+    private View mUsers;
 
     public DashboardProfileIcon(Context context, AttributeSet attrs) {
         super(context, attrs);
         init(context);
     }
-	
-	public DashboardProfileIcon(Context context) {
+    public DashboardProfileIcon(Context context) {
         super(context);
-		init(context);
+	init(context);
     }
 
     private void init(Context context) {
@@ -32,5 +38,17 @@ public class DashboardProfileIcon extends RelativeLayout {
         LayoutParams lp = new LayoutParams(ViewGroup.LayoutParams.WRAP_CONTENT, ViewGroup.LayoutParams.WRAP_CONTENT);
         setLayoutParams(lp);
         icon.setImageDrawable(Utils.getUserIcon(context, userManager, info));
+	mUsers = findViewById(R.id.dashboard_profile_icon);
+        mUsers.setOnClickListener(this);
+    }
+
+    @Override
+    public void onClick(View v) {
+        if (v == mUsers) {
+            new SubSettingLauncher(getContext())
+                    .setDestination(UserSettings.class.getName())
+                    .setSourceMetricsCategory(MetricsProto.MetricsEvent.PIXYS_SETTINGS)
+                    .launch();
+        }
     }
 }
