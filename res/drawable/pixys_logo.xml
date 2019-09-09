@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2018-2019 PixysOS
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="640dp"
+    android:height="640dp"
+    android:viewportWidth="640"
+    android:viewportHeight="640">
+        <path
+            android:pathData="M 38 320 C 38 164.256 164.256 38 320 38 C 475.744 38 602 164.256 602 320 C 602 475.744 475.744 602 320 602 C 164.256 602 38 475.744 38 320 Z"
+            android:fillColor="?android:attr/colorAccent"
+            android:fillAlpha="0.4"/>
+        <path
+            android:pathData="M 224 320 C 224 266.981 266.981 224 320 224 C 373.019 224 416 266.981 416 320 C 416 373.019 373.019 416 320 416 C 266.981 416 224 373.019 224 320 Z"
+            android:fillColor="?android:attr/textColorPrimary"/>
+        <path
+            android:pathData="M 320 8 C 147.687 8 8 147.687 8 320 C 8 492.313 147.687 632 320 632 C 492.313 632 632 492.313 632 320 C 632 147.687 492.313 8 320 8 Z M 320 38 C 475.744 38 602 164.256 602 320 C 602 475.744 475.744 602 320 602 C 164.256 602 38 475.744 38 320 C 38 164.256 164.256 38 320 38 Z"
+            android:fillColor="?android:attr/colorAccent"/>
+        <path
+            android:pathData="M 224 360 L 224 437.362 C 224 459.303 241.727 476.963 263.751 476.963 C 285.775 476.963 303.81 459.303 303.81 437.362 L 303.81 435.213 C 263.498 428.868 232.432 399.439 224 360 Z"
+            android:fillColor="?android:attr/textColorPrimary"/>
+        <path
+            android:pathData="M 280 320 C 280 297.909 297.909 280 320 280 C 342.091 280 360 297.909 360 320 C 360 342.091 342.091 360 320 360 C 297.909 360 280 342.091 280 320 Z"
+            android:fillColor="?android:attr/colorAccent"/>
+</vector>
