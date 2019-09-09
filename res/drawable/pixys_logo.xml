@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2018-2019 PixysOS
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="640dp"
+    android:height="256dp"
+    android:viewportWidth="640"
+    android:viewportHeight="256">
+        <path
+            android:pathData="M 179.108 128 C 179.108 63.935 231.043 12 295.108 12 C 359.173 12 411.108 63.935 411.108 128 C 411.108 192.065 359.173 244 295.108 244 C 231.043 244 179.108 192.065 179.108 128 Z"
+            android:fillColor="?android:attr/colorAccent"
+            android:fillAlpha="0.3"/>
+        <path
+            android:pathData="M 295.094 0 C 224.402 0 167.094 57.307 167.094 128 C 167.094 198.692 224.402 256 295.094 256 C 365.785 256 423.094 198.692 423.094 128 C 423.094 57.307 365.785 0 295.094 0 Z M 295.094 12 C 359.159 12 411.094 63.935 411.094 128 C 411.094 192.065 359.159 244 295.094 244 C 231.029 244 179.094 192.065 179.094 128 C 179.094 63.935 231.029 12 295.094 12 Z"
+            android:fillColor="?android:attr/colorAccent"/>
+        <path
+            android:pathData="M 295.094 87.99 C 273.002 87.99 255.094 105.899 255.094 127.99 C 255.094 150.081 273.002 167.99 295.094 167.99 C 317.185 167.99 335.094 150.081 335.094 127.99 C 335.094 105.899 317.185 87.99 295.094 87.99 Z M 295.094 111.99 C 303.93 111.99 311.094 119.153 311.094 127.99 C 311.094 136.827 303.93 143.99 295.094 143.99 C 286.257 143.99 279.094 136.827 279.094 127.99 C 279.094 119.153 286.257 111.99 295.094 111.99 Z M 255.094 143.99 L 255.094 175.303 C 255.094 184.177 262.28 191.303 271.188 191.303 C 280.095 191.303 287.375 184.177 287.375 175.303 L 287.375 174.428 C 271.072 171.861 258.504 159.941 255.094 143.99 Z"
+            android:fillColor="?android:attr/colorAccent"/>
+</vector>
