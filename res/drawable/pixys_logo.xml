@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2018-2019 PixysOS
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="640dp"
+    android:height="640dp"
+    android:viewportWidth="640"
+    android:viewportHeight="640">
+        <path
+            android:pathData="M 632 320 C 632 492.314 492.312 632 320.001 632 C 147.688 632 8 492.314 8 320 C 8 147.686 147.688 8 320.001 8 C 492.312 8 632 147.686 632 320 Z M 319.172 64.001 C 180.927 64.439 68.479 174.458 64.131 311.747 C 64.044 314.487 64 317.239 64 320 C 64 461.385 178.615 576 320 576 C 329.613 576 339.102 575.47 348.44 574.438 L 348.591 574.421 L 349.395 574.331 C 365.472 572.493 381.096 569.166 396.126 564.491 C 397.709 563.998 399.286 563.491 400.856 562.968 C 502.617 529.12 576 433.13 576 320 C 576 319.172 575.996 318.344 575.988 317.518 C 574.659 177.554 461.002 64.445 320.828 64.001 L 320 64 L 319.172 64.001 Z"
+            android:fillColor="?android:attr/colorAccent"/>
+        <path
+            android:pathData="M 576 319.989 C 576 461.374 461.383 575.989 320 575.989 C 178.615 575.989 64 461.374 64 319.989 C 64 178.607 178.615 63.99 320 63.99 C 461.383 63.99 576 178.607 576 319.989"
+            android:fillColor="?android:attr/colorAccent"
+            android:fillAlpha="0.4"/>
+        <path
+            android:pathData="M 224.866 353.081 L 224.866 431.342 C 224.779 451.905 241.446 468.57 262.005 468.57 C 281.877 468.57 298.069 452.987 299.128 433.381 C 261.682 428.966 231.492 395.829 224.866 353.081"
+            android:fillColor="?android:attr/colorAccent"/>
+        <path
+            android:pathData="M 319.996 353.08 C 301.722 353.08 286.906 338.264 286.906 319.99 C 286.906 301.716 301.722 286.9 319.996 286.9 C 338.272 286.9 353.086 301.716 353.086 319.99 C 353.086 338.264 338.272 353.08 319.996 353.08 M 320 224.867 C 267.47 224.867 224.867 267.45 224.867 320 C 224.867 367.732 260.025 407.254 305.854 414.079 C 310.466 414.782 315.181 415.133 320 415.133 C 320.393 415.133 320.807 415.133 321.2 415.113 C 333.836 414.968 345.893 412.342 356.895 407.709 C 362.975 405.145 368.745 401.98 374.102 398.278 C 388.062 388.6 399.312 375.281 406.488 359.687 C 410.439 351.105 413.127 341.819 414.368 332.078 C 414.885 328.128 415.133 324.095 415.133 320 C 415.133 267.45 372.551 224.867 320 224.867"
+            android:fillColor="?android:attr/colorAccent"/>
+</vector>
