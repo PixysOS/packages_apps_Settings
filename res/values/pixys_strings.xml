@@ -59,4 +59,6 @@
     <string name="global_actions_advanced_reboot_title">Enable advanced restart</string>
     <string name="global_actions_advanced_reboot_summary">Show options for recovery and bootloader</string>
     <string name="power_menu_advanced_category">Advanced</string>
+
+    <string name="battery_temp">Battery temperature</string>
 </resources>
