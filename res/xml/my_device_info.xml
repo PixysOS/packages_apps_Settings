@@ -108,20 +108,35 @@
         android:selectable="false"
         settings:enableCopying="true"/>
 
-    <!-- Device up time -->
+    <!-- Manual -->
     <Preference
-        android:key="up_time"
+        android:key="manual"
         android:order="47"
-        android:title="@string/status_up_time"
-        android:summary="@string/summary_placeholder"
-        android:selectable="false"/>
+        android:title="@string/manual">
+        <intent android:action="android.settings.SHOW_MANUAL"/>
+    </Preference>
+
+    <!-- Feedback on the device -->
+    <Preference
+        android:key="device_feedback"
+        android:order="48"
+        android:title="@string/device_feedback"
+        settings:keywords="@string/keywords_device_feedback"/>
 
     <!-- Device FCC equipment id -->
     <Preference
         android:key="fcc_equipment_id"
-        android:order="52"
+        android:order="49"
         android:title="@string/fcc_equipment_id"
         android:summary="@string/summary_placeholder"/>
+
+    <!-- Device up time -->
+    <Preference
+        android:key="up_time"
+        android:order="52"
+        android:title="@string/status_up_time"
+        android:summary="@string/summary_placeholder"
+        android:selectable="false"/>
 
     <!-- Build number -->
     <Preference
