@@ -169,4 +169,8 @@
 
     <!-- Statusbar tuner -->
     <string name="statusbar_tuner_title">Statusbar tuner</string>
+
+    <!-- Descendant Idle Manager -->
+    <string name="descendant_idle_manager_title">Idle Manager</string>
+    <string name="descendant_idle_manager_summary">Algorithm to ensure efficiency (recommended on)</string>
 </resources>

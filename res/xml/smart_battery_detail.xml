@@ -40,6 +40,12 @@
         android:summary="@string/battery_auto_restriction_summary"
         settings:controller="com.android.settings.fuelgauge.AutoRestrictionPreferenceController"/>
 
+    <com.pixys.support.preference.SystemSettingSwitchPreference
+        android:key="descendant_idle_manager"
+        android:title="@string/descendant_idle_manager_title"
+        android:summary="@string/descendant_idle_manager_summary"
+        android:defaultValue="false" />
+
     <Preference
         android:key="restricted_app"
         android:title="@string/restricted_app_title"/>
