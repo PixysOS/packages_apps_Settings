@@ -193,4 +193,8 @@
     <string name="keyguard_media_art_summary">Show artwork of current media as lockscreen background instead of wallpaper</string>
     <string name="keyguard_media_art_enable_blur_title">Blur media artwork</string>
     <string name="keyguard_media_art_blur_radius_title">Blur amount for media artwork</string>
+
+<!-- Pulse on music track change -->
+    <string name="pulse_on_new_tracks_title">Ambient music ticker</string>
+    <string name="pulse_on_new_tracks_summary">Show Ambient Display when a new music track is played</string>
 </resources>
