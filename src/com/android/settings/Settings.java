@@ -179,4 +179,5 @@ public class Settings extends SettingsActivity {
 
     // PixysOS Additions.
     public static class PixysSettingsActivity extends SettingsActivity {}
+    public static class GamingModeActivity extends SettingsActivity {}
 }

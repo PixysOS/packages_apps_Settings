@@ -149,6 +149,7 @@ import com.android.settings.wifi.savedaccesspoints.SavedAccessPointsWifiSettings
 import com.android.settings.wifi.tether.WifiTetherSettings;
 
 import com.pixys.settings.PixysSettings;
+import com.pixys.settings.fragments.GamingMode;
 
 public class SettingsGateway {
 
@@ -286,7 +287,8 @@ public class SettingsGateway {
             BatterySaverScheduleSettings.class.getName(),
             MobileNetworkListFragment.class.getName(),
             GlobalActionsPanelSettings.class.getName(),
-            PixysSettings.class.getName()
+            PixysSettings.class.getName(),
+            GamingMode.class.getName()
     };
 
     public static final String[] SETTINGS_FOR_RESTRICTED = {
@@ -326,5 +328,6 @@ public class SettingsGateway {
             Settings.ModuleLicensesActivity.class.getName(),
             UserBackupSettingsActivity.class.getName(),
             Settings.PixysSettingsActivity.class.getName(),
+            Settings.GamingModeActivity.class.getName(),
     };
 }
