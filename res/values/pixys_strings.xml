@@ -242,4 +242,8 @@
     <string name="hide_from_launcher_summary">
         Prevent this application from showing up in launcher. Requires a launcher restart for changes to take effect.
     </string>
+
+    <!-- Annoying Notifications -->
+    <string name="notification_sound_vib_screen_on_title">Annoying Notifications</string>
+    <string name="notification_sound_vib_screen_on_summary">Play sound and vibration for notifications when screen is on</string>
 </resources>
