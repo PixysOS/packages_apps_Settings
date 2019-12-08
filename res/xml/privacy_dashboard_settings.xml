@@ -69,6 +69,23 @@
         android:summary="@string/summary_placeholder"
         settings:searchable="false"/>
 
+    <PreferenceCategory
+        android:title="@string/privacy_chip_category">
+
+	<com.pixys.settings.preferences.SystemSettingSwitchPreference
+            android:key="privacy_chip_view"
+            android:title="@string/privacy_chip_visibility"
+            android:summary="@string/privacy_chip_visibility_summary"
+            android:defaultValue="true"/>
+
+	<com.pixys.settings.preferences.SystemSettingSwitchPreference
+            android:key="privacy_chip_statusbar_view"
+            android:title="@string/privacy_chip_statusbar_visibility"
+            android:summary="@string/privacy_chip_statusbar_visibility_summary"
+            android:dependency="privacy_chip_view"
+            android:defaultValue="true"/>
+    </PreferenceCategory>
+
     <!-- Privacy Service -->
     <PreferenceCategory
         android:key="privacy_services"

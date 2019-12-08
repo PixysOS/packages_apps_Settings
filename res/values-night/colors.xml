@@ -28,5 +28,6 @@
     <color name="notification_importance_button_selected">#AECBFA</color> <!-- material blue 200 -->
     <color name="notification_importance_button_unselected">#5F6368</color>
     <color name="face_intro_outline">?android:attr/colorAccent</color>
+    <color name="colorCardStrokeInverse">#2AE4E4E4</color>
 </resources>
 

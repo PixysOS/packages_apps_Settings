@@ -132,4 +132,10 @@
     <string name="three_finger_gesture">Three finger gesture</string>
     <string name="three_finger_gesture_summary">Swipe three finger to screenshot</string>
 
+    <!-- Privacy chip view -->
+    <string name="privacy_chip_category">Privacy Indicator</string> 
+    <string name="privacy_chip_visibility">Privacy Chip</string>
+    <string name="privacy_chip_visibility_summary">Show Privacy Chip in QS when important permissions are in use</string>
+    <string name="privacy_chip_statusbar_visibility">Show in statusbar</string>
+    <string name="privacy_chip_statusbar_visibility_summary">Show privacy icon in statusbar when important permissions are in use</string>
 </resources>
