@@ -52,4 +52,17 @@
     <!-- Scramble pin -->
     <string name="unlock_scramble_pin_layout_title">Scramble numbers</string>
     <string name="unlock_scramble_pin_layout_summary">Scramble PIN layout when unlocking device</string>
+
+    <!-- Themes -->
+    <string name="themes_title">Themes</string>
+    <string name="themes_summary">Monet-an artist who paints..</string>
+
+    <!-- Monet Engine -->
+    <string name="monet_engine_custom_color_title">Use custom color</string>
+    <string name="monet_engine_custom_color_summary">Use custom color for monet engine instead of wallpaper colors</string>
+    <string name="monet_engine_color_override_title">Custom color</string>
+    <string name="monet_engine_white_luminance_user_title">White luminance</string>
+    <string name="monet_engine_accurate_shades_title">Use accurate shades</string>
+    <string name="monet_engine_chroma_factor_title">Chroma factor</string>
+    <string name="monet_engine_linear_lightness_title">Use linear lightness</string>
 </resources>
