@@ -4266,5 +4266,23 @@
         </activity>
 
         <!-- This is the longest AndroidManifest.xml ever. -->
+
+        <!-- Start of our manifest entries -->
+
+       <!-- DU Themes -->
+       <activity android:name="Settings$StartThemesActivity"
+            android:label="@string/themes_title"
+            android:exported="true"            
+            android:icon="@drawable/ic_homepage_themes">
+            <intent-filter>
+                <action android:name="com.android.settings.action.SETTINGS" />
+                <category android:name="android.intent.category.DEFAULT" />                
+            </intent-filter>
+            <meta-data android:name="com.android.settings.FRAGMENT_CLASS"
+                android:value="com.android.settings.ThemeSettings" />
+            <meta-data android:name="com.android.settings.PRIMARY_PROFILE_CONTROLLED"
+                android:value="true" />
+        </activity>
+
     </application>
 </manifest>
