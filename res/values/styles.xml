@@ -309,12 +309,12 @@
     </style>
 
     <style name="SuggestionCardText">
-        <item name="android:textAlignment">viewStart</item>
+        <item name="android:textAlignment">center</item>
     </style>
 
     <style name="SuggestionCardIcon">
-        <item name="android:layout_centerHorizontal">false</item>
-        <item name="android:layout_alignParentStart">true</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_alignParentStart">false</item>
         <item name="android:layout_marginStart">12dp</item>
         <item name="android:layout_marginEnd">12dp</item>
     </style>
