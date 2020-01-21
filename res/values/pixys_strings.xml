@@ -202,4 +202,7 @@
     <!-- Title for connected TWS device group [CHAR LIMIT=none]-->
     <string name="connected_tws_device_saved_title">Saved Earbuds</string>
 
+    <!-- Power Menu on lockscreen -->
+    <string name="powermenu_lockscreen_title">Power menu visibility</string>
+    <string name="powermenu_lockscreen_summary">Display power menu on a secured lockscreen</string>
 </resources>
