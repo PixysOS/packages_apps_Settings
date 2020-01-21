@@ -199,4 +199,7 @@
     <string name="adj_intensity_title">Intensity</string>
     <string name="adj_contrast_title">Contrast</string>
 
+    <!-- Power Menu on lockscreen -->
+    <string name="powermenu_lockscreen_title">Power menu visibility</string>
+    <string name="powermenu_lockscreen_summary">Display power menu on a secured lockscreen</string>
 </resources>
