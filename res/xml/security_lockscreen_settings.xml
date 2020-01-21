@@ -47,6 +47,12 @@
             android:title="@string/owner_info_settings_title"
             android:summary="@string/owner_info_settings_summary" />
 
+        <com.pixys.settings.preferences.SecureSettingSwitchPreference
+            android:key="secured_lock_power_menu"
+            android:title="@string/powermenu_lockscreen_title"
+            android:summary="@string/powermenu_lockscreen_summary"
+            android:defaultValue="false" />
+
         <SwitchPreference
             android:key="security_setting_lockdown_enabled"
             android:title="@string/lockdown_settings_title"
