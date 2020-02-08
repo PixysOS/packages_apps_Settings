@@ -16,20 +16,57 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Fingerprint location message - default -->
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="default">Найдите сканер отпечатков пальцев на задней поверхности телефона.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="default">Найдите сканер отпечатков пальцев в левой части телефона.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="default">Найдите сканер отпечатков пальцев в правой части телефона.</string>
     <!-- Fingerprint location message - generic -->
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="device">Найдите сканер отпечатков пальцев на задней поверхности вашего телефона.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="device">Найдите сканер отпечатков пальцев в левой части вашего устройства.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="device">Найдите сканер отпечатков пальцев в правой части вашего устройства.</string>
     <!-- Fingerprint location message - tablet -->
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="tablet">Найдите сканер отпечатков пальцев на задней поверхности вашего планшета.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="tablet">Найдите сканер отпечатков пальцев в левой части вашего планшета.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="tablet">Найдите сканер отпечатков пальцев в правой части вашего планшета.</string>
     <!-- Lockscreen battery info indicator  -->
+    <string name="miscellaneous_section">Прочие параметры</string>
+    <string name="lockscreen_battery_info_title">Информация о зарядке на экране блокировки</string>
+    <string name="lockscreen_battery_info_summary">Показывать напряжение, ток зарядки и температуру аккумулятора на экране блокировки во время зарядки</string>
     <!-- PixysOS version preference -->
+    <string name="pixys_version">"Версия PixysOS"</string>
+    <string name="build_date">"Дата сборки"</string>
     <!-- Battery stats reset -->
+    <string name="battery_stats_reset">Сбросить статистику</string>
+    <string name="battery_stats_message">История использования батареи будет сброшена</string>
     <!-- Screenshot shutter sound -->
+    <string name="screenshot_shutter_sound_title">Звук скриншота</string>
     <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">Google Play</string>
     <!-- Pixys Settings -->
+    <string name="pixys_title">Обзор</string>
+    <string name="build_tweaks_summary_title">Дополнительные настройки</string>
     <!-- Pocket judge -->
+    <string name="pocket_judge_title">Обнаружение кармана</string>
+    <string name="pocket_judge_summary">Блокировать экран и кнопки когда телефон находится в кармане</string>
     <!-- Notch behavior -->
+    <string name="display_cutout_mode_title">Настройки выреза</string>
+    <string name="display_cutout_mode_normal">По умолчанию</string>
+    <string name="display_cutout_mode_hidden">Скрытый</string>
     <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">Полноэкранные приложения</string>
+    <string name="display_cutout_force_fullscreen_summary">Ингорирование выреза выбранными приложениями</string>
     <!-- Volume link notification -->
+    <string name="volume_link_notification_title">Связать громкость рингтона и уведомлений</string>
     <!-- String for removal of sensitive info on about, depending on tap -->
+    <string name="device_info_protected_single_press">Нажмите, чтобы показать информацию</string>
     <!-- Battery Temperature -->
+    <string name="battery_temp">Температура батареи</string>
     <!-- Gesture Navigation -->
+    <string name="back_height_low_label">Полный</string>
+    <string name="back_height_high_label">Снизу</string>
+    <string name="back_options_dialog_title">Опции</string>
+    <string name="back_height_message">Высота экрана используемая для жеста назад.</string>
     <!-- Manage applications, package string displayed in app snippet -->
+    <string name="packagename_text"><xliff:g id="package_name">%1$s</xliff:g></string>
+    <!-- NavigationBar Gestural Mode Tweaks -->
+    <!-- Hostname setting -->
 </resources>

@@ -67,4 +67,6 @@
     <string name="back_height_message">Geri dönüş hareketi için dokunulabilir bölge olarak kullanılan ekran yüksekliği miktarı.</string>
     <!-- Manage applications, package string displayed in app snippet -->
     <string name="packagename_text"><xliff:g id="package_name">%1$s</xliff:g></string>
+    <!-- NavigationBar Gestural Mode Tweaks -->
+    <!-- Hostname setting -->
 </resources>

@@ -66,4 +66,6 @@
     <string name="back_options_dialog_title">Nastavení</string>
     <!-- Manage applications, package string displayed in app snippet -->
     <string name="packagename_text"><xliff:g id="název_balíčku">%1$s</xliff:g></string>
+    <!-- NavigationBar Gestural Mode Tweaks -->
+    <!-- Hostname setting -->
 </resources>

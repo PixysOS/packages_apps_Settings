@@ -16,20 +16,57 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Fingerprint location message - default -->
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="default">Suchen Sie den Fingerprintsensor an der Vorderseite des Telefons.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="default">Suchen Sie den Fingerabdrucksensor auf der linken Seite Ihres Geräts.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="default">Suchen Sie den Fingerabdrucksensor auf der rechten Seite Ihres Geräts.</string>
     <!-- Fingerprint location message - generic -->
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="device">Suchen Sie den Fingerabdrucksensor auf der Vorderseite Ihres Gerätes.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="device">Suchen Sie den Fingerabdrucksensor auf der linken Seite Ihres Gerätes.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="device">Suchen Sie den Fingerabdrucksensor auf der rechten Seite Ihres Gerätes.</string>
     <!-- Fingerprint location message - tablet -->
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="tablet">Suchen Sie den Fingerabdrucksensor auf der Vorderseite Ihres Geräts.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="tablet">Suchen Sie den Fingerabdrucksensor auf der linken Seite Ihres Geräts.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="tablet">Suchen Sie den Fingerabdrucksensor auf der rechten Seite Ihres Tablets.</string>
     <!-- Lockscreen battery info indicator  -->
+    <string name="miscellaneous_section">verschiedene Einstellungen</string>
+    <string name="lockscreen_battery_info_title">Ladeinfo auf dem Sperrbildschirm</string>
+    <string name="lockscreen_battery_info_summary">Zeige maximal ermittelte/n Ladespannung/-Strom und Batterietemperatur während des Ladens auf dem Sperrbildschirm</string>
     <!-- PixysOS version preference -->
+    <string name="pixys_version">"PixysOS-Version"</string>
+    <string name="build_date">"Build-Datum"</string>
     <!-- Battery stats reset -->
+    <string name="battery_stats_reset">Statistiken zurücksetzen</string>
+    <string name="battery_stats_message">Akkustatistiken werden zurückgesetzt</string>
     <!-- Screenshot shutter sound -->
+    <string name="screenshot_shutter_sound_title">Screenshot Auslöserton</string>
     <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">Google Play</string>
     <!-- Pixys Settings -->
+    <string name="pixys_title">Erkunden</string>
+    <string name="build_tweaks_summary_title">Erkunde die Goodies</string>
     <!-- Pocket judge -->
+    <string name="pocket_judge_title">Hosentaschen-Erkennung</string>
+    <string name="pocket_judge_summary">Versehentliche Bedienung des Touchscreens oder Fingerabdrucksensors verhindern, wenn sich das Telefon in der Hosentasche befindet</string>
     <!-- Notch behavior -->
+    <string name="display_cutout_mode_title">Notch-Verhalten</string>
+    <string name="display_cutout_mode_normal">Standard</string>
+    <string name="display_cutout_mode_hidden">Ausgeblendet</string>
     <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">Vollbild-Apps</string>
+    <string name="display_cutout_force_fullscreen_summary">Zwinge die Applikationen die Notch zu ignorieren</string>
     <!-- Volume link notification -->
+    <string name="volume_link_notification_title">Klingelton- &amp; Benachrichtigungslautstärke verbinden</string>
     <!-- String for removal of sensitive info on about, depending on tap -->
+    <string name="device_info_protected_single_press">Antippen, um Info anzuzeigen</string>
     <!-- Battery Temperature -->
+    <string name="battery_temp">Akku-Temperatur</string>
     <!-- Gesture Navigation -->
+    <string name="back_height_low_label">Vollständig</string>
+    <string name="back_height_high_label">unten</string>
+    <string name="back_options_dialog_title">Optionen</string>
+    <string name="back_height_message">Bereich der Bildschirmhöhe, die als berührbare Region für die Zurück-Geste verwendet wird.</string>
     <!-- Manage applications, package string displayed in app snippet -->
+    <string name="packagename_text"><xliff:g id="package_name">%1$s</xliff:g></string>
+    <!-- NavigationBar Gestural Mode Tweaks -->
+    <!-- Hostname setting -->
 </resources>
