@@ -53,7 +53,8 @@ LOCAL_STATIC_JAVA_LIBRARIES := \
     settings-logtags \
     zxing-core-1.7 \
     okhttpcustom \
-    okio
+    okio \
+    faceunlock_utils
 
 LOCAL_PROGUARD_FLAG_FILES := proguard.flags
 
