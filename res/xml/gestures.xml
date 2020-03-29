@@ -88,4 +88,10 @@
             android:summary="@string/doze_double_tap_summary"
             settings:userRestriction="no_ambient_display" />
 
+    <Preference
+        android:key="gesture_adaptive_playback_summary"
+        android:title="@string/adaptive_playback_screen_title"
+        android:fragment="com.android.settings.gestures.AdaptivePlaybackGestureSettings"
+        settings:controller="com.android.settings.gestures.AdaptivePlaybackParentPreferenceController" />
+
 </PreferenceScreen>
