@@ -70,4 +70,8 @@
     <string name="navbar_length">Gesture bar length</string>
     <string name="short_label">Short</string>
     <string name="long_label">Long</string>
+
+    <!-- Navigation bar hint -->
+    <string name="show_navbar_gesture_bar_title">Gesture bar</string>
+    <string name="show_navbar_gesture_bar_summary">Show gesture bar at the bottom of the screen</string>
 </resources>
