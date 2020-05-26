@@ -285,4 +285,8 @@
     <!-- Unlock FPS for specific games -->
     <string name="use_games_spoof_title">Unlock higher FPS in games</string>
     <string name="use_games_spoof_summary">Spoof your device as different model for specific games to unlock higher FPS</string>
+
+    <!-- Black theme -->
+    <string name="system_black_theme_title">Vivid Colors</string>
+    <string name="system_black_theme_summary">Use colorful and darker monet shades</string>
 </resources>
