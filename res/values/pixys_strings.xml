@@ -291,4 +291,8 @@
     <string name="security_settings_face_unlock_redo_face_scan_title">Redo face scan</string>
     <string name="face_redo_confirm_btn">Redo</string>
     <string name="face_redo_warning_msg">Do you want to remove the existing face scan and create a new one?</string>
+
+    <!-- Black theme -->
+    <string name="system_black_theme_title">Vivid Colors</string>
+    <string name="system_black_theme_summary">Use colorful and darker monet shades</string>
 </resources>
