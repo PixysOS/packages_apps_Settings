@@ -132,6 +132,8 @@
     <string name="pulse_on_new_tracks_summary">Show Ambient Display when a new music track is played</string>
 
     <!-- Per-app data restrictions -->
+    <string name="data_usage_app_restrict_all">Allow network access</string>
+    <string name="data_usage_app_restrict_all_summary">Enable network usage</string>
     <string name="data_usage_app_restrict_mobile">Mobile data</string>
     <string name="data_usage_app_restrict_mobile_summary">Enable usage of mobile data</string>
     <string name="data_usage_app_restrict_vpn">VPN data</string>
