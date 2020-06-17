@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright 2020 Pixys OS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Strings for suggestion card's close button [CHAR LIMIT=20] -->
+    <string name="suggestion_button_close">Cerrar</string>
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">Google Play</string>
+    <!-- Battery Temp. -->
+    <string name="battery_temp">Temperatura de batería</string>
+    <!-- Hardware info -->
+    <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
+    <string name="platform_revision">Platforma</string>
+    <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
+    <string name="total_ram">RAM Total</string>
+    <!-- Pixys Settings -->
+    <string name="pixys_title">Explorar</string>
+    <string name="build_tweaks_summary_title">¡Exploremos los Extras!</string>
+    <!-- PixysOS version preference -->
+    <string name="pixys_version">"Versión de PixysOS"</string>
+    <string name="build_date">"Fecha de compilación"</string>
+    <!-- Fingerprint location message - default -->
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="default">Localiza el sensor de huella digital en el frontal del teléfono.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="default">Localiza el sensor de huella digital a la izquierda de tu teléfono.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="default">Localiza el sensor de huella digital en el lado derecho de tu teléfono.</string>
+    <!-- Fingerprint location message - generic -->
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="device">Localiza el sensor de huella digital en el frontal del teléfono.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="device">Localiza el lector de huella digital en el lado izquierdo de tu dispositivo.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="device">Localiza el lector de huella digital en el lado derecho de tu dispositivo.</string>
+    <!-- Fingerprint location message - tablet -->
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="tablet">Localiza el lector de huella digital en la parte frontal de tu tableta.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="tablet">Localiza el sensor de huella digital en el lado izquierdo del tablet.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="tablet">Localiza el sensor de huella digital en el lado derecho del tablet.</string>
+    <!-- Battery stats reset -->
+    <string name="battery_stats_reset">Reiniciar estadísticas</string>
+    <string name="battery_stats_message">Las estadísticas de la batería van a restablecerse</string>
+    <!-- Screenshot sound -->
+    <string name="screenshot_sound_title">Sonido de captura de pantalla</string>
+    <!-- Notch behavior -->
+    <string name="display_cutout_mode_title">Comportamiento del Notch</string>
+    <string name="display_cutout_mode_normal">Por defecto</string>
+    <string name="display_cutout_mode_hidden">Oculto</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">Aplicaciones en pantalla completa</string>
+    <string name="display_cutout_force_fullscreen_summary">Forzar que las apps ignoren el espacio del notch</string>
+    <!-- Volume link notification -->
+    <string name="volume_link_notification_title">Vincular tono y volumen de notificaciones</string>
+    <!-- String for removal of sensitive info on about, depending on tap -->
+    <string name="device_info_protected_single_press">Toca para mostrar información</string>
+    <!-- Gesture Navigation -->
+    <string name="back_height_low_label">Full</string>
+    <string name="back_height_high_label">Abajo</string>
+    <string name="back_options_dialog_title">Opciones</string>
+    <string name="back_height_message">Altura de pantalla usada como región para el gesto atrás.</string>
+    <!-- NavigationBar Gestural Mode Tweaks -->
+    <string name="navbar_gesture_mode_category_title">Ajustes del modo gesto</string>
+    <string name="navbar_gesture_mode_category_key">retoques_del_modo_de_gestos</string>
+    <string name="navbar_gesture_pill_toggle_title">Gestos a pantalla completa</string>
+    <string name="navbar_gesture_pill_toggle_summary">Esto ocultará tanto la barra de navegación como la píldora para una inadvertida experiencia de gestos a pantalla completa.</string>
+    <string name="navbar_gesture_pill_toggle_summary_disabled">¡Esta opción solo está disponible para la navegación por gestos!</string>
+    <!-- Hostname setting -->
+    <string name="device_hostname">Nombre del dispositivo</string>
+    <!-- Doze on double tap -->
+    <string name="double_tap_title">Doble toque</string>
+    <string name="doze_double_tap_title">Doble toque para comprobar el teléfono</string>
+    <string name="doze_double_tap_summary">Notificaciones de pulso por doble toque</string>
+    <!-- Notification log -->
+    <string name="notification_log_summary">Mostrar historial de notificaciones</string>
+    <!-- Adaptive Playback -->
+    <string name="adaptive_playback_screen_title">Reproducción adaptativa</string>
+    <string name="adaptive_playback_timeout_title">Use un tiempo de espera de</string>
+    <string name="adaptive_playback_timeout_none_summary">Apagado</string>
+    <string name="adaptive_playback_timeout_30_secs">30 segundos</string>
+    <string name="adaptive_playback_timeout_30_secs_summary">Activado (30 segundos)</string>
+    <string name="adaptive_playback_timeout_1_min">1 minuto</string>
+    <string name="adaptive_playback_timeout_1_min_summary">Activado (1 minuto)</string>
+    <string name="adaptive_playback_timeout_2_min">2 minutos</string>
+    <string name="adaptive_playback_timeout_2_min_summary">Activado (2 minutos)</string>
+    <string name="adaptive_playback_timeout_5_min">5 minutos</string>
+    <string name="adaptive_playback_timeout_5_min_summary">Activado (5 minutos)</string>
+    <string name="adaptive_playback_timeout_10_min">10 minutos</string>
+    <string name="adaptive_playback_timeout_10_min_summary">Activado (10 minutos)</string>
+    <!-- Volume button music control -->
+    <string name="volume_button_music_control_title">Control de reproducción</string>
+    <string name="volume_button_music_control_summary">Cuando la pantalla esté apagada, una pulsación larga de los controles de volumen, avanzará o retrocederá las canciones</string>
+    <!-- Per-app data restrictions -->
+    <string name="data_usage_app_restrict_data">Datos móviles</string>
+    <string name="data_usage_app_restrict_data_summary">Activar el uso de datos móviles</string>
+    <string name="data_usage_app_restrict_vpn">Datos VPN</string>
+    <string name="data_usage_app_restrict_vpn_summary">Activar el uso de datos de VPN</string>
+    <string name="data_usage_app_restrict_wifi">Datos Wi\u2011Fi</string>
+    <string name="data_usage_app_restrict_wifi_summary">Activar uso de datos Wi\u2011Fi</string>
+    <!--3-Finger screenshot-->
+    <string name="three_finger_title">Captura de pantalla con tres dedos</string>
+    <string name="three_finger_gesture">Gesto a tres dedos</string>
+    <string name="three_finger_gesture_summary">Deslizar tres dedos para hacer captura de pantalla</string>
+    <!-- Privacy chip view -->
+    <string name="privacy_chip_category">Indicadores de privacidad</string>
+    <string name="privacy_chip_visibility">Ficha de privacidad</string>
+    <string name="privacy_chip_visibility_summary">Mostrar chip de privacidad en QS cuando se utilizan permisos importantes</string>
+    <string name="privacy_chip_statusbar_visibility">Mostrar en la barra de estado</string>
+    <string name="privacy_chip_statusbar_visibility_summary">Mostrar icono de privacidad en la barra de estado cuando los permisos importantes están en uso</string>
+    <!-- Refresh rate -->
+</resources>
