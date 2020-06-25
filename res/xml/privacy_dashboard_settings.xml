@@ -83,7 +83,7 @@
             android:title="@string/privacy_chip_statusbar_visibility"
             android:summary="@string/privacy_chip_statusbar_visibility_summary"
             android:dependency="privacy_chip_view"
-            android:defaultValue="true"/>
+            android:defaultValue="false"/>
     </PreferenceCategory>
 
     <!-- Privacy Service -->
