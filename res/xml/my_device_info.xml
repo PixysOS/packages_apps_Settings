@@ -108,20 +108,20 @@
         android:selectable="false"
         settings:enableCopying="true"/>
 
-    <!-- Manual -->
+    <!-- Manual
     <Preference
         android:key="manual"
         android:order="47"
         android:title="@string/manual">
         <intent android:action="android.settings.SHOW_MANUAL"/>
-    </Preference>
+    </Preference> -->
 
-    <!-- Feedback on the device -->
+    <!-- Feedback on the device
     <Preference
         android:key="device_feedback"
         android:order="48"
         android:title="@string/device_feedback"
-        settings:keywords="@string/keywords_device_feedback"/>
+        settings:keywords="@string/keywords_device_feedback"/> -->
 
     <!-- Device FCC equipment id -->
     <Preference
