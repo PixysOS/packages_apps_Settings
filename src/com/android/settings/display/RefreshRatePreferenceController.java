@@ -74,7 +74,7 @@ public class RefreshRatePreferenceController extends AbstractPreferenceControlle
                 Settings.System.putInt(mContext.getContentResolver(),
                         Settings.System.PEAK_REFRESH_RATE, 120);
                 Settings.System.putInt(mContext.getContentResolver(),
-                        Settings.System.MIN_REFRESH_RATE, 60);
+                        Settings.System.MIN_REFRESH_RATE, 0);
                 break;
             case 1:
                 Settings.System.putInt(mContext.getContentResolver(),
