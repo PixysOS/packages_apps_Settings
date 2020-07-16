@@ -43,4 +43,12 @@
     <!--3-Finger screenshot-->
     <!-- Privacy chip view -->
     <!-- Refresh rate -->
+    <string name="refresh_rate_title">画面リフレッシュレート</string>
+    <string name="refresh_rate_summary_60">60Hz / 全てのコンテンツでリフレッシュレートを60Hzに固定</string>
+    <string name="refresh_rate_summary_120">120Hz  / 全てのコンテンツでリフレッシュレートを120Hz に固定。バッテリー使用量が増加します。</string>
+    <string name="auto_refresh_rate">自動</string>
+    <!-- LiveDisplay -->
+    <!-- LiveDisplay : Picture Adjustment -->
+    <!-- Power Menu on lockscreen -->
+    <!-- Battery health -->
 </resources>

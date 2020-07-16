@@ -28,6 +28,7 @@
     <string name="total_ram">Всего ОЗУ</string>
     <!-- Pixys Settings -->
     <string name="pixys_title">Обзор</string>
+    <string name="build_tweaks_summary_title">Дополнительные настройки</string>
     <!-- PixysOS version preference -->
     <string name="pixys_version">"Версия PixysOS"</string>
     <string name="build_date">"Дата сборки"</string>
@@ -36,22 +37,101 @@
     <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="default">Найдите сканер отпечатков пальцев в левой части телефона.</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="default">Найдите сканер отпечатков пальцев в правой части телефона.</string>
     <!-- Fingerprint location message - generic -->
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="device">Найдите датчик отпечатков пальцев на лицевой стороне устройства.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="device">Найдите сканер отпечатков пальцев в левой части вашего устройства.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="device">Найдите сканер отпечатков пальцев в правой части вашего устройства.</string>
     <!-- Fingerprint location message - tablet -->
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="tablet">Найдите сканер отпечатков пальцев на передней поверхности вашего планшета.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="tablet">Найдите сканер отпечатков пальцев в левой части вашего планшета.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="tablet">Найдите сканер отпечатков пальцев в правой части вашего планшета.</string>
     <!-- Battery stats reset -->
+    <string name="battery_stats_reset">Сбросить статистику</string>
+    <string name="battery_stats_message">История использования батареи будет сброшена</string>
     <!-- Screenshot sound -->
+    <string name="screenshot_sound_title">Звук снимка экрана</string>
     <!-- Notch behavior -->
+    <string name="display_cutout_mode_title">Настройки выреза</string>
+    <string name="display_cutout_mode_normal">По умолчанию</string>
+    <string name="display_cutout_mode_hidden">Скрытый</string>
     <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">Полноэкранные приложения</string>
+    <string name="display_cutout_force_fullscreen_summary">Ингорирование выреза выбранными приложениями</string>
     <!-- Volume link notification -->
+    <string name="volume_link_notification_title">Связать громкость рингтона и уведомлений</string>
     <!-- String for removal of sensitive info on about, depending on tap -->
+    <string name="device_info_protected_single_press">Нажмите, чтобы показать информацию</string>
     <!-- Gesture Navigation -->
+    <string name="back_height_low_label">Полный</string>
+    <string name="back_height_high_label">Снизу</string>
+    <string name="back_options_dialog_title">Параметры</string>
+    <string name="back_height_message">Высота экрана используемая для жеста назад.</string>
     <!-- NavigationBar Gestural Mode Tweaks -->
+    <string name="navbar_gesture_mode_category_title">Настройки режима жестов</string>
+    <string name="navbar_gesture_mode_category_key">Настройки режима жестов</string>
+    <string name="navbar_gesture_pill_toggle_title">Полноэкранные жесты</string>
+    <string name="navbar_gesture_pill_toggle_summary">Это скроет панель навигации для создания полноэкранного режима жестов.</string>
+    <string name="navbar_gesture_pill_toggle_summary_disabled">Эта опция доступна только для навигации жестами!</string>
     <!-- Hostname setting -->
+    <string name="device_hostname">Имя хоста устройства</string>
     <!-- Doze on double tap -->
+    <string name="double_tap_title">Двойное нажатие</string>
+    <string name="doze_double_tap_title">Просмотр времени и уведомлений двойным нажатием</string>
+    <string name="doze_double_tap_summary">Пульсирующие уведомления двойным нажатием</string>
     <!-- Notification log -->
+    <string name="notification_log_summary">Показать историю уведомлений</string>
     <!-- Adaptive Playback -->
+    <string name="adaptive_playback_screen_title">Адаптивное воспроизведение</string>
+    <string name="adaptive_playback_timeout_title">Использовать тайм-аут</string>
+    <string name="adaptive_playback_timeout_none_summary">Выключить</string>
+    <string name="adaptive_playback_timeout_30_secs">30 секунд</string>
+    <string name="adaptive_playback_timeout_30_secs_summary">Вкл (30 секунд)</string>
+    <string name="adaptive_playback_timeout_1_min">1 минута</string>
+    <string name="adaptive_playback_timeout_1_min_summary">Вкл (1 минута)</string>
+    <string name="adaptive_playback_timeout_2_min">2 минуты</string>
+    <string name="adaptive_playback_timeout_2_min_summary">Вкл (2 минуты)</string>
+    <string name="adaptive_playback_timeout_5_min">5 минут</string>
+    <string name="adaptive_playback_timeout_5_min_summary">Вкл (5 минут)</string>
+    <string name="adaptive_playback_timeout_10_min">10 минут</string>
+    <string name="adaptive_playback_timeout_10_min_summary">Вкл (10 минут)</string>
     <!-- Volume button music control -->
+    <string name="volume_button_music_control_title">Управление воспроизведением</string>
+    <string name="volume_button_music_control_summary">Переключать треки долгим нажатием кнопок громкости при выключенном экране</string>
     <!-- Per-app data restrictions -->
+    <string name="data_usage_app_restrict_data">Передача моб. данных</string>
+    <string name="data_usage_app_restrict_data_summary">Включить передачу мобильных данных</string>
+    <string name="data_usage_app_restrict_vpn">Данные VPN</string>
+    <string name="data_usage_app_restrict_vpn_summary">Включить использование данных VPN</string>
+    <string name="data_usage_app_restrict_wifi">Данные Wi-Fi</string>
+    <string name="data_usage_app_restrict_wifi_summary">Включить использование данных Wi-Fi</string>
     <!--3-Finger screenshot-->
+    <string name="three_finger_title">Скриншот тремя пальцами</string>
+    <string name="three_finger_gesture">Жест тремя пальцами</string>
+    <string name="three_finger_gesture_summary">Проведите тремя пальцами для создания скриншота</string>
     <!-- Privacy chip view -->
+    <string name="privacy_chip_category">Индикаторы конфиденциальности</string>
+    <string name="privacy_chip_visibility">Чип конфиденциальности</string>
+    <string name="privacy_chip_visibility_summary">Показывать чип конфиденциальности в QS, когда используются важные разрешения</string>
+    <string name="privacy_chip_statusbar_visibility">Показать иконку в строке состояния</string>
+    <string name="privacy_chip_statusbar_visibility_summary">Показывать значок конфиденциальности в строке состояния, когда используются важные разрешения</string>
     <!-- Refresh rate -->
+    <string name="refresh_rate_title">Частота обновления экрана</string>
+    <string name="refresh_rate_summary_60">60Гц / Частота обновления зафиксирована на 60 Гц для всего контента</string>
+    <string name="refresh_rate_summary_120">120 Гц / Частота обновления заблокирована на 120 Гц для всего контента.  Повышенный расход батареи</string>
+    <string name="auto_refresh_rate">Авто</string>
+    <!-- LiveDisplay -->
+    <string name="live_display_mode">Режим экрана</string>
+    <string name="live_display_color_temperature_title">Цветовая температура</string>
+    <string name="live_display_day">День</string>
+    <string name="live_display_night">Ночь</string>
+    <string name="live_display_outdoor_mode_title">Автоматический режим для улицы</string>
+    <string name="live_display_low_power_title">Снизить энергопотребление</string>
+    <string name="live_display_color_profile_title">Цветовой профиль</string>
+    <string name="live_display_color_profile_standard_title">Стандарт</string>
+    <string name="live_display_color_profile_natural_title">Естественный</string>
+    <string name="live_display_color_profile_dynamic_title">Динамический</string>
+    <string name="live_display_color_profile_basic_title">Базовый</string>
+    <string name="live_display_color_profile_adaptive_title">Адаптивный</string>
+    <!-- LiveDisplay : Picture Adjustment -->
+    <!-- Power Menu on lockscreen -->
+    <!-- Battery health -->
 </resources>

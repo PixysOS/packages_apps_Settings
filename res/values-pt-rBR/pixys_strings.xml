@@ -114,4 +114,12 @@
     <string name="privacy_chip_statusbar_visibility">Mostrar na barra de status</string>
     <string name="privacy_chip_statusbar_visibility_summary">Mostrar ícone de privacidade na barra de status quando as permissões importantes estiverem em uso</string>
     <!-- Refresh rate -->
+    <string name="refresh_rate_title">Taxa de atualização da tela</string>
+    <string name="refresh_rate_summary_60">60Hz / Taxa de atualização bloqueada em 60Hz para todo o conteúdo</string>
+    <string name="refresh_rate_summary_120">120Hz / Taxa de atualização bloqueada a 120Hz para todo o conteúdo. Aumenta o consumo da bateria</string>
+    <string name="auto_refresh_rate">Automático</string>
+    <!-- LiveDisplay -->
+    <!-- LiveDisplay : Picture Adjustment -->
+    <!-- Power Menu on lockscreen -->
+    <!-- Battery health -->
 </resources>
