@@ -221,4 +221,10 @@
     <string name="custom_light_on_time_title">Light ON time during led pulse (ms)</string>
     <string name="custom_light_off_time_title">Light OFF time during led pulse (ms)"</string>
     <string name="value_equals_default">def</string>
+
+    <!-- Refresh rate -->
+    <string name="refresh_rate_title">Screen refresh rate</string>
+    <string name="refresh_rate_auto">Automatic</string>
+    <string name="refresh_rate_60">60Hz (saves battery)</string>
+
 </resources>
