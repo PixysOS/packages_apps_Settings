@@ -43,4 +43,9 @@
     <string name="config_batDesCap"></string>
     <bool name="config_supportBatteryHealth">false</bool>
 
+    <!-- Whether device supports refresh rate switch
+         config_defaultPeakRefreshRate shouldn't be defined as 60 on frameworks/base
+    -->
+    <bool name="config_supportsRefreshRateSwitch">true</bool>
+
 </resources>
