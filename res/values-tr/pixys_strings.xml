@@ -16,35 +16,71 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Strings for suggestion card's close button [CHAR LIMIT=20] -->
+    <string name="suggestion_button_close">Kapat</string>
     <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">Google Play</string>
     <!-- Battery Temp. -->
+    <string name="battery_temp">Pil sıcaklığı</string>
     <!-- Hardware info -->
     <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
+    <string name="platform_revision">Platform</string>
     <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
+    <string name="total_ram">Toplam hafıza</string>
     <!-- Pixys Settings -->
+    <string name="pixys_title">Keşfet</string>
+    <string name="build_tweaks_summary_title">Yeniliklere Bir Göz Atalım</string>
     <!-- PixysOS version preference -->
+    <string name="pixys_version">"PixysOS sürümü"</string>
+    <string name="build_date">"Yapım tarihi"</string>
     <!-- Fingerprint location message - default -->
     <!-- Fingerprint location message - generic -->
     <!-- Fingerprint location message - tablet -->
     <!-- Battery stats reset -->
+    <string name="battery_stats_reset">İstatistikleri sıfırla</string>
     <!-- Screenshot sound -->
+    <string name="screenshot_sound_title">Ekran görüntüsü sesi</string>
     <!-- Notch behavior -->
+    <string name="display_cutout_mode_title">Çentik davranışı</string>
+    <string name="display_cutout_mode_normal">Varsayılan</string>
+    <string name="display_cutout_mode_hidden">Gizli</string>
     <!-- Notch: Full screen apps -->
     <!-- Volume link notification -->
     <!-- String for removal of sensitive info on about, depending on tap -->
+    <string name="device_info_protected_single_press">Bilgileri göstermek için tıkla</string>
     <!-- Gesture Navigation -->
+    <string name="back_height_low_label">Dolu</string>
+    <string name="back_height_high_label">En Alt</string>
+    <string name="back_options_dialog_title">Ayarlar</string>
     <!-- NavigationBar Gestural Mode Tweaks -->
     <!-- Hostname setting -->
+    <string name="device_hostname">Cihaz ana makine adı</string>
     <!-- Doze on double tap -->
+    <string name="double_tap_title">Çift dokunuş</string>
     <!-- Notification log -->
     <!-- Adaptive Playback -->
+    <string name="adaptive_playback_timeout_none_summary">Kapalı</string>
+    <string name="adaptive_playback_timeout_30_secs">30 saniye</string>
+    <string name="adaptive_playback_timeout_30_secs_summary">Açık (30 saniye)</string>
+    <string name="adaptive_playback_timeout_1_min">1 dakika</string>
+    <string name="adaptive_playback_timeout_1_min_summary">Açık (1 dakika)</string>
+    <string name="adaptive_playback_timeout_2_min">2 dakika</string>
     <!-- Volume button music control -->
     <!-- Per-app data restrictions -->
     <!--3-Finger screenshot-->
     <!-- Privacy chip view -->
     <!-- Refresh rate -->
     <!-- LiveDisplay -->
+    <string name="live_display_mode">Ekran modu</string>
+    <string name="live_display_color_temperature_title">Renk sıcaklığı</string>
+    <string name="live_display_day">Gündüz</string>
+    <string name="live_display_night">Gece</string>
+    <string name="live_display_color_profile_standard_title">Standart</string>
+    <string name="live_display_color_profile_natural_title">Doğal</string>
+    <string name="live_display_color_profile_dynamic_title">Dinamik</string>
     <!-- LiveDisplay : Picture Adjustment -->
     <!-- Power Menu on lockscreen -->
     <!-- Battery health -->
+    <!-- Clipboard toast toggle -->
+    <!-- Data usage -->
+    <!-- Title for connected TWS device group [CHAR LIMIT=none]-->
 </resources>

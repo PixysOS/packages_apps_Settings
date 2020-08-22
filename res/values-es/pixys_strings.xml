@@ -115,11 +115,77 @@
     <string name="privacy_chip_statusbar_visibility_summary">Mostrar icono de privacidad en la barra de estado cuando los permisos importantes están en uso</string>
     <!-- Refresh rate -->
     <string name="refresh_rate_title">Frecuencia de actualización de la pantalla</string>
+    <string name="refresh_rate_summary_auto">Auto / Aumenta automáticamente la tasa de actualización de  a 120Hz para algún contenido</string>
     <string name="refresh_rate_summary_60">60Hz / Tasa de actualización bloqueada a 60Hz para todo el contenido</string>
     <string name="refresh_rate_summary_120">Tasa de actualización de 120Hz bloqueada a 120Hz para todo el contenido. Aumenta el uso de la batería</string>
     <string name="auto_refresh_rate">Automático</string>
     <!-- LiveDisplay -->
+    <string name="live_display_summary">Optimizar su pantalla basada en la hora del día y las condiciones ambientales para mejorar la lectura y reducir la fatiga visual</string>
+    <string name="live_display_mode">Modo de pantalla</string>
+    <string name="live_display_color_temperature_title">Temperatura del color</string>
+    <string name="live_display_color_temperature_summary">Día: <xliff:g id="day_temperature">%1$d</xliff:g>K Noche: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
+    <string name="live_display_color_temperature_label"><xliff:g id="grados">%1$d</xliff:g>K</string>
+    <string name="live_display_day">Día</string>
+    <string name="live_display_night">Noche</string>
+    <string name="live_display_outdoor_mode_title">Modo automático en el exterior</string>
+    <string name="live_display_outdoor_mode_summary">Aumentar automáticamente el brillo y la saturación bajo la luz del sol</string>
+    <string name="live_display_low_power_title">Reducir el consumo de energía</string>
+    <string name="live_display_low_power_summary">Ajustar la pantalla al mínimo consumo de energía sin degradación</string>
+    <string name="live_display_enhance_color_title">Mejorar colores</string>
+    <string name="live_display_enhance_color_summary">Mejorar la viveza del color de tonos de piel, paisajes y otras imágenes</string>
+    <string name="live_display_color_profile_title">Perfil de color</string>
+    <string name="live_display_color_profile_standard_title">Estándar</string>
+    <string name="live_display_color_profile_standard_summary">Colores precisos y blancos brillantes</string>
+    <string name="live_display_color_profile_natural_title">Natural</string>
+    <string name="live_display_color_profile_natural_summary">Colores realistas y tonos cálidos</string>
+    <string name="live_display_color_profile_dynamic_title">Dinámico</string>
+    <string name="live_display_color_profile_dynamic_summary">Colores mejorados y blancos brillantes</string>
+    <string name="live_display_color_profile_cinema_title">Cine</string>
+    <string name="live_display_color_profile_cinema_summary">Reproducción perfecta del color para el vídeo</string>
+    <string name="live_display_color_profile_astronomy_title">Astronomía</string>
+    <string name="live_display_color_profile_astronomy_summary">Rojo oscuro para preservar la visión nocturna</string>
+    <string name="live_display_color_profile_photography_title">Fotografía</string>
+    <string name="live_display_color_profile_photography_summary">Reproducción de color perfecta para fotos</string>
+    <string name="live_display_color_profile_basic_title">Básico</string>
+    <string name="live_display_color_profile_basic_summary">Usar pantalla sin calibrar</string>
+    <string name="live_display_color_profile_adaptive_title">Adaptativo</string>
+    <string name="live_display_color_profile_adaptive_summary">Los colores se adaptan a las condiciones ambientales</string>
+    <string name="live_display_color_profile_reading_title">Lectura</string>
+    <string name="live_display_color_profile_reading_summary">Colores cálidos para reducir la fatiga visual</string>
+    <string name="live_display_color_profile_srgb_title">sRGB</string>
+    <string name="live_display_color_profile_srgb_summary">Colores precisos para el espacio de color sRGB</string>
+    <string name="live_display_color_profile_dci_p3_title">DCI-P3</string>
+    <string name="live_display_color_profile_dci_p3_summary">Colores fieles al espacio de color DCI-P3</string>
+    <string name="live_display_reading_mode_title">Modo lectura</string>
+    <string name="live_display_reading_mode_summary">Modo escala de grises para lectura prolongada</string>
+    <string name="color_calibration_title">Calibración de color</string>
+    <string name="color_calibration_summary">Calibrar colores de pantalla</string>
+    <string name="color_red_title">Rojo</string>
+    <string name="color_green_title">Verde</string>
+    <string name="color_blue_title">Azul</string>
     <!-- LiveDisplay : Picture Adjustment -->
+    <string name="picture_adjustment_title">Ajuste de imagen</string>
+    <string name="picture_adjustment_summary">Ajustar tono, saturación, intensidad y contraste</string>
+    <string name="adj_hue_title">Matiz (Hue)</string>
+    <string name="adj_saturation_title">Saturación</string>
+    <string name="adj_intensity_title">Intensidad</string>
+    <string name="adj_contrast_title">Contraste</string>
     <!-- Power Menu on lockscreen -->
+    <string name="powermenu_lockscreen_title">Visibilidad del menú de apagado</string>
+    <string name="powermenu_lockscreen_summary">Mostrar menú de encendido en una pantalla de bloqueo segura</string>
     <!-- Battery health -->
+    <string name="battery_health_title">Estado de la batería</string>
+    <string name="battery_health_summary">Controlar la salud de la batería de su dispositivo</string>
+    <string name="current_battery_capacity">Capacidad total de la batería</string>
+    <string name="current_battery_capacity_summary">La capacidad actual de la batería medida por el kernel</string>
+    <string name="designed_battery_capacity">Capacidad total de la batería</string>
+    <string name="designed_battery_capacity_summary">La capacidad de batería diseñada por el fabricante</string>
+    <!-- Clipboard toast toggle -->
+    <string name="show_clipboard_toast">Mostrar alertas de acceso al portapapeles</string>
+    <string name="show_clipboard_toast_summary">Mostrar un brindis cuando una aplicación intenta acceder al portapapeles</string>
+    <!-- Data usage -->
+    <string name="data_usage_period">Período de uso de datos</string>
+    <string name="data_usage_daily">Diario</string>
+    <string name="data_usage_monthly">Mensual</string>
+    <!-- Title for connected TWS device group [CHAR LIMIT=none]-->
 </resources>

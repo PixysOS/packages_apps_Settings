@@ -47,4 +47,7 @@
     <!-- LiveDisplay : Picture Adjustment -->
     <!-- Power Menu on lockscreen -->
     <!-- Battery health -->
+    <!-- Clipboard toast toggle -->
+    <!-- Data usage -->
+    <!-- Title for connected TWS device group [CHAR LIMIT=none]-->
 </resources>

@@ -122,4 +122,12 @@
     <!-- LiveDisplay : Picture Adjustment -->
     <!-- Power Menu on lockscreen -->
     <!-- Battery health -->
+    <!-- Clipboard toast toggle -->
+    <string name="show_clipboard_toast">Mostrar alertas de acesso à área de transferência</string>
+    <string name="show_clipboard_toast_summary">Exibir uma notificação flutuante quando um aplicativo tenta acessar a área de transferência</string>
+    <!-- Data usage -->
+    <string name="data_usage_period">Período de uso de dados</string>
+    <string name="data_usage_daily">Diário</string>
+    <string name="data_usage_monthly">Mensal</string>
+    <!-- Title for connected TWS device group [CHAR LIMIT=none]-->
 </resources>

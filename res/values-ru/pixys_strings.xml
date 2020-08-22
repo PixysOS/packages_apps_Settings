@@ -115,23 +115,77 @@
     <string name="privacy_chip_statusbar_visibility_summary">Показывать значок конфиденциальности в строке состояния, когда используются важные разрешения</string>
     <!-- Refresh rate -->
     <string name="refresh_rate_title">Частота обновления экрана</string>
+    <string name="refresh_rate_summary_auto">Авто / Автоматически повышает частоту обновления до 120 Гц в зависимости от контента</string>
     <string name="refresh_rate_summary_60">60Гц / Частота обновления зафиксирована на 60 Гц для всего контента</string>
     <string name="refresh_rate_summary_120">120 Гц / Частота обновления заблокирована на 120 Гц для всего контента.  Повышенный расход батареи</string>
     <string name="auto_refresh_rate">Авто</string>
     <!-- LiveDisplay -->
+    <string name="live_display_summary">Подстраивание экрана в зависимости от времени суток и освещения для улучшения читаемости текста и снижения утомляемости глаз</string>
     <string name="live_display_mode">Режим экрана</string>
     <string name="live_display_color_temperature_title">Цветовая температура</string>
+    <string name="live_display_color_temperature_summary"><xliff:g id="day_temperature">%1$d</xliff:g> K днем и <xliff:g id="night_temperature">%2$d</xliff:g> K ночью</string>
+    <string name="live_display_color_temperature_label"><xliff:g id="degrees">%1$d </xliff:g> K</string>
     <string name="live_display_day">День</string>
     <string name="live_display_night">Ночь</string>
     <string name="live_display_outdoor_mode_title">Автоматический режим для улицы</string>
+    <string name="live_display_outdoor_mode_summary">Увеличивать яркость и насыщенность автоматически при ярком свете</string>
     <string name="live_display_low_power_title">Снизить энергопотребление</string>
+    <string name="live_display_low_power_summary">Уменьшения энергопотребления без видимой разницы</string>
+    <string name="live_display_enhance_color_title">Улучшение цветопередачи</string>
+    <string name="live_display_enhance_color_summary">Улучшить сочность оттенков кожи, пейзажей и других изображений</string>
     <string name="live_display_color_profile_title">Цветовой профиль</string>
     <string name="live_display_color_profile_standard_title">Стандарт</string>
+    <string name="live_display_color_profile_standard_summary">Точная цветопередача и контрастность</string>
     <string name="live_display_color_profile_natural_title">Естественный</string>
+    <string name="live_display_color_profile_natural_summary">Натуральные цвета и оттенки кожи</string>
     <string name="live_display_color_profile_dynamic_title">Динамический</string>
+    <string name="live_display_color_profile_dynamic_summary">Насыщенные цвета и повышенная контрастность</string>
+    <string name="live_display_color_profile_cinema_title">Кино</string>
+    <string name="live_display_color_profile_cinema_summary">Идеальное воспроизведение цвета для видео</string>
+    <string name="live_display_color_profile_astronomy_title">Астрономия</string>
+    <string name="live_display_color_profile_astronomy_summary">Глубокий красный для сохранения видимости ночью</string>
+    <string name="live_display_color_profile_photography_title">Фотография</string>
+    <string name="live_display_color_profile_photography_summary">Идеальная цветопередача для фото</string>
     <string name="live_display_color_profile_basic_title">Базовый</string>
+    <string name="live_display_color_profile_basic_summary">Не калибровать дисплей</string>
     <string name="live_display_color_profile_adaptive_title">Адаптивный</string>
+    <string name="live_display_color_profile_adaptive_summary">Цвета адаптируются к условиям окружающей среды</string>
+    <string name="live_display_color_profile_reading_title">Чтение</string>
+    <string name="live_display_color_profile_reading_summary">Теплые цвета для меньшего напряжения глаз</string>
+    <string name="live_display_color_profile_srgb_title">sRGB</string>
+    <string name="live_display_color_profile_srgb_summary">Цвета, соответствующие цветовому пространству sRGB</string>
+    <string name="live_display_color_profile_dci_p3_title">DCI-P3</string>
+    <string name="live_display_color_profile_dci_p3_summary">Цвета, соответствующие цветовому пространству DCI-P3</string>
+    <string name="live_display_reading_mode_title">Режим чтения</string>
+    <string name="live_display_reading_mode_summary">Режим оттенков серого для долговременного чтения</string>
+    <string name="color_calibration_title">Калибровка цвета</string>
+    <string name="color_calibration_summary">Настройка цветопередачи экрана</string>
+    <string name="color_red_title">Красный</string>
+    <string name="color_green_title">Зеленый</string>
+    <string name="color_blue_title">Синий</string>
     <!-- LiveDisplay : Picture Adjustment -->
+    <string name="picture_adjustment_title">Настройка изображения</string>
+    <string name="picture_adjustment_summary">Регулировка оттенка, насыщенности, интенсивности и контрастности</string>
+    <string name="adj_hue_title">Оттенок</string>
+    <string name="adj_saturation_title">Насыщенность</string>
+    <string name="adj_intensity_title">Интенсивность</string>
+    <string name="adj_contrast_title">Контраст</string>
     <!-- Power Menu on lockscreen -->
+    <string name="powermenu_lockscreen_title">Видимость меню выключения</string>
+    <string name="powermenu_lockscreen_summary">Показывать меню питания на экране блокировки</string>
     <!-- Battery health -->
+    <string name="battery_health_title">Состояние батареи</string>
+    <string name="battery_health_summary">Отслеживать состояние батареи вашего устройства</string>
+    <string name="current_battery_capacity">Текущая емкость батареи</string>
+    <string name="current_battery_capacity_summary">Текущая ёмкость батареи, измеренная ядром</string>
+    <string name="designed_battery_capacity">Расчётная ёмкость батареи</string>
+    <string name="designed_battery_capacity_summary">Емкость аккумулятора рассчитана производителем</string>
+    <!-- Clipboard toast toggle -->
+    <string name="show_clipboard_toast">Показывать оповещения о доступе к буферу обмена</string>
+    <string name="show_clipboard_toast_summary">Отображать всплывающее уведомление, когда приложение пытается получить доступ к буферу обмена</string>
+    <!-- Data usage -->
+    <string name="data_usage_period">Период использования данных</string>
+    <string name="data_usage_daily">Ежедневно</string>
+    <string name="data_usage_monthly">Ежемесячно</string>
+    <!-- Title for connected TWS device group [CHAR LIMIT=none]-->
 </resources>
