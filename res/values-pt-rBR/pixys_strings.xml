@@ -119,6 +119,7 @@
     <string name="refresh_rate_summary_120">120Hz / Taxa de atualização bloqueada a 120Hz para todo o conteúdo. Aumenta o consumo da bateria</string>
     <string name="auto_refresh_rate">Automático</string>
     <!-- LiveDisplay -->
+    <string name="live_display_summary">Optimize your screen based on time of day and ambient conditions to improve readability and reduce eyestrain</string>
     <!-- LiveDisplay : Picture Adjustment -->
     <!-- Power Menu on lockscreen -->
     <!-- Battery health -->
@@ -130,4 +131,5 @@
     <string name="data_usage_daily">Diário</string>
     <string name="data_usage_monthly">Mensal</string>
     <!-- Title for connected TWS device group [CHAR LIMIT=none]-->
+    <!-- Custom light color -->
 </resources>

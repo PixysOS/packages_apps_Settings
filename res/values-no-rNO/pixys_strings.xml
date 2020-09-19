@@ -16,23 +16,53 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Strings for suggestion card's close button [CHAR LIMIT=20] -->
+    <string name="suggestion_button_close">Lukk</string>
     <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">Google Play</string>
     <!-- Battery Temp. -->
+    <string name="battery_temp">Batteritemperatur</string>
     <!-- Hardware info -->
     <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
+    <string name="platform_revision">Plattform</string>
     <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
+    <string name="total_ram">Totalt RAM</string>
     <!-- Pixys Settings -->
+    <string name="pixys_title">Utforsk</string>
+    <string name="build_tweaks_summary_title">La oss utforske godbitene</string>
     <!-- PixysOS version preference -->
+    <string name="pixys_version">"PixysOS versjon"</string>
+    <string name="build_date">"Byggedato"</string>
     <!-- Fingerprint location message - default -->
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="default">Finn fingeravtrykkssensoren på framsiden av telefonen din.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="default">Finn fingeravtrykkssensoren på venstresiden av telefonen din.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="default">Finn fingeravtrykkssensoren på høyresiden av telefonen din.</string>
     <!-- Fingerprint location message - generic -->
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="device">Finn fingeravtrykkssensoren på framsiden av enheten din.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="device">Finn fingeravtrykkssensoren på venstresiden av enheten din.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="device">Finn fingeravtrykkssensoren på høyresiden av enheten din.</string>
     <!-- Fingerprint location message - tablet -->
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="tablet">Finn fingeravtrykkssensoren på framsiden av nettbrettet ditt.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="tablet">Finn fingeravtrykkssensoren på venstresiden av nettbrettet ditt.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="tablet">Finn fingeravtrykkssensoren på høyresiden av nettbrettet ditt.</string>
     <!-- Battery stats reset -->
+    <string name="battery_stats_reset">Tilbakestill statistikk</string>
+    <string name="battery_stats_message">Batterihistoriestatistikken skal bli tilbakestilt</string>
     <!-- Screenshot sound -->
+    <string name="screenshot_sound_title">Skjermbilde lyd</string>
     <!-- Notch behavior -->
+    <string name="display_cutout_mode_title">Hakk oppførsel</string>
+    <string name="display_cutout_mode_normal">Standard</string>
+    <string name="display_cutout_mode_hidden">Gjemt</string>
     <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">Fullskjerm apper</string>
+    <string name="display_cutout_force_fullscreen_summary">Tving apper til å ignorere hakkplass</string>
     <!-- Volume link notification -->
+    <string name="volume_link_notification_title">Link ringetone &amp; varsling volumer</string>
     <!-- String for removal of sensitive info on about, depending on tap -->
+    <string name="device_info_protected_single_press">Trykk for å vise informasjon</string>
     <!-- Gesture Navigation -->
+    <string name="back_height_low_label">Full</string>
+    <string name="back_height_high_label">Bunn</string>
     <!-- NavigationBar Gestural Mode Tweaks -->
     <!-- Hostname setting -->
     <!-- Doze on double tap -->
@@ -50,4 +80,5 @@
     <!-- Clipboard toast toggle -->
     <!-- Data usage -->
     <!-- Title for connected TWS device group [CHAR LIMIT=none]-->
+    <!-- Custom light color -->
 </resources>

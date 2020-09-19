@@ -188,4 +188,6 @@
     <string name="data_usage_daily">Diario</string>
     <string name="data_usage_monthly">Mensual</string>
     <!-- Title for connected TWS device group [CHAR LIMIT=none]-->
+    <string name="connected_tws_device_saved_title">Auriculares guardados</string>
+    <!-- Custom light color -->
 </resources>
