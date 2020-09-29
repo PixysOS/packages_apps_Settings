@@ -139,13 +139,6 @@
     <string name="privacy_chip_statusbar_visibility">Show in statusbar</string>
     <string name="privacy_chip_statusbar_visibility_summary">Show privacy icon in statusbar when important permissions are in use</string>
 
-    <!-- Refresh rate -->
-    <string name="refresh_rate_title">Screen refresh rate</string>
-    <string name="refresh_rate_summary_auto">Auto / Automatically raises the refresh rate from 60 to 120Hz for some content</string>
-    <string name="refresh_rate_summary_60">60Hz / Refresh rate locked at 60Hz for all content</string>
-    <string name="refresh_rate_summary_120">120Hz / Refresh rate locked at 120Hz for all content. Increased battery usage</string>
-    <string name="auto_refresh_rate">Auto</string>
-
     <!-- LiveDisplay -->
     <string name="live_display_summary">Optimize your screen based on time of day and ambient conditions to improve readability and reduce eyestrain</string>
     <string name="live_display_mode">Display mode</string>
