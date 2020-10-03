@@ -242,4 +242,12 @@
     <string name="idle_manager_title">Kill background processes</string>
     <string name="idle_manager_summary">Stop all non-essential background processes when the device is idle</string>
 
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">Full screen apps</string>
+    <string name="display_cutout_force_fullscreen_summary">Force apps to ignore notch space</string>
+
+    <!-- App search preference -->
+    <string name="search">Search</string>
+    <string name="search_apps">Search apps</string>
+
 </resources>
