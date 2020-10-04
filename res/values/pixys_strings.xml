@@ -49,4 +49,10 @@
 
     <!-- Screenshot sound -->
     <string name="screenshot_sound_title">Screenshot sound</string>
+
+    <!-- Navbar length -->
+    <string name="navbar_length">Gesture bar length</string>
+    <string name="short_label">Short</string>
+    <string name="long_label">Long</string>
+
 </resources>
