@@ -123,4 +123,8 @@
     <string name="show_network_traffic_down">Download</string>
     <string name="show_network_traffic_all">Both</string>
     <string name="network_traffic_font_size_title">Single net font size</string>
+
+    <!-- Notification headers -->
+    <string name="notification_headers_title">Notification Headers</string>
+    <string name="notification_headers_summary">Show headers in the notification shade</string>
 </resources>
