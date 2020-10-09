@@ -266,4 +266,8 @@
     <!-- Volume dialog position -->
     <string name="volume_panel_on_left_title">Left volume panel</string>
     <string name="volume_panel_on_left_summary">Show the volume panel on the left side of the screen</string>    
+
+    <!-- Notification headers -->
+    <string name="notification_headers_title">Notification Headers</string>
+    <string name="notification_headers_summary">Show headers in the notification shade</string>
 </resources>

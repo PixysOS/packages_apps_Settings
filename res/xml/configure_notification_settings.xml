@@ -149,6 +149,12 @@
                 android:targetClass="com.android.cellbroadcastreceiver.CellBroadcastSettings"/>
         </com.android.settingslib.RestrictedPreference>
 
+        <com.pixys.support.preference.SystemSettingSwitchPreference
+            android:key="notification_headers"
+            android:title="@string/notification_headers_title"
+            android:summary="@string/notification_headers_summary"
+            android:defaultValue="true" />
+
         <SwitchPreference
              android:key="silent_icons"
              android:order="19"
