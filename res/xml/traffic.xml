@@ -44,13 +44,14 @@
         android:max="10"
         settings:min="0"
         settings:defaultValue="1"
-        settings:units="" />
+        settings:units="KB/s" />
 
     <com.pixys.support.preference.CustomSeekBarPreference
         android:key="network_traffic_font_size"
-        android:title="@string/nettraf_font_size"
-        android:max="46"
-        android:min="26"
-        settings:defaultValue="36"
+        android:title="@string/network_traffic_font_size_title"
+        android:max="15"
+        android:min="6"
+        settings:defaultValue="10"
         settings:units="dp" />
+
 </PreferenceScreen>
