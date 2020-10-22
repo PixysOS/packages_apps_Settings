@@ -32,11 +32,13 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.View.OnLongClickListener;
 import android.widget.TextView;
+import androidx.preference.Preference;
 
 import androidx.annotation.VisibleForTesting;
 import androidx.loader.app.LoaderManager;
 import androidx.loader.app.LoaderManager.LoaderCallbacks;
 import androidx.loader.content.Loader;
+import androidx.preference.Preference;
 
 import com.android.settings.R;
 import com.android.settings.SettingsActivity;
@@ -226,6 +228,19 @@ public class PowerUsageSummary extends PowerUsageBase implements OnLongClickList
     }
 
     @Override
+    public boolean onPreferenceTreeClick(Preference preference) {
+        if (KEY_BATTERY_HEADER.equals(preference.getKey())) {
+            new SubSettingLauncher(getContext())
+                        .setDestination(PowerUsageAdvanced.class.getName())
+                        .setSourceMetricsCategory(getMetricsCategory())
+                        .setTitleRes(R.string.advanced_battery_title)
+                        .launch();
+            return true;
+        }
+        return super.onPreferenceTreeClick(preference);
+    }
+
+    @Override
     public void onResume() {
         super.onResume();
         getContentResolver().registerContentObserver(
@@ -299,7 +314,7 @@ public class PowerUsageSummary extends PowerUsageBase implements OnLongClickList
         // reload BatteryInfo and updateUI
         restartBatteryInfoLoader();
         updateLastFullChargePreference();
-        mScreenUsagePref.setSubtitle(StringUtil.formatElapsedTime(getContext(),
+        mScreenUsagePref.setSummary(StringUtil.formatElapsedTime(getContext(),
                 mBatteryUtils.calculateScreenUsageTime(mStatsHelper), false));
     }
 
@@ -318,14 +333,14 @@ public class PowerUsageSummary extends PowerUsageBase implements OnLongClickList
         if (mBatteryInfo != null && mBatteryInfo.averageTimeToDischarge
                 != EstimateKt.AVERAGE_TIME_TO_DISCHARGE_UNKNOWN) {
             mLastFullChargePref.setTitle(R.string.battery_full_charge_last);
-            mLastFullChargePref.setSubtitle(
+            mLastFullChargePref.setSummary(
                     StringUtil.formatElapsedTime(getContext(), mBatteryInfo.averageTimeToDischarge,
                             false /* withSeconds */));
         } else {
             final long lastFullChargeTime = mBatteryUtils.calculateLastFullChargeTime(mStatsHelper,
                     System.currentTimeMillis());
             mLastFullChargePref.setTitle(R.string.battery_last_full_charge);
-            mLastFullChargePref.setSubtitle(
+            mLastFullChargePref.setSummary(
                     StringUtil.formatRelativeTime(getContext(), lastFullChargeTime,
                             false /* withSeconds */));
         }

@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2017 The Android Open Source Project
+ * Copyright (C) 2020 The Android Open Source Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -17,7 +17,6 @@
 package com.android.settings.development;
 
 import android.content.Context;
-import android.os.Build;
 import android.provider.Settings;
 
 import androidx.annotation.VisibleForTesting;
@@ -27,59 +26,48 @@ import androidx.preference.SwitchPreference;
 import com.android.settings.core.PreferenceControllerMixin;
 import com.android.settingslib.development.DeveloperOptionsPreferenceController;
 
-public class NotificationChannelWarningsPreferenceController extends
+/**
+ * Controls whether the media player should be visible in quick settings.
+ */
+public class QuickSettingsMediaPlayerPreferenceController extends
         DeveloperOptionsPreferenceController implements Preference.OnPreferenceChangeListener,
         PreferenceControllerMixin {
+    private static final String PREFERENCE_KEY = "quick_settings_media_player";
+    @VisibleForTesting
+    static final String SETTING_NAME = Settings.Global.SHOW_MEDIA_ON_QUICK_SETTINGS;
+    @VisibleForTesting
+    static final int SETTING_VALUE_ON = 1;
+    @VisibleForTesting
+    static final int SETTING_VALUE_OFF = 0;
 
-    private static final String SHOW_NOTIFICATION_CHANNEL_WARNINGS_KEY =
-            "show_notification_channel_warnings";
-
-    @VisibleForTesting
-    final static int SETTING_VALUE_ON = 1;
-    @VisibleForTesting
-    final static int SETTING_VALUE_OFF = 0;
-    @VisibleForTesting
-    final static int DEBUGGING_ENABLED = 1;
-    @VisibleForTesting
-    final static int DEBUGGING_DISABLED = 0;
-
-    public NotificationChannelWarningsPreferenceController(Context context) {
+    public QuickSettingsMediaPlayerPreferenceController(Context context) {
         super(context);
     }
 
-
     @Override
     public String getPreferenceKey() {
-        return SHOW_NOTIFICATION_CHANNEL_WARNINGS_KEY;
+        return PREFERENCE_KEY;
     }
 
     @Override
     public boolean onPreferenceChange(Preference preference, Object newValue) {
         final boolean isEnabled = (Boolean) newValue;
-        Settings.Global.putInt(mContext.getContentResolver(),
-                Settings.Global.SHOW_NOTIFICATION_CHANNEL_WARNINGS,
+        Settings.Global.putInt(mContext.getContentResolver(), SETTING_NAME,
                 isEnabled ? SETTING_VALUE_ON : SETTING_VALUE_OFF);
         return true;
     }
 
     @Override
     public void updateState(Preference preference) {
-        final int defaultWarningEnabled = isDebuggable() ? DEBUGGING_ENABLED : DEBUGGING_DISABLED;
-        final int mode = Settings.Global.getInt(mContext.getContentResolver(),
-                Settings.Global.SHOW_NOTIFICATION_CHANNEL_WARNINGS, defaultWarningEnabled);
+        final int mode = Settings.Global.getInt(mContext.getContentResolver(), SETTING_NAME,
+                SETTING_VALUE_OFF);
         ((SwitchPreference) mPreference).setChecked(mode != SETTING_VALUE_OFF);
     }
 
     @Override
     protected void onDeveloperOptionsSwitchDisabled() {
         super.onDeveloperOptionsSwitchDisabled();
-        Settings.Global.putInt(mContext.getContentResolver(),
-                Settings.Global.SHOW_NOTIFICATION_CHANNEL_WARNINGS, SETTING_VALUE_OFF);
+        Settings.Global.putInt(mContext.getContentResolver(), SETTING_NAME, SETTING_VALUE_OFF);
         ((SwitchPreference) mPreference).setChecked(false);
-    }
-
-    @VisibleForTesting
-    boolean isDebuggable() {
-        return Build.TYPE.equals("eng");
     }
 }
