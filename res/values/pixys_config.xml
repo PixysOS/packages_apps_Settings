@@ -38,4 +38,7 @@
 
     <!-- Screen off FOD -->
     <bool name="config_supportScreenOffFod">false</bool>
+
+    <!-- FOD recognizing animation -->
+    <bool name="config_showFODAnimationSettings">false</bool>
 </resources>
