@@ -239,4 +239,12 @@
     <string name="lockpattern_settings_enable_error_path_title">Show pattern error</string>
     <!-- Whether the dots will be drawn when using the lockscreen pattern -->
     <string name="lockpattern_settings_enable_dots_title">Show pattern dots</string>
+
+     <!-- Horizon Light -->
+    <string name="pulse_ambient_light_title">Edge notifications</string>
+    <string name="pulse_ambient_light_summary">Light up the side edges of the screen on notification pulse</string>
+     <string name="ambient_notification_light_accent_title">System accent color</string>
+    <string name="ambient_notification_light_color_automatic_title">Notification color</string>
+    <string name="pulse_ambient_light_color">When pulsing, use</string>
+
 </resources>
