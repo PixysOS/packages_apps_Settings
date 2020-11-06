@@ -61,4 +61,8 @@
     <!-- String for removal of sensitive info on about, depending on tap -->
     <string name="device_info_protected_single_press">Tap to show info</string>
 
+    <!-- Double tap-to-sleep -->
+    <string name="double_tap_to_sleep_title">Status bar sleep gesture</string>
+    <string name="status_bar_title">Double-tap status bar gesture</string>
+    <string name="double_tap_to_sleep_summary">Double-tap status bar to put the device to sleep</string>
 </resources>
