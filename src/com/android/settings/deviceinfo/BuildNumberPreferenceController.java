@@ -98,7 +98,7 @@ public class BuildNumberPreferenceController extends BasePreferenceController im
 
     @Override
     public CharSequence getSummary() {
-        return BidiFormatter.getInstance().unicodeWrap(Build.DISPLAY);
+        return BidiFormatter.getInstance().unicodeWrap(Build.ID);
     }
 
     @Override
