@@ -27,7 +27,11 @@ android_library {
         "SettingsLib-search-defaults",
     ],
 
-    srcs: ["src/**/*.java"],
+    srcs: ["src/**/*.java", "PixysSettings/src/**/*.java"],
+
+    aaptflags: ["--extra-packages com.pixys.settings"],
+
+    resource_dirs: ["res", "PixysSettings/res"],
 
     static_libs: [
         "androidx-constraintlayout_constraintlayout",
@@ -62,6 +66,11 @@ android_library {
         "ims-common",
         "app-compat-annotations",
     ],
+
+    optimize: {
+        proguard_flags_files: ["proguard-core.flags"],
+    },
+    
 }
 
 platform_compat_config {

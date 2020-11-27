@@ -1,0 +1,2 @@
+# PixysOS Extras
+-keep class com.pixys.settings.**
