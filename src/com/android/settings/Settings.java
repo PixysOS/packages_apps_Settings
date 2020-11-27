@@ -240,4 +240,9 @@ public class Settings extends SettingsActivity {
      */
     public static class MediaControlsSettingsActivity extends SettingsActivity {}
 
+    /*
+     * Activity for Pixys Settings
+     */
+    public static class PixysSettingsActivity extends SettingsActivity {}
+
 }
