@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright 2020 Pixys OS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- PixysOS version preference -->
+    <string name="pixys_version">"PixysOS versjon"</string>
+    <string name="build_date">"Byggedato"</string>
+    <!-- Format string for fingerprint location message -->
+    <!-- Fingerprint sensor locations -->
+    <!-- Title for connected TWS device group [CHAR LIMIT=none]-->
+    <string name="connected_tws_device_saved_title">Lagrede øretelefoner</string>
+    <!-- Refresh rate -->
+    <string name="refresh_rate_title">Oppdateringsfrekvens for skjermen</string>
+    <string name="refresh_rate_auto">Automatisk</string>
+    <string name="refresh_rate_60">60 Hz (sparer batteri)</string>
+    <!-- Three-fingers-swipe to screenshot -->
+    <string name="three_finger_gesture">Dra for å se skjermbilde</string>
+    <string name="three_finger_gesture_summary">Dra ned med tre fingre for å ta et skjermbilde</string>
+    <!-- Screenshot sound -->
+    <string name="screenshot_sound_title">Skjermbilde lyd</string>
+    <!-- Navbar length -->
+    <string name="navbar_length">Bevegelse stolpens lengde</string>
+    <string name="hidden_label">Skjult</string>
+    <string name="long_label">Lang</string>
+    <!-- Global Actions -->
+    <string name="global_actions_advanced_reboot_title">Aktiver avansert omstart</string>
+    <string name="global_actions_advanced_reboot_summary">Vis alternativer for gjenoppretting og bootloader</string>
+    <string name="power_menu_advanced_category">Avansert</string>
+    <string name="battery_temp">Batteritemperatur</string>
+    <!-- String for removal of sensitive info on about, depending on tap -->
+    <string name="device_info_protected_single_press">Trykk for å vise informasjon</string>
+</resources>
