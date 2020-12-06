@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright 2020 Pixys OS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- PixysOS version preference -->
+    <string name="pixys_version">"Wersja PixysOS"</string>
+    <string name="build_date">"Data kompilacji"</string>
+    <!-- Format string for fingerprint location message -->
+    <!-- Fingerprint sensor locations -->
+    <!-- Title for connected TWS device group [CHAR LIMIT=none]-->
+    <string name="connected_tws_device_saved_title">Zapisane słuchawki</string>
+    <!-- Refresh rate -->
+    <string name="refresh_rate_title">Częstotliwość odświeżania ekranu</string>
+    <string name="refresh_rate_auto">Automatycznie</string>
+    <string name="refresh_rate_60">60Hz (oszczędza baterię)</string>
+    <!-- Three-fingers-swipe to screenshot -->
+    <string name="three_finger_gesture">Przesuń, aby zrobić zrzut ekranu</string>
+    <string name="three_finger_gesture_summary">Przeciągnij w dół trzema palcami aby zrobić zrzut ekranu</string>
+    <!-- Screenshot sound -->
+    <string name="screenshot_sound_title">Dźwięk zrzutu ekranu</string>
+    <!-- Navbar length -->
+    <string name="navbar_length">Długość paska gestów</string>
+    <string name="hidden_label">Ukryty</string>
+    <string name="long_label">Długo</string>
+    <!-- Global Actions -->
+    <string name="global_actions_advanced_reboot_title">Zaawansowany restart</string>
+    <string name="global_actions_advanced_reboot_summary">Pokaż opcje recovery i bootloadera</string>
+    <string name="power_menu_advanced_category">Zaawansowane</string>
+    <string name="battery_temp">Temperatura baterii</string>
+    <!-- String for removal of sensitive info on about, depending on tap -->
+    <string name="device_info_protected_single_press">Dotknij, aby wyświetlić informacje</string>
+</resources>

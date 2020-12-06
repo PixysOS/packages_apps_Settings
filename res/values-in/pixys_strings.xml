@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright 2020 Pixys OS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- PixysOS version preference -->
+    <string name="pixys_version">"Versi PixysOS"</string>
+    <string name="build_date">"Tanggal Pembuatan"</string>
+    <!-- Format string for fingerprint location message -->
+    <!-- Fingerprint sensor locations -->
+    <!-- Title for connected TWS device group [CHAR LIMIT=none]-->
+    <string name="connected_tws_device_saved_title">Earbud tersimpan</string>
+    <!-- Refresh rate -->
+    <string name="refresh_rate_title">Kecepatan refresh layar</string>
+    <string name="refresh_rate_auto">Otomatis</string>
+    <string name="refresh_rate_60">60Hz (hemat baterai)</string>
+    <!-- Three-fingers-swipe to screenshot -->
+    <string name="three_finger_gesture">Usap untuk menangkap layar</string>
+    <string name="three_finger_gesture_summary">Usap tiga jari ke bawah untuk menangkap layar</string>
+    <!-- Screenshot sound -->
+    <string name="screenshot_sound_title">Suara tangkapan layar</string>
+    <!-- Navbar length -->
+    <string name="navbar_length">Panjang bilah gerakan</string>
+    <string name="hidden_label">Sembunyikan</string>
+    <string name="long_label">Panjang</string>
+    <!-- Global Actions -->
+    <string name="global_actions_advanced_reboot_title">Aktifkan pengaturan lanjutan</string>
+    <string name="global_actions_advanced_reboot_summary">Tampilkan opsi untuk pemulihan dan bootloader</string>
+    <string name="power_menu_advanced_category">Lanjutan</string>
+    <string name="battery_temp">Temperatur Baterai</string>
+    <!-- String for removal of sensitive info on about, depending on tap -->
+    <string name="device_info_protected_single_press">Sentuh untuk melihat info</string>
+</resources>
