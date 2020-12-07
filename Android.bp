@@ -33,6 +33,8 @@ android_library {
 
     resource_dirs: ["res", "PixysSettings/res"],
 
+    asset_dirs: ["PixysSettings/assets"],
+
     static_libs: [
         "androidx-constraintlayout_constraintlayout",
         "androidx.slice_slice-builders",
