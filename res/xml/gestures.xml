@@ -20,6 +20,10 @@
     xmlns:settings="http://schemas.android.com/apk/res-auto"
     android:title="@string/gesture_preference_title">
 
+        <PreferenceCategory
+	    android:key="gesture_settings"
+            android:title="@string/gesture_preference_aosp">
+
     <Preference
         android:key="gesture_assist_input_summary"
         android:title="@string/assist_gesture_title"
@@ -39,12 +43,6 @@
         android:fragment="com.android.settings.gestures.DoubleTapPowerSettings"
         settings:searchable="false"
         settings:controller="com.android.settings.gestures.DoubleTapPowerPreferenceController" />
-
-    <Preference
-        android:key="power_button_torch_summary"
-        android:title="@string/power_button_torch_title"
-        android:fragment="com.android.settings.gestures.PowerButtonTorchSettings"
-        settings:controller="com.android.settings.gestures.PowerButtonTorchGesturePreferenceController" />
 
     <Preference
         android:key="gesture_double_twist_input_summary"
@@ -87,6 +85,18 @@
         android:fragment="com.android.settings.gestures.PreventRingingGestureSettings"
         settings:controller="com.android.settings.gestures.PreventRingingParentPreferenceController" />
 
+    <Preference
+        android:key="gesture_power_menu_summary"
+        android:title="@string/power_menu_setting_name"
+        android:fragment="com.android.settings.gestures.PowerMenuSettings"
+        settings:controller="com.android.settings.gestures.PowerMenuPreferenceController" />
+
+   </PreferenceCategory>
+
+        <PreferenceCategory
+	    android:key="gesture_settings"
+            android:title="@string/gesture_preference_pixys">
+
       <Preference
         android:key="three_finger_gesture_summary"
         android:title="@string/three_finger_gesture"
@@ -100,14 +110,17 @@
         settings:controller="com.android.settings.gestures.StatusBarGesturePreferenceController" />
 
     <Preference
-        android:key="gesture_power_menu_summary"
-        android:title="@string/power_menu_setting_name"
-        android:fragment="com.android.settings.gestures.PowerMenuSettings"
-        settings:controller="com.android.settings.gestures.PowerMenuPreferenceController" />
+        android:key="power_button_torch_summary"
+        android:title="@string/power_button_torch_title"
+        android:fragment="com.android.settings.gestures.PowerButtonTorchSettings"
+        settings:controller="com.android.settings.gestures.PowerButtonTorchGesturePreferenceController" />
 
     <Preference
         android:key="gesture_volume_skiptrack_summary"
         android:title="@string/volume_skiptrack_screen_title"
         android:fragment="com.android.settings.gestures.VolumeSkipTrackSettings"
         settings:controller="com.android.settings.gestures.VolumeSkipTrackPreferenceController" />
+
+   </PreferenceCategory>
+
 </PreferenceScreen>
