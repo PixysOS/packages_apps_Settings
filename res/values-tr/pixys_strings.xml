@@ -19,7 +19,14 @@
     <string name="pixys_version">"PixysOS sürümü"</string>
     <string name="build_date">"Yapım tarihi"</string>
     <!-- Format string for fingerprint location message -->
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="tablet">Tabletinizin üzerinde bulunan <xliff:g id="sensor_location">%1$s</xliff:g> parmak izi sensörünü bulun.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="device">Cihazınızın <xliff:g id="sensor_location">%1$s</xliff:g> parmak izi sensörünü bulun.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="default">Telefonunuzda bulunan <xliff:g id="sensor_location">%1$s</xliff:g> parmak izi sensörünü bulun.</string>
     <!-- Fingerprint sensor locations -->
+    <string name="security_settings_fingerprint_sensor_location_back">geri</string>
+    <string name="security_settings_fingerprint_sensor_location_front">ön</string>
+    <string name="security_settings_fingerprint_sensor_location_left">sol taraf</string>
+    <string name="security_settings_fingerprint_sensor_location_right">sağ taraf</string>
     <!-- Title for connected TWS device group [CHAR LIMIT=none]-->
     <string name="connected_tws_device_saved_title">Kaydedilmiş Kulaklıklar</string>
     <!-- Refresh rate -->
@@ -42,4 +49,14 @@
     <string name="battery_temp">Pil sıcaklığı</string>
     <!-- String for removal of sensitive info on about, depending on tap -->
     <string name="device_info_protected_single_press">Bilgileri göstermek için dokunun</string>
+    <!-- Double tap-to-sleep -->
+    <!-- Hardware info -->
+    <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
+    <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
+    <!-- Volume rocker gestures -->
+    <!-- Torch Power button gestures -->
+    <!-- Gestures -->
+    <!-- Screen off fod -->
+    <!-- FOD animations -->
+    <!-- Hotspot extras -->
 </resources>

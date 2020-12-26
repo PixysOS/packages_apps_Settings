@@ -19,16 +19,23 @@
     <string name="pixys_version">"Phiên bản PixysOS"</string>
     <string name="build_date">"Ngày dựng"</string>
     <!-- Format string for fingerprint location message -->
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="tablet">Đặt ngón tay của bạn vào <xliff:g id="sensor_location">%1$s</xliff:g> trên máy tính bảng của bạn để nhận dạng vân tay.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="device">Đặt ngón tay của bạn vào <xliff:g id="sensor_location">%1$s</xliff:g> trên thiết bị của bạn để nhận dạng vân tay.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="default">Đặt ngón tay của bạn vào <xliff:g id="sensor_location">%1$s</xliff:g> trên điện thoại của bạn để nhận dạng vân tay.</string>
     <!-- Fingerprint sensor locations -->
+    <string name="security_settings_fingerprint_sensor_location_back">mặt sau</string>
+    <string name="security_settings_fingerprint_sensor_location_front">mặt trước</string>
+    <string name="security_settings_fingerprint_sensor_location_left">mặt bên tay trái</string>
+    <string name="security_settings_fingerprint_sensor_location_right">mặt bên tay phải</string>
     <!-- Title for connected TWS device group [CHAR LIMIT=none]-->
-    <string name="connected_tws_device_saved_title">Lưu trạng thái tai nghe</string>
+    <string name="connected_tws_device_saved_title">Danh sách tai nghe đã lưu</string>
     <!-- Refresh rate -->
     <string name="refresh_rate_title">Tốc độ làm tươi màn hình</string>
     <string name="refresh_rate_auto">Tự động</string>
     <string name="refresh_rate_60">60Hz (tiết kiệm pin)</string>
     <!-- Three-fingers-swipe to screenshot -->
     <string name="three_finger_gesture">Vuốt để chụp ảnh màn hình</string>
-    <string name="three_finger_gesture_summary">Vuốt ba ngón tay để chụp ảnh màn hình</string>
+    <string name="three_finger_gesture_summary">Vuốt xuống ba ngón tay để chụp ảnh màn hình</string>
     <!-- Screenshot sound -->
     <string name="screenshot_sound_title">Âm thanh chụp màn hình</string>
     <!-- Navbar length -->
@@ -36,10 +43,23 @@
     <string name="hidden_label">Ẩn</string>
     <string name="long_label">Dài</string>
     <!-- Global Actions -->
-    <string name="global_actions_advanced_reboot_title">Bật tính năng nâng cao</string>
-    <string name="global_actions_advanced_reboot_summary">Hiển thị các tùy chọn cho recovery và bootloader</string>
-    <string name="power_menu_advanced_category">Tuỳ chọn nâng cao</string>
+    <string name="global_actions_advanced_reboot_title">Bật thêm nhiều tùy chọn khởi động hơn</string>
+    <string name="global_actions_advanced_reboot_summary">Hiển thị mục khởi động vào recovery và bootloader</string>
+    <string name="power_menu_advanced_category">Tùy chọn nâng cao</string>
     <string name="battery_temp">Nhiệt độ pin</string>
     <!-- String for removal of sensitive info on about, depending on tap -->
     <string name="device_info_protected_single_press">Chạm để hiện thông tin</string>
+    <!-- Double tap-to-sleep -->
+    <string name="double_tap_to_sleep_title">Cử chỉ tắt máy trên thanh trạng thái</string>
+    <string name="status_bar_title">Nhấn hai lần vào thanh trạng thái để tắt màn hình</string>
+    <string name="double_tap_to_sleep_summary">Nhấn hai lần vào thanh trạng thái để tắt điện thoại</string>
+    <!-- Hardware info -->
+    <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
+    <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
+    <!-- Volume rocker gestures -->
+    <!-- Torch Power button gestures -->
+    <!-- Gestures -->
+    <!-- Screen off fod -->
+    <!-- FOD animations -->
+    <!-- Hotspot extras -->
 </resources>

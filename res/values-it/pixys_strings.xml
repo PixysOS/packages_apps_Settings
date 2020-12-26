@@ -19,7 +19,14 @@
     <string name="pixys_version">"Versione di PixysOS"</string>
     <string name="build_date">"Data della build"</string>
     <!-- Format string for fingerprint location message -->
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="tablet">Individua il sensore fingerprint al <xliff:g id="sensor_location">%1$s</xliff:g> del tuo tablet.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="device">Individua il sensore fingerprint al <xliff:g id="sensor_location">%1$s</xliff:g> del tuo device.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="default">Individua il sensore fingerprint al <xliff:g id="sensor_location">%1$s</xliff:g> del tuo telefono.</string>
     <!-- Fingerprint sensor locations -->
+    <string name="security_settings_fingerprint_sensor_location_back">indietro</string>
+    <string name="security_settings_fingerprint_sensor_location_front">davanti</string>
+    <string name="security_settings_fingerprint_sensor_location_left">lato sinistro</string>
+    <string name="security_settings_fingerprint_sensor_location_right">lato destro</string>
     <!-- Title for connected TWS device group [CHAR LIMIT=none]-->
     <string name="connected_tws_device_saved_title">Auricolari salvati</string>
     <!-- Refresh rate -->
@@ -42,4 +49,14 @@
     <string name="battery_temp">Temperatura della batteria</string>
     <!-- String for removal of sensitive info on about, depending on tap -->
     <string name="device_info_protected_single_press">Tocca per mostrare le informazioni</string>
+    <!-- Double tap-to-sleep -->
+    <!-- Hardware info -->
+    <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
+    <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
+    <!-- Volume rocker gestures -->
+    <!-- Torch Power button gestures -->
+    <!-- Gestures -->
+    <!-- Screen off fod -->
+    <!-- FOD animations -->
+    <!-- Hotspot extras -->
 </resources>

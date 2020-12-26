@@ -25,4 +25,14 @@
     <!-- Navbar length -->
     <!-- Global Actions -->
     <!-- String for removal of sensitive info on about, depending on tap -->
+    <!-- Double tap-to-sleep -->
+    <!-- Hardware info -->
+    <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
+    <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
+    <!-- Volume rocker gestures -->
+    <!-- Torch Power button gestures -->
+    <!-- Gestures -->
+    <!-- Screen off fod -->
+    <!-- FOD animations -->
+    <!-- Hotspot extras -->
 </resources>

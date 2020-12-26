@@ -19,7 +19,14 @@
     <string name="pixys_version">"Versão da PixysOS"</string>
     <string name="build_date">"Data da compilação"</string>
     <!-- Format string for fingerprint location message -->
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="tablet">Localize o sensor de impressão digital no <xliff:g id="sensor_location">%1$s</xliff:g> do seu tablet.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="device">Localize o sensor de impressão digital no <xliff:g id="sensor_location">%1$s</xliff:g> do seu dispositivo.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="default">Localize o sensor de impressão digital no <xliff:g id="sensor_location">%1$s</xliff:g> do seu telefone.</string>
     <!-- Fingerprint sensor locations -->
+    <string name="security_settings_fingerprint_sensor_location_back">voltar</string>
+    <string name="security_settings_fingerprint_sensor_location_front">frente</string>
+    <string name="security_settings_fingerprint_sensor_location_left">lado esquerdo</string>
+    <string name="security_settings_fingerprint_sensor_location_right">lado direito</string>
     <!-- Title for connected TWS device group [CHAR LIMIT=none]-->
     <string name="connected_tws_device_saved_title">Fones de ouvido salvos</string>
     <!-- Refresh rate -->
@@ -42,4 +49,14 @@
     <string name="battery_temp">Temperatura da bateria</string>
     <!-- String for removal of sensitive info on about, depending on tap -->
     <string name="device_info_protected_single_press">Toque para mostrar as informações</string>
+    <!-- Double tap-to-sleep -->
+    <!-- Hardware info -->
+    <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
+    <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
+    <!-- Volume rocker gestures -->
+    <!-- Torch Power button gestures -->
+    <!-- Gestures -->
+    <!-- Screen off fod -->
+    <!-- FOD animations -->
+    <!-- Hotspot extras -->
 </resources>

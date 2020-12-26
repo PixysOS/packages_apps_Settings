@@ -19,7 +19,14 @@
     <string name="pixys_version">"Verze PixysOS"</string>
     <string name="build_date">"Datum kompilace"</string>
     <!-- Format string for fingerprint location message -->
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="tablet">Vyhledejte snímač otisku prstů na <xliff:g id="sensor_location">%1$s</xliff:g> vašeho tabletu.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="device">Vyhledejte snímač otisku prstů na <xliff:g id="sensor_location">%1$s</xliff:g> vašeho zařízení.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="default">Vyhledejte snímač otisku prstů na <xliff:g id="sensor_location">%1$s</xliff:g> straně telefonu.</string>
     <!-- Fingerprint sensor locations -->
+    <string name="security_settings_fingerprint_sensor_location_back">zadní straně</string>
+    <string name="security_settings_fingerprint_sensor_location_front">přední straně</string>
+    <string name="security_settings_fingerprint_sensor_location_left">levé straně</string>
+    <string name="security_settings_fingerprint_sensor_location_right">pravé straně</string>
     <!-- Title for connected TWS device group [CHAR LIMIT=none]-->
     <string name="connected_tws_device_saved_title">Uložená sluchátka</string>
     <!-- Refresh rate -->
@@ -42,4 +49,57 @@
     <string name="battery_temp">Teplota baterie</string>
     <!-- String for removal of sensitive info on about, depending on tap -->
     <string name="device_info_protected_single_press">Klepnutím zobrazíte informace</string>
+    <!-- Double tap-to-sleep -->
+    <string name="double_tap_to_sleep_title">Gesto na stavovém řádku pro režim spánku</string>
+    <string name="status_bar_title">Gesto dvojí poklepání na stavovém řádku</string>
+    <string name="double_tap_to_sleep_summary">Dvojí poklepání na stavový řádek uvede zařízení do režimu spánku</string>
+    <!-- Hardware info -->
+    <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
+    <string name="platform_revision">Platforma</string>
+    <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
+    <string name="total_ram">Celkem paměti RAM</string>
+    <!-- Volume rocker gestures -->
+    <string name="volume_skiptrack_screen_title">Přeskočit hudební skladby</string>
+    <string name="volume_skiptrack_title">Tlačítka hlasitosti přeskočí skladby</string>
+    <string name="volume_skiptrack_summary">Dlouhým stiskem tlačítek hlasitosti přeskočíte skladby při přehrávání hudby, a to i na dálku na TV nebo na PC pomocí např. Spotify (aplikace musí být spuštěna a zobrazovat oznámení).</string>
+    <!-- Torch Power button gestures -->
+    <string name="power_button_torch_title">Rychlá svítilna</string>
+    <string name="power_button_torch_summary">Když je obrazovka vypnutá, dlouhým stiskem tlačítka napájení zapnete svítilnu</string>
+    <!-- Gestures -->
+    <string name="gesture_preference_pixys">Gesta Pixys</string>
+    <string name="gesture_preference_aosp">Gesta AOSP</string>
+    <!-- Screen off fod -->
+    <string name="fod_gesture_title">Otisky prstů při vypnuté obrazovce</string>
+    <string name="fod_gesture_summary">Umožňuje odemknutí zařízení, aniž by bylo nutné nejprve obrazovku probudit</string>
+    <!-- FOD animations -->
+    <string name="fod_recog_animation">Animace při odemknutí otiskem prstu</string>
+    <string name="fod_recog_animation_summary">Zobrazit animaci při skenování otisku prstu</string>
+    <string name="fod_recog_animation_effect_title">Vybrat efekt animace otisku prstu</string>
+    <string name="fod_recog_animation_miui_normal">MIUI - výchozí</string>
+    <string name="fod_recog_animation_miui_aod">MIUI - AOD</string>
+    <string name="fod_recog_animation_miui_aurora">Aurora (K30 Pro)</string>
+    <string name="fod_recog_animation_miui_aurora_cas">Aurora (Mi 10 Ultra)</string>
+    <string name="fod_recog_animation_miui_light">Světlo</string>
+    <string name="fod_recog_animation_miui_pop">Pop</string>
+    <string name="fod_recog_animation_miui_pulse">Pulse</string>
+    <string name="fod_recog_animation_miui_pulse_white">Pulse (bílé)</string>
+    <string name="fod_recog_animation_miui_rhythm">Rytmus</string>
+    <string name="fod_recog_animation_miui_star_cas">Světlo hvězd</string>
+    <string name="fod_recog_animation_op_cosmos">Kosmos</string>
+    <string name="fod_recog_animation_op_energy">Energie</string>
+    <string name="fod_recog_animation_op_mclaren">McLaren</string>
+    <string name="fod_recog_animation_op_ripple">Vlnka</string>
+    <string name="fod_recog_animation_op_scanning">Skenování (Cyberpunk 2077)</string>
+    <string name="fod_recog_animation_op_stripe">Proužek</string>
+    <string name="fod_recog_animation_op_wave">Vlna</string>
+    <string name="fod_recog_animation_pureview_dna">DNA</string>
+    <string name="fod_recog_animation_pureview_future">Budoucnost</string>
+    <string name="fod_recog_animation_pureview_halo_ring">Kruh Halo</string>
+    <string name="fod_recog_animation_pureview_molecular">Molekulární</string>
+    <string name="fod_recog_animation_rog_fusion">Fúze</string>
+    <string name="fod_recog_animation_rog_pulsar">Pulsar</string>
+    <string name="fod_recog_animation_rog_supernova">Supernova</string>
+    <!-- Hotspot extras -->
+    <string name="tethering_allow_vpn_upstreams_title">Umožnit klientům používat VPN</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Povolit klientům hotspotu používat připojení VPN tohoto zařízení pro odchozí připojení</string>
 </resources>

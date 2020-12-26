@@ -16,13 +16,90 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- PixysOS version preference -->
+    <string name="pixys_version">"PixysOS バージョン"</string>
+    <string name="build_date">"ビルド日時"</string>
     <!-- Format string for fingerprint location message -->
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="tablet">タブレットの <xliff:g id="sensor_location">%1$s</xliff:g> にある指紋認証センサーを探します</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="device">端末の <xliff:g id="sensor_location">%1$s</xliff:g> にある指紋認証センサーを探します</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="default">スマートフォンの <xliff:g id="sensor_location">%1$s</xliff:g> にある指紋認証センサーを探します</string>
     <!-- Fingerprint sensor locations -->
+    <string name="security_settings_fingerprint_sensor_location_back">背面</string>
+    <string name="security_settings_fingerprint_sensor_location_front">前面</string>
+    <string name="security_settings_fingerprint_sensor_location_left">左側</string>
+    <string name="security_settings_fingerprint_sensor_location_right">右側</string>
     <!-- Title for connected TWS device group [CHAR LIMIT=none]-->
+    <string name="connected_tws_device_saved_title">保存されたイヤホン</string>
     <!-- Refresh rate -->
+    <string name="refresh_rate_title">画面リフレッシュレート</string>
+    <string name="refresh_rate_auto">自動</string>
+    <string name="refresh_rate_60">60Hz (バッテリー節約)</string>
     <!-- Three-fingers-swipe to screenshot -->
+    <string name="three_finger_gesture">スワイプでスクリーンショット</string>
+    <string name="three_finger_gesture_summary">3本指で下スワイプしてスクリーンショットを取得する</string>
     <!-- Screenshot sound -->
+    <string name="screenshot_sound_title">スクリーンショットの音</string>
     <!-- Navbar length -->
+    <string name="navbar_length">ジェスチャーバーの長さ</string>
+    <string name="hidden_label">非表示</string>
+    <string name="long_label">長い</string>
     <!-- Global Actions -->
+    <string name="global_actions_advanced_reboot_title">高度な再起動の有効化</string>
+    <string name="global_actions_advanced_reboot_summary">リカバリーとブートローダーのオプションを表示する</string>
+    <string name="power_menu_advanced_category">高度な再起動</string>
+    <string name="battery_temp">バッテリー温度</string>
     <!-- String for removal of sensitive info on about, depending on tap -->
+    <string name="device_info_protected_single_press">タップして情報を表示</string>
+    <!-- Double tap-to-sleep -->
+    <string name="double_tap_to_sleep_title">ステータスバーのスリープジェスチャー</string>
+    <string name="status_bar_title">ステータスバーのダブルタップジェスチャー</string>
+    <string name="double_tap_to_sleep_summary">ステータスバーをダブルタップして端末をスリープする</string>
+    <!-- Hardware info -->
+    <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
+    <string name="platform_revision">プラットフォーム</string>
+    <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
+    <string name="total_ram">合計 RAM</string>
+    <!-- Volume rocker gestures -->
+    <string name="volume_skiptrack_screen_title">音楽トラックをスキップ</string>
+    <string name="volume_skiptrack_title">音量ボタンで音楽スキップ</string>
+    <string name="volume_skiptrack_summary">音量ボタンを長押しすると、テレビや PC でリモート操作を行っても、音楽再生時にトラックをスキップできます。例: Spotify (アプリは端末で実行し通知を表示する必要があります)</string>
+    <!-- Torch Power button gestures -->
+    <string name="power_button_torch_title">クイックトーチ</string>
+    <string name="power_button_torch_summary">画面消灯時に電源ボタンの長押しでトーチを有効にする</string>
+    <!-- Gestures -->
+    <string name="gesture_preference_pixys">Pixys ジェスチャー</string>
+    <string name="gesture_preference_aosp">AOSP ジェスチャー</string>
+    <!-- Screen off fod -->
+    <string name="fod_gesture_title">画面消灯時の指紋</string>
+    <string name="fod_gesture_summary">画面点灯なしでの端末の復帰を許可する</string>
+    <!-- FOD animations -->
+    <string name="fod_recog_animation">認識アニメーション</string>
+    <string name="fod_recog_animation_summary">指紋認識中にアニメーションを表示する</string>
+    <string name="fod_recog_animation_effect_title">アニメーション効果</string>
+    <string name="fod_recog_animation_miui_normal">MIUI 既定</string>
+    <string name="fod_recog_animation_miui_aod">MIUI AOD</string>
+    <string name="fod_recog_animation_miui_aurora">Aurora (K30 Pro)</string>
+    <string name="fod_recog_animation_miui_aurora_cas">Aurora (Mi 10 Ultra)</string>
+    <string name="fod_recog_animation_miui_light">ライト</string>
+    <string name="fod_recog_animation_miui_pop">ポップ</string>
+    <string name="fod_recog_animation_miui_pulse">パルス</string>
+    <string name="fod_recog_animation_miui_pulse_white">パルス (白)</string>
+    <string name="fod_recog_animation_miui_rhythm">リズム</string>
+    <string name="fod_recog_animation_miui_star_cas">スターライト</string>
+    <string name="fod_recog_animation_op_cosmos">コスモス</string>
+    <string name="fod_recog_animation_op_energy">エネルギー</string>
+    <string name="fod_recog_animation_op_mclaren">マクラーレン</string>
+    <string name="fod_recog_animation_op_ripple">リップル</string>
+    <string name="fod_recog_animation_op_scanning">スキャニング (サイバーパンク 2077)</string>
+    <string name="fod_recog_animation_op_stripe">ストライプ</string>
+    <string name="fod_recog_animation_op_wave">ウェーブ</string>
+    <string name="fod_recog_animation_pureview_dna">DNA</string>
+    <string name="fod_recog_animation_pureview_future">未来</string>
+    <string name="fod_recog_animation_pureview_halo_ring">Halo Ring</string>
+    <string name="fod_recog_animation_pureview_molecular">分子</string>
+    <string name="fod_recog_animation_rog_fusion">フュージョン</string>
+    <string name="fod_recog_animation_rog_pulsar">パルサー</string>
+    <string name="fod_recog_animation_rog_supernova">スーパーノヴァ</string>
+    <!-- Hotspot extras -->
+    <string name="tethering_allow_vpn_upstreams_title">クライアントの VPN 使用の許可</string>
+    <string name="tethering_allow_vpn_upstreams_summary">この端末の VPN 接続をホットスポットのクライアントが送信接続に使うことを許可する</string>
 </resources>

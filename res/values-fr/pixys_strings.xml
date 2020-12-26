@@ -16,13 +16,47 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- PixysOS version preference -->
+    <string name="pixys_version">"Version de PixysOS"</string>
+    <string name="build_date">"Date de compilation"</string>
     <!-- Format string for fingerprint location message -->
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="tablet">Repérez le capteur d’empreintes digitales sur le <xliff:g id="sensor_location">%1$s</xliff:g> de votre tablette.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="device">Repérez le capteur d’empreintes digitales sur le <xliff:g id="sensor_location">%1$s</xliff:g> de votre appareil.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="default">Locate the fingerprint sensor on the <xliff:g id="sensor_location">%1$s</xliff:g> de votre téléphone.</string>
     <!-- Fingerprint sensor locations -->
+    <string name="security_settings_fingerprint_sensor_location_back">précédent</string>
+    <string name="security_settings_fingerprint_sensor_location_front">face avant</string>
+    <string name="security_settings_fingerprint_sensor_location_left">côté gauche</string>
+    <string name="security_settings_fingerprint_sensor_location_right">côté droit</string>
     <!-- Title for connected TWS device group [CHAR LIMIT=none]-->
+    <string name="connected_tws_device_saved_title">Écouteurs enregistrés</string>
     <!-- Refresh rate -->
+    <string name="refresh_rate_title">Taux de rafraîchissement de l\'écran</string>
+    <string name="refresh_rate_auto">Automatique</string>
+    <string name="refresh_rate_60">60Hz (économise la batterie)</string>
     <!-- Three-fingers-swipe to screenshot -->
+    <string name="three_finger_gesture">Glisser pour prendre une capture d\'écran</string>
+    <string name="three_finger_gesture_summary">Balayez vers le bas avec trois doigts pour prendre une capture d’écran</string>
     <!-- Screenshot sound -->
+    <string name="screenshot_sound_title">Son de capture d\'écran</string>
     <!-- Navbar length -->
+    <string name="navbar_length">Longueur de la barre de navigation</string>
+    <string name="hidden_label">Masqué</string>
+    <string name="long_label">Long</string>
     <!-- Global Actions -->
+    <string name="global_actions_advanced_reboot_title">Activer le redémarrage avancé</string>
+    <string name="global_actions_advanced_reboot_summary">Afficher les options pour la récupération et l\'amorçage</string>
+    <string name="power_menu_advanced_category">Avancé</string>
+    <string name="battery_temp">Température de la batterie</string>
     <!-- String for removal of sensitive info on about, depending on tap -->
+    <string name="device_info_protected_single_press">Appuyez pour afficher les informations</string>
+    <!-- Double tap-to-sleep -->
+    <!-- Hardware info -->
+    <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
+    <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
+    <!-- Volume rocker gestures -->
+    <!-- Torch Power button gestures -->
+    <!-- Gestures -->
+    <!-- Screen off fod -->
+    <!-- FOD animations -->
+    <!-- Hotspot extras -->
 </resources>

@@ -19,7 +19,14 @@
     <string name="pixys_version">"Versi PixysOS"</string>
     <string name="build_date">"Tanggal Pembuatan"</string>
     <!-- Format string for fingerprint location message -->
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="tablet">Tempatkan sensor sidik jari pada <xliff:g id="sensor_location">%1$s</xliff:g> tablet Anda.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="device">Tempatkan sensor sidik jari pada <xliff:g id="sensor_location">%1$s</xliff:g> perangkat Anda.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="default">Temukan sensor sidik jari di <xliff:g id="sensor_location">%1$s</xliff:g> dari ponsel Anda.</string>
     <!-- Fingerprint sensor locations -->
+    <string name="security_settings_fingerprint_sensor_location_back">kembali</string>
+    <string name="security_settings_fingerprint_sensor_location_front">depan</string>
+    <string name="security_settings_fingerprint_sensor_location_left">sisi kiri</string>
+    <string name="security_settings_fingerprint_sensor_location_right">sisi kanan</string>
     <!-- Title for connected TWS device group [CHAR LIMIT=none]-->
     <string name="connected_tws_device_saved_title">Earbud tersimpan</string>
     <!-- Refresh rate -->
@@ -42,4 +49,57 @@
     <string name="battery_temp">Temperatur Baterai</string>
     <!-- String for removal of sensitive info on about, depending on tap -->
     <string name="device_info_protected_single_press">Sentuh untuk melihat info</string>
+    <!-- Double tap-to-sleep -->
+    <string name="double_tap_to_sleep_title">Gestur tidur bilah status</string>
+    <string name="status_bar_title">Ketuk dua kali gestur bilah status</string>
+    <string name="double_tap_to_sleep_summary">Ketuk dua kali pada bilah status untuk mematikan layar</string>
+    <!-- Hardware info -->
+    <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
+    <string name="platform_revision">Platform</string>
+    <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
+    <string name="total_ram">Total RAM</string>
+    <!-- Volume rocker gestures -->
+    <string name="volume_skiptrack_screen_title">Lewati trek lagu</string>
+    <string name="volume_skiptrack_title">Tombol volume untuk lewati trek</string>
+    <string name="volume_skiptrack_summary">Tekan lama tombol volume untuk melewati trek saat memutar musik, bahkan dari jarak jauh di TV atau PC dengan mis. Spotify (aplikasi harus dijalankan di telepon dan menunjukkan pemberitahuan).</string>
+    <!-- Torch Power button gestures -->
+    <string name="power_button_torch_title">Senter cepat</string>
+    <string name="power_button_torch_summary">Saat layar mati, tombol daya yang menekan lama akan mengaktifkan senter</string>
+    <!-- Gestures -->
+    <string name="gesture_preference_pixys">Gestur Pixys</string>
+    <string name="gesture_preference_aosp">Gestur AOSP</string>
+    <!-- Screen off fod -->
+    <string name="fod_gesture_title">Sidik jari saat layar mati</string>
+    <string name="fod_gesture_summary">Izinkan membuka kunci tanpa harus mengaktifkan layar terlebih dahulu</string>
+    <!-- FOD animations -->
+    <string name="fod_recog_animation">Animasi sidik jari</string>
+    <string name="fod_recog_animation_summary">Perlihatkan animasi saat jari Anda terdeteksi</string>
+    <string name="fod_recog_animation_effect_title">Pilih efek animasi sidik jari</string>
+    <string name="fod_recog_animation_miui_normal">Bawaan MIUI</string>
+    <string name="fod_recog_animation_miui_aod">AOD MIUI</string>
+    <string name="fod_recog_animation_miui_aurora">Aurora (K30 Pro)</string>
+    <string name="fod_recog_animation_miui_aurora_cas">Aurora (Mi 10 Ultra)</string>
+    <string name="fod_recog_animation_miui_light">Cahaya</string>
+    <string name="fod_recog_animation_miui_pop">Pop</string>
+    <string name="fod_recog_animation_miui_pulse">Denyut</string>
+    <string name="fod_recog_animation_miui_pulse_white">Denyut (putih)</string>
+    <string name="fod_recog_animation_miui_rhythm">Rhythm</string>
+    <string name="fod_recog_animation_miui_star_cas">Starlight</string>
+    <string name="fod_recog_animation_op_cosmos">Cosmos</string>
+    <string name="fod_recog_animation_op_energy">Energi</string>
+    <string name="fod_recog_animation_op_mclaren">McLaren</string>
+    <string name="fod_recog_animation_op_ripple">Riak</string>
+    <string name="fod_recog_animation_op_scanning">Memindai (Cyberpunk 2077)</string>
+    <string name="fod_recog_animation_op_stripe">Garis</string>
+    <string name="fod_recog_animation_op_wave">Ombak</string>
+    <string name="fod_recog_animation_pureview_dna">DNA</string>
+    <string name="fod_recog_animation_pureview_future">Masa depan</string>
+    <string name="fod_recog_animation_pureview_halo_ring">Halo ring</string>
+    <string name="fod_recog_animation_pureview_molecular">Molekuler</string>
+    <string name="fod_recog_animation_rog_fusion">Fusion</string>
+    <string name="fod_recog_animation_rog_pulsar">Pulsar</string>
+    <string name="fod_recog_animation_rog_supernova">Supernova</string>
+    <!-- Hotspot extras -->
+    <string name="tethering_allow_vpn_upstreams_title">Izinkan klien untuk menggunakan VPN</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Izinkan klien hotspot untuk menggunakan koneksi VPN\u2019s perangkat ini untuk konektivitas hulu</string>
 </resources>

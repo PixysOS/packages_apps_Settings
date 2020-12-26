@@ -19,7 +19,14 @@
     <string name="pixys_version">"Версия PixysOS"</string>
     <string name="build_date">"Дата создания"</string>
     <!-- Format string for fingerprint location message -->
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="tablet">Сканер отпечатков пальцев расположен на <xliff:g id="sensor_location">%1$s</xliff:g> вашего планшета.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="device">Сканер отпечатков пальцев расположен на <xliff:g id="sensor_location">%1$s</xliff:g> вашего устройства.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="default">Сканер отпечатков пальцев расположен на <xliff:g id="sensor_location">%1$s</xliff:g> Вашего телефона.</string>
     <!-- Fingerprint sensor locations -->
+    <string name="security_settings_fingerprint_sensor_location_back">сзади</string>
+    <string name="security_settings_fingerprint_sensor_location_front">спереди</string>
+    <string name="security_settings_fingerprint_sensor_location_left">левая сторона</string>
+    <string name="security_settings_fingerprint_sensor_location_right">правая сторона</string>
     <!-- Title for connected TWS device group [CHAR LIMIT=none]-->
     <string name="connected_tws_device_saved_title">Сохраненные наушники</string>
     <!-- Refresh rate -->
@@ -42,4 +49,24 @@
     <string name="battery_temp">Температура батареи</string>
     <!-- String for removal of sensitive info on about, depending on tap -->
     <string name="device_info_protected_single_press">Нажмите чтобы показать информацию</string>
+    <!-- Double tap-to-sleep -->
+    <!-- Hardware info -->
+    <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
+    <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
+    <string name="total_ram">Всего ОЗУ</string>
+    <!-- Volume rocker gestures -->
+    <string name="volume_skiptrack_screen_title">Пропускать музыкальные треки</string>
+    <string name="volume_skiptrack_title">Пропускать треки кнопками громкости</string>
+    <string name="volume_skiptrack_summary">Длительное нажатие кнопки громкости для пропуска треков при воспроизведении музыки, даже удаленно на ТВ или ПК, например, с Spotify (приложение должно работать на телефоне и показывать уведомления).</string>
+    <!-- Torch Power button gestures -->
+    <string name="power_button_torch_title">Быстрый фонарик</string>
+    <string name="power_button_torch_summary">Когда экран выключен, долгое нажатие кнопки питания включит фонарик</string>
+    <!-- Gestures -->
+    <string name="gesture_preference_pixys">Жесты Pixys</string>
+    <string name="gesture_preference_aosp">Жесты AOSP</string>
+    <!-- Screen off fod -->
+    <string name="fod_gesture_title">Выключение экрана отпечатком пальца</string>
+    <!-- FOD animations -->
+    <string name="fod_recog_animation_miui_normal">MIUI по умолчанию</string>
+    <!-- Hotspot extras -->
 </resources>
