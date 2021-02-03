@@ -126,4 +126,8 @@
     <string name="aggressive_idle_summary">Reduce device wake ups and reduce the time required to enter idle state</string>
     <string name="aggressive_standby_title">Aggressive standby</string>
     <string name="aggressive_standby_summary">Restrict apps from running in background</string>
+
+    <!-- Ambient Music -->
+    <string name="pulse_on_new_tracks_title">Ambient music ticker</string>
+    <string name="pulse_on_new_tracks_summary">Show Ambient Display when a new music track is played</string>
 </resources>
