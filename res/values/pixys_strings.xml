@@ -228,4 +228,8 @@
     <!-- Pulse on music track change -->
     <string name="pulse_on_new_tracks_title">Ambient music ticker</string>
     <string name="pulse_on_new_tracks_summary">Show Ambient Display when a new music track is played</string>
+
+    <!-- Volume dialog position -->
+    <string name="volume_panel_on_left_title">Left volume panel</string>
+    <string name="volume_panel_on_left_summary">Show the volume panel on the left side of the screen</string>
 </resources>
