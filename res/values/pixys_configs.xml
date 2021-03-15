@@ -25,7 +25,7 @@
     <!-- Manage applications, package string displayed in app snippet -->
     <string name="packagename_text">"<xliff:g id="package_name">%1$s</xliff:g>"</string>
 
-    <!-- Whether to show min refresh rate in display settings -->
-    <bool name="config_show_min_refresh_rate_switch">false</bool>
+    <!-- Whether to show min/max refresh rate in display settings -->
+    <bool name="config_show_refresh_rate_controls">false</bool>
 
 </resources>
