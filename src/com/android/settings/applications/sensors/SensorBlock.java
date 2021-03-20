@@ -49,8 +49,9 @@ import com.android.internal.logging.nano.MetricsProto;
 import com.android.settings.R;
 import com.android.settings.SettingsPreferenceFragment;
 
-import com.pixys.support.preferences.PackageListAdapter;
-import com.pixys.support.preferences.PackageListAdapter.PackageItem;
+import com.pixys.support.preference.PackageListAdapter;
+import com.pixys.support.preference.PackageListAdapter.PackageItem;
+import com.pixys.support.preference.AppListPreference;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -252,7 +253,7 @@ public class SensorBlock extends SettingsPreferenceFragment
         PackageInfo info = mPackageManager.getPackageInfo(pkg.name,
                 PackageManager.GET_META_DATA);
         Preference pref =
-                new Preference(getActivity());
+                new AppListPreference(getActivity());
 
         pref.setKey(pkg.name);
         pref.setTitle(info.applicationInfo.loadLabel(mPackageManager));
