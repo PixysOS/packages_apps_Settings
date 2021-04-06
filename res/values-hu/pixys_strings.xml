@@ -102,4 +102,54 @@
     <!-- Hotspot extras -->
     <string name="tethering_allow_vpn_upstreams_title">Engedélyezi a klienseknek a VPN-használatot</string>
     <string name="tethering_allow_vpn_upstreams_summary">Engedélyezze a hotspot-klienseknek, hogy a készülék VPN-kapcsolatait felfelé csatlakoztathassák</string>
+    <!-- Aggressive battery -->
+    <string name="aggressive_idle_title">Kiterjesztett Üresjárat</string>
+    <string name="aggressive_idle_summary">Csökkentse az eszköz ébresztését és csökkentse a készenléti állapotba lépéshez szükséges időt</string>
+    <string name="aggressive_standby_title">Agresszív készenlét</string>
+    <string name="aggressive_standby_summary">Korlátozza az alkamazások háttérben futását</string>
+    <!-- Ambient Music -->
+    <string name="pulse_on_new_tracks_title">Zeneszám a környezeti kijelzőn</string>
+    <string name="pulse_on_new_tracks_summary">A Környezeti kijelző megjelenítése, ha új zeneszám kerül lejátszásra</string>
+    <!-- Per-app data restrictions -->
+    <string name="data_usage_app_restrict_all">Hálózat-hozzáférés engedélyezése</string>
+    <string name="data_usage_app_restrict_all_summary">Lehetővé teszi a hálózathasználatot</string>
+    <string name="data_usage_app_restrict_mobile">Mobilinternet</string>
+    <string name="data_usage_app_restrict_mobile_summary">Mobiladat-használat engedélyezés</string>
+    <string name="data_usage_app_restrict_vpn">VPN-adatok</string>
+    <string name="data_usage_app_restrict_vpn_summary">A VPN-adathasználat engedélyezése</string>
+    <string name="data_usage_app_restrict_wifi">Wi-Fi adat</string>
+    <string name="data_usage_app_restrict_wifi_summary">Wi\u2011Fi-adathasználat engedélyezése</string>
+    <!-- Themes customization -->
+    <string name="theme_customization_systemui_title">Színválasztó</string>
+    <!-- Face Unlock -->
+    <string name="security_settings_face_unlock_redo_face_scan_summary">A korábban beolvasott arc eltávolítása és új arc beolvasása</string>
+    <string name="security_settings_face_unlock_redo_face_scan_title">Új arcbeolvasás</string>
+    <string name="security_dashboard_summary_face_and_fingerprint">Képernyőzár, ujjlenyomat, arcalapú feloldás</string>
+    <string name="face_redo_confirm_btn">Újra</string>
+    <string name="face_redo_warning_msg">Szeretné eltávolítani a korábban beolvasott arcot és beolvasni egy újat?</string>
+    <!-- App Lock -->
+    <string name="applock_title">Alkalmazás-zár</string>
+    <string name="applock_locked">Zárolt</string>
+    <string name="applock_unlocked">Feloldva</string>
+    <string name="applock_locked_apps">Zárolt alkalmazások</string>
+    <string name="applock_unlocked_apps">Feloldott alkalmazások</string>
+    <string name="applock_show_only_on_wake">Egyszeri ellenőrzés</string>
+    <string name="applock_show_only_on_wake_on_summary">A hitelesítést követően az alkalmazás zárolva marad, míg a képernyő kikapcsolt</string>
+    <string name="applock_show_only_on_wake_off_summary">A hitelesítés után az alkalmazás a kilépést követően még 15 másodpercig feloldva marad</string>
+    <string name="applock_notification_info">Megjelenítheti/elrejtheti alkalmazásonként az értesítési tartalmat, ha az értesítési ikonra kattint az egyes lezárt alkalmazások tulajdonságainál</string>
+    <string name="applock_show_notif">Értesítéstartalmak megjelenítése</string>
+    <string name="applock_hide_notif">Értesítéstartalmak elrejtése</string>
+    <string name="applock_setup">Alkalmazás-zár beállításai</string>
+    <string name="applock_overlay_summary">Nem érhető el ez a funkció, mert az alkalmazás zárolva van</string>
+    <plurals name="applock_summary">
+        <item quantity="one">1 alkalmazás zárolva</item>
+        <item quantity="other">%d alkalmazás zárolva</item>
+    </plurals>
+    <string name="keywords_applock_settings">alkalmazás-zár, alkalmazások zárolása</string>
+    <!-- Clock style -->
+    <string name="clock_style_title">Óra stílusa</string>
+    <string name="clock_style_summary">A záróképernyő órájának testreszabása</string>
+    <!-- Night Display API strings -->
+    <string name="unknown_night_light_time">Ismeretlen - nyomja meg a frissítéshez</string>
+    <string name="night_display_location_text">\n\nA naplemente és a napnyugta ütemezéséhez kötelező a helymeghatározási jogosultság megadása, mert csak így kaphat pontos időbeállításokat.</string>
 </resources>

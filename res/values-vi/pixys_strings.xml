@@ -55,11 +55,59 @@
     <string name="double_tap_to_sleep_summary">Nhấn hai lần vào thanh trạng thái để tắt điện thoại</string>
     <!-- Hardware info -->
     <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
+    <string name="platform_revision">Các nền tảng</string>
     <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
+    <string name="total_ram">Tổng RAM</string>
     <!-- Volume rocker gestures -->
+    <string name="volume_skiptrack_screen_title">Chuyển qua bài hát mới</string>
+    <string name="volume_skiptrack_title">Âm lượng rocker bỏ qua bài hát</string>
+    <string name="volume_skiptrack_summary">Giữ lâu nút âm lượng để chuyển qua bài hát khi nghe nhạc trên điện thoại và khi nghe nhạc trên thiết bị khác mà sử dụng điện thoại để điều khiển chúng (Ví dụ như khi nghe bằng Spotify, Youtube).</string>
     <!-- Torch Power button gestures -->
+    <string name="power_button_torch_title">Đèn pin nhanh</string>
+    <string name="power_button_torch_summary">Khi màn hình tắt, nhấn và giữ nút nguồn sẽ bật đèn pin</string>
     <!-- Gestures -->
+    <string name="gesture_preference_pixys">Cử chỉ Pixys</string>
+    <string name="gesture_preference_aosp">Cử chỉ AOSP</string>
     <!-- Screen off fod -->
+    <string name="fod_gesture_title">Mở khóa bằng vân tay khi màn hình tắt</string>
+    <string name="fod_gesture_summary">Cho phép mở khóa thiết bị mà không cần phải đánh thức màn hình</string>
     <!-- FOD animations -->
+    <string name="fod_recog_animation">Xác Thực Vân Tay</string>
+    <string name="fod_recog_animation_summary">Hiển thị hiệu ứng khi đang quét vân tay của bạn</string>
+    <string name="fod_recog_animation_effect_title">Chọn hiệu ứng khi xác thực vân tay</string>
+    <string name="fod_recog_animation_miui_normal">MIUI mặc định</string>
+    <string name="fod_recog_animation_miui_aod">MIUI AOD</string>
+    <string name="fod_recog_animation_miui_aurora">Aurora (K30 Pro)</string>
+    <string name="fod_recog_animation_miui_aurora_cas">Aurora (Mi 10 Ultra)</string>
+    <string name="fod_recog_animation_miui_light">Ánh sáng</string>
+    <string name="fod_recog_animation_miui_pop">Nhạc trẻ</string>
+    <string name="fod_recog_animation_miui_pulse">Sóng nhạc</string>
+    <string name="fod_recog_animation_miui_pulse_white">Sóng nhạc(trắng)</string>
+    <string name="fod_recog_animation_miui_rhythm">Nhịp</string>
+    <string name="fod_recog_animation_miui_star_cas">Ánh sao</string>
+    <string name="fod_recog_animation_op_cosmos">Vũ trụ</string>
+    <string name="fod_recog_animation_op_energy">Năng lượng</string>
+    <string name="fod_recog_animation_op_mclaren">McLaren</string>
+    <string name="fod_recog_animation_op_ripple">Gợn sóng</string>
+    <string name="fod_recog_animation_op_scanning">Quét (Cyberpunk 2077)</string>
+    <string name="fod_recog_animation_op_stripe">Sọc</string>
+    <string name="fod_recog_animation_op_wave">Sóng</string>
+    <string name="fod_recog_animation_pureview_dna">DNA</string>
+    <string name="fod_recog_animation_pureview_future">Tương lai</string>
+    <string name="fod_recog_animation_pureview_halo_ring">Halo Ring</string>
+    <string name="fod_recog_animation_pureview_molecular">Phân tử</string>
+    <string name="fod_recog_animation_rog_fusion">Hợp nhất</string>
+    <string name="fod_recog_animation_rog_pulsar">Pulsar</string>
+    <string name="fod_recog_animation_rog_supernova">Supernova</string>
     <!-- Hotspot extras -->
+    <string name="tethering_allow_vpn_upstreams_title">Cho phép máy khách sử dụng VPN</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Cho phép máy khách sử dụng điểm truy cập với kết nối VPN của thiết bị này để kết nối đến máy chủ</string>
+    <!-- Aggressive battery -->
+    <!-- Ambient Music -->
+    <!-- Per-app data restrictions -->
+    <!-- Themes customization -->
+    <!-- Face Unlock -->
+    <!-- App Lock -->
+    <!-- Clock style -->
+    <!-- Night Display API strings -->
 </resources>

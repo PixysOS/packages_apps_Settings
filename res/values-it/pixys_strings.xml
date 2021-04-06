@@ -52,11 +52,34 @@
     <!-- Double tap-to-sleep -->
     <!-- Hardware info -->
     <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
+    <string name="platform_revision">Piattaforma</string>
     <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
+    <string name="total_ram">RAM totale</string>
     <!-- Volume rocker gestures -->
+    <string name="volume_skiptrack_screen_title">Salta brani</string>
     <!-- Torch Power button gestures -->
+    <string name="power_button_torch_title">Torca rapida</string>
+    <string name="power_button_torch_summary">Quando lo scremo è spento, la pressione prolungata del pulsante d\'accensione attiverà la torcia</string>
     <!-- Gestures -->
+    <string name="gesture_preference_pixys">Gestures di Pixys</string>
+    <string name="gesture_preference_aosp">Gestures di AOSP</string>
     <!-- Screen off fod -->
+    <string name="fod_gesture_title">Impronta digitale con schermo spento</string>
+    <string name="fod_gesture_summary">Permette di sbloccare il device senza aver bisogno di accendere il display prima</string>
     <!-- FOD animations -->
+    <string name="fod_recog_animation">Animazione per Fingerprint</string>
+    <string name="fod_recog_animation_summary">Mostra un animazione mentre legge il tuo dito</string>
+    <string name="fod_recog_animation_effect_title">Seleziona effetto per l\'animazione del fingerprint</string>
+    <string name="fod_recog_animation_miui_normal">Predefinito di MIUI</string>
+    <string name="fod_recog_animation_miui_aod">MIUI AOD</string>
     <!-- Hotspot extras -->
+    <string name="tethering_allow_vpn_upstreams_title">Consenti ai client di utilizzare VPNs</string>
+    <!-- Aggressive battery -->
+    <!-- Ambient Music -->
+    <!-- Per-app data restrictions -->
+    <!-- Themes customization -->
+    <!-- Face Unlock -->
+    <!-- App Lock -->
+    <!-- Clock style -->
+    <!-- Night Display API strings -->
 </resources>

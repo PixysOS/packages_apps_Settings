@@ -102,4 +102,53 @@
     <!-- Hotspot extras -->
     <string name="tethering_allow_vpn_upstreams_title">クライアントの VPN 使用の許可</string>
     <string name="tethering_allow_vpn_upstreams_summary">この端末の VPN 接続をホットスポットのクライアントが送信接続に使うことを許可する</string>
+    <!-- Aggressive battery -->
+    <string name="aggressive_idle_title">拡張アイドル</string>
+    <string name="aggressive_idle_summary">デバイスのアクティブ時間を削減しアイドルステートへの移行に必要な時間を削減する</string>
+    <string name="aggressive_standby_title">アグレッシブスタンバイ</string>
+    <string name="aggressive_standby_summary">バックグラウンド実行するアプリを制限する</string>
+    <!-- Ambient Music -->
+    <string name="pulse_on_new_tracks_title">アンビエント音楽ティッカー</string>
+    <string name="pulse_on_new_tracks_summary">新規楽曲再生時にアンビエント表示をする</string>
+    <!-- Per-app data restrictions -->
+    <string name="data_usage_app_restrict_all">ネットワークアクセスを許可</string>
+    <string name="data_usage_app_restrict_all_summary">ネットワークの使用状況を有効化する</string>
+    <string name="data_usage_app_restrict_mobile">モバイルデータ</string>
+    <string name="data_usage_app_restrict_mobile_summary">モバイルデータ使用量を有効化する</string>
+    <string name="data_usage_app_restrict_vpn">VPN データ</string>
+    <string name="data_usage_app_restrict_vpn_summary">VPN データ使用量を有効化する</string>
+    <string name="data_usage_app_restrict_wifi">Wi\u2011Fi データ使用量</string>
+    <string name="data_usage_app_restrict_wifi_summary">Wi\u2011Fi データ使用量を有効化する</string>
+    <!-- Themes customization -->
+    <string name="theme_customization_systemui_title">色のバケツ</string>
+    <!-- Face Unlock -->
+    <string name="security_settings_face_unlock_redo_face_scan_summary">既存の顔スキャンを削除して新しいスキャンを作成する</string>
+    <string name="security_settings_face_unlock_redo_face_scan_title">顔スキャンを再実行</string>
+    <string name="security_dashboard_summary_face_and_fingerprint">画面ロック、指紋、顔認証でロック解除</string>
+    <string name="face_redo_confirm_btn">やり直す</string>
+    <string name="face_redo_warning_msg">既存の顔スキャンを削除して新しいスキャンを作成しますか?</string>
+    <!-- App Lock -->
+    <string name="applock_title">アプリロッカー</string>
+    <string name="applock_locked">ロック中</string>
+    <string name="applock_unlocked">未ロック</string>
+    <string name="applock_locked_apps">ロックしたアプリ</string>
+    <string name="applock_unlocked_apps">未ロックのアプリ</string>
+    <string name="applock_show_only_on_wake">1度だけ認証</string>
+    <string name="applock_show_only_on_wake_on_summary">1回認証すると、アプリは画面が消灯するまでロック解除されたままになります。</string>
+    <string name="applock_show_only_on_wake_off_summary">1回認証すると、アプリ終了後の15秒間はロック解除されたままになります。</string>
+    <string name="applock_notification_info">それぞれのロック済みのアプリの設定に表示される通知アイコンをクリックすることで、アプリごとの通知の内容の表示/非表示を切り替えることができます。</string>
+    <string name="applock_show_notif">通知の内容を表示中です</string>
+    <string name="applock_hide_notif">通知の内容を非表示中です</string>
+    <string name="applock_setup">アプリのロックを設定</string>
+    <string name="applock_overlay_summary">このアプリはロックされているためこの機能は利用できません</string>
+    <plurals name="applock_summary">
+        <item quantity="other">%d個のアプリがロックされました</item>
+    </plurals>
+    <string name="keywords_applock_settings">アプリロック、アプリブロッカー、アプリ ロック、アプリ ロッカー</string>
+    <!-- Clock style -->
+    <string name="clock_style_title">時計のスタイル</string>
+    <string name="clock_style_summary">ロック画面の時計を編集する</string>
+    <!-- Night Display API strings -->
+    <string name="unknown_night_light_time">不明 - タップして更新</string>
+    <string name="night_display_location_text">\n\n日の出から日の入りからのスケジュールにはあなたの正確な時刻を取得するために位置情報の有効化が必要です。</string>
 </resources>

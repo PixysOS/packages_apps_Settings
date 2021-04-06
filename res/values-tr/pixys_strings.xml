@@ -17,27 +17,27 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- PixysOS version preference -->
     <string name="pixys_version">"PixysOS sürümü"</string>
-    <string name="build_date">"Yapım tarihi"</string>
+    <string name="build_date">"Yapı tarihi"</string>
     <!-- Format string for fingerprint location message -->
     <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="tablet">Tabletinizin üzerinde bulunan <xliff:g id="sensor_location">%1$s</xliff:g> parmak izi sensörünü bulun.</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="device">Cihazınızın <xliff:g id="sensor_location">%1$s</xliff:g> parmak izi sensörünü bulun.</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="default">Telefonunuzda bulunan <xliff:g id="sensor_location">%1$s</xliff:g> parmak izi sensörünü bulun.</string>
     <!-- Fingerprint sensor locations -->
-    <string name="security_settings_fingerprint_sensor_location_back">geri</string>
+    <string name="security_settings_fingerprint_sensor_location_back">arka</string>
     <string name="security_settings_fingerprint_sensor_location_front">ön</string>
     <string name="security_settings_fingerprint_sensor_location_left">sol taraf</string>
     <string name="security_settings_fingerprint_sensor_location_right">sağ taraf</string>
     <!-- Title for connected TWS device group [CHAR LIMIT=none]-->
-    <string name="connected_tws_device_saved_title">Kaydedilmiş Kulaklıklar</string>
+    <string name="connected_tws_device_saved_title">Kayıtlı kulaklıklar</string>
     <!-- Refresh rate -->
-    <string name="refresh_rate_title">Ekran yenileme oranı</string>
+    <string name="refresh_rate_title">Ekran yenileme hızı</string>
     <string name="refresh_rate_auto">Otomatik</string>
     <string name="refresh_rate_60">60Hz (pil tasarrufu sağlar)</string>
     <!-- Three-fingers-swipe to screenshot -->
     <string name="three_finger_gesture">Ekran görüntüsü almak için kaydırın</string>
     <string name="three_finger_gesture_summary">Ekran görüntüsü almak için üç parmağınızla aşağı kaydırın</string>
     <!-- Screenshot sound -->
-    <string name="screenshot_sound_title">Ekran görüntüsü alındı sesi</string>
+    <string name="screenshot_sound_title">Ekran görüntüsü sesi</string>
     <!-- Navbar length -->
     <string name="navbar_length">Hareket çubuğu uzunluğu</string>
     <string name="hidden_label">Gizli</string>
@@ -50,13 +50,106 @@
     <!-- String for removal of sensitive info on about, depending on tap -->
     <string name="device_info_protected_single_press">Bilgileri göstermek için dokunun</string>
     <!-- Double tap-to-sleep -->
+    <string name="double_tap_to_sleep_title">Durum çubuğu uyutma hareketi</string>
+    <string name="status_bar_title">Çift dokunuşla uyutma</string>
+    <string name="double_tap_to_sleep_summary">Cihazı uyutmak için durum çubuğuna çift dokunun</string>
     <!-- Hardware info -->
     <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
+    <string name="platform_revision">Platform</string>
     <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
+    <string name="total_ram">Toplam RAM</string>
     <!-- Volume rocker gestures -->
+    <string name="volume_skiptrack_screen_title">Parçaları atla</string>
+    <string name="volume_skiptrack_title">Ses tuşlarıyla parçaları atla</string>
+    <string name="volume_skiptrack_summary">Müzik çalarken; örneğin Spotify ile uzaktan, televizyonda veya PC\'de bile parçaları değiştirmek için ses tuşlarına uzun basın (uygulama telefonda çalışıyor ve bildirim gösteriyor olmalıdır).</string>
     <!-- Torch Power button gestures -->
+    <string name="power_button_torch_title">Hızlı el feneri</string>
+    <string name="power_button_torch_summary">Ekran kapalıyken, güç tuşuna uzun basıldığında el feneri etkinleştirir</string>
     <!-- Gestures -->
+    <string name="gesture_preference_pixys">Pixys hareketleri</string>
+    <string name="gesture_preference_aosp">AOSP hareketleri</string>
     <!-- Screen off fod -->
+    <string name="fod_gesture_title">Kapalı ekran parmak izi</string>
+    <string name="fod_gesture_summary">Ekranı uyandırma zorunda kalmadan cihazın kilidini açmaya izin verir</string>
     <!-- FOD animations -->
+    <string name="fod_recog_animation">Parmak izi animasyonu</string>
+    <string name="fod_recog_animation_summary">Parmak izi okunurken bir animasyon gösterir</string>
+    <string name="fod_recog_animation_effect_title">Parmak izi animasyon efektini seçin</string>
+    <string name="fod_recog_animation_miui_normal">MIUI varsayılanı</string>
+    <string name="fod_recog_animation_miui_aod">MIUI AOD</string>
+    <string name="fod_recog_animation_miui_aurora">Aurora (K30 Pro)</string>
+    <string name="fod_recog_animation_miui_aurora_cas">Aurora (Mi 10 Ultra)</string>
+    <string name="fod_recog_animation_miui_light">Hafif</string>
+    <string name="fod_recog_animation_miui_pop">Patlama</string>
+    <string name="fod_recog_animation_miui_pulse">Nabız</string>
+    <string name="fod_recog_animation_miui_pulse_white">Nabız (Beyaz)</string>
+    <string name="fod_recog_animation_miui_rhythm">Ritim</string>
+    <string name="fod_recog_animation_miui_star_cas">Yıldız ışığı</string>
+    <string name="fod_recog_animation_op_cosmos">Kozmos</string>
+    <string name="fod_recog_animation_op_energy">Enerji</string>
+    <string name="fod_recog_animation_op_mclaren">McLaren</string>
+    <string name="fod_recog_animation_op_ripple">Dalgalanma</string>
+    <string name="fod_recog_animation_op_scanning">Tarama (Cyberpunk 2077)</string>
+    <string name="fod_recog_animation_op_stripe">Şerit</string>
+    <string name="fod_recog_animation_op_wave">Dalga</string>
+    <string name="fod_recog_animation_pureview_dna">DNA</string>
+    <string name="fod_recog_animation_pureview_future">Gelecek</string>
+    <string name="fod_recog_animation_pureview_halo_ring">Halo halkası</string>
+    <string name="fod_recog_animation_pureview_molecular">Moleküler</string>
+    <string name="fod_recog_animation_rog_fusion">Füzyon</string>
+    <string name="fod_recog_animation_rog_pulsar">Pulsar</string>
+    <string name="fod_recog_animation_rog_supernova">Süpernova</string>
     <!-- Hotspot extras -->
+    <string name="tethering_allow_vpn_upstreams_title">İstemcilerin VPN kullanmasına izin ver</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Hotspot kullanıcılarının bağlantıları sırasında bu cihazın\u2019s VPN bağlantısını kullanmasına izin ver</string>
+    <!-- Aggressive battery -->
+    <string name="aggressive_idle_title">Genişletilmiş boşta</string>
+    <string name="aggressive_idle_summary">Cihaz uyanmalarını azaltın ve boşta kalma durumuna girmek için gereken süreyi azaltın</string>
+    <string name="aggressive_standby_title">Agresif bekleme</string>
+    <string name="aggressive_standby_summary">Uygulamaların arka planda çalışmasını kısıtlayın</string>
+    <!-- Ambient Music -->
+    <string name="pulse_on_new_tracks_title">Ortam müzik bilgisi</string>
+    <string name="pulse_on_new_tracks_summary">Yeni bir şarkı başladığında ortam ekranında göster</string>
+    <!-- Per-app data restrictions -->
+    <string name="data_usage_app_restrict_all">Ağ erişimine izin ver</string>
+    <string name="data_usage_app_restrict_all_summary">Ağ kullanımını etkinleştir</string>
+    <string name="data_usage_app_restrict_mobile">Mobil veri</string>
+    <string name="data_usage_app_restrict_mobile_summary">Mobil veri kullanımını etkinleştir</string>
+    <string name="data_usage_app_restrict_vpn">VPN verisi</string>
+    <string name="data_usage_app_restrict_vpn_summary">VPN veri kullanımını etkinleştir</string>
+    <string name="data_usage_app_restrict_wifi">Wi\u2011Fi veri</string>
+    <string name="data_usage_app_restrict_wifi_summary">Wi\u2011Fi veri kullanımını etkinleştir</string>
+    <!-- Themes customization -->
+    <string name="theme_customization_systemui_title">Renk seçin</string>
+    <!-- Face Unlock -->
+    <string name="security_settings_face_unlock_redo_face_scan_summary">Mevcut yüz taramasını kaldır ve yeni bir tarama oluştur</string>
+    <string name="security_settings_face_unlock_redo_face_scan_title">Yüz taramasını yeniden yap</string>
+    <string name="security_dashboard_summary_face_and_fingerprint">Ekran kilidi, parmak izi, yüz tanıma kilidi</string>
+    <string name="face_redo_confirm_btn">Yeniden yap</string>
+    <string name="face_redo_warning_msg">Mevcut yüz taramasını kaldırıp yeni bir tane oluşturmak istiyor musunuz?</string>
+    <!-- App Lock -->
+    <string name="applock_title">Uygulama kilitleyici</string>
+    <string name="applock_locked">Kilitli</string>
+    <string name="applock_unlocked">Kilitli değil</string>
+    <string name="applock_locked_apps">Kilitli uygulamalar</string>
+    <string name="applock_unlocked_apps">Kilitsiz uygulamalar</string>
+    <string name="applock_show_only_on_wake">Yalnızca bir kez kimlik doğrulama</string>
+    <string name="applock_show_only_on_wake_on_summary">Kimlik doğrulaması yapıldıktan sonra, ekran kapanana kadar uygulamanın kilidi açık kalır</string>
+    <string name="applock_show_only_on_wake_off_summary">Kimlik doğrulaması yapıldıktan sonra, uygulamadan çıktıktan sonra 15 saniye boyunca kilidi açık kalır</string>
+    <string name="applock_notification_info">Kilitli her uygulamanın tercihinde gösterilen bildirim simgesine tıklayarak bildirim içeriğini uygulama bazında gösterebilir veya gizleyebilirsiniz</string>
+    <string name="applock_show_notif">Bildirim içeriği gösteriliyor</string>
+    <string name="applock_hide_notif">Bildirim içeriği gizleniyor</string>
+    <string name="applock_setup">Uygulama kilitleyiciyi ayarlayın</string>
+    <string name="applock_overlay_summary">Uygulama kilitli olduğundan bu özellik kullanılamıyor</string>
+    <plurals name="applock_summary">
+        <item quantity="one">1 uygulama kilitli</item>
+        <item quantity="other">%d uygulama kilitli</item>
+    </plurals>
+    <string name="keywords_applock_settings">uygulama kilidi, uygulama kilidi, uygulama kilidi, uygulama kilidi</string>
+    <!-- Clock style -->
+    <string name="clock_style_title">Saat stili</string>
+    <string name="clock_style_summary">Kilit ekranı saatini özelleştirin</string>
+    <!-- Night Display API strings -->
+    <string name="unknown_night_light_time">Bilinmiyor - güncellemek için dokunun</string>
+    <string name="night_display_location_text">\n\nGün batımından gün doğumuna kadar olan zamanlamanın, konumunuza göre doğru zamanları alabilmesi için konum servislerini etkin olması gerekir.</string>
 </resources>

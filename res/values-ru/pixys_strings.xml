@@ -52,6 +52,7 @@
     <!-- Double tap-to-sleep -->
     <!-- Hardware info -->
     <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
+    <string name="platform_revision">Платформа</string>
     <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
     <string name="total_ram">Всего ОЗУ</string>
     <!-- Volume rocker gestures -->
@@ -67,6 +68,15 @@
     <!-- Screen off fod -->
     <string name="fod_gesture_title">Выключение экрана отпечатком пальца</string>
     <!-- FOD animations -->
+    <string name="fod_recog_animation">Анимация отпечатка пальца</string>
     <string name="fod_recog_animation_miui_normal">MIUI по умолчанию</string>
     <!-- Hotspot extras -->
+    <!-- Aggressive battery -->
+    <!-- Ambient Music -->
+    <!-- Per-app data restrictions -->
+    <!-- Themes customization -->
+    <!-- Face Unlock -->
+    <!-- App Lock -->
+    <!-- Clock style -->
+    <!-- Night Display API strings -->
 </resources>

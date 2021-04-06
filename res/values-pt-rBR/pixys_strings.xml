@@ -50,13 +50,106 @@
     <!-- String for removal of sensitive info on about, depending on tap -->
     <string name="device_info_protected_single_press">Toque para mostrar as informações</string>
     <!-- Double tap-to-sleep -->
+    <string name="double_tap_to_sleep_title">Gesto para desligar na barra de status</string>
+    <string name="status_bar_title">Dê um duplo toque na barra de status para desligar</string>
+    <string name="double_tap_to_sleep_summary">Toque duas vezes na barra de status para desligar a tela</string>
     <!-- Hardware info -->
     <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
+    <string name="platform_revision">Plataforma</string>
     <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
+    <string name="total_ram">Total de memória RAM</string>
     <!-- Volume rocker gestures -->
+    <string name="volume_skiptrack_screen_title">Pular faixas de música</string>
+    <string name="volume_skiptrack_title">Botões de volume pulam músicas</string>
+    <string name="volume_skiptrack_summary">Mantenha pressionado o botão de volume para pular faixas ao reproduzir música, mesmo remotamente na TV ou PC com, por exemplo, Spotify, etc (o aplicativo deve ser executado no telefone e mostrar a notificação).</string>
     <!-- Torch Power button gestures -->
+    <string name="power_button_torch_title">Lanterna rápida</string>
+    <string name="power_button_torch_summary">Quando a tela estiver desligada, segure o botão liga/desliga para ativar a lanterna</string>
     <!-- Gestures -->
+    <string name="gesture_preference_pixys">Gestos Pixys</string>
+    <string name="gesture_preference_aosp">Gestos AOSP</string>
     <!-- Screen off fod -->
+    <string name="fod_gesture_title">Desligar tela impressão digital</string>
+    <string name="fod_gesture_summary">Permite desbloquear o dispositivo sem ter que ligar a tela primeiro</string>
     <!-- FOD animations -->
+    <string name="fod_recog_animation">Animação da impressão digital</string>
+    <string name="fod_recog_animation_summary">Mostra animação durante a leitura da impressão digital</string>
+    <string name="fod_recog_animation_effect_title">Selecionar efeito de animação da impressão digital</string>
+    <string name="fod_recog_animation_miui_normal">Padrão MIUI</string>
+    <string name="fod_recog_animation_miui_aod">MIUI AOD</string>
+    <string name="fod_recog_animation_miui_aurora">Aurora (K30 Pro)</string>
+    <string name="fod_recog_animation_miui_aurora_cas">Aurora (Mi 10 Ultra)</string>
+    <string name="fod_recog_animation_miui_light">Leve</string>
+    <string name="fod_recog_animation_miui_pop">Pop</string>
+    <string name="fod_recog_animation_miui_pulse">Pulso</string>
+    <string name="fod_recog_animation_miui_pulse_white">Pulso (Branco)</string>
+    <string name="fod_recog_animation_miui_rhythm">Ritmo</string>
+    <string name="fod_recog_animation_miui_star_cas">Luz Estelar</string>
+    <string name="fod_recog_animation_op_cosmos">Cosmos</string>
+    <string name="fod_recog_animation_op_energy">Energia</string>
+    <string name="fod_recog_animation_op_mclaren">McLaren</string>
+    <string name="fod_recog_animation_op_ripple">Ondulação</string>
+    <string name="fod_recog_animation_op_scanning">Digitalização (Cyberpunk 2077)</string>
+    <string name="fod_recog_animation_op_stripe">Stripe</string>
+    <string name="fod_recog_animation_op_wave">Onda</string>
+    <string name="fod_recog_animation_pureview_dna">DNA</string>
+    <string name="fod_recog_animation_pureview_future">Futuro</string>
+    <string name="fod_recog_animation_pureview_halo_ring">Anel de Halo</string>
+    <string name="fod_recog_animation_pureview_molecular">Molecular</string>
+    <string name="fod_recog_animation_rog_fusion">Fusão</string>
+    <string name="fod_recog_animation_rog_pulsar">Pulsar</string>
+    <string name="fod_recog_animation_rog_supernova">Supernova</string>
     <!-- Hotspot extras -->
+    <string name="tethering_allow_vpn_upstreams_title">Permitir que clientes usem VPNs</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Permitir que os clientes de hotspot usem este dispositivo\u2019s conexões VPN para conectividade a montante</string>
+    <!-- Aggressive battery -->
+    <string name="aggressive_idle_title">Ocioso Agressivo</string>
+    <string name="aggressive_idle_summary">Reduza os dispertar do dispositivo e reduza o tempo necessário para entrar no estado ocioso</string>
+    <string name="aggressive_standby_title">Standby Agressivo</string>
+    <string name="aggressive_standby_summary">Restringir aplicativos de executarem em segundo plano</string>
+    <!-- Ambient Music -->
+    <string name="pulse_on_new_tracks_title">Ícone de música ambiente</string>
+    <string name="pulse_on_new_tracks_summary">Mostrar a tela ambiente quando uma nova música for reproduzida</string>
+    <!-- Per-app data restrictions -->
+    <string name="data_usage_app_restrict_all">Permitir acesso à rede</string>
+    <string name="data_usage_app_restrict_all_summary">Permitir o uso da rede</string>
+    <string name="data_usage_app_restrict_mobile">Dados Móveis</string>
+    <string name="data_usage_app_restrict_mobile_summary">Permitir o uso de dados móveis</string>
+    <string name="data_usage_app_restrict_vpn">Dados VPN</string>
+    <string name="data_usage_app_restrict_vpn_summary">Ativar o uso de dados VPN</string>
+    <string name="data_usage_app_restrict_wifi">Dados Wi\u2011Fi</string>
+    <string name="data_usage_app_restrict_wifi_summary">Permitir o uso de dados Wi\u2011Fi</string>
+    <!-- Themes customization -->
+    <string name="theme_customization_systemui_title">Seletor de cores</string>
+    <!-- Face Unlock -->
+    <string name="security_settings_face_unlock_redo_face_scan_summary">Fazer um novo escaneamento facial e remover o existente</string>
+    <string name="security_settings_face_unlock_redo_face_scan_title">Refazer escaneamento facial</string>
+    <string name="security_dashboard_summary_face_and_fingerprint">Bloqueio de tela, impressão digital, desbloqueio facial</string>
+    <string name="face_redo_confirm_btn">Refazer</string>
+    <string name="face_redo_warning_msg">Deseja remover a verificação facial existente e criar uma nova?</string>
+    <!-- App Lock -->
+    <string name="applock_title">Bloqueador de aplicativos</string>
+    <string name="applock_locked">Bloqueado</string>
+    <string name="applock_unlocked">Desbloqueado</string>
+    <string name="applock_locked_apps">Aplicativos bloqueados</string>
+    <string name="applock_unlocked_apps">Aplicativos desbloqueados</string>
+    <string name="applock_show_only_on_wake">Autenticar apenas uma vez</string>
+    <string name="applock_show_only_on_wake_on_summary">Uma vez autenticado, o aplicativo permanece desbloqueado até que a tela seja desligada</string>
+    <string name="applock_show_only_on_wake_off_summary">Uma vez autenticado, o aplicativo permanece desbloqueado por 15 segundos após a saída</string>
+    <string name="applock_notification_info">Você pode mostrar/ocultar o conteúdo da notificação por aplicativo, clicando no ícone de notificação mostrado na preferência de cada aplicativo bloqueado</string>
+    <string name="applock_show_notif">Mostrar o conteúdo das notificações</string>
+    <string name="applock_hide_notif">Ocultar o conteúdo das notificações</string>
+    <string name="applock_setup">Configurar o bloqueador de aplicativos</string>
+    <string name="applock_overlay_summary">Este recurso não está disponível porque este aplicativo está bloqueado</string>
+    <plurals name="applock_summary">
+        <item quantity="one">1 aplicativo bloqueado</item>
+        <item quantity="other">%d aplicativos bloqueados</item>
+    </plurals>
+    <string name="keywords_applock_settings">bloqueio de app, segurança de apps, bloqueio de apps, bloqueador de apps</string>
+    <!-- Clock style -->
+    <string name="clock_style_title">Estilo do relógio</string>
+    <string name="clock_style_summary">Personalizar o relógio da tela de bloqueio</string>
+    <!-- Night Display API strings -->
+    <string name="unknown_night_light_time">Desconhecido - pressione para atualizar</string>
+    <string name="night_display_location_text">\n\nA programação de anoitecer ao amanhecer requer que os serviços de localização estejam ativos e obtenham os horários corretos da sua localização.</string>
 </resources>

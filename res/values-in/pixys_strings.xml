@@ -102,4 +102,53 @@
     <!-- Hotspot extras -->
     <string name="tethering_allow_vpn_upstreams_title">Izinkan klien untuk menggunakan VPN</string>
     <string name="tethering_allow_vpn_upstreams_summary">Izinkan klien hotspot untuk menggunakan koneksi VPN\u2019s perangkat ini untuk konektivitas hulu</string>
+    <!-- Aggressive battery -->
+    <string name="aggressive_idle_title">Diam diperpanjang</string>
+    <string name="aggressive_idle_summary">Kurangi bangun perangkat dan kurangi waktu yang diperlukan untuk memasuki kondisi diam</string>
+    <string name="aggressive_standby_title">Siaga Agresif</string>
+    <string name="aggressive_standby_summary">Batasi aplikasi agar tidak berjalan di latar belakang</string>
+    <!-- Ambient Music -->
+    <string name="pulse_on_new_tracks_title">Ticker musik ambien</string>
+    <string name="pulse_on_new_tracks_summary">Tampilkan Tampilan Ambien saat trek musik baru diputar</string>
+    <!-- Per-app data restrictions -->
+    <string name="data_usage_app_restrict_all">Izinkan akses jaringan</string>
+    <string name="data_usage_app_restrict_all_summary">Aktifkan penggunaan jaringan</string>
+    <string name="data_usage_app_restrict_mobile">Data Seluler</string>
+    <string name="data_usage_app_restrict_mobile_summary">Aktifkan penggunaan data seluler</string>
+    <string name="data_usage_app_restrict_vpn">Data VPN</string>
+    <string name="data_usage_app_restrict_vpn_summary">Aktifkan penggunaan data VPN</string>
+    <string name="data_usage_app_restrict_wifi">Data Wi\u2011Fi</string>
+    <string name="data_usage_app_restrict_wifi_summary">Aktifkan penggunaan data Wi\u2011Fi</string>
+    <!-- Themes customization -->
+    <string name="theme_customization_systemui_title">Macam-macam warna</string>
+    <!-- Face Unlock -->
+    <string name="security_settings_face_unlock_redo_face_scan_summary">Hapus pemindaian wajah yang sudah ada dan buat pemindaian baru</string>
+    <string name="security_settings_face_unlock_redo_face_scan_title">Ulangi pemindaian wajah</string>
+    <string name="security_dashboard_summary_face_and_fingerprint">Layar kunci, sidik jari, buka kunci dengan wajah</string>
+    <string name="face_redo_confirm_btn">Ulangi</string>
+    <string name="face_redo_warning_msg">Apakah Anda ingin menghapus pemindaian wajah yang sudah ada dan membuat pemindaian baru?</string>
+    <!-- App Lock -->
+    <string name="applock_title">Pengunci Aplikasi</string>
+    <string name="applock_locked">Terkunci</string>
+    <string name="applock_unlocked">Terbuka</string>
+    <string name="applock_locked_apps">Aplikasi terkunci</string>
+    <string name="applock_unlocked_apps">Aplikasi tidak terkunci</string>
+    <string name="applock_show_only_on_wake">Lakukan autentikasi hanya sekali</string>
+    <string name="applock_show_only_on_wake_on_summary">Setelah diautentikasi, aplikasi tetap tidak terkunci hingga layar mati</string>
+    <string name="applock_show_only_on_wake_off_summary">Setelah diautentikasi, aplikasi tetap tidak terkunci selama 15 detik setelah keluar</string>
+    <string name="applock_notification_info">Anda dapat menampilkan/menyembunyikan konten notifikasi per aplikasi dengan mengklik ikon notifikasi yang ditampilkan di preferensi setiap aplikasi yang terkunci</string>
+    <string name="applock_show_notif">Menampilkan konten notifikasi</string>
+    <string name="applock_hide_notif">Menyembunyikan konten notifikasi</string>
+    <string name="applock_setup">Siapkan pengunci aplikasi</string>
+    <string name="applock_overlay_summary">Fitur ini tidak tersedia karena aplikasi ini terkunci</string>
+    <plurals name="applock_summary">
+        <item quantity="other">%d aplikasi terkunci</item>
+    </plurals>
+    <string name="keywords_applock_settings">kunci aplikasi, pengunci aplikasi, loker aplikasi</string>
+    <!-- Clock style -->
+    <string name="clock_style_title">Gaya Jam</string>
+    <string name="clock_style_summary">Sesuaikan jam layar kunci</string>
+    <!-- Night Display API strings -->
+    <string name="unknown_night_light_time">Tidak diketahui - tekan untuk pembaruan</string>
+    <string name="night_display_location_text">\n\nJadwal dari matahari terbenam hingga matahari terbit membutuhkan layanan lokasi yang diaktifkan untuk mendapatkan waktu yang tepat untuk lokasi Anda.</string>
 </resources>

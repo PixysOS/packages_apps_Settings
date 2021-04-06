@@ -39,24 +39,75 @@
     <!-- Screenshot sound -->
     <string name="screenshot_sound_title">Sonido de captura de pantalla</string>
     <!-- Navbar length -->
-    <string name="navbar_length">Largo del Gesto</string>
+    <string name="navbar_length">Longitud de la barra de gestos</string>
     <string name="hidden_label">Oculto</string>
     <string name="long_label">Largo</string>
     <!-- Global Actions -->
-    <string name="global_actions_advanced_reboot_title">Habilitar opciones avanzadas</string>
+    <string name="global_actions_advanced_reboot_title">Habilitar reinicio avanzado</string>
     <string name="global_actions_advanced_reboot_summary">Mostrar opciones para recovery y bootloader</string>
     <string name="power_menu_advanced_category">Avanzado</string>
     <string name="battery_temp">Temperatura de la batería</string>
     <!-- String for removal of sensitive info on about, depending on tap -->
     <string name="device_info_protected_single_press">Toca para mostrar información</string>
     <!-- Double tap-to-sleep -->
+    <string name="double_tap_to_sleep_title">Gesto de suspensión en barra de estado</string>
+    <string name="status_bar_title">Gesto doble-tap en la barra de estado</string>
+    <string name="double_tap_to_sleep_summary">Doble-tap en la barra de estado para apagar el dispositivo</string>
     <!-- Hardware info -->
     <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
+    <string name="platform_revision">Plataforma</string>
     <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
+    <string name="total_ram">RAM Total</string>
     <!-- Volume rocker gestures -->
+    <string name="volume_skiptrack_screen_title">Saltar pistas de música</string>
+    <string name="volume_skiptrack_title">Las teclas de volumen cambian de canción</string>
+    <string name="volume_skiptrack_summary">Pulse de forma prolongada las teclas de volumen para omitir canciones al reproducir música, incluso a distancia en TV o PC ej. Spotify (la aplicación debe ejecutarse en el teléfono y mostrar la notificación).</string>
     <!-- Torch Power button gestures -->
+    <string name="power_button_torch_title">Linterna rápida</string>
+    <string name="power_button_torch_summary">Cuando la pantalla esté apagada, la pulsación prolongada del botón de encendido activará la linterna</string>
     <!-- Gestures -->
+    <string name="gesture_preference_pixys">Gestos Pixys</string>
+    <string name="gesture_preference_aosp">Gestos AOSP</string>
     <!-- Screen off fod -->
+    <string name="fod_gesture_title">Huella dactilar con la pantalla apagada</string>
+    <string name="fod_gesture_summary">Permite desbloquear el dispositivo sin tener que encender la pantalla primero</string>
     <!-- FOD animations -->
+    <string name="fod_recog_animation">Animación de huella dactilar</string>
+    <string name="fod_recog_animation_summary">Muestra una animación mientras se lee su huella</string>
+    <string name="fod_recog_animation_effect_title">Seleccionar efecto de animación de la huella digital</string>
+    <string name="fod_recog_animation_miui_normal">MIUI por defecto</string>
+    <string name="fod_recog_animation_miui_aod">MIUI AOD</string>
+    <string name="fod_recog_animation_miui_aurora">Aurora (K30 Pro)</string>
+    <string name="fod_recog_animation_miui_aurora_cas">Aurora (Mi 10 Ultra)</string>
+    <string name="fod_recog_animation_miui_light">Claro</string>
+    <string name="fod_recog_animation_miui_pop">Pop</string>
+    <string name="fod_recog_animation_miui_pulse">Pulso</string>
+    <string name="fod_recog_animation_miui_pulse_white">Pulso (Blanco)</string>
+    <string name="fod_recog_animation_miui_rhythm">Ritmo</string>
+    <string name="fod_recog_animation_miui_star_cas">Luz estelar</string>
+    <string name="fod_recog_animation_op_cosmos">Cosmos</string>
+    <string name="fod_recog_animation_op_energy">Energía</string>
+    <string name="fod_recog_animation_op_mclaren">McLaren</string>
+    <string name="fod_recog_animation_op_ripple">Onda</string>
+    <string name="fod_recog_animation_op_scanning">Escaneando (Cyberpunk 2077)</string>
+    <string name="fod_recog_animation_op_stripe">Raya</string>
+    <string name="fod_recog_animation_op_wave">Onda</string>
+    <string name="fod_recog_animation_pureview_dna">ADN</string>
+    <string name="fod_recog_animation_pureview_future">Futuro</string>
+    <string name="fod_recog_animation_pureview_halo_ring">Anillo de Halo</string>
+    <string name="fod_recog_animation_pureview_molecular">Molecular</string>
+    <string name="fod_recog_animation_rog_fusion">Fusión</string>
+    <string name="fod_recog_animation_rog_pulsar">Pulsar</string>
+    <string name="fod_recog_animation_rog_supernova">Supernova</string>
     <!-- Hotspot extras -->
+    <string name="tethering_allow_vpn_upstreams_title">Permitir a los clientes usar VPNs</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Permitir a los clientes del punto de acceso usar las conexiones VPN de este dispositivo\u2019 como conectividad de subida</string>
+    <!-- Aggressive battery -->
+    <!-- Ambient Music -->
+    <!-- Per-app data restrictions -->
+    <!-- Themes customization -->
+    <!-- Face Unlock -->
+    <!-- App Lock -->
+    <!-- Clock style -->
+    <!-- Night Display API strings -->
 </resources>
