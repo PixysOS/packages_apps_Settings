@@ -295,4 +295,8 @@
     <!-- Black theme -->
     <string name="system_black_theme_title">Vivid Colors</string>
     <string name="system_black_theme_summary">Use colorful and darker monet shades</string>
+
+    <!-- Statusbar tuner -->
+    <string name="statusbar_tuner_title">Statusbar tuner</string>
+
 </resources>
