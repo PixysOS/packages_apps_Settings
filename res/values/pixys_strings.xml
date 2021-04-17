@@ -91,4 +91,7 @@
     <string name="incall_vibrate_call_wait_title">Vibrate on call waiting</string>
     <string name="incall_vibrate_disconnect_title">Vibrate on disconnect</string>
 
+    <!-- Statusbar tuner -->
+    <string name="statusbar_tuner_title">Statusbar tuner</string>
+
 </resources>
