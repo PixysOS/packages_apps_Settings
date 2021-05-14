@@ -62,8 +62,17 @@
         android:summary="@string/summary_placeholder"
         settings:controller="com.android.settings.accounts.EmergencyInfoPreferenceController"/>
 
-    <!-- Legal information -->
-    <!--Preference
+    <Preference
+        android:title="@string/radio_info_title"
+        android:key="radio_info_settings"
+        android:order="15">
+        <intent android:action="android.intent.action.MAIN"
+                android:targetPackage="com.android.phone"
+                android:targetClass="com.android.phone.settings.RadioInfo" />
+    </Preference>
+
+    <!-- Legal information
+   <Preference
         android:key="legal_container"
         android:order="15"
         android:title="@string/legal_information"

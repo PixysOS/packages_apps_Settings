@@ -157,9 +157,14 @@
     <string name="applock_unlocked">Unlocked</string>
     <string name="applock_locked_apps">Locked apps</string>
     <string name="applock_unlocked_apps">Unlocked apps</string>
-    <string name="applock_show_only_on_wake">Authenticate only once</string>
-    <string name="applock_show_only_on_wake_on_summary">Once authenticated, an app stays unlocked until the screen turns off</string>
-    <string name="applock_show_only_on_wake_off_summary">Once authenticated, an app stays unlocked for 15 seconds after exiting</string>
+    <string name="applock_lock_after_title">Lock app after</string>
+    <string name="applock_lock_after_instantly">Instantly</string>
+    <string name="applock_lock_after_15_seconds">15 Seconds</string>
+    <string name="applock_lock_after_screen_off">Screen off</string>
+    <string name="applock_lock_after_summary">App will be locked after selected timeout</string>
+    <string name="applock_lock_after_instantly_summary">App will be locked instantly when closed</string>
+    <string name="applock_lock_after_15_seconds_summary">App will be locked 15 seconds after closing</string>
+    <string name="applock_lock_after_screen_off_summary">App will be locked when screen is turned off</string>
     <string name="applock_notification_info">You can show/hide the notification content on a per-app basis by clicking on the notification icon shown on each locked apps\' preference</string>
     <string name="applock_show_notif">Showing notification content</string>
     <string name="applock_hide_notif">Hiding notification content</string>
@@ -178,4 +183,11 @@
     <!-- Night Display API strings -->
     <string name="unknown_night_light_time">Unknown - press to update</string>
     <string name="night_display_location_text">\n\nThe schedule from sunset to sunrise requires enabled location services to get the correct times for your location.</string>
+
+    <!-- Radio Info -->
+    <string name="radio_info_title">Radio info</string>
+
+    <!-- Clipboard toast toggle -->
+    <string name="show_clipboard_toast">Show clipboard access alerts</string>
+    <string name="show_clipboard_toast_summary">Display a toast when an app tries to access the clipboard</string>
 </resources>
