@@ -77,15 +77,77 @@
     <string name="fod_recog_animation_effect_title">指紋識別動畫效果</string>
     <string name="fod_recog_animation_miui_normal">MIUI 默認</string>
     <string name="fod_recog_animation_miui_aod">MIUI 息屏顯示</string>
+    <string name="fod_recog_animation_miui_aurora">Aurora (K30 Pro)</string>
+    <string name="fod_recog_animation_miui_aurora_cas">Aurora (Mi 10 Ultra)</string>
+    <string name="fod_recog_animation_miui_light">亮色</string>
+    <string name="fod_recog_animation_miui_pop">流行</string>
+    <string name="fod_recog_animation_miui_pulse">閃爍</string>
+    <string name="fod_recog_animation_miui_pulse_white">閃爍 (白色)</string>
+    <string name="fod_recog_animation_miui_rhythm">節奏</string>
+    <string name="fod_recog_animation_miui_star_cas">星光</string>
+    <string name="fod_recog_animation_op_cosmos">宇宙</string>
+    <string name="fod_recog_animation_op_energy">能量</string>
+    <string name="fod_recog_animation_op_mclaren">麥拉侖</string>
+    <string name="fod_recog_animation_op_ripple">波紋</string>
+    <string name="fod_recog_animation_op_scanning">掃描 (賽博2077)</string>
+    <string name="fod_recog_animation_op_stripe">條紋</string>
+    <string name="fod_recog_animation_op_wave">波浪</string>
+    <string name="fod_recog_animation_pureview_dna">基因</string>
+    <string name="fod_recog_animation_pureview_future">未來</string>
+    <string name="fod_recog_animation_pureview_halo_ring">光環</string>
+    <string name="fod_recog_animation_pureview_molecular">分子</string>
+    <string name="fod_recog_animation_rog_fusion">融合</string>
+    <string name="fod_recog_animation_rog_pulsar">脈衝星</string>
+    <string name="fod_recog_animation_rog_supernova">超新星</string>
     <!-- Hotspot extras -->
     <string name="tethering_allow_vpn_upstreams_title">允許客戶端使用 VPN</string>
     <string name="tethering_allow_vpn_upstreams_summary">允許熱點客戶端使用此設備\u2019的 VPN 連接到上遊連接</string>
     <!-- Aggressive battery -->
+    <string name="aggressive_idle_title">擴展閒置</string>
+    <string name="aggressive_idle_summary">減少設備喚醒並減少進入空閒狀態所需的時間</string>
+    <string name="aggressive_standby_title">主動待機</string>
+    <string name="aggressive_standby_summary">限制應用程式在背景中執行</string>
     <!-- Ambient Music -->
+    <string name="pulse_on_new_tracks_title">環境音樂通知</string>
+    <string name="pulse_on_new_tracks_summary">播放新的音樂曲目時顯示環境顯示畫面</string>
     <!-- Per-app data restrictions -->
+    <string name="data_usage_app_restrict_all">允許網路存取</string>
+    <string name="data_usage_app_restrict_all_summary">允許網路流量</string>
+    <string name="data_usage_app_restrict_mobile">行動數據</string>
+    <string name="data_usage_app_restrict_mobile_summary">啟用行動網路流量統計</string>
+    <string name="data_usage_app_restrict_vpn">VPN 數據</string>
+    <string name="data_usage_app_restrict_vpn_summary">啟用 VPN 流量統計</string>
+    <string name="data_usage_app_restrict_wifi">Wi\u2011Fi 數據</string>
+    <string name="data_usage_app_restrict_wifi_summary">啟用 Wi\u2011Fi 流量統計</string>
     <!-- Themes customization -->
+    <string name="theme_customization_systemui_title">主題色彩</string>
     <!-- Face Unlock -->
+    <string name="security_settings_face_unlock_redo_face_scan_summary">移除現有的臉部掃描資料，並建立新的資料</string>
+    <string name="security_settings_face_unlock_redo_face_scan_title">重新執行臉部掃描</string>
+    <string name="security_dashboard_summary_face_and_fingerprint">螢幕鎖定、指紋、臉部辨識解鎖</string>
+    <string name="face_redo_confirm_btn">重做</string>
+    <string name="face_redo_warning_msg">您要移除現有的臉部掃描資料，並建立新的資料嗎?</string>
     <!-- App Lock -->
+    <string name="applock_title">應用程式鎖</string>
+    <string name="applock_locked">已鎖</string>
+    <string name="applock_unlocked">已解鎖</string>
+    <string name="applock_locked_apps">已鎖定的應用程式</string>
+    <string name="applock_unlocked_apps">已解鎖的應用程式</string>
+    <string name="applock_notification_info">藉由點擊被鎖定應用程式旁的通知圖示，您可以 顯示/隱藏 該應用程式通知內容</string>
+    <string name="applock_show_notif">顯示通知內容</string>
+    <string name="applock_hide_notif">隱藏通知內容</string>
+    <string name="applock_setup">設定應用程式鎖</string>
+    <string name="applock_overlay_summary">這項功能無法使用，因為此應用程式已被鎖定</string>
+    <plurals name="applock_summary">
+        <item quantity="other">%d 程式已被鎖定</item>
+    </plurals>
+    <string name="keywords_applock_settings">應用程式鎖定, 應用程式鎖定, 應用程式鎖定, 應用程式鎖定</string>
     <!-- Clock style -->
+    <string name="clock_style_title">時鐘樣式</string>
+    <string name="clock_style_summary">自訂鎖定畫面時鐘</string>
     <!-- Night Display API strings -->
+    <string name="unknown_night_light_time">未知—點擊以更新</string>
+    <string name="night_display_location_text">\n\n 從日落到日出的時間表需要啟用位置服務才能獲取您所在位置的正確時間。</string>
+    <!-- Radio Info -->
+    <!-- Clipboard toast toggle -->
 </resources>

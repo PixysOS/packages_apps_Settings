@@ -133,9 +133,6 @@
     <string name="applock_unlocked">Desbloqueado</string>
     <string name="applock_locked_apps">Aplicativos bloqueados</string>
     <string name="applock_unlocked_apps">Aplicativos desbloqueados</string>
-    <string name="applock_show_only_on_wake">Autenticar apenas uma vez</string>
-    <string name="applock_show_only_on_wake_on_summary">Uma vez autenticado, o aplicativo permanece desbloqueado até que a tela seja desligada</string>
-    <string name="applock_show_only_on_wake_off_summary">Uma vez autenticado, o aplicativo permanece desbloqueado por 15 segundos após a saída</string>
     <string name="applock_notification_info">Você pode mostrar/ocultar o conteúdo da notificação por aplicativo, clicando no ícone de notificação mostrado na preferência de cada aplicativo bloqueado</string>
     <string name="applock_show_notif">Mostrar o conteúdo das notificações</string>
     <string name="applock_hide_notif">Ocultar o conteúdo das notificações</string>
@@ -152,4 +149,6 @@
     <!-- Night Display API strings -->
     <string name="unknown_night_light_time">Desconhecido - pressione para atualizar</string>
     <string name="night_display_location_text">\n\nA programação de anoitecer ao amanhecer requer que os serviços de localização estejam ativos e obtenham os horários corretos da sua localização.</string>
+    <!-- Radio Info -->
+    <!-- Clipboard toast toggle -->
 </resources>

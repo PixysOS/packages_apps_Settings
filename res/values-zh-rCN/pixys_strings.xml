@@ -16,31 +16,138 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- PixysOS version preference -->
+    <string name="pixys_version">"PixysOS 版本"</string>
+    <string name="build_date">"编译日期"</string>
     <!-- Format string for fingerprint location message -->
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="tablet">在您的平板电脑的 <xliff:g id="sensor_location">%1$s</xliff:g> 上找到指纹传感器。</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="device">在您的设备的 <xliff:g id="sensor_location">%1$s</xliff:g> 找到指纹传感器。</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="default">在您手机的 <xliff:g id="sensor_location">%1$s</xliff:g> 找到指纹传感器。</string>
     <!-- Fingerprint sensor locations -->
+    <string name="security_settings_fingerprint_sensor_location_back">返回</string>
+    <string name="security_settings_fingerprint_sensor_location_front">正面</string>
+    <string name="security_settings_fingerprint_sensor_location_left">左侧</string>
+    <string name="security_settings_fingerprint_sensor_location_right">右侧</string>
     <!-- Title for connected TWS device group [CHAR LIMIT=none]-->
+    <string name="connected_tws_device_saved_title">已保存的耳机</string>
     <!-- Refresh rate -->
+    <string name="refresh_rate_title">屏幕刷新率</string>
+    <string name="refresh_rate_auto">自动</string>
+    <string name="refresh_rate_60">60赫兹(节能)</string>
     <!-- Three-fingers-swipe to screenshot -->
+    <string name="three_finger_gesture">三指截屏</string>
+    <string name="three_finger_gesture_summary">三指向下滑动实现屏幕截图</string>
     <!-- Screenshot sound -->
+    <string name="screenshot_sound_title">屏幕截图声音</string>
     <!-- Navbar length -->
+    <string name="navbar_length">手势栏长度</string>
+    <string name="hidden_label">隐藏</string>
+    <string name="long_label">长</string>
     <!-- Global Actions -->
+    <string name="global_actions_advanced_reboot_title">启用高级重启</string>
+    <string name="global_actions_advanced_reboot_summary">显示恢复和引导选项</string>
+    <string name="power_menu_advanced_category">高级设置</string>
+    <string name="battery_temp">电池温度</string>
     <!-- String for removal of sensitive info on about, depending on tap -->
+    <string name="device_info_protected_single_press">点击以显示信息</string>
     <!-- Double tap-to-sleep -->
+    <string name="double_tap_to_sleep_title">状态栏睡眠手势</string>
+    <string name="status_bar_title">双击状态栏手势</string>
+    <string name="double_tap_to_sleep_summary">双击状态栏使设备休眠</string>
     <!-- Hardware info -->
     <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
+    <string name="platform_revision">平台</string>
     <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
+    <string name="total_ram">总内存</string>
     <!-- Volume rocker gestures -->
+    <string name="volume_skiptrack_screen_title">跳过音乐曲目</string>
+    <string name="volume_skiptrack_title">音量键切换曲目</string>
+    <string name="volume_skiptrack_summary">播放音乐时，长按音量键跳过曲目，甚至在远程连接设备 TV 或 PC 上使用 ，例如 Spotify (应用程序必须在手机上运行并显示通知)。</string>
     <!-- Torch Power button gestures -->
+    <string name="power_button_torch_title">快捷手电筒</string>
+    <string name="power_button_torch_summary">当屏幕关闭时，长按电源键将启用手电筒</string>
     <!-- Gestures -->
+    <string name="gesture_preference_pixys">Pixys 手势</string>
+    <string name="gesture_preference_aosp">AOSP 手势</string>
     <!-- Screen off fod -->
+    <string name="fod_gesture_title">息屏指纹</string>
+    <string name="fod_gesture_summary">无需唤醒屏幕即可解锁设备</string>
     <!-- FOD animations -->
+    <string name="fod_recog_animation">屏幕指纹识别动画</string>
+    <string name="fod_recog_animation_summary">在识别指纹时显示动画</string>
+    <string name="fod_recog_animation_effect_title">选择指纹动画效果</string>
+    <string name="fod_recog_animation_miui_normal">MIUI 默认</string>
+    <string name="fod_recog_animation_miui_aod">MIUI AOD</string>
+    <string name="fod_recog_animation_miui_aurora">Aurora (K30 Pro)</string>
+    <string name="fod_recog_animation_miui_aurora_cas">Aurora (Mi 10 Ultra)</string>
+    <string name="fod_recog_animation_miui_light">亮色调</string>
+    <string name="fod_recog_animation_miui_pop">流行</string>
+    <string name="fod_recog_animation_miui_pulse">动态</string>
+    <string name="fod_recog_animation_miui_pulse_white">律动(白色)</string>
+    <string name="fod_recog_animation_miui_rhythm">节奏</string>
+    <string name="fod_recog_animation_miui_star_cas">星光</string>
+    <string name="fod_recog_animation_op_cosmos">宇宙</string>
+    <string name="fod_recog_animation_op_energy">能量</string>
+    <string name="fod_recog_animation_op_mclaren">迈凯轮</string>
+    <string name="fod_recog_animation_op_ripple">波纹</string>
+    <string name="fod_recog_animation_op_scanning">扫描 (赛博朋克 2077)</string>
+    <string name="fod_recog_animation_op_stripe">条纹</string>
+    <string name="fod_recog_animation_op_wave">波形</string>
+    <string name="fod_recog_animation_pureview_dna">DNA</string>
+    <string name="fod_recog_animation_pureview_future">未来</string>
+    <string name="fod_recog_animation_pureview_halo_ring">光环</string>
+    <string name="fod_recog_animation_pureview_molecular">分子</string>
+    <string name="fod_recog_animation_rog_fusion">融合</string>
+    <string name="fod_recog_animation_rog_pulsar">脉冲星</string>
+    <string name="fod_recog_animation_rog_supernova">超新星</string>
     <!-- Hotspot extras -->
+    <string name="tethering_allow_vpn_upstreams_title">允许客户端使用 VPN</string>
+    <string name="tethering_allow_vpn_upstreams_summary">允许热点客户端使用此设备\u2019的 VPN 连接</string>
     <!-- Aggressive battery -->
+    <string name="aggressive_idle_title">扩展闲置</string>
+    <string name="aggressive_idle_summary">减少设备唤醒并减少进入空闲状态所需的时间</string>
+    <string name="aggressive_standby_title">极限待机</string>
+    <string name="aggressive_standby_summary">限制应用程序后台运行</string>
     <!-- Ambient Music -->
+    <string name="pulse_on_new_tracks_title">环境音乐提示</string>
+    <string name="pulse_on_new_tracks_summary">播放新曲目时点亮环境显示</string>
     <!-- Per-app data restrictions -->
+    <string name="data_usage_app_restrict_all">允许网络访问</string>
+    <string name="data_usage_app_restrict_all_summary">启用网络使用统计</string>
+    <string name="data_usage_app_restrict_mobile">移动数据</string>
+    <string name="data_usage_app_restrict_mobile_summary">启用移动数据使用统计</string>
+    <string name="data_usage_app_restrict_vpn">VPN 数据</string>
+    <string name="data_usage_app_restrict_vpn_summary">启用 VPN 数据使用统计</string>
+    <string name="data_usage_app_restrict_wifi">Wi\u2011Fi 数据</string>
+    <string name="data_usage_app_restrict_wifi_summary">启用 Wi\u2011Fi 数据使用统计</string>
     <!-- Themes customization -->
+    <string name="theme_customization_systemui_title">调色板</string>
     <!-- Face Unlock -->
+    <string name="security_settings_face_unlock_redo_face_scan_summary">移除现有的人脸数据并重新录入</string>
+    <string name="security_settings_face_unlock_redo_face_scan_title">重新录入人脸数据</string>
+    <string name="security_dashboard_summary_face_and_fingerprint">屏幕锁定、指纹、人脸解锁</string>
+    <string name="face_redo_confirm_btn">重作</string>
+    <string name="face_redo_warning_msg">是否要移除现有的人脸数据并重新录入？</string>
     <!-- App Lock -->
+    <string name="applock_title">应用锁</string>
+    <string name="applock_locked">已锁定</string>
+    <string name="applock_unlocked">已解锁</string>
+    <string name="applock_locked_apps">已锁定应用</string>
+    <string name="applock_unlocked_apps">已解锁的应用</string>
+    <string name="applock_notification_info">您可以通过点击每个锁定的应用程序首选项上显示的通知图标，按应用程序显示/隐藏通知内容</string>
+    <string name="applock_show_notif">显示通知内容</string>
+    <string name="applock_hide_notif">隐藏通知内容</string>
+    <string name="applock_setup">设置应用锁</string>
+    <string name="applock_overlay_summary">此应用已锁定，因此无法使用此功能</string>
+    <plurals name="applock_summary">
+        <item quantity="other">%d个应用已锁定</item>
+    </plurals>
+    <string name="keywords_applock_settings">应用锁，应用锁屏，应用锁定</string>
     <!-- Clock style -->
+    <string name="clock_style_title">时钟样式</string>
+    <string name="clock_style_summary">自定义锁屏时钟</string>
     <!-- Night Display API strings -->
+    <string name="unknown_night_light_time">未知 - 点击更新</string>
+    <string name="night_display_location_text">\n\n需要启用位置服务才能获取您当地的日出日落时间。</string>
+    <!-- Radio Info -->
+    <!-- Clipboard toast toggle -->
 </resources>

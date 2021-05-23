@@ -133,9 +133,6 @@
     <string name="applock_unlocked">Terbuka</string>
     <string name="applock_locked_apps">Aplikasi terkunci</string>
     <string name="applock_unlocked_apps">Aplikasi tidak terkunci</string>
-    <string name="applock_show_only_on_wake">Lakukan autentikasi hanya sekali</string>
-    <string name="applock_show_only_on_wake_on_summary">Setelah diautentikasi, aplikasi tetap tidak terkunci hingga layar mati</string>
-    <string name="applock_show_only_on_wake_off_summary">Setelah diautentikasi, aplikasi tetap tidak terkunci selama 15 detik setelah keluar</string>
     <string name="applock_notification_info">Anda dapat menampilkan/menyembunyikan konten notifikasi per aplikasi dengan mengklik ikon notifikasi yang ditampilkan di preferensi setiap aplikasi yang terkunci</string>
     <string name="applock_show_notif">Menampilkan konten notifikasi</string>
     <string name="applock_hide_notif">Menyembunyikan konten notifikasi</string>
@@ -151,4 +148,6 @@
     <!-- Night Display API strings -->
     <string name="unknown_night_light_time">Tidak diketahui - tekan untuk pembaruan</string>
     <string name="night_display_location_text">\n\nJadwal dari matahari terbenam hingga matahari terbit membutuhkan layanan lokasi yang diaktifkan untuk mendapatkan waktu yang tepat untuk lokasi Anda.</string>
+    <!-- Radio Info -->
+    <!-- Clipboard toast toggle -->
 </resources>

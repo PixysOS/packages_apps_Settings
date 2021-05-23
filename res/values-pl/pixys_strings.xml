@@ -49,15 +49,30 @@
     <!-- Volume rocker gestures -->
     <!-- Torch Power button gestures -->
     <!-- Gestures -->
+    <string name="gesture_preference_aosp">Gesty AOSP</string>
     <!-- Screen off fod -->
     <!-- FOD animations -->
+    <string name="fod_recog_animation_miui_light">Jasny</string>
+    <string name="fod_recog_animation_miui_pulse">Puls</string>
+    <string name="fod_recog_animation_miui_rhythm">Rytm</string>
+    <string name="fod_recog_animation_pureview_dna">DNA</string>
+    <string name="fod_recog_animation_rog_supernova">Supernova</string>
     <!-- Hotspot extras -->
     <!-- Aggressive battery -->
     <!-- Ambient Music -->
     <!-- Per-app data restrictions -->
+    <string name="data_usage_app_restrict_mobile">Dane mobilne</string>
     <!-- Themes customization -->
     <!-- Face Unlock -->
+    <string name="security_settings_face_unlock_redo_face_scan_title">Powtórz skanowanie twarzy</string>
     <!-- App Lock -->
+    <string name="applock_locked_apps">Zablokowane aplikacje</string>
+    <string name="applock_unlocked_apps">Odblokowane aplikacje</string>
     <!-- Clock style -->
+    <string name="clock_style_title">Styl zegara</string>
+    <string name="clock_style_summary">Dostosuj zegar na ekranie blokady</string>
     <!-- Night Display API strings -->
+    <string name="unknown_night_light_time">Nieznany - naciśnij aby zaktualizować</string>
+    <!-- Radio Info -->
+    <!-- Clipboard toast toggle -->
 </resources>

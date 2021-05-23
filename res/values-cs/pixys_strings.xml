@@ -133,9 +133,6 @@
     <string name="applock_unlocked">Odemčeno</string>
     <string name="applock_locked_apps">Uzamčené aplikace</string>
     <string name="applock_unlocked_apps">Odemčené aplikace</string>
-    <string name="applock_show_only_on_wake">Ověřit pouze jednou</string>
-    <string name="applock_show_only_on_wake_on_summary">Po ověření zůstane aplikace odemknutá, dokud se nevypne obrazovka</string>
-    <string name="applock_show_only_on_wake_off_summary">Po ověření zůstane aplikace odemknutá po dobu 15 sekund od jejího ukončení</string>
     <string name="applock_notification_info">Obsah oznámení můžete zobrazit nebo skrýt pro jednotlivé aplikace kliknutím na ikonu oznámení zobrazenou v předvolbách každé zamčené aplikace</string>
     <string name="applock_show_notif">Obsah oznámení je zobrazován</string>
     <string name="applock_hide_notif">Obsah oznámení je skrýván</string>
@@ -154,4 +151,6 @@
     <!-- Night Display API strings -->
     <string name="unknown_night_light_time">Není známo - stiskněte pro aktualizaci</string>
     <string name="night_display_location_text">\n\nPlán od západu do východu slunce vyžaduje povolené lokalizační služby k získání správného času pro vaší polohu.</string>
+    <!-- Radio Info -->
+    <!-- Clipboard toast toggle -->
 </resources>

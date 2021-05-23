@@ -133,9 +133,6 @@
     <string name="applock_unlocked">未ロック</string>
     <string name="applock_locked_apps">ロックしたアプリ</string>
     <string name="applock_unlocked_apps">未ロックのアプリ</string>
-    <string name="applock_show_only_on_wake">1度だけ認証</string>
-    <string name="applock_show_only_on_wake_on_summary">1回認証すると、アプリは画面が消灯するまでロック解除されたままになります。</string>
-    <string name="applock_show_only_on_wake_off_summary">1回認証すると、アプリ終了後の15秒間はロック解除されたままになります。</string>
     <string name="applock_notification_info">それぞれのロック済みのアプリの設定に表示される通知アイコンをクリックすることで、アプリごとの通知の内容の表示/非表示を切り替えることができます。</string>
     <string name="applock_show_notif">通知の内容を表示中です</string>
     <string name="applock_hide_notif">通知の内容を非表示中です</string>
@@ -151,4 +148,6 @@
     <!-- Night Display API strings -->
     <string name="unknown_night_light_time">不明 - タップして更新</string>
     <string name="night_display_location_text">\n\n日の出から日の入りからのスケジュールにはあなたの正確な時刻を取得するために位置情報の有効化が必要です。</string>
+    <!-- Radio Info -->
+    <!-- Clipboard toast toggle -->
 </resources>
