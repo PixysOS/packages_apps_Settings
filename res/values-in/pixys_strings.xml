@@ -133,6 +133,14 @@
     <string name="applock_unlocked">Terbuka</string>
     <string name="applock_locked_apps">Aplikasi terkunci</string>
     <string name="applock_unlocked_apps">Aplikasi tidak terkunci</string>
+    <string name="applock_lock_after_title">Kunci aplikasi setelah</string>
+    <string name="applock_lock_after_instantly">Segera</string>
+    <string name="applock_lock_after_15_seconds">15 Detik</string>
+    <string name="applock_lock_after_screen_off">Layar mati</string>
+    <string name="applock_lock_after_summary">Aplikasi akan dikunci setelah waktu habis yang dipilih</string>
+    <string name="applock_lock_after_instantly_summary">Aplikasi akan langsung dikunci saat ditutup</string>
+    <string name="applock_lock_after_15_seconds_summary">Aplikasi akan dikunci 15 detik setelah ditutup</string>
+    <string name="applock_lock_after_screen_off_summary">Aplikasi akan dikunci saat layar dimatikan</string>
     <string name="applock_notification_info">Anda dapat menampilkan/menyembunyikan konten notifikasi per aplikasi dengan mengklik ikon notifikasi yang ditampilkan di preferensi setiap aplikasi yang terkunci</string>
     <string name="applock_show_notif">Menampilkan konten notifikasi</string>
     <string name="applock_hide_notif">Menyembunyikan konten notifikasi</string>
@@ -149,5 +157,12 @@
     <string name="unknown_night_light_time">Tidak diketahui - tekan untuk pembaruan</string>
     <string name="night_display_location_text">\n\nJadwal dari matahari terbenam hingga matahari terbit membutuhkan layanan lokasi yang diaktifkan untuk mendapatkan waktu yang tepat untuk lokasi Anda.</string>
     <!-- Radio Info -->
+    <string name="radio_info_title">Info radio</string>
     <!-- Clipboard toast toggle -->
+    <string name="show_clipboard_toast">Tampilkan toast akses clipboard</string>
+    <string name="show_clipboard_toast_summary">Tampilkan toast ketika aplikasi mencoba mengakses clipboard</string>
+    <!-- screen, setting option name to change wifi timeout -->
+    <!-- screen, setting option summary to change wifi timeout -->
+    <!-- Connected devices screen, setting option name to change bluetooth timeout -->
+    <!-- Connected devices screen, setting option summary to change bluetooth timeout -->
 </resources>

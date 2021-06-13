@@ -150,4 +150,8 @@
     <string name="night_display_location_text">\n\n 從日落到日出的時間表需要啟用位置服務才能獲取您所在位置的正確時間。</string>
     <!-- Radio Info -->
     <!-- Clipboard toast toggle -->
+    <!-- screen, setting option name to change wifi timeout -->
+    <!-- screen, setting option summary to change wifi timeout -->
+    <!-- Connected devices screen, setting option name to change bluetooth timeout -->
+    <!-- Connected devices screen, setting option summary to change bluetooth timeout -->
 </resources>

@@ -66,10 +66,10 @@
     <string name="power_button_torch_title">Lanterna rápida</string>
     <string name="power_button_torch_summary">Quando a tela estiver desligada, segure o botão liga/desliga para ativar a lanterna</string>
     <!-- Gestures -->
-    <string name="gesture_preference_pixys">Gestos Pixys</string>
+    <string name="gesture_preference_pixys">Gestos da Pixys</string>
     <string name="gesture_preference_aosp">Gestos AOSP</string>
     <!-- Screen off fod -->
-    <string name="fod_gesture_title">Desligar tela impressão digital</string>
+    <string name="fod_gesture_title">Desbloquear com impressão digital quando a tela estiver desligada</string>
     <string name="fod_gesture_summary">Permite desbloquear o dispositivo sem ter que ligar a tela primeiro</string>
     <!-- FOD animations -->
     <string name="fod_recog_animation">Animação da impressão digital</string>
@@ -133,6 +133,14 @@
     <string name="applock_unlocked">Desbloqueado</string>
     <string name="applock_locked_apps">Aplicativos bloqueados</string>
     <string name="applock_unlocked_apps">Aplicativos desbloqueados</string>
+    <string name="applock_lock_after_title">Bloquear aplicativo depois</string>
+    <string name="applock_lock_after_instantly">Imediatamente</string>
+    <string name="applock_lock_after_15_seconds">15 Segundos</string>
+    <string name="applock_lock_after_screen_off">Tela desligada</string>
+    <string name="applock_lock_after_summary">O aplicativo será bloqueado após tempo selecionado</string>
+    <string name="applock_lock_after_instantly_summary">O aplicativo será bloqueado instantaneamente quando fechado</string>
+    <string name="applock_lock_after_15_seconds_summary">O aplicativo será bloqueado 15 segundos após fechado</string>
+    <string name="applock_lock_after_screen_off_summary">O aplicativo será bloqueado quando a tela for desligada</string>
     <string name="applock_notification_info">Você pode mostrar/ocultar o conteúdo da notificação por aplicativo, clicando no ícone de notificação mostrado na preferência de cada aplicativo bloqueado</string>
     <string name="applock_show_notif">Mostrar o conteúdo das notificações</string>
     <string name="applock_hide_notif">Ocultar o conteúdo das notificações</string>
@@ -150,5 +158,12 @@
     <string name="unknown_night_light_time">Desconhecido - pressione para atualizar</string>
     <string name="night_display_location_text">\n\nA programação de anoitecer ao amanhecer requer que os serviços de localização estejam ativos e obtenham os horários corretos da sua localização.</string>
     <!-- Radio Info -->
+    <string name="radio_info_title">Informação de rádio</string>
     <!-- Clipboard toast toggle -->
+    <string name="show_clipboard_toast">Mostrar alertas de acesso à área de transferência</string>
+    <string name="show_clipboard_toast_summary">Exibir uma notificação flutuante quando um aplicativo tenta acessar a área de transferência</string>
+    <!-- screen, setting option name to change wifi timeout -->
+    <!-- screen, setting option summary to change wifi timeout -->
+    <!-- Connected devices screen, setting option name to change bluetooth timeout -->
+    <!-- Connected devices screen, setting option summary to change bluetooth timeout -->
 </resources>

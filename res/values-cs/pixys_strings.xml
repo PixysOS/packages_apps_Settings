@@ -133,6 +133,14 @@
     <string name="applock_unlocked">Odemčeno</string>
     <string name="applock_locked_apps">Uzamčené aplikace</string>
     <string name="applock_unlocked_apps">Odemčené aplikace</string>
+    <string name="applock_lock_after_title">Zamknout aplikaci po</string>
+    <string name="applock_lock_after_instantly">Okamžitě</string>
+    <string name="applock_lock_after_15_seconds">15 Sekund</string>
+    <string name="applock_lock_after_screen_off">Vypnutá obrazovka</string>
+    <string name="applock_lock_after_summary">Po zvoleném časovém limitu bude aplikace uzamčena</string>
+    <string name="applock_lock_after_instantly_summary">Po zavření bude aplikace okamžitě uzamčena</string>
+    <string name="applock_lock_after_15_seconds_summary">15 sekund po ukončení bude aplikace uzamčena</string>
+    <string name="applock_lock_after_screen_off_summary">Po vypnutí obrazovky bude aplikace uzamčena</string>
     <string name="applock_notification_info">Obsah oznámení můžete zobrazit nebo skrýt pro jednotlivé aplikace kliknutím na ikonu oznámení zobrazenou v předvolbách každé zamčené aplikace</string>
     <string name="applock_show_notif">Obsah oznámení je zobrazován</string>
     <string name="applock_hide_notif">Obsah oznámení je skrýván</string>
@@ -152,5 +160,42 @@
     <string name="unknown_night_light_time">Není známo - stiskněte pro aktualizaci</string>
     <string name="night_display_location_text">\n\nPlán od západu do východu slunce vyžaduje povolené lokalizační služby k získání správného času pro vaší polohu.</string>
     <!-- Radio Info -->
+    <string name="radio_info_title">Informace o modemu</string>
     <!-- Clipboard toast toggle -->
+    <string name="show_clipboard_toast">Zobrazit oznámení na přístup ke schránce</string>
+    <string name="show_clipboard_toast_summary">Zobrazit informační text při pokusu aplikace o přístup ke schránce</string>
+    <!-- screen, setting option name to change wifi timeout -->
+    <string name="wifi_timeout">Automaticky vypnout Wi-Fi</string>
+    <!-- screen, setting option summary to change wifi timeout -->
+    <string name="wifi_timeout_summary">Wi-Fi se vypne za <xliff:g id="timeout_description">%1$s</xliff:g>, pokud není připojena žádná síť</string>
+    <string name="wifi_timeout_summary2">Vypnuto</string>
+    <string name="wifi_timeout_summary_never">Nikdy</string>
+    <string name="wifi_timeout_summary_15secs">15 sekund</string>
+    <string name="wifi_timeout_summary_30secs">30 sekund</string>
+    <string name="wifi_timeout_summary_1min">1 minuta</string>
+    <string name="wifi_timeout_summary_2mins">2 minuty</string>
+    <string name="wifi_timeout_summary_5mins">5 minut</string>
+    <string name="wifi_timeout_summary_10mins">10 minut</string>
+    <string name="wifi_timeout_summary_30mins">30 minut</string>
+    <string name="wifi_timeout_summary_1hour">1 hodina</string>
+    <string name="wifi_timeout_summary_2hours">2 hodiny</string>
+    <string name="wifi_timeout_summary_4hours">4 hodiny</string>
+    <string name="wifi_timeout_summary_8hours">8 hodin</string>
+    <!-- Connected devices screen, setting option name to change bluetooth timeout -->
+    <string name="bluetooth_timeout">Časový limit Bluetooth</string>
+    <!-- Connected devices screen, setting option summary to change bluetooth timeout -->
+    <string name="bluetooth_timeout_summary">Pokud nejsou připojena žádná zařízení, Bluetooth se vypne za <xliff:g id="timeout_description">%1$s</xliff:g></string>
+    <string name="bluetooth_timeout_summary2">Automaticky nevypínat Bluetooth</string>
+    <string name="bluetooth_timeout_summary_never">Nikdy</string>
+    <string name="bluetooth_timeout_summary_15secs">15 sekund</string>
+    <string name="bluetooth_timeout_summary_30secs">30 sekund</string>
+    <string name="bluetooth_timeout_summary_1min">1 minuta</string>
+    <string name="bluetooth_timeout_summary_2mins">2 minuty</string>
+    <string name="bluetooth_timeout_summary_5mins">5 minut</string>
+    <string name="bluetooth_timeout_summary_10mins">10 minut</string>
+    <string name="bluetooth_timeout_summary_30mins">30 minut</string>
+    <string name="bluetooth_timeout_summary_1hour">1 hodina</string>
+    <string name="bluetooth_timeout_summary_2hours">2 hodiny</string>
+    <string name="bluetooth_timeout_summary_4hours">4 hodiny</string>
+    <string name="bluetooth_timeout_summary_8hours">8 hodin</string>
 </resources>

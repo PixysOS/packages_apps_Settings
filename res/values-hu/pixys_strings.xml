@@ -133,6 +133,14 @@
     <string name="applock_unlocked">Feloldva</string>
     <string name="applock_locked_apps">Zárolt alkalmazások</string>
     <string name="applock_unlocked_apps">Feloldott alkalmazások</string>
+    <string name="applock_lock_after_title">Az alkalmazás zárolása</string>
+    <string name="applock_lock_after_instantly">Azonnal</string>
+    <string name="applock_lock_after_15_seconds">15 másodperc múlva</string>
+    <string name="applock_lock_after_screen_off">Képernyő ki</string>
+    <string name="applock_lock_after_summary">A megadott idő után fog zárulni az alkalmazás</string>
+    <string name="applock_lock_after_instantly_summary">Azonnal zárulni fog az alkalmazás kilépéskor</string>
+    <string name="applock_lock_after_15_seconds_summary">15 másodperc elteltével fog zárulni az alkalmazás</string>
+    <string name="applock_lock_after_screen_off_summary">A képernyő kikapcsolás után fog zárulni az alkalmazás</string>
     <string name="applock_notification_info">Megjelenítheti/elrejtheti alkalmazásonként az értesítési tartalmat, ha az értesítési ikonra kattint az egyes lezárt alkalmazások tulajdonságainál</string>
     <string name="applock_show_notif">Értesítéstartalmak megjelenítése</string>
     <string name="applock_hide_notif">Értesítéstartalmak elrejtése</string>
@@ -150,5 +158,12 @@
     <string name="unknown_night_light_time">Ismeretlen - nyomja meg a frissítéshez</string>
     <string name="night_display_location_text">\n\nA naplemente és a napnyugta ütemezéséhez kötelező a helymeghatározási jogosultság megadása, mert csak így kaphat pontos időbeállításokat.</string>
     <!-- Radio Info -->
+    <string name="radio_info_title">Adatok szerkesztése</string>
     <!-- Clipboard toast toggle -->
+    <string name="show_clipboard_toast">Vágólap-hozzáférési figyelmeztetés</string>
+    <string name="show_clipboard_toast_summary">Mutassa, amikor egy alkalmazás megpróbálja elérni a vágólapot</string>
+    <!-- screen, setting option name to change wifi timeout -->
+    <!-- screen, setting option summary to change wifi timeout -->
+    <!-- Connected devices screen, setting option name to change bluetooth timeout -->
+    <!-- Connected devices screen, setting option summary to change bluetooth timeout -->
 </resources>

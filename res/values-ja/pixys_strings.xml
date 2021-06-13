@@ -133,6 +133,14 @@
     <string name="applock_unlocked">未ロック</string>
     <string name="applock_locked_apps">ロックしたアプリ</string>
     <string name="applock_unlocked_apps">未ロックのアプリ</string>
+    <string name="applock_lock_after_title">以下の後にアプリをロック</string>
+    <string name="applock_lock_after_instantly">すぐに</string>
+    <string name="applock_lock_after_15_seconds">15秒</string>
+    <string name="applock_lock_after_screen_off">画面を消灯</string>
+    <string name="applock_lock_after_summary">選択した制限時間後にアプリはロックされます</string>
+    <string name="applock_lock_after_instantly_summary">アプリを終了すると即座にロックされます</string>
+    <string name="applock_lock_after_15_seconds_summary">アプリは終了から15秒後にロックされます</string>
+    <string name="applock_lock_after_screen_off_summary">アプリは画面消灯時にロックされます</string>
     <string name="applock_notification_info">それぞれのロック済みのアプリの設定に表示される通知アイコンをクリックすることで、アプリごとの通知の内容の表示/非表示を切り替えることができます。</string>
     <string name="applock_show_notif">通知の内容を表示中です</string>
     <string name="applock_hide_notif">通知の内容を非表示中です</string>
@@ -149,5 +157,12 @@
     <string name="unknown_night_light_time">不明 - タップして更新</string>
     <string name="night_display_location_text">\n\n日の出から日の入りからのスケジュールにはあなたの正確な時刻を取得するために位置情報の有効化が必要です。</string>
     <!-- Radio Info -->
+    <string name="radio_info_title">基地局の情報</string>
     <!-- Clipboard toast toggle -->
+    <string name="show_clipboard_toast">クリップボードのアクセスアラートを表示</string>
+    <string name="show_clipboard_toast_summary">アプリがクリップボードにアクセスしようとした時にトーストを表示する</string>
+    <!-- screen, setting option name to change wifi timeout -->
+    <!-- screen, setting option summary to change wifi timeout -->
+    <!-- Connected devices screen, setting option name to change bluetooth timeout -->
+    <!-- Connected devices screen, setting option summary to change bluetooth timeout -->
 </resources>

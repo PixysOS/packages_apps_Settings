@@ -45,4 +45,8 @@
     <!-- Night Display API strings -->
     <!-- Radio Info -->
     <!-- Clipboard toast toggle -->
+    <!-- screen, setting option name to change wifi timeout -->
+    <!-- screen, setting option summary to change wifi timeout -->
+    <!-- Connected devices screen, setting option name to change bluetooth timeout -->
+    <!-- Connected devices screen, setting option summary to change bluetooth timeout -->
 </resources>
