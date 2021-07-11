@@ -133,6 +133,14 @@
     <string name="applock_unlocked">已解锁</string>
     <string name="applock_locked_apps">已锁定应用</string>
     <string name="applock_unlocked_apps">已解锁的应用</string>
+    <string name="applock_lock_after_title">之后锁定应用</string>
+    <string name="applock_lock_after_instantly">立刻</string>
+    <string name="applock_lock_after_15_seconds">15 秒</string>
+    <string name="applock_lock_after_screen_off">屏幕关闭</string>
+    <string name="applock_lock_after_summary">应用在超过选定时间后将被锁定</string>
+    <string name="applock_lock_after_instantly_summary">应用关闭后立即锁定</string>
+    <string name="applock_lock_after_15_seconds_summary">应用关闭15 秒后将被锁定</string>
+    <string name="applock_lock_after_screen_off_summary">应用在屏幕关闭后將被锁定</string>
     <string name="applock_notification_info">您可以通过点击每个锁定的应用程序首选项上显示的通知图标，按应用程序显示/隐藏通知内容</string>
     <string name="applock_show_notif">显示通知内容</string>
     <string name="applock_hide_notif">隐藏通知内容</string>
@@ -149,9 +157,42 @@
     <string name="unknown_night_light_time">未知 - 点击更新</string>
     <string name="night_display_location_text">\n\n需要启用位置服务才能获取您当地的日出日落时间。</string>
     <!-- Radio Info -->
+    <string name="radio_info_title">电台信息</string>
     <!-- Clipboard toast toggle -->
+    <string name="show_clipboard_toast">显示读取剪切板警告</string>
+    <string name="show_clipboard_toast_summary">当应用程序试图访问剪贴板时显示提示</string>
     <!-- screen, setting option name to change wifi timeout -->
+    <string name="wifi_timeout">自动关闭 Wi-Fi</string>
     <!-- screen, setting option summary to change wifi timeout -->
+    <string name="wifi_timeout_summary">如果没有连接网络，则在 <xliff:g id="timeout_description">%1$s</xliff:g> 后关闭 Wi-Fi</string>
+    <string name="wifi_timeout_summary2">禁用</string>
+    <string name="wifi_timeout_summary_never">从不</string>
+    <string name="wifi_timeout_summary_15secs">15 秒</string>
+    <string name="wifi_timeout_summary_30secs">30 秒</string>
+    <string name="wifi_timeout_summary_1min">1 分钟</string>
+    <string name="wifi_timeout_summary_2mins">2分钟</string>
+    <string name="wifi_timeout_summary_5mins">5分钟</string>
+    <string name="wifi_timeout_summary_10mins">10分钟</string>
+    <string name="wifi_timeout_summary_30mins">30分钟</string>
+    <string name="wifi_timeout_summary_1hour">1 小时</string>
+    <string name="wifi_timeout_summary_2hours">2 小时</string>
+    <string name="wifi_timeout_summary_4hours">4 小时</string>
+    <string name="wifi_timeout_summary_8hours">8 小时</string>
     <!-- Connected devices screen, setting option name to change bluetooth timeout -->
+    <string name="bluetooth_timeout">蓝牙连接超时</string>
     <!-- Connected devices screen, setting option summary to change bluetooth timeout -->
+    <string name="bluetooth_timeout_summary">如果没有设备连接，蓝牙将在<xliff:g id="timeout_description">%1$s</xliff:g>后关闭</string>
+    <string name="bluetooth_timeout_summary2">不要自动关闭蓝牙</string>
+    <string name="bluetooth_timeout_summary_never">从不</string>
+    <string name="bluetooth_timeout_summary_15secs">15 秒</string>
+    <string name="bluetooth_timeout_summary_30secs">30 秒</string>
+    <string name="bluetooth_timeout_summary_1min">1 分钟</string>
+    <string name="bluetooth_timeout_summary_2mins">2分钟</string>
+    <string name="bluetooth_timeout_summary_5mins">5分钟</string>
+    <string name="bluetooth_timeout_summary_10mins">10分钟</string>
+    <string name="bluetooth_timeout_summary_30mins">30分钟</string>
+    <string name="bluetooth_timeout_summary_1hour">1 小时</string>
+    <string name="bluetooth_timeout_summary_2hours">2 小时</string>
+    <string name="bluetooth_timeout_summary_4hours">4 小时</string>
+    <string name="bluetooth_timeout_summary_8hours">8 小时</string>
 </resources>
