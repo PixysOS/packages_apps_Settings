@@ -68,37 +68,6 @@
     <!-- Gestures -->
     <string name="gesture_preference_pixys">Pixys 手势</string>
     <string name="gesture_preference_aosp">AOSP 手势</string>
-    <!-- Screen off fod -->
-    <string name="fod_gesture_title">息屏指纹</string>
-    <string name="fod_gesture_summary">无需唤醒屏幕即可解锁设备</string>
-    <!-- FOD animations -->
-    <string name="fod_recog_animation">屏幕指纹识别动画</string>
-    <string name="fod_recog_animation_summary">在识别指纹时显示动画</string>
-    <string name="fod_recog_animation_effect_title">选择指纹动画效果</string>
-    <string name="fod_recog_animation_miui_normal">MIUI 默认</string>
-    <string name="fod_recog_animation_miui_aod">MIUI AOD</string>
-    <string name="fod_recog_animation_miui_aurora">Aurora (K30 Pro)</string>
-    <string name="fod_recog_animation_miui_aurora_cas">Aurora (Mi 10 Ultra)</string>
-    <string name="fod_recog_animation_miui_light">亮色调</string>
-    <string name="fod_recog_animation_miui_pop">流行</string>
-    <string name="fod_recog_animation_miui_pulse">动态</string>
-    <string name="fod_recog_animation_miui_pulse_white">律动(白色)</string>
-    <string name="fod_recog_animation_miui_rhythm">节奏</string>
-    <string name="fod_recog_animation_miui_star_cas">星光</string>
-    <string name="fod_recog_animation_op_cosmos">宇宙</string>
-    <string name="fod_recog_animation_op_energy">能量</string>
-    <string name="fod_recog_animation_op_mclaren">迈凯轮</string>
-    <string name="fod_recog_animation_op_ripple">波纹</string>
-    <string name="fod_recog_animation_op_scanning">扫描 (赛博朋克 2077)</string>
-    <string name="fod_recog_animation_op_stripe">条纹</string>
-    <string name="fod_recog_animation_op_wave">波形</string>
-    <string name="fod_recog_animation_pureview_dna">DNA</string>
-    <string name="fod_recog_animation_pureview_future">未来</string>
-    <string name="fod_recog_animation_pureview_halo_ring">光环</string>
-    <string name="fod_recog_animation_pureview_molecular">分子</string>
-    <string name="fod_recog_animation_rog_fusion">融合</string>
-    <string name="fod_recog_animation_rog_pulsar">脉冲星</string>
-    <string name="fod_recog_animation_rog_supernova">超新星</string>
     <!-- Hotspot extras -->
     <string name="tethering_allow_vpn_upstreams_title">允许客户端使用 VPN</string>
     <string name="tethering_allow_vpn_upstreams_summary">允许热点客户端使用此设备\u2019的 VPN 连接</string>
@@ -195,4 +164,10 @@
     <string name="bluetooth_timeout_summary_2hours">2 小时</string>
     <string name="bluetooth_timeout_summary_4hours">4 小时</string>
     <string name="bluetooth_timeout_summary_8hours">8 小时</string>
+    <!-- Lock screen pattern size -->
+    <!-- Whether a visible red line will be drawn after the user has drawn the unlock pattern incorrectly -->
+    <!-- Whether the dots will be drawn when using the lockscreen pattern -->
+    <!-- Horizon Light -->
+    <!-- Volume link notification -->
+    <!-- Battery stats reset -->
 </resources>

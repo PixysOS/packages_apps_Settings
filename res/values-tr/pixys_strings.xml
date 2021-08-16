@@ -68,37 +68,6 @@
     <!-- Gestures -->
     <string name="gesture_preference_pixys">Pixys hareketleri</string>
     <string name="gesture_preference_aosp">AOSP hareketleri</string>
-    <!-- Screen off fod -->
-    <string name="fod_gesture_title">Kapalı ekran parmak izi</string>
-    <string name="fod_gesture_summary">Ekranı uyandırma zorunda kalmadan cihazın kilidini açmaya izin verir</string>
-    <!-- FOD animations -->
-    <string name="fod_recog_animation">Parmak izi animasyonu</string>
-    <string name="fod_recog_animation_summary">Parmak izi okunurken bir animasyon gösterir</string>
-    <string name="fod_recog_animation_effect_title">Parmak izi animasyon efektini seçin</string>
-    <string name="fod_recog_animation_miui_normal">MIUI varsayılanı</string>
-    <string name="fod_recog_animation_miui_aod">MIUI AOD</string>
-    <string name="fod_recog_animation_miui_aurora">Aurora (K30 Pro)</string>
-    <string name="fod_recog_animation_miui_aurora_cas">Aurora (Mi 10 Ultra)</string>
-    <string name="fod_recog_animation_miui_light">Hafif</string>
-    <string name="fod_recog_animation_miui_pop">Patlama</string>
-    <string name="fod_recog_animation_miui_pulse">Nabız</string>
-    <string name="fod_recog_animation_miui_pulse_white">Nabız (Beyaz)</string>
-    <string name="fod_recog_animation_miui_rhythm">Ritim</string>
-    <string name="fod_recog_animation_miui_star_cas">Yıldız ışığı</string>
-    <string name="fod_recog_animation_op_cosmos">Kozmos</string>
-    <string name="fod_recog_animation_op_energy">Enerji</string>
-    <string name="fod_recog_animation_op_mclaren">McLaren</string>
-    <string name="fod_recog_animation_op_ripple">Dalgalanma</string>
-    <string name="fod_recog_animation_op_scanning">Tarama (Cyberpunk 2077)</string>
-    <string name="fod_recog_animation_op_stripe">Şerit</string>
-    <string name="fod_recog_animation_op_wave">Dalga</string>
-    <string name="fod_recog_animation_pureview_dna">DNA</string>
-    <string name="fod_recog_animation_pureview_future">Gelecek</string>
-    <string name="fod_recog_animation_pureview_halo_ring">Halo halkası</string>
-    <string name="fod_recog_animation_pureview_molecular">Moleküler</string>
-    <string name="fod_recog_animation_rog_fusion">Füzyon</string>
-    <string name="fod_recog_animation_rog_pulsar">Pulsar</string>
-    <string name="fod_recog_animation_rog_supernova">Süpernova</string>
     <!-- Hotspot extras -->
     <string name="tethering_allow_vpn_upstreams_title">İstemcilerin VPN kullanmasına izin ver</string>
     <string name="tethering_allow_vpn_upstreams_summary">Hotspot kullanıcılarının bağlantıları sırasında bu cihazın\u2019s VPN bağlantısını kullanmasına izin ver</string>
@@ -196,4 +165,22 @@
     <string name="bluetooth_timeout_summary_2hours">2 saat</string>
     <string name="bluetooth_timeout_summary_4hours">4 saat</string>
     <string name="bluetooth_timeout_summary_8hours">8 saat</string>
+    <!-- Lock screen pattern size -->
+    <string name="lock_settings_picker_pattern_size_message">Desen boyutu seçin</string>
+    <!-- Whether a visible red line will be drawn after the user has drawn the unlock pattern incorrectly -->
+    <string name="lockpattern_settings_enable_error_path_title">Desen hatalarını göster</string>
+    <!-- Whether the dots will be drawn when using the lockscreen pattern -->
+    <string name="lockpattern_settings_enable_dots_title">Desen noktalarını göster</string>
+    <!-- Horizon Light -->
+    <string name="pulse_ambient_light_title">Kenar bildirimleri</string>
+    <string name="pulse_ambient_light_summary">Bildirim geldiğinde ortam ekranın yan kenarlarını aydınlat</string>
+    <string name="ambient_notification_light_accent_title">Sistem vurgu rengi</string>
+    <string name="ambient_notification_light_color_automatic_title">Bildirim rengi</string>
+    <string name="pulse_ambient_light_color">Pulse verirken, kullan</string>
+    <!-- Volume link notification -->
+    <string name="volume_link_notification_title">Zil sesi ve bildirim sesini bağla</string>
+    <string name="ring_volume_title_split">Zil sesi</string>
+    <!-- Battery stats reset -->
+    <string name="battery_stats_reset">İstatistikleri sıfırla</string>
+    <string name="battery_stats_message">Pil geçmişi istatistikleri sıfırlanacak</string>
 </resources>

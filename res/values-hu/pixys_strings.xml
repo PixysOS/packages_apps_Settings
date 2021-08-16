@@ -68,37 +68,6 @@
     <!-- Gestures -->
     <string name="gesture_preference_pixys">Pixys gesztusok</string>
     <string name="gesture_preference_aosp">AOSP gesztusok</string>
-    <!-- Screen off fod -->
-    <string name="fod_gesture_title">Képernyő-feloldás ujjlenyomattal</string>
-    <string name="fod_gesture_summary">Feltudja oldani a készüléket anélkül, hogy előbb felébresztené a képernyőt</string>
-    <!-- FOD animations -->
-    <string name="fod_recog_animation">Ujjlenyomat animáció</string>
-    <string name="fod_recog_animation_summary">Ujjlenyomat-felismeréskor jelenítsen meg animációt</string>
-    <string name="fod_recog_animation_effect_title">Ujjlenyomat animáció választása</string>
-    <string name="fod_recog_animation_miui_normal">MIUI alapértelmezett</string>
-    <string name="fod_recog_animation_miui_aod">MIUI AOD</string>
-    <string name="fod_recog_animation_miui_aurora">Aurora (K30 Pro)</string>
-    <string name="fod_recog_animation_miui_aurora_cas">Aurora (Mi 10 Ultra)</string>
-    <string name="fod_recog_animation_miui_light">Világos</string>
-    <string name="fod_recog_animation_miui_pop">Pop</string>
-    <string name="fod_recog_animation_miui_pulse">Impulzus</string>
-    <string name="fod_recog_animation_miui_pulse_white">Impulzus (Fehér)</string>
-    <string name="fod_recog_animation_miui_rhythm">Ritmus</string>
-    <string name="fod_recog_animation_miui_star_cas">Csillagfény</string>
-    <string name="fod_recog_animation_op_cosmos">Kozmosz</string>
-    <string name="fod_recog_animation_op_energy">Energia</string>
-    <string name="fod_recog_animation_op_mclaren">McLaren</string>
-    <string name="fod_recog_animation_op_ripple">Fodrozódás</string>
-    <string name="fod_recog_animation_op_scanning">Beolvasás (Cyberpunk 2077)</string>
-    <string name="fod_recog_animation_op_stripe">Csík</string>
-    <string name="fod_recog_animation_op_wave">Hullám</string>
-    <string name="fod_recog_animation_pureview_dna">DNA</string>
-    <string name="fod_recog_animation_pureview_future">Jövő</string>
-    <string name="fod_recog_animation_pureview_halo_ring">Glória Gyűrű</string>
-    <string name="fod_recog_animation_pureview_molecular">Molekuláris</string>
-    <string name="fod_recog_animation_rog_fusion">Fúzió</string>
-    <string name="fod_recog_animation_rog_pulsar">Pulzár</string>
-    <string name="fod_recog_animation_rog_supernova">Supernova</string>
     <!-- Hotspot extras -->
     <string name="tethering_allow_vpn_upstreams_title">Engedélyezi a klienseknek a VPN-használatot</string>
     <string name="tethering_allow_vpn_upstreams_summary">Engedélyezze a hotspot-klienseknek, hogy a készülék VPN-kapcsolatait felfelé csatlakoztathassák</string>
@@ -163,7 +132,43 @@
     <string name="show_clipboard_toast">Vágólap-hozzáférési figyelmeztetés</string>
     <string name="show_clipboard_toast_summary">Mutassa, amikor egy alkalmazás megpróbálja elérni a vágólapot</string>
     <!-- screen, setting option name to change wifi timeout -->
+    <string name="wifi_timeout">Automatikus Wi-Fi kikapcsolás</string>
     <!-- screen, setting option summary to change wifi timeout -->
+    <string name="wifi_timeout_summary">Ha nincs hálózat, a Wi-Fi <xliff:g id="timeout_description">%1$s</xliff:g> elteltével kikapcsol</string>
+    <string name="wifi_timeout_summary2">Letiltva</string>
+    <string name="wifi_timeout_summary_never">Soha</string>
+    <string name="wifi_timeout_summary_15secs">15 másodperc múlva</string>
+    <string name="wifi_timeout_summary_30secs">30 másodperc múlva</string>
+    <string name="wifi_timeout_summary_1min">1 perc</string>
+    <string name="wifi_timeout_summary_2mins">2 perc</string>
+    <string name="wifi_timeout_summary_5mins">5 perc</string>
+    <string name="wifi_timeout_summary_10mins">10 perc</string>
+    <string name="wifi_timeout_summary_30mins">30 perc</string>
+    <string name="wifi_timeout_summary_1hour">1 óra</string>
+    <string name="wifi_timeout_summary_2hours">2 óra</string>
+    <string name="wifi_timeout_summary_4hours">4 óra</string>
+    <string name="wifi_timeout_summary_8hours">8 óra</string>
     <!-- Connected devices screen, setting option name to change bluetooth timeout -->
+    <string name="bluetooth_timeout">Bluetooth szüneteltetés</string>
     <!-- Connected devices screen, setting option summary to change bluetooth timeout -->
+    <string name="bluetooth_timeout_summary">Ha nincs csatlakoztatott eszköz, a Bluetooth <xliff:g id="timeout_description">%1$s</xliff:g> elteltével kikapcsol</string>
+    <string name="bluetooth_timeout_summary2">Ne kapcsolódjon ki automaikusan a Bluetooth</string>
+    <string name="bluetooth_timeout_summary_never">Soha</string>
+    <string name="bluetooth_timeout_summary_15secs">15 másodperc múlva</string>
+    <string name="bluetooth_timeout_summary_30secs">30 másodperc múlva</string>
+    <string name="bluetooth_timeout_summary_1min">1 perc</string>
+    <string name="bluetooth_timeout_summary_2mins">2 perc</string>
+    <string name="bluetooth_timeout_summary_5mins">5 perc</string>
+    <string name="bluetooth_timeout_summary_10mins">10 perc</string>
+    <string name="bluetooth_timeout_summary_30mins">30 perc</string>
+    <string name="bluetooth_timeout_summary_1hour">1 óra</string>
+    <string name="bluetooth_timeout_summary_2hours">2 óra</string>
+    <string name="bluetooth_timeout_summary_4hours">4 óra</string>
+    <string name="bluetooth_timeout_summary_8hours">8 óra</string>
+    <!-- Lock screen pattern size -->
+    <!-- Whether a visible red line will be drawn after the user has drawn the unlock pattern incorrectly -->
+    <!-- Whether the dots will be drawn when using the lockscreen pattern -->
+    <!-- Horizon Light -->
+    <!-- Volume link notification -->
+    <!-- Battery stats reset -->
 </resources>

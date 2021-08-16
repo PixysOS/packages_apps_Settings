@@ -68,15 +68,6 @@
     <!-- Gestures -->
     <string name="gesture_preference_pixys">Жесты Pixys</string>
     <string name="gesture_preference_aosp">Жесты AOSP</string>
-    <!-- Screen off fod -->
-    <string name="fod_gesture_title">Выключение экрана отпечатком пальца</string>
-    <string name="fod_gesture_summary">Позволяет разблокировать устройство без включения экрана</string>
-    <!-- FOD animations -->
-    <string name="fod_recog_animation">Анимация отпечатка пальца</string>
-    <string name="fod_recog_animation_summary">Показывать анимацию при распознавании отпечатка</string>
-    <string name="fod_recog_animation_effect_title">Эффект анимации распознавания отпечатка пальца</string>
-    <string name="fod_recog_animation_miui_normal">MIUI по умолчанию</string>
-    <string name="fod_recog_animation_miui_aod">MIUI AOD</string>
     <!-- Hotspot extras -->
     <string name="tethering_allow_vpn_upstreams_title">Разрешить клиентам использовать VPN</string>
     <string name="tethering_allow_vpn_upstreams_summary">Разрешить клиентам точки доступа использовать VPN-соединения этого устройства для подключения к сети</string>
@@ -103,8 +94,13 @@
     <string name="security_dashboard_summary_face_and_fingerprint">Блокировка экрана, отпечаток пальца, разблокировка по лицу</string>
     <string name="face_redo_confirm_btn">Повторить</string>
     <!-- App Lock -->
+    <string name="applock_locked">Заблокировано</string>
+    <string name="applock_unlocked">Разблокировано</string>
+    <string name="applock_locked_apps">Заблокированные приложения</string>
+    <string name="applock_unlocked_apps">Разблокированные приложения</string>
     <string name="applock_lock_after_title">Блокировка приложения после</string>
     <string name="applock_lock_after_instantly">Немедленно</string>
+    <string name="applock_lock_after_15_seconds">15 Секунд</string>
     <!-- Clock style -->
     <!-- Night Display API strings -->
     <!-- Radio Info -->
@@ -143,4 +139,14 @@
     <string name="bluetooth_timeout_summary_2hours">2 часа</string>
     <string name="bluetooth_timeout_summary_4hours">4 часа</string>
     <string name="bluetooth_timeout_summary_8hours">8 часов</string>
+    <!-- Lock screen pattern size -->
+    <!-- Whether a visible red line will be drawn after the user has drawn the unlock pattern incorrectly -->
+    <!-- Whether the dots will be drawn when using the lockscreen pattern -->
+    <!-- Horizon Light -->
+    <!-- Volume link notification -->
+    <string name="volume_link_notification_title">Связать громкость звонка и уведомлений</string>
+    <string name="ring_volume_title_split">Громкость звонка</string>
+    <!-- Battery stats reset -->
+    <string name="battery_stats_reset">Сброс статистики</string>
+    <string name="battery_stats_message">История использования батареи будет сброшена</string>
 </resources>

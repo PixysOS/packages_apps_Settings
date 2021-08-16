@@ -32,8 +32,6 @@
     <!-- Volume rocker gestures -->
     <!-- Torch Power button gestures -->
     <!-- Gestures -->
-    <!-- Screen off fod -->
-    <!-- FOD animations -->
     <!-- Hotspot extras -->
     <!-- Aggressive battery -->
     <!-- Ambient Music -->
@@ -49,4 +47,10 @@
     <!-- screen, setting option summary to change wifi timeout -->
     <!-- Connected devices screen, setting option name to change bluetooth timeout -->
     <!-- Connected devices screen, setting option summary to change bluetooth timeout -->
+    <!-- Lock screen pattern size -->
+    <!-- Whether a visible red line will be drawn after the user has drawn the unlock pattern incorrectly -->
+    <!-- Whether the dots will be drawn when using the lockscreen pattern -->
+    <!-- Horizon Light -->
+    <!-- Volume link notification -->
+    <!-- Battery stats reset -->
 </resources>
