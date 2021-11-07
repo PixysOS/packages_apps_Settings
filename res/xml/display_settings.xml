@@ -165,4 +165,30 @@
             android:title="@string/display_vr_pref_title"
             android:fragment="com.android.settings.display.VrDisplayPreferencePicker"/>
     </PreferenceCategory>
+
+    <PreferenceCategory
+        android:key="quick_settings_brighness_category"
+        android:title="@string/qs_brightness_slider_category">
+
+        <com.pixys.support.preference.SecureSettingSwitchPreference
+            android:key="qs_show_brightness"
+            android:title="@string/qs_brightness_slider_title"
+            android:summary="@string/qs_brightness_slider_summary"
+            android:defaultValue="true"/>
+
+        <com.pixys.support.preference.SecureSettingSwitchPreference
+            android:key="qs_show_auto_brightness_button"
+            android:title="@string/brightness_icon_title"
+            android:summary="@string/brightness_icon_summary"
+            android:defaultValue="true"
+            android:dependency="qs_show_brightness"/>
+
+        <com.pixys.support.preference.SecureSettingSwitchPreference
+            android:key="qs_brightness_position_bottom"
+            android:title="@string/qs_brightness_position_bottom_title"
+            android:summary="@string/qs_brightness_position_bottom_summary"
+            android:defaultValue="false"
+            android:dependency="qs_show_brightness" />
+
+    </PreferenceCategory>
 </PreferenceScreen>
