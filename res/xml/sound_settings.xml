@@ -119,6 +119,14 @@
         settings:controller="com.android.settings.sound.MediaControlsParentPreferenceController"
         settings:keywords="@string/keywords_media_controls"/>
 
+    <!-- Vibration intensity preference -->
+    <Preference
+        android:key="vibration_intensity"
+        android:title="@string/vibration_intensity_title"
+        android:summary="@string/vibration_intensity_summary"
+        android:order="-87"
+        android:fragment="com.android.settings.sound.VibrationIntensityFragment" />
+
     <!-- Also vibrate for calls -->
     <Preference
         android:fragment="com.android.settings.sound.VibrateForCallsPreferenceFragment"
