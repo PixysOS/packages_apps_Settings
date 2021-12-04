@@ -172,3 +172,9 @@ java_import {
     jars: ["libs/gamemode.jar"],
     sdk_version: "current",
 }
+
+java_import {
+    name: "accountfeatureprovidergoogle",
+    jars: ["libs/accountfeatureprovidergoogle.jar"],
+    sdk_version: "current",
+}
