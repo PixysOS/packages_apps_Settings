@@ -48,6 +48,9 @@ public class DisplaySettings extends DashboardFragment {
         return SettingsEnums.DISPLAY;
     }
 
+    private IOverlayManager mOverlayManager;
+    private IOverlayManager mOverlayService;
+
     @Override
     protected String getLogTag() {
         return TAG;
@@ -89,6 +92,10 @@ public class DisplaySettings extends DashboardFragment {
                 "android.theme.customization.font"));
         controllers.add(new OverlayCategoryPreferenceController(context,
                 "android.theme.customization.icon_pack"));
+		controllers.add(new OverlayCategoryPreferenceController(context,
+                "android.theme.customization.signal_icon"));
+        controllers.add(new OverlayCategoryPreferenceController(context,
+                "android.theme.customization.wifi_icon"));
         return controllers;
     }
 

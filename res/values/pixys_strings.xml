@@ -333,4 +333,10 @@
     <string name="package_name">Package name</string>
     <string name="package_version">Package version</string>
     <string name="package_version_text"><xliff:g id="version_num">%1$s</xliff:g></string>
+
+    <!-- Custom Signal bar icons -->
+    <string name="custom_signal_bar_title">Signal</string>
+
+    <!-- Custom Wi-Fi bar icons -->
+    <string name="custom_wifi_bar_title">Wi-Fi</string>
 </resources>
