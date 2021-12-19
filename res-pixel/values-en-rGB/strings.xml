@@ -142,6 +142,12 @@ Once it resets, go through the setup process and choose to bring your data from 
     <string name="columbus_setting_app_shortcut_selection_help_text">Select what happens when you open this app using Quick Tap.</string>
     <string name="columbus_setting_enable_switch_title">Use Quick Tap</string>
     <string name="columbus_setting_sensitivity_title">Require stronger taps</string>
+    <string name="connectivity_helper_call_quality_category">Call quality</string>
+    <string name="connectivity_helper_call_quality_summary">Get notified about causes of connection issues during calls</string>
+    <string name="connectivity_helper_call_quality_title">Receive notifications</string>
+    <string name="connectivity_helper_d2d_summary">Notify the other person when your phone has connection issues during calls</string>
+    <string name="connectivity_helper_d2d_title">Share connection info</string>
+    <string name="connectivity_helper_footnote">You can share connection info when the other caller is using a supported device and network</string>
     <string name="content_capture">Personalise using app data</string>
     <string name="copy_toast_msg">Link copied to clipboard</string>
     <string name="dark_ui_text">Dark theme uses a black background to help keep your battery alive for longer. Dark theme schedules wait to turn on until your screen is off.</string>
@@ -312,6 +318,7 @@ To improve performance, you can set up Face Unlock again in Settings."</string>
     <string name="security_settings_face_enroll_too_hot_title">Phone is too hot</string>
     <string name="security_settings_fingerprint_preference_summary_none">Tap to set up fingerprint</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Learn more at g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint for work</string>
     <string name="setup_suggestion_summary">Copy data, pay with your phone and more</string>
     <string name="setup_suggestion_title">Finish setting up</string>
     <string name="smart_battery_footer">To extend battery life, Adaptive Battery may reduce performance and background activity. Some notifications may be delayed.</string>

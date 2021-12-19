@@ -142,6 +142,12 @@ Nadat dit teruggestel is, volg die opstelproses en kies om jou data van jou vori
     <string name="columbus_setting_app_shortcut_selection_help_text">Kies wat gebeur as jy hierdie program met Dubbeltik oopmaak.</string>
     <string name="columbus_setting_enable_switch_title">Gebruik Dubbeltik</string>
     <string name="columbus_setting_sensitivity_title">Vereis harder tikke</string>
+    <string name="connectivity_helper_call_quality_category">Oproepgehalte</string>
+    <string name="connectivity_helper_call_quality_summary">Word in kennis gestel oor oorsake van verbindingkwessies tydens oproepe</string>
+    <string name="connectivity_helper_call_quality_title">Kry kennisgewings</string>
+    <string name="connectivity_helper_d2d_summary">Stel die ander persoon in kennis as jou foon verbindingprobleme ervaar tydens oproepe</string>
+    <string name="connectivity_helper_d2d_title">Deel verbindinginligting</string>
+    <string name="connectivity_helper_footnote">"Jy kan verbindinginligting deel wanneer die ander beller 'n gesteunde toestel en netwerk gebruik"</string>
     <string name="content_capture">Gebruik programdata om te personaliseer</string>
     <string name="copy_toast_msg">Skakel is na knipbord gekopieer</string>
     <string name="dark_ui_text">"Donkertema gebruik 'n swart agtergrond om te help om jou battery langer te laat hou. Donkertemaskedules wag totdat jou skerm af is om aan te skakel."</string>
@@ -312,6 +318,7 @@ Om die werkverrigting te verbeter, kan jy Gesigslot weer in Instellings opstel."
     <string name="security_settings_face_enroll_too_hot_title">Foon is te warm</string>
     <string name="security_settings_fingerprint_preference_summary_none">Tik om vingerafdruk op te stel</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Kom meer te wete by g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint vir werk</string>
     <string name="setup_suggestion_summary">Kopieer data, betaal met jou foon, en meer</string>
     <string name="setup_suggestion_title">Stel klaar op</string>
     <string name="smart_battery_footer">Om batterylewe te verleng, kan Aanpasbare Battery werkverrigting en agtergrondaktiwiteit beperk. Sommige kennisgewings kan vertraag word.</string>

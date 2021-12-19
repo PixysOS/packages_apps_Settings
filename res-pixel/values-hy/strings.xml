@@ -51,12 +51,12 @@
     <string name="assist_gesture_training_suggestion_title">Սեղմեք և բաց թողեք՝ Օգնականը գործարկելու համար</string>
     <string name="automatic_storage_manager_activation_warning">Համացանցին միացած լինելու դեպքում դուք կկարողանաք լուսանկարներն ու տեսանյութերը դիտել այն որակով, որն ընտրել եք պահուստավորման համար։</string>
     <string name="automatic_storage_manager_days_title">Հեռացնել պահուստավորված նկարներն ու տեսանյութերը</string>
-    <string name="automatic_storage_manager_deactivation_warning">"Անջատե՞լ Խելացի պահեստը: 
+    <string name="automatic_storage_manager_deactivation_warning">"Անջատե՞լ Խելացի պահոցը: 
 
 Գործառույթը չի կարողանա տեղ ազատել, եթե սարքի հիշողությունը գրեթե լիքը լինի։"</string>
     <string name="automatic_storage_manager_downloads_days_title">Պահուստավորված ներբեռնումներ</string>
     <string name="automatic_storage_manager_preference_title">Խելացի պահեստ</string>
-    <string name="automatic_storage_manager_primary_switch_title">Օգտագործել խելացի պահեստը</string>
+    <string name="automatic_storage_manager_primary_switch_title">Օգտագործել խելացի պահոցը</string>
     <string name="automatic_storage_manager_settings">Խելացի պահեստ</string>
     <string name="automatic_storage_manager_text">Եթե տարածքը սպառվում է, դուք կարող եք հեռացնել պահուստավորված լուսանկարներն ու տեսանյութերը։ Դրանք կպահպանվեն Google Լուսանկարներում:</string>
     <string name="aware_disabled_preference_action">Միացնել</string>
@@ -142,6 +142,12 @@
     <string name="columbus_setting_app_shortcut_selection_help_text">Ընտրեք, թե ինչ պետք է կատարվի հավելվածը արագ հպման միջոցով բացելու դեպքում։</string>
     <string name="columbus_setting_enable_switch_title">Արագ հպման օգտագործում</string>
     <string name="columbus_setting_sensitivity_title">Պահանջել ավելի ուժգին հպումներ</string>
+    <string name="connectivity_helper_call_quality_category">Զանգի որակը</string>
+    <string name="connectivity_helper_call_quality_summary">Ստացեք ծանուցումներ զանգերի ընթացքում կապի խնդիրների մասին</string>
+    <string name="connectivity_helper_call_quality_title">Ծանուցումների ստացում</string>
+    <string name="connectivity_helper_d2d_summary">Ծանուցում ուղարկեք մյուս օգտատիրոջը, երբ ձեր հեռախոսը կապի խնդիրներ ունի զանգերի ընթացքում</string>
+    <string name="connectivity_helper_d2d_title">Կապի տվյալների ուղարկում</string>
+    <string name="connectivity_helper_footnote">Միացման մասին տեղեկություններ ուղարկեք մյուս զանգողին, եթե նա օգտագործում է աջակցվող սարք և ցանց։</string>
     <string name="content_capture">Անհատականացում հավելվածների տվյալների միջոցով</string>
     <string name="copy_toast_msg">Հղումը պատճենվեց սեղմատախտակին</string>
     <string name="dark_ui_text">Մուգ թեման օգտագործում է սև ֆոնը՝ մարտկոցի աշխատանքի տևողությունը երկարացնելու համար։ Մուգ թեմայի ժամանակացույցները չեն միանա, մինչև էկրանը չանջատվի։</string>
@@ -312,6 +318,7 @@
     <string name="security_settings_face_enroll_too_hot_title">Հեռախոսը շատ է տաքացել</string>
     <string name="security_settings_fingerprint_preference_summary_none">Հպեք` մատնահետքը կարգավորելու համար</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Իմացեք ավելին g.co/pixel/fingerprintunlock էջում։</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint աշխատանքի համար</string>
     <string name="setup_suggestion_summary">Պատճենեք տվյալներ, վճարեք հեռախոսով և այլն</string>
     <string name="setup_suggestion_title">Ավարտեք կարգավորումը</string>
     <string name="smart_battery_footer">Մարտկոցի աշխատաժամանակը երկարացնելու համար «Հարմարվող մարտկոց» գործառույթը կարող է նվազեցնել արդյունավետությունը և ֆոնային գործողությունները։ Որոշ ծանուցումներ կարող են հետաձգվել։</string>

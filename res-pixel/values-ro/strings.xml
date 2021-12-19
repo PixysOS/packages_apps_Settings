@@ -142,6 +142,12 @@ După resetarea dispozitivului, parcurgeți procesul de configurare și optați 
     <string name="columbus_setting_app_shortcut_selection_help_text">Selectați ce se întâmplă când deschideți aplicația folosind Atingerea rapidă.</string>
     <string name="columbus_setting_enable_switch_title">Folosiți Atingerea rapidă</string>
     <string name="columbus_setting_sensitivity_title">Solicitați apăsări mai puternice</string>
+    <string name="connectivity_helper_call_quality_category">Calitatea apelurilor</string>
+    <string name="connectivity_helper_call_quality_summary">Primiți notificări cu privire la cauzele problemelor de conexiune din timpul apelurilor</string>
+    <string name="connectivity_helper_call_quality_title">Primiți notificări</string>
+    <string name="connectivity_helper_d2d_summary">Notificați cealaltă persoană când telefonul dvs. are probleme de conexiune în timpul apelurilor</string>
+    <string name="connectivity_helper_d2d_title">Trimiteți informații despre conexiune</string>
+    <string name="connectivity_helper_footnote">Puteți trimite informații despre conexiune când celălalt apelant folosește o rețea acceptată și un dispozitiv acceptat</string>
     <string name="content_capture">Personalizarea utilizării datelor aplicației</string>
     <string name="copy_toast_msg">Linkul a fost copiat în clipboard</string>
     <string name="dark_ui_text">Tema întunecată folosește un fundal negru pentru a prelungi autonomia bateriei. Programele cu Tema întunecată se activează când se dezactivează ecranul.</string>
@@ -316,6 +322,7 @@ Pentru a îmbunătăți performanța, puteți să configurați din nou Deblocare
     <string name="security_settings_face_enroll_too_hot_title">Telefonul este prea fierbinte</string>
     <string name="security_settings_fingerprint_preference_summary_none">Atingeți pentru a configura amprenta</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Aflați mai multe la g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint pentru serviciu</string>
     <string name="setup_suggestion_summary">Copiați date, plătiți cu telefonul și altele</string>
     <string name="setup_suggestion_title">Finalizați configurarea</string>
     <string name="smart_battery_footer">Pentru a prelungi autonomia bateriei, Bateria adaptabilă poate să scadă performanța și activitatea din fundal. Unele notificări pot avea întârzieri.</string>

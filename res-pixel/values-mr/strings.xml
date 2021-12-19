@@ -39,16 +39,16 @@
     <string name="assist_gesture_training_enrolling_error_squeeze_faster">जलद दाबा</string>
     <string name="assist_gesture_training_enrolling_error_squeeze_harder">जोरात दाबा</string>
     <string name="assist_gesture_training_enrolling_error_squeeze_release_quickly">पटकन दाबा आणि मग सोडा</string>
-    <string name="assist_gesture_training_enrolling_error_try_adjusting">स्लायडर ॲडजस्ट करून पाहा</string>
+    <string name="assist_gesture_training_enrolling_error_try_adjusting">स्लायडर ॲडजस्ट करून पहा</string>
     <string name="assist_gesture_training_enrolling_text">तुमच्या फोनचा तळाचा अर्धा भाग दाबा. तुम्ही किती जोरात दाबू शकता ते तुम्ही समायोजित करू शकता.</string>
     <string name="assist_gesture_training_enrolling_title">पटकन दाबा आणि सोडा</string>
     <string name="assist_gesture_training_finished_text">स्क्वीझ करण्याची संवेदनक्षमता तुम्ही नंतर सेटिंग्जमधून बदलू शकता</string>
     <string name="assist_gesture_training_finished_title">ॲडजस्ट करणे पूर्ण करा किंवा सुरू ठेवा</string>
     <string name="assist_gesture_training_intro_text">तुमच्या असिस्टंटशी कधीही बोलण्यासाठी तुमच्या फोनचा खालचा अर्धा भाग पटकन दाबून सोडा</string>
-    <string name="assist_gesture_training_intro_title">असिस्टंट सुरू करण्यासाठी दाबा</string>
-    <string name="assist_gesture_training_suggestion_summary">साहाय्यकाशी बोला, कॉल शांत करा</string>
+    <string name="assist_gesture_training_intro_title">Assistant सुरू करण्यासाठी दाबा</string>
+    <string name="assist_gesture_training_suggestion_summary">Assistant शी बोला, कॉल सायलंट करा</string>
     <string name="assist_gesture_training_suggestion_summary_including_alarms">साहाय्यकाशी बोला, अलार्म आणि कॉल शांत करा</string>
-    <string name="assist_gesture_training_suggestion_title">साहाय्यकासाठी दाबा आणि सोडा</string>
+    <string name="assist_gesture_training_suggestion_title">Assistant साठी दाबा आणि सोडा</string>
     <string name="automatic_storage_manager_activation_warning">कनेक्ट केल्यावरही तुम्ही बॅकअपसाठी निवडलेल्या गुणवत्तेचे फोटो आणि व्हिडिओ अ‍ॅक्सेस करू शकता</string>
     <string name="automatic_storage_manager_days_title">बॅकअप घेतलेेले फोटो आणि व्हिडिओ काढले</string>
     <string name="automatic_storage_manager_deactivation_warning">"स्मार्ट स्टोरेज बंद करायचा? 
@@ -102,7 +102,7 @@
     <string name="columbus_gesture_enrollment_complete">पूर्ण झाले</string>
     <string name="columbus_gesture_enrollment_do_it_later">आता नको</string>
     <string name="columbus_gesture_enrollment_settings">सेटिंग्ज वर जा</string>
-    <string name="columbus_gesture_enrollment_try_it">हे वापरून पाहा</string>
+    <string name="columbus_gesture_enrollment_try_it">हे वापरून पहा</string>
     <string name="columbus_gesture_training_action_no_selection_error">कृपया करण्यासाठी एखादी कृती निवडा</string>
     <string name="columbus_gesture_training_action_text">तुम्ही क्विक टॅप वापरता तेव्हा, काय होईल ते निवडा. तुम्ही हे नंतर सेटिंग्जमध्ये बदलू शकता.</string>
     <string name="columbus_gesture_training_action_title">क्विक टॅप पर्याय निवडा</string>
@@ -132,7 +132,7 @@
     <string name="columbus_setting_action_launch_title">अ‍ॅप उघडा</string>
     <string name="columbus_setting_action_notification_title">सूचना दाखवा</string>
     <string name="columbus_setting_action_open_app_title">अ‍ॅप उघडा</string>
-    <string name="columbus_setting_action_overview_title">अलीकडील ॲप्स पाहा</string>
+    <string name="columbus_setting_action_overview_title">अलीकडील ॲप्स पहा</string>
     <string name="columbus_setting_action_play_pause_title">मीडिया प्ले करा किंवा थांबवा</string>
     <string name="columbus_setting_action_screenshot_title">स्क्रीनशॉट घेणे</string>
     <string name="columbus_setting_actions_title">यासाठी फोनच्या मागच्या बाजूला दोनदा टॅप करा</string>
@@ -141,6 +141,12 @@
     <string name="columbus_setting_app_shortcut_selection_help_text">तुम्ही हे ॲप क्विक टॅप वापरून उघडता तेव्हा, काय होईल ते निवडा.</string>
     <string name="columbus_setting_enable_switch_title">क्विक टॅप वापरा</string>
     <string name="columbus_setting_sensitivity_title">जोरात टॅप करणे आवश्यक आहे</string>
+    <string name="connectivity_helper_call_quality_category">कॉल गुणवत्ता</string>
+    <string name="connectivity_helper_call_quality_summary">कॉलदरम्यान येणाऱ्या कनेक्शनसंबंधित समस्यांसाठी सूचना मिळवा</string>
+    <string name="connectivity_helper_call_quality_title">सूचना मिळवा</string>
+    <string name="connectivity_helper_d2d_summary">कॉलदरम्यान तुमच्या फोनला कनेक्शनसंबंधित समस्या येते तेव्हा दुसऱ्या व्यक्तीला सूचित करा</string>
+    <string name="connectivity_helper_d2d_title">कनेक्शनसंबंधित माहिती शेअर करा</string>
+    <string name="connectivity_helper_footnote">दुसरा कॉलर सपोर्ट असलेले डिव्हाइस आणि नेटवर्क वापरतो तेव्हा तुम्ही कनेक्शनसंबंधित माहिती शेअर करू शकता</string>
     <string name="content_capture">अ‍ॅप डेटा वापरून पर्सनलाइझ करा</string>
     <string name="copy_toast_msg">लिंक क्लिपबोर्डवर कॉपी केली</string>
     <string name="dark_ui_text">तुमची बॅटरी अधिक काळ टिकून राहावी यासाठी गडद थीम काळी बॅकग्राउंड वापरते. तुमची स्क्रीन बंद होईपर्यंत गडद थीमची शेड्युल सुरू होत नाहीत.</string>
@@ -158,7 +164,7 @@
     <string name="face_enrolling_gaze_dialog_title">डोळे न उघडता सेट करा</string>
     <string name="face_enrolling_how_to_setup">सेट कसे करायचे</string>
     <string name="face_enrolling_title">फोन स्थिर धरा. तुमचे डोके एकदम हळूहळू फिरवा.</string>
-    <string name="face_enrolling_title_accessibility">थेट तुमच्या फोनकडे पाहा</string>
+    <string name="face_enrolling_title_accessibility">थेट तुमच्या फोनकडे पहा</string>
     <string name="face_enrolling_title_accessibility_progress">तुमच्या फोनकडे थेट पाहात राहा</string>
     <string name="face_enrolling_too_close">फोन आणखी दूर हलवा</string>
     <string name="face_enrolling_too_far">फोन आणखी जवळ हलवा</string>
@@ -203,7 +209,7 @@
     <string name="install_unknown_applications">Play Store च्या व्यतिरिक्त इतर स्रोतांवरील ॲप्सच्या स्थापनेस अनुमती द्या</string>
     <string name="keywords_accessibility_menu">मोटर, क्विक मेनू, साहाय्यकारी मेनू, स्पर्श करणे, कौशल्य</string>
     <string name="keywords_adaptive_charging">चार्ज करा, चार्जिंग, स्मार्ट चार्जिंग, अडॅप्टिव्ह चार्जिंग, बॅटरी, बॅटरीची स्थिती</string>
-    <string name="keywords_assist_gesture_launch">जेश्चर, कोपरा, बाजू, सक्रिय कोपरा, स्क्वीझ, पकड, साहाय्य, साहाय्यक, स्क्वीझ, ok google, Google साहाय्यक</string>
+    <string name="keywords_assist_gesture_launch">जेश्चर, कोपरा, बाजू, सक्रिय कोपरा, स्क्वीझ, पकड, साहाय्य, साहाय्यक, स्क्वीझ, ok google, Google Assistant</string>
     <string name="keywords_assist_gesture_silence">जेश्चर, कोपरा, बाजू, सक्रिय कोपरा, शांतता, स्नूझ, अलार्म, येणारा कॉल, गप्प, डिस्प्ले, लॉकस्क्रीन, स्क्वीझ, पकड, थांबा</string>
     <string name="keywords_assist_gesture_wake">जेश्चर, कोपरा, बाजू, सक्रिय कोपरा, जागे करा, सूचना, स्क्रीन, डिस्प्ले, स्क्रीन बंद, स्क्रीन सुरू, स्क्वीझ, झोपलेला, झोपणे, पकड</string>
     <string name="keywords_battery_share">बॅटरी शेअर, वायरलेस चार्जिंग</string>
@@ -314,6 +320,7 @@ g.co/pixel/faceunlock येथे अधिक जाणून घ्या."</
     <string name="security_settings_fingerprint_enroll_find_sensor_message">तो तुमच्या फोनच्या मागील भागावर आहे. तुमची तर्जनी वापरा.</string>
     <string name="security_settings_fingerprint_preference_summary_none">फिंगरप्रिंट सेट करण्यासाठी टॅप करा</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">g.co/pixel/fingerprintunlock येथे अधिक जाणून घ्या.</string>
+    <string name="security_settings_work_fingerprint_preference_title">ऑफिससाठी Pixel Imprint</string>
     <string name="setup_suggestion_summary">डेटा कॉपी, फोनने पेमेंट व इतर गोष्टी करा</string>
     <string name="setup_suggestion_title">सेट अप करणे पूर्ण करा</string>
     <string name="smart_battery_footer">बॅटरी लाइफ वाढवण्यासाठी अ‍ॅडॅप्टिव्ह बॅटरी परफॉर्मन्स आणि बॅकग्राउंड अ‍ॅक्टिव्हिटी कमी करू शकते. काही सूचना उशिराने मिळू शकतात.</string>

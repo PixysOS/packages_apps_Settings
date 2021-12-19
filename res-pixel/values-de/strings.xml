@@ -141,6 +141,12 @@ Nach dem Zurücksetzen muss das Gerät erneut eingerichtet werden. Dabei legst d
     <string name="columbus_setting_app_shortcut_selection_help_text">Lege fest, was passiert, wenn du diese App mit der Funktion „Schnelltippen“ öffnest.</string>
     <string name="columbus_setting_enable_switch_title">„Schnelltippen“ verwenden</string>
     <string name="columbus_setting_sensitivity_title">Stärkeres Tippen erforderlich</string>
+    <string name="connectivity_helper_call_quality_category">Anrufqualität</string>
+    <string name="connectivity_helper_call_quality_summary">Erhalte Benachrichtigungen zur Ursache von Verbindungsproblemen bei Anrufen</string>
+    <string name="connectivity_helper_call_quality_title">Benachrichtigungen erhalten</string>
+    <string name="connectivity_helper_d2d_summary">Benachrichtige die andere Person, wenn bei deinem Smartphone im Verlauf von Anrufen Verbindungsprobleme auftreten</string>
+    <string name="connectivity_helper_d2d_title">Verbindungsinformationen teilen</string>
+    <string name="connectivity_helper_footnote">Du kannst Informationen zur Verbindung teilen, wenn dein Gesprächspartner ein Gerät und Netzwerk verwendet, die unterstützt werden</string>
     <string name="content_capture">Verwenden von App-Daten personalisieren</string>
     <string name="copy_toast_msg">Link in Zwischenablage kopiert</string>
     <string name="dark_ui_text">Beim dunklen Design ist der Hintergrund schwarz, damit dein Akku länger hält. Zeitpläne für das dunkle Design werden erst aktiviert, wenn das Display aus ist.</string>
@@ -148,7 +154,7 @@ Nach dem Zurücksetzen muss das Gerät erneut eingerichtet werden. Dabei legst d
     <string name="double_twist_for_camera_mode_summary">Wenn du den Selfie-Modus deiner Kamera starten oder beenden möchtest, drehe zweimal dein Handgelenk, während die Google Kamera App geöffnet ist.</string>
     <string name="downloads_backup_text">Heruntergeladene Dateien werden in Google Drive gesichert</string>
     <string name="duration_less_than_one_minute">Weniger als 1 Minute</string>
-    <string name="extra_app_info_label">Spieloptimierung</string>
+    <string name="extra_app_info_label">Spieleoptimierung</string>
     <string name="face_enrolling_center_head">Gesicht muss sich innerhalb des inneren Rahmens befinden</string>
     <string name="face_enrolling_description">Nimm dein Gesicht von allen Seiten auf, indem du alle Kacheln entfernst.</string>
     <string name="face_enrolling_do_it_later">Später</string>
@@ -314,6 +320,7 @@ Damit die Entsperrung per Gesichtserkennung optimal funktioniert, kannst du sie 
     <string name="security_settings_face_enroll_too_hot_title">Smartphone ist zu heiß</string>
     <string name="security_settings_fingerprint_preference_summary_none">Zum Einrichten des Fingerabdrucks tippen</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Weitere Informationen findest du unter g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint für die Arbeit</string>
     <string name="setup_suggestion_summary">Daten kopieren, mit dem Smartphone bezahlen und mehr</string>
     <string name="setup_suggestion_title">Einrichtung abschließen</string>
     <string name="smart_battery_footer">Zur Verlängerung der Akkulaufzeit kann die Funktion „Intelligenter Akku“ die Leistung und Hintergrundaktivitäten reduzieren. Einige Benachrichtigungen können sich verzögern.</string>

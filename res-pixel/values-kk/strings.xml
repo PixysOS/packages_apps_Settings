@@ -98,7 +98,7 @@
     <string name="battery_missing_link_message">Толығырақ</string>
     <string name="battery_suggestion_summary">Батарея шығынын бейімдеу функциясын қосу</string>
     <string name="battery_tip_smart_battery_summary">Батарея шығынын бейімдеу функциясын қосыңыз</string>
-    <string name="bluetooth_untethered_unpair_dialog_body">%1$s құрылғысы енді осы Google есептік жазбасына байланыстырылған ешбір құрылғымен жұптаспайды.</string>
+    <string name="bluetooth_untethered_unpair_dialog_body">%1$s құрылғысы енді осы Google аккаунтына байланыстырылған ешбір құрылғымен жұптаспайды.</string>
     <string name="columbus_gesture_detected">Жылдам түрту қимылы анықталды.</string>
     <string name="columbus_gesture_enrollment_complete">Дайын</string>
     <string name="columbus_gesture_enrollment_do_it_later">Қазір емес</string>
@@ -142,6 +142,12 @@
     <string name="columbus_setting_app_shortcut_selection_help_text">Бұл қолданбаны жылдам түрту арқылы ашу кезінде не болатынын таңдаңыз.</string>
     <string name="columbus_setting_enable_switch_title">Жылдам түрту қимылын пайдалану</string>
     <string name="columbus_setting_sensitivity_title">Қаттырақ түртуді талап ету</string>
+    <string name="connectivity_helper_call_quality_category">Қоңырау сапасы</string>
+    <string name="connectivity_helper_call_quality_summary">Қоңырау кезіндегі байланыс ақауларының себептері жайлы хабарландырулар алыңыз.</string>
+    <string name="connectivity_helper_call_quality_title">Хабарландырулар алу</string>
+    <string name="connectivity_helper_d2d_summary">Сөйлесіп жатқан адамға телефоныңызда қоңырау кезінде байланыс ақаулары пайда болғаны туралы хабарлаңыз.</string>
+    <string name="connectivity_helper_d2d_title">Байланыс туралы ақпаратты бөлісу</string>
+    <string name="connectivity_helper_footnote">Сөйлесіп жатқан адам қолдау көрсетілетін құрылғы мен желіні пайдаланса, байланыс туралы ақпаратты бөлісе аласыз.</string>
     <string name="content_capture">Қолданба дерегі арқылы жекелендіру</string>
     <string name="copy_toast_msg">Сілтеме буферге көшірілді.</string>
     <string name="dark_ui_text">Қараңғы тақырыпта қара фон тұратындықтан, батарея заряды үнемделеді. Кесте бойынша уақыты келіп тұрса да, экран өшпейінше, қараңғы тақырып қойылмайды.</string>
@@ -224,7 +230,7 @@
     <string name="language_input_gesture_summary_on_non_assist">Active Edge қосулы</string>
     <string name="language_input_gesture_summary_on_with_assist">Active Edge қосулы, Көмекші үшін қысыңыз</string>
     <string name="me_card_title">Pixel құрылғым</string>
-    <string name="my_device_info_account_preference_title">Google есептік жазбасы</string>
+    <string name="my_device_info_account_preference_title">Google аккаунты</string>
     <string name="owner_info_settings_edit_text_hint">Мысалы, Жандостың Pixel құрылғысы</string>
     <string name="reverse_charging_charging_wirelessly_message">Телефон сымсыз зарядталатындықтан, ол мүмкін емес.</string>
     <string name="reverse_charging_detail_charging_overheat_message">Батареяны бөлісу функциясы қолжетімді емес, себебі Pixel құрылғысы қызып кетті. Оны суытып, әрекетті қайталап көріңіз.</string>
@@ -259,7 +265,7 @@
     <string name="rtt_settings_title">Нақты уақытта мәтін жіберу (RTT)</string>
     <string name="rtt_settings_visible_during_call">Қоңырау кезінде көрсетіледі.</string>
     <string name="screen_time_summary_usage_today">Бүгін %1$s</string>
-    <string name="search_bar_account_avatar_content_description">Профиль суреті. Google есептік жазбасын ашу үшін екі рет түртіңіз</string>
+    <string name="search_bar_account_avatar_content_description">Профиль суреті. Google аккаунтын ашу үшін екі рет түртіңіз</string>
     <string name="security_advanced_settings">Қосымша параметрлер</string>
     <string name="security_dismiss_dialog_dismiss_button">Бас тарту</string>
     <string name="security_dismiss_dialog_title">Ескерту жабылсын ба?</string>
@@ -311,6 +317,7 @@
     <string name="security_settings_face_enroll_too_hot_title">Телефон тым ыстық.</string>
     <string name="security_settings_fingerprint_preference_summary_none">Саусақ ізін орнату үшін түртіңіз.</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Толығырақ: g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Жұмысқа арналған Pixel Imprint</string>
     <string name="setup_suggestion_summary">Деректі көшіру, телефонмен төлеу, т.б.</string>
     <string name="setup_suggestion_title">Реттеуді аяқтау</string>
     <string name="smart_battery_footer">Батарея жұмысын ұзарту үшін Батарея шығынын бейімдеу функциясы жұмыс өнімділігі мен фондық белсенділікті төмендетеді. Кейбір хабарландырулар кідіруі мүмкін.</string>

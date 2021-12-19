@@ -142,6 +142,12 @@
     <string name="columbus_setting_app_shortcut_selection_help_text">منتخب کریں کہ جب آپ فوری تھپتھپاہٹ کا استعمال کرتے ہوئے ایپ کھولتے ہیں تو کیا ہوتا ہے۔</string>
     <string name="columbus_setting_enable_switch_title">فوری تھپتھپاہٹ کا استعمال کریں</string>
     <string name="columbus_setting_sensitivity_title">مضبوط تھپتھپاہٹیں درکار ہیں</string>
+    <string name="connectivity_helper_call_quality_category">کال کا معیار</string>
+    <string name="connectivity_helper_call_quality_summary">کالز کے دوران کنکشن کے مسائل کی وجوہات کے بارے میں اطلاع حاصل کریں</string>
+    <string name="connectivity_helper_call_quality_title">اطلاعات حاصل کریں</string>
+    <string name="connectivity_helper_d2d_summary">کالز کے دوران جب آپ کے فون میں کنکشن کے مسائل ہوں تو دوسرے شخص کو مطلع کریں</string>
+    <string name="connectivity_helper_d2d_title">کنکشن کی معلومات کا اشتراک کریں</string>
+    <string name="connectivity_helper_footnote">آپ کنکشن کی معلومات کا اشتراک کر سکتے ہیں جب دوسرا کالر ایک تعاون یافتہ آلہ اور نیٹ ورک استعمال کر رہا ہو</string>
     <string name="content_capture">ایپ کے ڈیٹا کے ذریعے ذاتی نوعیت کا بنائيں</string>
     <string name="copy_toast_msg">لنک کلپ بورڈ پر کاپی ہو گیا</string>
     <string name="dark_ui_text">گہری تھیم آپ کی بیٹری کو زیادہ دیر تک فعال رکھنے میں مدد کے ليے سیاہ پس منظر کا استعمال کرتی ہے۔ گہری تھیم شیڈولز آپ کے اسکرین کے آف ہونے پر آن ہونے تک انتظار کرتی ہے۔</string>
@@ -312,6 +318,7 @@ g.co/pixel/faceunlock پر مزید جانیں۔"</string>
     <string name="security_settings_face_enroll_too_hot_title">فون بہت گرم ہے</string>
     <string name="security_settings_fingerprint_preference_summary_none">فنگر پرنٹ سیٹ اپ کرنے کیلئے تھپتھپائیں</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">‏g.co/pixel/fingerprintunlock پر مزید جانیں۔</string>
+    <string name="security_settings_work_fingerprint_preference_title">‏کام کیلئےPixel Imprint</string>
     <string name="setup_suggestion_summary">ڈیٹا کاپی، فون سے ادائیگی اور بہت کچھ کریں</string>
     <string name="setup_suggestion_title">سیٹ اپ مکمل کریں</string>
     <string name="smart_battery_footer">بیٹری لائف کو بڑھانے کے لیے تغیر پذیر بیٹری کارکردگی اور پس منظر کی سرگرمی کو کم کر سکتی ہے۔ ممکن ہے کچھ اطلاعات میں تاخیر ہو جائے۔</string>

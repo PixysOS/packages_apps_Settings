@@ -142,6 +142,12 @@
     <string name="columbus_setting_app_shortcut_selection_help_text">ଆପଣ କୁଇକ୍ ଟାପ୍ ବ୍ୟବହାର କରି ଏହି ଆପ୍ ଖୋଲିଲେ କଣ ହୁଏ ତାହା ଚୟନ କରନ୍ତୁ।</string>
     <string name="columbus_setting_enable_switch_title">କୁଇକ୍ ଟାପ୍ ବ୍ୟବହାର କରନ୍ତୁ</string>
     <string name="columbus_setting_sensitivity_title">ଆହୁରି ଜୋରରେ ଟାପ୍ କରିବା ଆବଶ୍ୟକ</string>
+    <string name="connectivity_helper_call_quality_category">କଲ୍ ଗୁଣବତ୍ତା</string>
+    <string name="connectivity_helper_call_quality_summary">କଲ୍ ସମୟରେ ସଂଯୋଗ ସମ୍ବନ୍ଧିତ ସମସ୍ୟାଗୁଡ଼ିକର କାରଣ ବିଷୟରେ ସୂଚନା ପାଆନ୍ତୁ</string>
+    <string name="connectivity_helper_call_quality_title">ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକ ପାଆନ୍ତୁ</string>
+    <string name="connectivity_helper_d2d_summary">କଲ୍ ସମୟରେ ଆପଣଙ୍କ ଫୋନରେ ସଂଯୋଗ ସମ୍ବନ୍ଧିତ ସମସ୍ୟା ଥିଲେ ଅନ୍ୟ ବ୍ୟକ୍ତିଙ୍କୁ ସୂଚିତ କରନ୍ତୁ</string>
+    <string name="connectivity_helper_d2d_title">ସଂଯୋଗ ସୂଚନା ସେୟାର୍ କରନ୍ତୁ</string>
+    <string name="connectivity_helper_footnote">ଅନ୍ୟ କଲର୍ ଏକ ସମର୍ଥିତ ଡିଭାଇସ୍ ଏବଂ ନେଟୱାର୍କ ବ୍ୟବହାର କରୁଥିବା ବେଳେ ଆପଣ ସଂଯୋଗ ସୂଚନା ସେୟାର୍ କରିପାରିବେ</string>
     <string name="content_capture">ଆପ୍ ଡାଟା ବ୍ୟବହାର କରି ପର୍ସନାଲାଇଜ୍ କରନ୍ତୁ</string>
     <string name="copy_toast_msg">ଲିଙ୍କକୁ କ୍ଲିପ୍‍‍ବୋର୍ଡରେ କପି କରାଯାଇଛି</string>
     <string name="dock_summary_charging_phone">ଫୋନ୍ ଚାର୍ଜ ହେଉଛି</string>
@@ -314,6 +320,7 @@ g.co/pixel/faceunlockରେ ଅଧିକ ଜାଣନ୍ତୁ।"</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message">ଏହା ଆପଣଙ୍କ ଫୋନ୍‌ ପଛରେ ଅଛି। ନିଜ ତର୍ଜନୀର ବ୍ୟବହାର କରନ୍ତୁ।</string>
     <string name="security_settings_fingerprint_preference_summary_none">ଟିପଚିହ୍ନ ସେଟଅପ୍‌ କରିବା ପାଇଁ ଟାପ୍‌ କରନ୍ତୁ</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">g.co/pixel/fingerprintunlockରେ ଅଧିକ ଜାଣନ୍ତୁ।</string>
+    <string name="security_settings_work_fingerprint_preference_title">କାର୍ଯ୍ୟ ପାଇଁ Pixel ଇମପ୍ରିଣ୍ଟ</string>
     <string name="setup_suggestion_summary">ଡାଟା କପି କରନ୍ତୁ, ଆପଣଙ୍କ ଫୋନରେ ପେମେଣ୍ଟ କରନ୍ତୁ ଓ ଆହୁରି ଅନେକ କିଛି କରନ୍ତୁ</string>
     <string name="setup_suggestion_title">ସେଟ୍ ଅପ୍ ସମ୍ପୂର୍ଣ୍ଣ କରନ୍ତୁ</string>
     <string name="smart_battery_footer">ବ୍ୟାଟେରୀ ଲାଇଫ୍ ବଢ଼ାଇବାକୁ, ପରଫରମାନ୍ସ ଏବଂ ପୃଷ୍ଠପଟର କାର୍ଯ୍ୟକଳାପକୁ ଆଡେପ୍ଟିଭ୍ ବ୍ୟାଟେରୀ କମ୍ କରିପାରେ। କିଛି ବିଜ୍ଞପ୍ତି ପାଇଁ ବିଳମ୍ବ ହୋଇପାରେ।</string>

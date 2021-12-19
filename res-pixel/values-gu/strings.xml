@@ -20,7 +20,7 @@
     <string name="adaptive_charging_time_estimate"><b>અડૅપ્ટિવ ચાર્જિંગ</b> • %1$s સુધી પૂર્ણ ચાર્જ થઈ જશે</string>
     <string name="ambient_display_wake_screen_footer"><annotation link="link">પસંદગીઓ</annotation></string>
     <string name="app_and_notification_dashboard_summary">Assistant, તાજેતરની ઍપ, ડિફૉલ્ટ ઍપ</string>
-    <string name="assist_gesture_enrollment_continue_to_assistant">સહાયક પર આગળ વધો</string>
+    <string name="assist_gesture_enrollment_continue_to_assistant">Assistant પર આગળ વધો</string>
     <string name="assist_gesture_enrollment_do_it_later">આને થોડા સમય પછી કરશો</string>
     <string name="assist_gesture_enrollment_seekbar_light">હળવેથી દબાવવું</string>
     <string name="assist_gesture_enrollment_seekbar_strong">જોરથી દબાવવું</string>
@@ -34,7 +34,7 @@
     <string name="assist_gesture_squeeze_help_maximum_sensitivity">હળવેથી દબાવવું</string>
     <string name="assist_gesture_squeeze_help_minimum_sensitivity">જોરથી દબાવવું</string>
     <string name="assist_gesture_squeeze_sensitivity_label">દબાણની સંવેદિતા</string>
-    <string name="assist_gesture_training_enrolling_error_may_cause_falsing">સહાયક આકસ્મિક રીતે પ્રગટ થઈ શકે છે</string>
+    <string name="assist_gesture_training_enrolling_error_may_cause_falsing">Assistant આકસ્મિક રીતે ચાલુ થઈ શકે છે</string>
     <string name="assist_gesture_training_enrolling_error_squeeze_bottom">તમારા ફોનના નીચેના અડધા ભાગને દબાવો</string>
     <string name="assist_gesture_training_enrolling_error_squeeze_faster">ઝડપથી દબાવો</string>
     <string name="assist_gesture_training_enrolling_error_squeeze_harder">જોરથી દબાવો</string>
@@ -46,9 +46,9 @@
     <string name="assist_gesture_training_finished_title">સમાપ્ત કરો અથવા ગોઠવવાનું ચાલુ રાખો</string>
     <string name="assist_gesture_training_intro_text">તમારા Assistant સાથે કોઈપણ સમયે વાત કરવા માટે, તમારા ફોનના તળિયાના અડધા ભાગને ઝડપથી દબાવો, પછી છોડી દો</string>
     <string name="assist_gesture_training_intro_title">તમારા Assistant માટે દબાવો</string>
-    <string name="assist_gesture_training_suggestion_summary">સહાયક સાથે વાત કરો, કૉલ મૌન કરો</string>
-    <string name="assist_gesture_training_suggestion_summary_including_alarms">સહાયક સાથે વાત કરો, એલાર્મ અને કૉલને મૌન કરો</string>
-    <string name="assist_gesture_training_suggestion_title">સહાયક માટે દબાવો અને છોડી દો</string>
+    <string name="assist_gesture_training_suggestion_summary">Assistant સાથે વાત કરો, કૉલ સાઇલેન્ટ કરો</string>
+    <string name="assist_gesture_training_suggestion_summary_including_alarms">Assistant સાથે વાત કરો, અલાર્મ અને કૉલને સાઇલેન્ટ કરો</string>
+    <string name="assist_gesture_training_suggestion_title">Assistant માટે દબાવો અને છોડી દો</string>
     <string name="automatic_storage_manager_activation_warning">જ્યારે તમે કનેક્ટ થઈ જાઓ, ત્યારે તમે હજી પણ બૅકઅપ માટે તમે પસંદ કરેલી ક્વૉલિટી પર ફોટા અને વીડિયોને ઍક્સેસ કરી શકો છો</string>
     <string name="automatic_storage_manager_days_title">બૅકઅપ લેવાયેલા ફોટા અને વીડિયો કાઢી નાખો</string>
     <string name="automatic_storage_manager_deactivation_warning">"સ્માર્ટ સ્ટોરેજ બંધ કરવું છે? 
@@ -142,11 +142,17 @@
     <string name="columbus_setting_app_shortcut_selection_help_text">જ્યારે તમે ક્વિક ટૅપ સુવિધાનો ઉપયોગ કરીને આ ઍપ ખોલો, ત્યારે શું થાય તે પસંદ કરો.</string>
     <string name="columbus_setting_enable_switch_title">ક્વિક ટૅપ સુવિધાનો ઉપયોગ કરો</string>
     <string name="columbus_setting_sensitivity_title">વધુ પ્રબળ ટૅપની જરૂર છે</string>
+    <string name="connectivity_helper_call_quality_category">કૉલની ક્વૉલિટી</string>
+    <string name="connectivity_helper_call_quality_summary">કૉલ દરમિયાન કનેક્શન સંબંધિત સમસ્યાઓના કારણો જાણવા માટે નોટિફિકેશન મેળવો</string>
+    <string name="connectivity_helper_call_quality_title">નોટિફિકેશન મેળવો</string>
+    <string name="connectivity_helper_d2d_summary">કૉલ દરમિયાન જ્યારે તમારા ફોનમાં કનેક્શન સંબંધિત કોઈ સમસ્યા આવે, ત્યારે કૉલમાં શામેલ અન્ય વ્યક્તિને સૂચિત કરો</string>
+    <string name="connectivity_helper_d2d_title">કનેક્શનની માહિતી શેર કરો</string>
+    <string name="connectivity_helper_footnote">જ્યારે અન્ય કૉલર કોઈ સપોર્ટેડ ડિવાઇસ અને નેટવર્કનો ઉપયોગ કરી રહ્યાં હોય, ત્યારે તમે કનેક્શનની માહિતી શેર કરી શકો છો</string>
     <string name="content_capture">ઍપના ડેટાનો વપરાશ કરીને મનગમતું બનાવો</string>
     <string name="copy_toast_msg">ક્લિપબોર્ડ પર લિંક કૉપિ કરી</string>
     <string name="dark_ui_text">તમારી બૅટરીને વધુ લાંબો સમય ટકાવી રાખવામાં સહાય કરવા માટે ઘેરી થીમ કાળા બૅકગ્રાઉન્ડનો ઉપયોગ કરે છે. તમારી સ્ક્રીન બંધ ન થાય ત્યાં સુધી ઘેરી થીમ શેડ્યૂલ ચાલુ થવાની રાહ જુએ છે.</string>
     <string name="dock_summary_charging_phone">ફોન ચાર્જ થતો હોય ત્યારે</string>
-    <string name="double_twist_for_camera_mode_summary">Google કૅમેરામાં સેલ્ફી મોડની અંદર જવા અને બહાર નીકળવા માટે, જ્યારે તમે ઍપમાં છો ત્યારે બે વાર ટ્વિસ્ટ કરો.</string>
+    <string name="double_twist_for_camera_mode_summary">Google Cameraમાં સેલ્ફી મોડની અંદર જવા અને બહાર નીકળવા માટે, જ્યારે તમે ઍપમાં છો ત્યારે બે વાર ટ્વિસ્ટ કરો.</string>
     <string name="downloads_backup_text">ડાઉનલોડ કરેલ ફાઇલોનું Google ડ્રાઇવ પર બેક અપ લેવામાં આવશે</string>
     <string name="duration_less_than_one_minute">1 મિનિટ કરતાં પણ ઓછો સમય</string>
     <string name="extra_app_info_label">ગેમ ઑપ્ટિમાઇઝેશન</string>
@@ -201,10 +207,10 @@
     <string name="global_actions_panel_short_title">કાર્ડ અને પાસ</string>
     <string name="global_actions_panel_summary">તમારી ચુકવણી પદ્ધતિ અને બોર્ડિંગ પાસ જેવી વસ્તુઓનો ઍક્સેસ મેળવવા માટે, પાવર બટનને દબાવી રાખો.</string>
     <string name="global_actions_panel_title">કાર્ડ અને પાસ બતાવો</string>
-    <string name="install_unknown_applications">Play સ્ટોર સિવાયનાં અન્ય સ્રોતોથી ઍપ્લિકેશનોના ઇન્સ્ટૉલેશનની મંજૂરી આપો</string>
+    <string name="install_unknown_applications">Play Store સિવાયનાં અન્ય સ્રોતોથી ઍપ્લિકેશનોના ઇન્સ્ટૉલેશનની મંજૂરી આપો</string>
     <string name="keywords_accessibility_menu">મોટર, ઝડપી મેનૂ, સહાયકારી મેનૂ, ટચ, નિપુણતા</string>
     <string name="keywords_adaptive_charging">ચાર્જ, ચાર્જિંગ, સ્માર્ટ ચાર્જિંગ, અડૅપ્ટિવ ચાર્જિંગ, બૅટરી, બૅટરીની સ્થિતિ</string>
-    <string name="keywords_assist_gesture_launch">સંકેત, કિનારી, બાજુ, Active Edge, દબાવો, ગ્રિપ, સહાય, અસિસ્ટન્ટ, દબાવો, ઓકે Google, Google અસિસ્ટન્ટ</string>
+    <string name="keywords_assist_gesture_launch">સંકેત, કિનારી, બાજુ, Active Edge, દબાવો, ગ્રિપ, સહાય, આસિસ્ટંટ, દબાવો, Ok Google, Google Assistant</string>
     <string name="keywords_assist_gesture_silence">સંકેત, કિનારી, બાજુ, Active Edge, મૌન, સ્નૂઝ, અલાર્મ, ઇનકમિંગ કૉલ, શાંત, પ્રદર્શન, લૉકસ્ક્રીન, દબાવો, ગ્રિપ, બંધ કરો</string>
     <string name="keywords_assist_gesture_wake">સંકેત, કિનારી, બાજુ, Active Edge, સક્રિય કરો, સૂચનાઓ, સ્ક્રીન, પ્રદર્શન, સ્ક્રીન બંધ, સ્ક્રીન ચાલુ, દબાવો, નિષ્ક્રિય, નિષ્ક્રિય થાઓ, ગ્રિપ</string>
     <string name="keywords_battery_share">બૅટરી શેર, વાયરલેસ ચાર્જિંગ</string>
@@ -222,7 +228,7 @@
     <string name="keywords_voice_access">વૉઇસ, વૉઇસ નિયંત્રણ, મોટર, હાથ, માઇક, માઇક્રોફોન, ડિક્ટેશન, બોલો, નિયંત્રણ</string>
     <string name="language_input_gesture_summary_off">Active Edge બંધ કર્યું</string>
     <string name="language_input_gesture_summary_on_non_assist">Active Edge ચાલુ કર્યું</string>
-    <string name="language_input_gesture_summary_on_with_assist">Active Edge ચાલુ છે, તમારા સહાયક માટે દબાવો</string>
+    <string name="language_input_gesture_summary_on_with_assist">Active Edge ચાલુ છે, તમારા Assistant માટે દબાવો</string>
     <string name="me_card_title">મારા Pixel વિશે</string>
     <string name="my_device_info_account_preference_title">Google એકાઉન્ટ</string>
     <string name="owner_info_settings_edit_text_hint">દા.ત., Joeનો Pixel.</string>
@@ -312,6 +318,7 @@ g.co/pixel/faceunlock પર વધુ જાણો."</string>
     <string name="security_settings_face_enroll_too_hot_title">ફોન ખૂબ ગરમ છે</string>
     <string name="security_settings_fingerprint_preference_summary_none">ફિંગરપ્રિન્ટ સેટ કરવા માટે ટૅપ કરો</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">g.co/pixel/fingerprintunlock પર વધુ જાણો.</string>
+    <string name="security_settings_work_fingerprint_preference_title">ઑફિસ માટે Pixel Imprintની સુવિધા</string>
     <string name="setup_suggestion_summary">ડેટા કૉપિ કરો, તમારા ફોનથી ચૂકવો અને બીજું ઘણું</string>
     <string name="setup_suggestion_title">સેટઅપ કરવાનું પૂર્ણ કરો</string>
     <string name="smart_battery_footer">બૅટરીની આવરદા વધારવા માટે, સુવિધાજનક બૅટરી કાર્યપ્રદર્શન અને બૅકગ્રાઉન્ડ પ્રવૃત્તિમાં ઘટાડો કરી શકે છે. કેટલાક નોટિફિકેશનમાં વિલંબ થઈ શકે છે.</string>

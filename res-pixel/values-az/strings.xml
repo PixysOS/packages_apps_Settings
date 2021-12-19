@@ -142,6 +142,12 @@ Sıfırlandıqdan sonra quraşdırma prosesindən keçin və əvvəlki telefonun
     <string name="columbus_setting_app_shortcut_selection_help_text">Sürətli Toxunuş istifadə edərək bu tətbiqi açdıqda hansı əməliyyatın yerinə yetirələcəyini seçin.</string>
     <string name="columbus_setting_enable_switch_title">Sürətli Toxunuş işlədin</string>
     <string name="columbus_setting_sensitivity_title">Daha güclü toxunuş tələb edilsin</string>
+    <string name="connectivity_helper_call_quality_category">Zəng keyfiyyəti</string>
+    <string name="connectivity_helper_call_quality_summary">Zəng zamanı bağlantı problemlərinin səbəbləri barədə bildiriş alın</string>
+    <string name="connectivity_helper_call_quality_title">Bildirişlər alın</string>
+    <string name="connectivity_helper_d2d_summary">Zəng zamanı telefonunuzda bağlantı problemi olduqda digər şəxsi xəbərdar edin</string>
+    <string name="connectivity_helper_d2d_title">Bağlantı məlumatlarını paylaşın</string>
+    <string name="connectivity_helper_footnote">Digər zəng edən dəstəklənən cihaz və şəbəkədən istifadə etdikdə bağlantı məlumatlarını paylaşa bilərsiniz</string>
     <string name="content_capture">Tətbiq datasına əsaslanan fərdiləşdirmə</string>
     <string name="copy_toast_msg">Link buferə kopyalandı</string>
     <string name="dock_summary_charging_phone">Telefon batareya yığır</string>
@@ -311,6 +317,7 @@ Performansı yaxşılaşdırmaq üçün Ayarlarda Üz ilə kiliddən çıxarman�
     <string name="security_settings_face_enroll_too_hot_title">Telefon çox qızıb</string>
     <string name="security_settings_fingerprint_preference_summary_none">Barmaq izi əlavə etmək üçün toxunun</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Ətraflı məlumat: g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_work_fingerprint_preference_title">İş üçün Pixel Imprint</string>
     <string name="setup_suggestion_summary">Məlumatı kopyalayın, telefonla ödəyin və sair.</string>
     <string name="setup_suggestion_title">Ayarlamanı tamamlayın</string>
     <string name="smart_battery_footer">Enerjiyə qənaət etmək üçün enerjinin adaptiv istifadəsi performansı azalda və fondakı tətbiqlərin fəaliyyətini zəiflədə bilər. Bəzi bildirişlər gecikə bilər.</string>

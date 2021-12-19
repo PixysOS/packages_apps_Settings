@@ -142,6 +142,12 @@ När mobilen har återställts konfigurerar du den och väljer att hämta data f
     <string name="columbus_setting_app_shortcut_selection_help_text">Välj vad som ska hända när du öppnar appen med Snabbtryck.</string>
     <string name="columbus_setting_enable_switch_title">Använd Snabbtryck</string>
     <string name="columbus_setting_sensitivity_title">Kräv kraftigare tryck</string>
+    <string name="connectivity_helper_call_quality_category">Samtalskvalitet</string>
+    <string name="connectivity_helper_call_quality_summary">Få aviseringar om orsaker till anslutningsproblem under samtal</string>
+    <string name="connectivity_helper_call_quality_title">Få aviseringar</string>
+    <string name="connectivity_helper_d2d_summary">Skicka personen du pratar med en avisering om din telefon har anslutningsproblem under samtal</string>
+    <string name="connectivity_helper_d2d_title">Dela information om anslutning</string>
+    <string name="connectivity_helper_footnote">Du kan dela information om anslutning när personen du pratar med använder en enhet och ett nätverk som stöds</string>
     <string name="content_capture">Anpassa med hjälp av appdata</string>
     <string name="copy_toast_msg">Länk kopierad till Urklipp</string>
     <string name="dock_summary_charging_phone">Ladda mobilen</string>
@@ -311,6 +317,7 @@ Du kan konfigurera ansiktslås igen i inställningarna och få bättre prestanda
     <string name="security_settings_face_enroll_too_hot_title">Telefonen är för varm</string>
     <string name="security_settings_fingerprint_preference_summary_none">Tryck här om du vill konfigurera fingeravtryck</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Läs mer på g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint för jobbet</string>
     <string name="setup_suggestion_summary">Kopiera data, betala med telefonen m.m.</string>
     <string name="setup_suggestion_title">Slutför konfigureringen</string>
     <string name="smart_battery_footer">Med funktionen Smart batteri kan prestandan och bakgrundsaktiviteten begränsas i syfte att förlänga batteritiden. Vissa aviseringar kan fördröjas.</string>

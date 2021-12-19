@@ -141,6 +141,12 @@ Eftir að endurstillingu er lokið skaltu fara í gegnum uppsetningarferlið til
     <string name="columbus_setting_app_shortcut_selection_help_text">Veldu hvað gerist þegar þú opnar þetta forrit með pikki.</string>
     <string name="columbus_setting_enable_switch_title">Nota pikk</string>
     <string name="columbus_setting_sensitivity_title">Krefjast þess að ýtt sé fastar</string>
+    <string name="connectivity_helper_call_quality_category">Gæði símtals</string>
+    <string name="connectivity_helper_call_quality_summary">Fáðu tilkynningar um orsakir tengingarvandamála símtala</string>
+    <string name="connectivity_helper_call_quality_title">Fá tilkynningar</string>
+    <string name="connectivity_helper_d2d_summary">Láttu hinn aðilann vita þegar tengingarvandamál koma upp í símanum á meðan símtali stendur</string>
+    <string name="connectivity_helper_d2d_title">Deila tengingarupplýsingum</string>
+    <string name="connectivity_helper_footnote">Þú getur deilt tengingarupplýsingum þegar hinn hringjandinn notar stutt tæki og netkerfi</string>
     <string name="content_capture">Nota forritsgögn til að sérsníða</string>
     <string name="copy_toast_msg">Tengill afritaður á klippiborð</string>
     <string name="dark_ui_text">Dökkt þema er með svörtum bakgrunni til að rafhlaðan endist lengur. Virknitímar fyrir dökkt þema bíða þar til það slokknar á skjánum.</string>
@@ -312,6 +318,7 @@ Til að bæta eiginleikann geturðu sett andlitskenni upp aftur í stillingum."<
     <string name="security_settings_face_enroll_too_hot_title">Síminn er of heitur</string>
     <string name="security_settings_fingerprint_preference_summary_none">Ýttu til að setja upp fingrafar</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Frekari upplýsingar má finna á g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint fyrir vinnu</string>
     <string name="setup_suggestion_summary">Afritaðu gögn, borgaðu með símanum o.fl.</string>
     <string name="setup_suggestion_title">Ljúka uppsetningu</string>
     <string name="smart_battery_footer">Til að auka endingu rafhlöðunnar kann breytileg rafhlöðustjórnun að draga úr afköstum og bakgrunnsvirkni. Einhverjum tilkynningum kann að vera seinkað.</string>

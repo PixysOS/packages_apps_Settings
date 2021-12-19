@@ -142,6 +142,12 @@ Une fois votre téléphone réinitialisé, effectuez le processus de configurati
     <string name="columbus_setting_app_shortcut_selection_help_text">"Sélectionnez l'action à effectuer lorsque vous ouvrez cette appli via le double appui."</string>
     <string name="columbus_setting_enable_switch_title">Utiliser le double appui</string>
     <string name="columbus_setting_sensitivity_title">Appuyer plus fort</string>
+    <string name="connectivity_helper_call_quality_category">Qualité des appels</string>
+    <string name="connectivity_helper_call_quality_summary">Recevoir des notifications sur les raisons des problèmes de connexion pendant les appels</string>
+    <string name="connectivity_helper_call_quality_title">Recevoir des notifications</string>
+    <string name="connectivity_helper_d2d_summary">"Informer l'autre personne lorsque votre téléphone a des problèmes de connexion en cours d'appel"</string>
+    <string name="connectivity_helper_d2d_title">Partager des infos de connexion</string>
+    <string name="connectivity_helper_footnote">Vous pouvez partager des infos de connexion lorsque votre interlocuteur utilise un appareil et un réseau compatibles</string>
     <string name="content_capture">"Personnaliser à l'aide des données des applications"</string>
     <string name="copy_toast_msg">Lien copié dans le presse-papiers</string>
     <string name="dark_ui_text">"Le thème sombre utilise un fond noir pour préserver l'autonomie de la batterie. Les programmes ne s'activent que lorsque l'écran est éteint."</string>
@@ -313,6 +319,7 @@ Pour de meilleures performances, vous pouvez reconfigurer ce mode de déverrouil
     <string name="security_settings_fingerprint_enroll_find_sensor_message">"Il se trouve au dos du téléphone. Utilisez l'index."</string>
     <string name="security_settings_fingerprint_preference_summary_none">Appuyer pour configurer une empreinte digitale</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">En savoir plus : g.co/pixel/fingerprintunlock</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint pour le travail</string>
     <string name="setup_suggestion_summary">Copier des données, payer avec le téléphone…</string>
     <string name="setup_suggestion_title">Terminer la configuration</string>
     <string name="smart_battery_footer">"La fonctionnalité de batterie adaptative peut réduire les performances et l'activité en arrière-plan pour prolonger l'autonomie de la batterie. Certaines notifications peuvent être retardées."</string>

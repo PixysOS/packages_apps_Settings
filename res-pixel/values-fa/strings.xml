@@ -142,6 +142,12 @@
     <string name="columbus_setting_app_shortcut_selection_help_text">انتخاب کنید که هنگام باز کردن این برنامه بااستفاده از «ضربه سریع»، چه اتفاقی بیفتد.</string>
     <string name="columbus_setting_enable_switch_title">استفاده از «ضربه سریع»</string>
     <string name="columbus_setting_sensitivity_title">درخواست ضربه‌های محکم‌تر</string>
+    <string name="connectivity_helper_call_quality_category">کیفیت تماس</string>
+    <string name="connectivity_helper_call_quality_summary">درباره دلایل مشکلات اتصال درحین تماس‌ها اعلان دریافت می‌کنید</string>
+    <string name="connectivity_helper_call_quality_title">دریافت اعلان</string>
+    <string name="connectivity_helper_d2d_summary">وقتی تلفن‌تان درحین تماس با مشکلات اتصال روبرو است، به فرد دیگر اطلاع داده می‌شود</string>
+    <string name="connectivity_helper_d2d_title">هم‌رسانی اطلاعات اتصال</string>
+    <string name="connectivity_helper_footnote">وقتی تماس‌گیرنده دیگر از شبکه و دستگاهی پشتیبانی‌شده استفاده می‌کند، می‌توانید اطلاعات اتصال را هم‌رسانی کنید</string>
     <string name="content_capture">شخصی‌سازی با استفاده از داده‌های برنامه</string>
     <string name="copy_toast_msg">پیوند در بریده‌دان کپی شد</string>
     <string name="dark_ui_text">«طرح زمینه تیره» از پس‌زمینه‌ای سیاه استفاده می‌کند تا شارژ باتری برای مدت طولانی‌تری حفظ شود. «طرح زمینه تیره» تا زمانی که صفحه خاموش باشد، زمان انتظاری برای روشن شدن تنظیم می‌کند.</string>
@@ -201,7 +207,7 @@
     <string name="global_actions_panel_short_title">کارت‌ها و مجوزها</string>
     <string name="global_actions_panel_summary">برای دسترسی به مواردی مانند روش‌های پرداخت و کارت پرواز، دکمه روشن/خاموش را فشار دهید و نگه‌دارید.</string>
     <string name="global_actions_panel_title">نمایش کارت‌ها و مجوزها</string>
-    <string name="install_unknown_applications">‏اجازه نصب برنامه‌ها از منابعی غیر از فروشگاه Play</string>
+    <string name="install_unknown_applications">‏اجازه نصب برنامه‌ها از منابعی غیراز «فروشگاه Play»</string>
     <string name="keywords_accessibility_menu">حرکت، منوی سریع، منوی یاری‌رسان، لمس کردن، مهارت‌های حرکتی</string>
     <string name="keywords_adaptive_charging">شارژ، شارژ کردن، شارژ هوشمند، شارژ تطبیقی، باتری، سلامت باتری</string>
     <string name="keywords_assist_gesture_launch">‏اشاره، لبه، کنار، active edge، فشردن، در دست گرفتن، کمک کردن، دستیار، فشردن، ok google، دستیار google</string>
@@ -312,6 +318,7 @@
     <string name="security_settings_face_enroll_too_hot_title">تلفن خیلی داغ است</string>
     <string name="security_settings_fingerprint_preference_summary_none">برای راه‌اندازی اثر انگشت ضربه بزنید</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">‏در g.co/pixel/fingerprintunlock بیشتر بدانید.</string>
+    <string name="security_settings_work_fingerprint_preference_title">‏Pixel Imprint برای نمایه کاری</string>
     <string name="setup_suggestion_summary">با تلفنتان پرداخت کنید، داده‌ها را کپی کنید، و کارهای بیشتری انجام دهید</string>
     <string name="setup_suggestion_title">اتمام راه‌اندازی</string>
     <string name="smart_battery_footer">برای افزایش عمر باتری، «باتری تطبیقی» می‌تواند عملکرد و فعالیت پس‌زمینه را کاهش دهد. ممکن است بعضی از اعلان‌ها تأخیر داشته باشد.</string>

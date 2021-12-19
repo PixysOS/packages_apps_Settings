@@ -4,7 +4,7 @@
     <string name="gesture_silence_title">আঙুলিৰ স্পৰ্শেৰে নীৰৱ কৰাৰ নিৰ্দেশ</string>
     <string name="gesture_skip_title">আঙুলিৰ স্পৰ্শৰ নিৰ্দেশ এৰি যাওক</string>
     <string name="keywords_touch_sensitivity">স্পৰ্শ, সংবেদনশীলতা, সংবেদনশীল, স্ক্ৰীনৰ সুৰক্ষা প্ৰদানকাৰী, চলচ্চিত্ৰ, সঁহাৰিসূচক, সঁহাৰিসূচকতা</string>
-    <string name="touch_sensitivity_summary">স্ক্ৰীণৰ সুৰক্ষা প্ৰদানকাৰী ব্যৱহাৰ কৰাৰ সময়ত স্পর্শ উন্নত কৰে</string>
+    <string name="touch_sensitivity_summary">স্ক্ৰীনৰ সুৰক্ষা প্ৰদানকাৰী ব্যৱহাৰ কৰাৰ সময়ত স্পর্শ উন্নত কৰে</string>
     <string name="touch_sensitivity_title">স্পর্শৰ সংবেদনশীলতা বৃদ্ধি কৰক</string>
     <string name="accessibility_vibration_settings_screen_title">কম্পন আৰু হেপ্‌টিক ব্যৱহাৰ কৰক</string>
     <string name="vibration_haptics_settings_not_available_summary">কম্পন আৰু হেপ্‌টিকসমূহ উপলব্ধ নহয় কাৰণ ফ’নটো নীৰৱ হিচাপে ছেট কৰা আছে</string>
@@ -12,7 +12,7 @@
     <string name="accessibility_vibration_settings_title">কম্পন আৰু হেপ্‌টিকসমূহ</string>
     <string name="vibrate_for_calls_category_title">কল</string>
     <string name="accessibility_alarm_vibration_title">এলার্মৰ কম্পন</string>
-    <string name="accessibility_assist_gesture_complete_or_keep_adjusting">Active Edgeৰ ছেট আপ। পৰৱৰ্তী স্ক্ৰীণলৈ যাওক বা মিলাই থাকক।</string>
+    <string name="accessibility_assist_gesture_complete_or_keep_adjusting">Active Edgeৰ ছেট আপ। পৰৱৰ্তী স্ক্ৰীনলৈ যাওক বা মিলাই থাকক।</string>
     <string name="accessibility_keyboard_haptics_title">কীব’ৰ্ডৰ হেপ্‌টিকসমূহ</string>
     <string name="accessibility_vibration_preferences_file">VibrationPrefs</string>
     <string name="adaptive_charging">অভিযোজিত চাৰ্জিং</string>
@@ -20,12 +20,12 @@
     <string name="adaptive_charging_time_estimate"><b>অভিযোজিত চাৰ্জিং</b> • %1$sৰ ভিতৰত সম্পূৰ্ণ হ’ব</string>
     <string name="ambient_display_wake_screen_footer"><annotation link="link">অগ্ৰাধিকাৰসমূহ</annotation></string>
     <string name="app_and_notification_dashboard_summary">Assistant, শেহতীয়া এপ্‌সমূহ, ডিফ’ল্ট এপ্‌সমূহ</string>
-    <string name="assist_gesture_enrollment_continue_to_assistant">সহায়ক আৰম্ভ কৰক</string>
+    <string name="assist_gesture_enrollment_continue_to_assistant">Assistantৰ ব্যৱহাৰ অব্যাহত ৰাখক</string>
     <string name="assist_gesture_enrollment_do_it_later">এইটো পিছত কৰিব</string>
     <string name="assist_gesture_enrollment_seekbar_light">মিহিকৈ হেঁচা দিয়া</string>
     <string name="assist_gesture_enrollment_seekbar_strong">দৃঢ়ভাৱে হেঁচা দিয়া</string>
-    <string name="assist_gesture_enrollment_settings">ছেটিংসমূহ</string>
-    <string name="assist_gesture_setting_enable_assistant_text">"আপোনাৰ সহায়কৰ সৈতে কথা পাতিবলৈ ফ'নৰ তলৰ আধা অংশ হাতৰ মুঠিত ৰাখি ক্ষিপ্ৰভাৱে আঙুলিৰে দুয়োকাষত হেঁচা মাৰি এৰি দিয়ক"</string>
+    <string name="assist_gesture_enrollment_settings">ছেটিং</string>
+    <string name="assist_gesture_setting_enable_assistant_text">"আপোনাৰ Assistantৰ সৈতে কথা পাতিবলৈ ফ'নৰ তলৰ আধা অংশ হাতৰ মুঠিত ৰাখি ক্ষিপ্ৰভাৱে আঙুলিৰে দুয়োকাষত হেঁচা মাৰি এৰি দিয়ক"</string>
     <string name="assist_gesture_setting_enable_assistant_title">Assistantৰ বাবে দুয়োকাষত হেঁচা দিয়ক</string>
     <string name="assist_gesture_setting_enable_ring_alarm_silence_text">এলাৰ্ম, টাইমাৰ আৰু অন্তৰ্গামী কল নিৰৱ কৰিবলৈ ডিভাইচটোৰ দুয়োকাষত হেঁচা দিয়ক</string>
     <string name="assist_gesture_setting_enable_ring_silence_text">জাননী আৰু অন্তৰ্গামী কল নিৰৱ কৰিবলৈ ডিভাইচটোৰ দুয়োকাষত হেঁচা দিয়ক</string>
@@ -34,7 +34,7 @@
     <string name="assist_gesture_squeeze_help_maximum_sensitivity">মিহিকৈ হেঁচা দিয়া</string>
     <string name="assist_gesture_squeeze_help_minimum_sensitivity">দৃঢ়ভাৱে হেঁচা দিয়া</string>
     <string name="assist_gesture_squeeze_sensitivity_label">দুয়োকাষত হেঁচা দিয়াৰ সংবেদনশীলতা মিলাওক</string>
-    <string name="assist_gesture_training_enrolling_error_may_cause_falsing">দুৰ্ঘটনাবশতঃ সহায়ক খুলিব পাৰে</string>
+    <string name="assist_gesture_training_enrolling_error_may_cause_falsing">দুৰ্ঘটনাবশতঃ Assistant খুলিব পাৰে</string>
     <string name="assist_gesture_training_enrolling_error_squeeze_bottom">আপোনাৰ ফ’নটোৰ তলৰ আধা অংশত দুয়োকাষে হেঁচা দিয়ক</string>
     <string name="assist_gesture_training_enrolling_error_squeeze_faster">দ্ৰুতভাৱে দুয়োকাষত হেঁচা দিয়ক</string>
     <string name="assist_gesture_training_enrolling_error_squeeze_harder">জোৰেৰে দুয়োকাষত হেঁচা দিয়ক</string>
@@ -42,13 +42,13 @@
     <string name="assist_gesture_training_enrolling_error_try_adjusting">শ্লাইডাৰডাল মিলাবলৈ চেষ্টা কৰক</string>
     <string name="assist_gesture_training_enrolling_text">"আপোনাৰ ফ'নৰ তলৰ আধা অংশত দুয়োকাষত হেঁচা দিয়ক৷ কিমান জোৰেৰে ফ'নটোৰ কাষত হেঁচা দিব লাগিব সেইয়া আপুনি মিলাই ল'ব পাৰে।"</string>
     <string name="assist_gesture_training_enrolling_title">দ্ৰুতভাৱে দুয়োকাষত হেঁচা দি এৰি দিয়ক</string>
-    <string name="assist_gesture_training_finished_text">আপুনি পিছত ছেটিংসমূহত দুয়োকাষত হেঁচা দিয়াৰ সংবেদনশীলতাও সলনি কৰিব পাৰে</string>
+    <string name="assist_gesture_training_finished_text">আপুনি পিছত ছেটিঙত দুয়োকাষত হেঁচা দিয়াৰ সংবেদনশীলতাও সলনি কৰিব পাৰে</string>
     <string name="assist_gesture_training_finished_title">ইমানতে শেষ কৰক বা আৰু মিলাবলৈ চেষ্টা কৰক</string>
     <string name="assist_gesture_training_intro_text">"আপোনাৰ Assistantৰ সৈতে যিকোনো সময়তে কথা পাতিবলৈ, আপোনাৰ ফ'নৰ তলৰ আধা অংশত ক্ষিপ্ৰভাৱে দুয়োকাষত হেঁচা দি এৰি দিয়ক"</string>
     <string name="assist_gesture_training_intro_title">Assistantৰ বাবে দুয়োকাষত হেঁচা দিয়ক</string>
-    <string name="assist_gesture_training_suggestion_summary">সহায়কৰ লগত কথা পাতক, কলবোৰ নিৰৱ কৰক</string>
-    <string name="assist_gesture_training_suggestion_summary_including_alarms">সহায়কৰ লগত কথা পাতক, এলাৰ্ম আৰু কলবোৰ নিৰৱ কৰক</string>
-    <string name="assist_gesture_training_suggestion_title">সহায়কৰ বাবে দুয়োকাষত হেঁচা দি এৰি দিয়ক</string>
+    <string name="assist_gesture_training_suggestion_summary">Assistantৰ লগত কথা পাতক, কলবোৰ নীৰৱ কৰক</string>
+    <string name="assist_gesture_training_suggestion_summary_including_alarms">Assistantৰ লগত কথা পাতক, এলাৰ্ম আৰু কলবোৰ নীৰৱ কৰক</string>
+    <string name="assist_gesture_training_suggestion_title">Assistantৰ বাবে দুয়োকাষত হেঁচা দি এৰি দিয়ক</string>
     <string name="automatic_storage_manager_activation_warning">"আপুনি যেতিয়া সংযুক্ত হয়, তেতিয়াও আপুনি বেকআপ লোৱাৰ সময়ত বাছনি কৰা মানতেই ফট' আৰু ভিডিঅ'সমূহ চাব আৰু ব্যৱহাৰ কৰিব পাৰে"</string>
     <string name="automatic_storage_manager_days_title">"বেক আপ লোৱা ফট' আৰু ভিডিঅ'সমূহ আঁতৰাওক"</string>
     <string name="automatic_storage_manager_deactivation_warning">"স্মাৰ্ট সঞ্চয়াগাৰ অফ কৰিবনে? 
@@ -66,12 +66,12 @@
     <string name="aware_footer_when_batterysaver_on">বেটাৰী সঞ্চয়কাৰী সুবিধাটো অন হৈ থকাৰ কাৰণে ম’শ্বন ছেন্স উপলব্ধ নহয়</string>
     <string name="aware_gesture_summary_off">দ্ৰুত নিৰ্দেশসমূহ অন আছে, Active Edge অফ কৰা হ’ল</string>
     <string name="aware_gesture_summary_on_non_assist">দ্ৰুত নিৰ্দেশসমূহ অন আছে, Active Edge অন কৰা হ’ল</string>
-    <string name="aware_gesture_summary_on_with_assist">দ্ৰুত নিৰ্দেশসমূহ অন আছে, Active Edge অন আছে, আপোনাৰ সহায়কৰ বাবে স্কুইজ কৰক</string>
+    <string name="aware_gesture_summary_on_with_assist">দ্ৰুত নিৰ্দেশসমূহ অন আছে, Active Edge অন আছে, আপোনাৰ Assistantৰ বাবে স্কুইজ কৰক</string>
     <string name="aware_info_button_description">অধিক ছেটিং</string>
     <string name="aware_summary_when_airplane_batterysaver_on">"এয়াৰপ্লেইন ম'ডটো আৰু বেটাৰি সঞ্চয়কাৰী সুবিধাটো অন হৈ থকাৰ কাৰণে উপলব্ধ নহয়"</string>
     <string name="aware_summary_when_airplane_on">"এয়াৰপ্লেইন ম'ড অন হৈ থকাৰ কাৰণে উপলব্ধ নহয়"</string>
     <string name="aware_summary_when_batterysaver_on">বেটাৰী সঞ্চয়কাৰী অন হৈ থকাৰ কাৰণে উপলব্ধ নহয়</string>
-    <string name="backup_data_summary">এপ্ ডেটা, ৱাই-ফাই পাছৱর্ড আৰু অন্য ছেটিংবোৰ Google ছার্ভাৰত বেক আপ লওক</string>
+    <string name="backup_data_summary">এপ্ ডেটা, ৱাই-ফাই পাছৱর্ড আৰু অন্য ছেটিঙৰ Google ছার্ভাৰত বেক আপ লওক</string>
     <string name="backup_suggestion_cancel">বাতিল কৰক</string>
     <string name="backup_suggestion_dialog_description">"এই কাৰ্যই আপোনাৰ ফ'নৰ আভ্যন্তৰীণ সঞ্চয়াগাৰৰ পৰা সকলো ডেটা মচিব৷"</string>
     <string name="backup_suggestion_dialog_title">এই ডিভাইচটো ৰিছেট কৰিবনে?</string>
@@ -84,9 +84,9 @@
     <string name="backup_suggestion_missing_title">আপোনাৰ ডেটা নাইকিয়া হৈছে নেকি?</string>
     <string name="backup_suggestion_next">পৰৱৰ্তী</string>
     <string name="backup_suggestion_other_ways_to_copy">ডেটা প্ৰতিলিপি কৰাৰ অন্য উপায়</string>
-    <string name="backup_suggestion_reset_description">"আপুনি পৰৱৰ্তী স্ক্ৰীণখনত আপোনাৰ Pixel ৰিছেট কৰিব পাৰিব৷ কেবুল ব্যৱহাৰ কৰি ডেটা স্থানান্তৰ কৰাৰ এইটোৱেই একমাত্ৰ উপায়৷
+    <string name="backup_suggestion_reset_description">"আপুনি পৰৱৰ্তী স্ক্ৰীনখনত আপোনাৰ Pixel ৰিছেট কৰিব পাৰিব৷ কে’বল ব্যৱহাৰ কৰি ডেটা স্থানান্তৰ কৰাৰ এইটোৱেই একমাত্ৰ উপায়৷
 
-এবাৰ এয়া ৰিছেট হ'লে, ছেট আপৰ প্ৰক্ৰিয়াটোৰে আগবাঢ়ক আৰু আপোনাৰ আগৰ ফ'নৰ পৰা ডেটা আনিবলৈ বাছনি কৰক৷"</string>
+এবাৰ এয়া ৰিছেট হ’লে, ছেট আপৰ প্ৰক্ৰিয়াটোৰে আগবাঢ়ক আৰু আপোনাৰ আগৰ ফ’নৰ পৰা ডেটা আনিবলৈ বাছনি কৰক৷"</string>
     <string name="backup_suggestion_reset_title">আপোনাৰ Pixel ৰিছেট কৰক</string>
     <string name="backup_suggestion_what_is_needed_summary">"আপুনি আপোনাৰ ফ'ন ৰিছেট কৰাৰ পাছত, আপোনাক এইসমূহ প্ৰয়োজন হ'ব:
 
@@ -142,6 +142,12 @@
     <string name="columbus_setting_app_shortcut_selection_help_text">কুইক টেপ ব্যৱহাৰ কৰি এই এপ্‌টো খুলিলে কি হয় সেয়া বাছনি কৰক।</string>
     <string name="columbus_setting_enable_switch_title">কুইক টেপ ব্যৱহাৰ কৰক</string>
     <string name="columbus_setting_sensitivity_title">আৰু জোৰেৰে টিপাৰ প্ৰয়োজন</string>
+    <string name="connectivity_helper_call_quality_category">কলৰ গুণগত মান</string>
+    <string name="connectivity_helper_call_quality_summary">কল চলি থকাৰ সময়ত হোৱা সংযোগ সম্পৰ্কীয় সমস্যাসমূহৰ কাৰণসমূহৰ বিষয়ে জাননী পাওক</string>
+    <string name="connectivity_helper_call_quality_title">জাননী পাওক</string>
+    <string name="connectivity_helper_d2d_summary">কল চলি থকাৰ সময়ত আপোনাৰ ফ’নত সংযোগৰ সমস্যা হ’লে ইগৰাকী ব্যক্তিক জাননী দিয়ক</string>
+    <string name="connectivity_helper_d2d_title">সংযোগৰ তথ্য শ্বেয়াৰ কৰক</string>
+    <string name="connectivity_helper_footnote">ইগৰাকী কল কৰোঁতাই এটা সমৰ্থিত ডিভাইচ আৰু নেটৱৰ্ক ব্যৱহাৰ কৰি থাকিলে আপুনি সংযোগ তথ্য শ্বেয়াৰ কৰিব পাৰে</string>
     <string name="content_capture">এপ্‌ ডেটা ব্যৱহাৰ কৰি ব্যক্তিগতকৰণ কৰক</string>
     <string name="copy_toast_msg">লিংক ক্লিপব’ৰ্ডত প্ৰতিলিপি কৰা হ’ল</string>
     <string name="dark_ui_text">আপোনাৰ বেটাৰীটোত চাৰ্জ অধিক সময়ৰ বাবে ৰখাত সহায় কৰিবলৈ গাঢ় ৰঙৰ থীমে এখন ক’লা ৰঙৰ পটভূমি ব্যৱহাৰ কৰে। গাঢ় ৰঙৰ থীমে আপোনাৰ স্ক্রীনখন অফ হোৱালৈ অপেক্ষা কৰিবলগীয়া সময়সূচী নিৰ্ধাৰণ কৰে।</string>
@@ -172,12 +178,12 @@
     <string name="fallback_menu_item_copy_link">লিংক প্ৰতিলিপি কৰক</string>
     <string name="fallback_menu_item_open_in_browser">ব্ৰাউজাৰত খোলক</string>
     <string name="fallback_menu_item_share_link">লিংক শ্বেয়াৰ কৰক</string>
-    <string name="fullbackup_data_summary">"Google ড্ৰাইভত ডিভাইচৰ ডেটা (যেনে ৱাই-ফাই পাছৱৰ্ড আৰু কলৰ ইতিহাস) আৰু এপ্ ডেটাৰ (যেনে ছেটিংসমূহ আৰু এপসমূহৰ দ্বাৰা সঞ্চিত ফাইলসমূহ) স্বয়ংক্ৰিয়ভাৱে বেক আপ লয়৷
+    <string name="fullbackup_data_summary">"Google ড্ৰাইভত ডিভাইচৰ ডেটা (যেনে ৱাই-ফাই পাছৱৰ্ড আৰু কলৰ ইতিহাস) আৰু এপ্ ডেটাৰ (যেনে ছেটিং আৰু এপ্‌সমূহৰ দ্বাৰা ষ্ট'ৰ কৰা ফাইলসমূহ) স্বয়ংক্ৰিয়ভাৱে বেক আপ লয়৷
 
-আপুনি স্বয়ংক্ৰিয় বেক আপ অন কৰাৰ সময়ত, ডিভাইচ আৰু এপ্ ডেটাক নিৰ্দিষ্ট সময়ৰ মূৰে-মূৰে Google ড্ৰাইভৰ এটা ব্যক্তিগত ফ'ল্ডাৰত ছেভ কৰা হয়৷ সম্পৰ্কসমূহ, বাৰ্তাসমূহ আৰু ফট'সমূহৰ দৰে সাম্ভাৱ্য সংবেদনশীল ডেটাক অন্তৰ্ভুক্ত কৰি, এপ্ ডেটা যিকোনো ডেটা হ'ব পাৰে যিবোৰক কোনো এপে ছেভ কৰে (বিকাশকৰ্তাৰ ছেটিংসমূহৰ ওপৰত ভিত্তি কৰি)৷
+আপুনি স্বয়ংক্ৰিয় বেক আপ অন কৰাৰ সময়ত, ডিভাইচ আৰু এপ্ ডেটাক নিৰ্দিষ্ট সময়ৰ মূৰে-মূৰে Google Driveৰ এটা ব্যক্তিগত ফ'ল্ডাৰত ছেভ কৰা হয়৷ সম্পৰ্কসমূহ, বাৰ্তাসমূহ আৰু ফট'সমূহৰ দৰে সাম্ভাৱ্য সংবেদনশীল ডেটাক অন্তৰ্ভুক্ত কৰি, এপ্ ডেটা যিকোনো ডেটা হ'ব পাৰে যিবোৰক কোনো এপে ছেভ কৰে (বিকাশকৰ্তাৰ ছেটিংসমূহৰ ওপৰত ভিত্তি কৰি)৷
 
-বেক আপ ডেটাক আপোনাৰ সঞ্চয়াগাৰৰ কোটাৰ লগত হিচাপ কৰা নহয়৷ ডাঙৰ ফাইলসমূহ বা ফাইল বিকাশকৰ্তাই সেৱাৰ পৰা বাদ দিবলৈ বাছনি কৰা ফাইলসমূহৰ বেক আপ লোৱা নহয়৷"</string>
-    <string name="fullbackup_erase_dialog_message">ডিভাইচ ডেটা (যেনে ৱাই-ফাই পাছৱর্ডবোৰ আৰু কলৰ ইতিহাস) আৰু এপ্ ডেটা (যেনে এপবোৰে সঞ্চয় কৰা ছেটিং আৰু ফাইলবোৰ)ৰ বেক আপ লোৱা বন্ধ কৰাৰ লগতে Google ড্ৰাইভৰ সকলো প্ৰতিলিপি মচিবনে?</string>
+বেক আপ ডেটাক আপোনাৰ ষ্ট'ৰেজ কোটাৰ লগত হিচাপ কৰা নহয়৷ ডাঙৰ ফাইলসমূহ বা ফাইল বিকাশকৰ্তাই সেৱাৰ পৰা বাদ দিবলৈ বাছনি কৰা ফাইলসমূহৰ বেক আপ লোৱা নহয়৷"</string>
+    <string name="fullbackup_erase_dialog_message">ডিভাইচ ডেটা (যেনে ৱাই-ফাই পাছৱর্ডবোৰ আৰু কলৰ ইতিহাস) আৰু এপ্ ডেটা (যেনে এপবোৰে সঞ্চয় কৰা ছেটিং আৰু ফাইলবোৰ)ৰ বেক আপ লোৱা বন্ধ কৰাৰ লগতে Google Driveৰ আটাইবোৰ প্ৰতিলিপি মচিবনে?</string>
     <string name="game_dashboard_always_on_summary">"গে'মত গে’ম ডেশ্বব’ৰ্ডৰ শ্বৰ্টকাট দেখুৱাওক"</string>
     <string name="game_dashboard_always_on_title">গে’ম ডেশ্বব’ৰ্ড</string>
     <string name="game_dashboard_dnd_rule_name">গে’মিং</string>
@@ -205,9 +211,9 @@
     <string name="install_unknown_applications">Play Storeৰ বাদে আন উৎসৰ পৰা লাভ কৰা এপ্ ইনষ্টলেশ্বন কৰিবলৈ অনুমতি দিয়ক</string>
     <string name="keywords_accessibility_menu">মটৰ, ক্ষিপ্ৰ মেনু, সহায়ক মেনু, স্পৰ্শ, দক্ষতা</string>
     <string name="keywords_adaptive_charging">চাৰ্জ, চাৰ্জিং, স্মাৰ্ট চাৰ্জিং, অভিযোজিত চাৰ্জিং, বেটাৰী, বেটাৰীৰ স্থিতি</string>
-    <string name="keywords_assist_gesture_launch">"আঙুলিৰ স্পৰ্শৰে নিৰ্দেশ, প্ৰান্ত, কাষ, Active Edge, দুয়োকাষত হেঁচা দিয়া, গ্ৰিপ, সহায়, সহায়ক, অ'কে google, google সহায়ক"</string>
+    <string name="keywords_assist_gesture_launch">আঙুলিৰ স্পৰ্শৰে নিৰ্দেশ, প্ৰান্ত, কাষ, Active Edge, দুয়োকাষত হেঁচা দিয়া, গ্ৰিপ, সহায়, সহায়ক, OK Google, Google Assistant</string>
     <string name="keywords_assist_gesture_silence">আঙুলিৰ স্পৰ্শৰে নিৰ্দেশ, প্ৰান্ত, কাষ, Active Edge, নিৰৱ, স্নুজ, এলাৰ্ম, অন্তৰ্গামী কল, নিমাত, ডিছপ্লে’, লকস্ক্ৰীণ, দুয়োকাষত হেঁচা দিয়া, গ্ৰিপ, বন্ধ</string>
-    <string name="keywords_assist_gesture_wake">আঙুলিৰ স্পৰ্শৰে নিৰ্দেশ, প্ৰান্ত, কাষ, Active Edge, জাগ্ৰত, জাননীসমূহ, স্ক্ৰীণ, ডিছপ্লে’, স্ক্ৰীণ বন্ধ, স্ক্ৰীণ খোলা, দুয়োকাষত হেঁচা দিয়া, নিদ্ৰাৰত, নিদ্ৰাৱস্থা, গ্ৰিপ</string>
+    <string name="keywords_assist_gesture_wake">আঙুলিৰ স্পৰ্শৰে নিৰ্দেশ, প্ৰান্ত, কাষ, Active Edge, জাগ্ৰত, জাননীসমূহ, স্ক্ৰীন, ডিছপ্লে’, স্ক্ৰীন বন্ধ, স্ক্ৰীন খোলা, দুয়োকাষত হেঁচা দিয়া, নিদ্ৰাৰত, নিদ্ৰাৱস্থা, গ্ৰিপ</string>
     <string name="keywords_battery_share">বেটাৰী শ্বেয়াৰ, বেতাঁৰ চাজিং</string>
     <string name="keywords_battery_share_settings">বেটাৰী শ্বেয়াৰ, ওলোটা বেতাঁৰ চাজিং</string>
     <string name="keywords_content_capture">সমলৰ কেপচ্চাৰ, এপৰ সমল, এপ্‌ ডেটা</string>
@@ -223,7 +229,7 @@
     <string name="keywords_voice_access">কণ্ঠধ্বনি, কণ্ঠধ্বনিৰ নিয়ন্ত্ৰণ, মটৰ, হাত, মাইক, মাইক্ৰ’ফ’ন, শ্ৰুতিলিখন, কথা কোৱা, নিয়ন্ত্ৰণ</string>
     <string name="language_input_gesture_summary_off">Active Edge অফ কৰা হ’ল</string>
     <string name="language_input_gesture_summary_on_non_assist">Active Edge অন কৰা হ’ল</string>
-    <string name="language_input_gesture_summary_on_with_assist">Active Edge অন হৈ আছে, আপোনাৰ সহায়কৰ বাবে দুয়োকাষত হেঁচা দিয়ক</string>
+    <string name="language_input_gesture_summary_on_with_assist">Active Edge অন হৈ আছে, আপোনাৰ Assistantৰ বাবে দুয়োকাষত হেঁচা দিয়ক</string>
     <string name="me_card_title">মোৰ Pixel</string>
     <string name="my_device_info_account_preference_title">Google একাউণ্ট</string>
     <string name="owner_info_settings_edit_text_hint">যেনে, মনোজৰ Pixel ফ’ন</string>
@@ -265,7 +271,7 @@
     <string name="security_dismiss_dialog_dismiss_button">অগ্ৰাহ্য কৰক</string>
     <string name="security_dismiss_dialog_title">এই সকীয়নিটো অগ্ৰাহ্য কৰিবনে?</string>
     <string name="security_settings_face_enroll_done">কৰা হ’ল</string>
-    <string name="security_settings_face_enroll_education_message">পৰৱর্তী স্ক্ৰীণখনত আপোনাৰ মুখাৱয়বৰ সকলো দিশ কেপচাৰ কৰিবলৈ আপোনাৰ মূৰটো ঘূৰাওক</string>
+    <string name="security_settings_face_enroll_education_message">পৰৱর্তী স্ক্ৰীনখনত আপোনাৰ মুখাৱয়বৰ আটাইবোৰ দিশ কেপচাৰ কৰিবলৈ আপোনাৰ মূৰটো ঘূৰাওক</string>
     <string name="security_settings_face_enroll_education_message_accessibility">পৰৱৰ্তী স্ক্ৰীনখনত, আপোনাৰ ফ’নটো চকুৰ স্তৰত ধৰি ৰাখক</string>
     <string name="security_settings_face_enroll_error_dialog_title">পঞ্জীয়ন সম্পূৰ্ণ নহ’ল</string>
     <string name="security_settings_face_enroll_error_generic_dialog_message">মুখমণ্ডল অন্তৰ্ভুক্তিকৰণে কাম নকৰিলে।</string>
@@ -317,6 +323,7 @@ g.co/pixel/faceunlockত অধিক জানক।"</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message">ফিংগাৰপ্ৰিণ্ট ছেন্সৰটো আপোনাৰ ফ’নটোৰ পিছফালে আছে। আপোনাৰ তৰ্জনী আঙুলি ব্যৱহাৰ কৰক।</string>
     <string name="security_settings_fingerprint_preference_summary_none">ফিংগাৰপ্ৰিণ্ট ছেট আপ কৰিবলৈ টিপক</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">g.co/pixel/fingerprintunlockত অধিক জানক।</string>
+    <string name="security_settings_work_fingerprint_preference_title">কৰ্মস্থানৰ বাবে Pixel সাঁচ</string>
     <string name="setup_suggestion_summary">ডেটাৰ প্ৰতিলিপি, ফ’নেৰে পৰিশোধ আৰু অন্য বহুতো</string>
     <string name="setup_suggestion_title">ছেট আপ সমাপ্ত কৰক</string>
     <string name="smart_battery_footer">বেটাৰীৰ জীৱনকাল বৃদ্ধি কৰিবলৈ অভিযোজিত বেটাৰীয়ে কাৰ্যদক্ষতা অথবা পটভূমিৰ কাৰ্যকলাপ হ্ৰাস কৰিব পাৰে। কিছুমান জাননী লাভ কৰাত পলম হ’ব পাৰে।</string>

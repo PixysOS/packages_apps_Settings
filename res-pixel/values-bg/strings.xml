@@ -142,6 +142,12 @@
     <string name="columbus_setting_app_shortcut_selection_help_text">Изберете какво да се случва, когато отворите това приложение посредством жеста „Бързо докосване“.</string>
     <string name="columbus_setting_enable_switch_title">Използване на жеста „Бързо докосване“</string>
     <string name="columbus_setting_sensitivity_title">Изискване на повече сила при докосванията</string>
+    <string name="connectivity_helper_call_quality_category">Качество на обажданията</string>
+    <string name="connectivity_helper_call_quality_summary">Получавайте известия относно причините за проблемите с връзката по време на обаждания</string>
+    <string name="connectivity_helper_call_quality_title">Получаване на известия</string>
+    <string name="connectivity_helper_d2d_summary">Известяване на другите хора, когато телефонът ви има проблеми с връзката по време на обаждания</string>
+    <string name="connectivity_helper_d2d_title">Споделяне на данни за връзката</string>
+    <string name="connectivity_helper_footnote">Можете да споделяте информация за връзката, ако другият обаждащ се използва поддържани устройство и мрежа</string>
     <string name="content_capture">Персонализиране посредством данните от приложението</string>
     <string name="copy_toast_msg">Връзката е копирана в буферната памет</string>
     <string name="dark_ui_text">Тъмната тема използва черен фон с цел удължаване на живота на батерията ви. Графиците за нея изчакват с включването, докато екранът ви не се изключи.</string>
@@ -312,6 +318,7 @@
     <string name="security_settings_face_enroll_too_hot_title">Телефонът е твърде горещ</string>
     <string name="security_settings_fingerprint_preference_summary_none">Докоснете, за да настроите отпечатък</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Научете повече на адрес g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint за служебни цели</string>
     <string name="setup_suggestion_summary">Копирайте данни, плащайте с телефона си и др.</string>
     <string name="setup_suggestion_title">Завършете настройването</string>
     <string name="smart_battery_footer">За да удължи живота на батерията, режимът за адаптивна батерия може да намали ефективността и активността на заден план. Може да има забавяне на някои известия.</string>

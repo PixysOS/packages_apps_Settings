@@ -80,6 +80,8 @@ android_library {
         "VendorSupport-Libs",
         "SettingsGoogle-lib",
     ],
+    manifest: "AndroidManifest.xml",
+    additional_manifests: ["SettingsGoogle-Manifest.xml"],
 
     libs: [
         "telephony-common",

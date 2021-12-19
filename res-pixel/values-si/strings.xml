@@ -142,6 +142,12 @@
     <string name="columbus_setting_app_shortcut_selection_help_text">ඔබ ඉක්මන් තට්ටු කිරීම භාවිතයෙන් මෙම යෙදුම විවෘත කළ විට සිදු වන දේ තෝරන්න.</string>
     <string name="columbus_setting_enable_switch_title">ඉක්මන් තට්ටු කිරීම භාවිත කරන්න</string>
     <string name="columbus_setting_sensitivity_title">වඩාත් දැඩි තට්ටු කිරීම් අවශ්‍යයි</string>
+    <string name="connectivity_helper_call_quality_category">ඇමතුමේ ගුණත්වය</string>
+    <string name="connectivity_helper_call_quality_summary">ඇමතුම් අතරතුර සම්බන්ධතා ගැටලු ඇති වීමේ හේතු පිළිබඳ දැනුම්දීම් ලබා ගන්න</string>
+    <string name="connectivity_helper_call_quality_title">දැනුම්දීම් ලබා ගන්න</string>
+    <string name="connectivity_helper_d2d_summary">ඇමතුම් අතරතුර ඔබගේ දුරකථනයේ සම්බන්ධතා ගැටලු ඇති විට අනෙක් පුද්ගලයාට දැනුම් දෙන්න</string>
+    <string name="connectivity_helper_d2d_title">සම්බන්ධතා තතු බෙදා ගන්න</string>
+    <string name="connectivity_helper_footnote">අනෙක් අමතන්නා සහාය දක්වන උපාංගයක් සහ ජාලයක් භාවිත කරන විට ඔබට සම්බන්ධතා තොරතුරු බෙදා ගත හැකිය</string>
     <string name="content_capture">යෙදුම් දත්ත භාවිතයෙන් පෞද්ගලීකරණය</string>
     <string name="copy_toast_msg">සබැඳිය පසුරු පුවරුවට පිටපත් කෙරිණි</string>
     <string name="dark_ui_text">අඳුරු තේමාව ඔබේ බැටරිය දිගු කාලයක් සජීවිව තබා ගැනීම සඳහා සහාය වීමට කළු පසුබිමක් භාවිත කරයි. අඳුරු තේමා කාල සටහන් ක්‍රියාත්මක වීමට ඔබගේ තිරය ක්‍රියාවිරහිත වන තෙක් රැඳී සිටී.</string>
@@ -315,6 +321,7 @@ g.co/pixel/faceunlock හිදී තව දැන ගන්න"</string>
     <string name="security_settings_face_enroll_too_hot_title">දුරකථනය උණුසුම් වැඩිය</string>
     <string name="security_settings_fingerprint_preference_summary_none">ඇඟිලි සලකුණ පිහිටුවීමට තට්ටු කරන්න</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">g.co/pixel/fingerprintunlock හිදී තව දැන ගන්න.</string>
+    <string name="security_settings_work_fingerprint_preference_title">කාර්යාලය සඳහා Pixel Imprint</string>
     <string name="setup_suggestion_summary">දත්ත පිටපත් කර., දුරකථනය සමඟ ගෙව. සහ තව</string>
     <string name="setup_suggestion_title">පිහිටුවීම අවසන් කරන්න</string>
     <string name="smart_battery_footer">බැටරි ආයු කාලය දිගු කිරීමට, අනුවර්තනීය බැටරිය කාර්ය සාධනය සහ පසුබිම් ක්‍රියාකාරිත්වය අඩු කළ හැකිය. සමහර දැනුම්දීම් ප්‍රමාද විය හැකිය.</string>

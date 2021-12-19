@@ -141,6 +141,12 @@ Setelah peranti anda ditetapkan semula, jalankan proses persediaan dan pilih unt
     <string name="columbus_setting_app_shortcut_selection_help_text">Pilih perkara yang berlaku apabila anda membuka apl ini menggunakan Ketikan Segera.</string>
     <string name="columbus_setting_enable_switch_title">Gunakan Ketikan Segera</string>
     <string name="columbus_setting_sensitivity_title">Perlukan ketikan yang lebih kuat</string>
+    <string name="connectivity_helper_call_quality_category">Kualiti panggilan</string>
+    <string name="connectivity_helper_call_quality_summary">Dapatkan pemberitahuan tentang punca masalah sambungan semasa panggilan</string>
+    <string name="connectivity_helper_call_quality_title">Dapatkan pemberitahuan</string>
+    <string name="connectivity_helper_d2d_summary">Beritahu orang lain apabila telefon anda mempunyai masalah sambungan semasa panggilan</string>
+    <string name="connectivity_helper_d2d_title">Kongsi maklumat sambungan</string>
+    <string name="connectivity_helper_footnote">Anda boleh berkongsi maklumat sambungan apabila pemanggil yang lain menggunakan peranti dan rangkaian yang disokong</string>
     <string name="content_capture">Peribadikan menggunakan data apl</string>
     <string name="copy_toast_msg">Pautan disalin ke papan keratan</string>
     <string name="dark_ui_text">Tema gelap menggunakan latar belakang hitam untuk memastikan bateri anda tahan lebih lama. Jadual tema gelap menunggu untuk dihidupkan hingga skrin anda dimatikan.</string>
@@ -312,6 +318,7 @@ Untuk meningkatkan prestasi, anda boleh menyediakan semula Buka Kunci Wajah dala
     <string name="security_settings_face_enroll_too_hot_title">Telefon terlalu panas</string>
     <string name="security_settings_fingerprint_preference_summary_none">Ketik untuk menyediakan cap jari</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Ketahui lebih lanjut melalui g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint untuk kerja</string>
     <string name="setup_suggestion_summary">Salin data, bayar guna telefon anda dan banyak lagi</string>
     <string name="setup_suggestion_title">Selesaikan persediaan</string>
     <string name="smart_battery_footer">Untuk melanjutkan hayat bateri, Bateri Mudah Suai mungkin mengurangkan prestasi dan aktiviti latar belakang. Sesetengah pemberitahuan mungkin tertangguh.</string>

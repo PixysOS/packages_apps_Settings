@@ -142,6 +142,12 @@
     <string name="columbus_setting_app_shortcut_selection_help_text">Изаберите шта се дешава када отворите ову апликацију помоћу брзог додира.</string>
     <string name="columbus_setting_enable_switch_title">Користи брзи додир</string>
     <string name="columbus_setting_sensitivity_title">Захтевај јаче додире</string>
+    <string name="connectivity_helper_call_quality_category">Квалитет позива</string>
+    <string name="connectivity_helper_call_quality_summary">Добијајте обавештења о узроцима проблема са везом током позива</string>
+    <string name="connectivity_helper_call_quality_title">Шаљи ми обавештења</string>
+    <string name="connectivity_helper_d2d_summary">Обавестите другу особу када ваш телефон има проблема са везом током позива</string>
+    <string name="connectivity_helper_d2d_title">Дели информације о вези</string>
+    <string name="connectivity_helper_footnote">Можете да делите информације о вези када други позивалац користи подржани уређај и мрежу</string>
     <string name="content_capture">Персонализуј помоћу података апликација</string>
     <string name="copy_toast_msg">Линк је копиран у привремену меморију</string>
     <string name="dark_ui_text">Тамна тема користи црну позадину да би батерија трајала дуже. Распореди тамне теме се укључују тек када се екран искључи.</string>
@@ -314,6 +320,7 @@
     <string name="security_settings_fingerprint_enroll_find_sensor_message">Налази се на задњој страни телефона. Користите кажипрст.</string>
     <string name="security_settings_fingerprint_preference_summary_none">Додирните да бисте подесили отисак прста</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Сазнајте више на g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint за посао</string>
     <string name="setup_suggestion_summary">Копирајте податке, плаћајте телефоном итд.</string>
     <string name="setup_suggestion_title">Завршите подешавање</string>
     <string name="smart_battery_footer">Да би продужила трајање батерије, прилагодљива батерија може да смањи учинак и активности у позадини. Нека обавештења могу да касне.</string>

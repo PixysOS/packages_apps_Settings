@@ -142,6 +142,12 @@ Setelah reset, selesaikan proses dan pilih untuk memindahkan data dari ponsel se
     <string name="columbus_setting_app_shortcut_selection_help_text">Pilih yang akan terjadi saat Anda membuka aplikasi ini menggunakan Ketuk Cepat.</string>
     <string name="columbus_setting_enable_switch_title">Gunakan Ketuk Cepat</string>
     <string name="columbus_setting_sensitivity_title">Perlu ketukan yang lebih kuat</string>
+    <string name="connectivity_helper_call_quality_category">Kualitas panggilan telepon</string>
+    <string name="connectivity_helper_call_quality_summary">Dapatkan notifikasi tentang penyebab masalah koneksi saat panggilan telepon berlangsung</string>
+    <string name="connectivity_helper_call_quality_title">Dapatkan notifikasi</string>
+    <string name="connectivity_helper_d2d_summary">Beri tahu orang lain jika ponsel Anda mengalami masalah koneksi saat panggilan telepon berlangsung</string>
+    <string name="connectivity_helper_d2d_title">Bagikan info koneksi</string>
+    <string name="connectivity_helper_footnote">Anda dapat berbagi info koneksi jika penelepon lain menggunakan perangkat dan jaringan yang didukung</string>
     <string name="content_capture">Personalisasi menggunakan data aplikasi</string>
     <string name="copy_toast_msg">Link disalin ke papan klip</string>
     <string name="dark_ui_text">Tema gelap menggunakan latar belakang gelap agar daya baterai dapat bertahan lebih lama. Jadwal tema gelap baru akan aktif setelah layar nonaktif.</string>
@@ -218,7 +224,7 @@ Data cadangan tidak dihitung dari kuota penyimpanan Drive. File besar, atau file
     <string name="keywords_sound_amplifier">PSAP, perkuat, penguatan suara, gangguan pendengaran, kerusakan pendengaran, penguatan</string>
     <string name="keywords_sound_notifications">Notifikasi, gangguan pendengaran, kerusakan pendengaran, beri tahukan</string>
     <string name="keywords_switch_access">motorik, tombol akses, tangan, AT, teknologi pendukung, kelumpuhan, ALS, pemindaian, pemindaian bertahap</string>
-    <string name="keywords_talkback">Pembaca layar, Voice Over, VoiceOver, Bantuan Suara, Tunanetra, Gangguan Penglihatan, TTS, text to speech, masukan lisan</string>
+    <string name="keywords_talkback">Pembaca layar, Voice Over, VoiceOver, Bantuan Suara, Tunanetra, Gangguan Penglihatan, TTS, text to speech, respons lisan</string>
     <string name="keywords_voice_access">suara, kontrol suara, motorik, tangan, mikrofon, dikte, bicara, kontrol</string>
     <string name="language_input_gesture_summary_off">Active Edge dinonaktifkan</string>
     <string name="language_input_gesture_summary_on_non_assist">Active Edge diaktifkan</string>
@@ -313,6 +319,7 @@ Untuk meningkatkan performa, Anda dapat menyiapkan Face Unlock lagi di Setelan."
     <string name="security_settings_face_enroll_too_hot_title">Ponsel terlalu panas</string>
     <string name="security_settings_fingerprint_preference_summary_none">Ketuk untuk menyiapkan sidik jari</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Pelajari lebih lanjut di g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint untuk profil kerja</string>
     <string name="setup_suggestion_summary">Salin data, bayar dengan ponsel, dan lainnya</string>
     <string name="setup_suggestion_title">Selesaikan penyiapan</string>
     <string name="smart_battery_footer">Untuk memperpanjang masa pakai baterai, Baterai Adaptif dapat mengurangi performa dan aktivitas latar belakang. Beberapa notifikasi mungkin tertunda.</string>

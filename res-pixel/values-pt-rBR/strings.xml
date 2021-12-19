@@ -142,6 +142,12 @@ Após a redefinição, realize o processo de configuração e escolha trazer seu
     <string name="columbus_setting_app_shortcut_selection_help_text">Selecione o que acontece quando você abre o app usando o Toque rápido.</string>
     <string name="columbus_setting_enable_switch_title">Usar o Toque rápido</string>
     <string name="columbus_setting_sensitivity_title">Exigir toques mais fortes</string>
+    <string name="connectivity_helper_call_quality_category">Qualidade da chamada</string>
+    <string name="connectivity_helper_call_quality_summary">Receber notificações sobre problemas de conexão nas chamadas</string>
+    <string name="connectivity_helper_call_quality_title">Receber notificações</string>
+    <string name="connectivity_helper_d2d_summary">Informar outras pessoas quando seu smartphone tiver problemas de conexão nas chamadas</string>
+    <string name="connectivity_helper_d2d_title">Compartilhar informações de conexão</string>
+    <string name="connectivity_helper_footnote">Você poderá compartilhar informações de conexão quando a outra pessoa estiver usando uma rede e um dispositivo com suporte</string>
     <string name="content_capture">Personalizar uso de dados do app</string>
     <string name="copy_toast_msg">Link copiado para a área de transferência</string>
     <string name="dark_ui_text">O tema escuro usa um plano de fundo preto para ajudar a prolongar a duração da bateria. Ele é ativado apenas depois que a tela é desligada.</string>
@@ -315,6 +321,7 @@ Para melhorar o desempenho, você pode configurar o Desbloqueio facial novamente
     <string name="security_settings_fingerprint_enroll_find_sensor_message">Ele fica na parte de trás do seu smartphone. Use seu dedo indicador.</string>
     <string name="security_settings_fingerprint_preference_summary_none">Toque para definir uma impressão digital</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Saiba mais em g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint para o trabalho</string>
     <string name="setup_suggestion_summary">Copie dados, pague com o smartphone e muito mais</string>
     <string name="setup_suggestion_title">Conclua a configuração</string>
     <string name="smart_battery_footer">Para prolongar a duração da carga, o recurso Bateria adaptável pode diminuir o desempenho e as atividades em segundo plano. Algumas notificações podem chegar atrasadas.</string>

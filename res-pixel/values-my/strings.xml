@@ -142,6 +142,12 @@
     <string name="columbus_setting_app_shortcut_selection_help_text">‘အမြန်တို့’ ကို သုံး၍ ဤအက်ပ်ကိုဖွင့်သောအခါ မည်သို့ဖြစ်မည်ကို ရွေးပါ။</string>
     <string name="columbus_setting_enable_switch_title">‘အမြန်တို့’ သုံးရန်</string>
     <string name="columbus_setting_sensitivity_title">ခပ်ပြင်းပြင်းတို့ချက်များ လိုအပ်သည်</string>
+    <string name="connectivity_helper_call_quality_category">ခေါ်ဆိုမှု အရည်အသွေး</string>
+    <string name="connectivity_helper_call_quality_summary">ခေါ်ဆိုမှုများအတွင်း ချိတ်ဆက်မှု ပြဿနာများအကြောင်း အကြောင်းကြားချက် ရယူနိုင်သည်</string>
+    <string name="connectivity_helper_call_quality_title">အကြောင်းကြားချက်များ ရယူရန်</string>
+    <string name="connectivity_helper_d2d_summary">ခေါ်ဆိုမှုများအတွင်း သင့်ဖုန်းတွင် ချိတ်ဆက်မှု ပြဿနာများရှိနေပါက တစ်ဖက်လူကို အသိပေးနိုင်သည်</string>
+    <string name="connectivity_helper_d2d_title">ချိတ်ဆက်မှုအချက်အလက် မျှဝေခြင်း</string>
+    <string name="connectivity_helper_footnote">အခြားတစ်ဖက်မှခေါ်ဆိုသူက ပံ့ပိုးထားသည့် စက်နှင့်ကွန်ရက်ကို သုံးသည့်အခါ ချိတ်ဆက်မှု အချက်အလက်ကို မျှဝေနိုင်သည်</string>
     <string name="content_capture">အက်ပ်ဒေတာအသုံးပြုမှုကို ပုဂ္ဂိုလ်ရေးသီးသန့် ပြုလုပ်ခြင်း</string>
     <string name="copy_toast_msg">လင့်ခ်ကို ကလစ်ဘုတ်သို့ ကူးပြီးပါပြီ</string>
     <string name="dark_ui_text">"သင့်ဘက်ထရီသက်တမ်း ပိုမိုကြာရှည်စွာ ခံနိုင်ရန် 'မှောင်သည့်အပြင်အဆင်' က အမည်းရောင်နောက်ခံကို အသုံးပြုသည်။ သင့်ဖန်သားပြင်ပိတ်သည်အထိ စောင့်ပြီးမှ မှောင်သည့် အပြင်အဆင် စတင်သည်။"</string>
@@ -313,6 +319,7 @@ g.co/pixel/faceunlock တွင် ပိုမိုလေ့လာပါ။"</
     <string name="security_settings_face_enroll_too_hot_title">ဖုန်းအလွန်ပူနေသည်</string>
     <string name="security_settings_fingerprint_preference_summary_none">လက်ဗွေ စနစ်ထည့်သွင်းသတ်မှတ်ရန် တို့ပါ</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">g.co/pixel/fingerprintunlock တွင် ပိုမိုလေ့လာပါ။</string>
+    <string name="security_settings_work_fingerprint_preference_title">အလုပ်အတွက် Pixel Imprint</string>
     <string name="setup_suggestion_summary">ဒေတာမိတ္တူကူးခြင်း၊ သင့်ဖုန်းဖြင့်ငွေပေးချေခြင်း စသည်</string>
     <string name="setup_suggestion_title">စနစ်ထည့်သွင်းမှု အပြီးသတ်ပါ</string>
     <string name="smart_battery_footer">ဘက်ထရီသက်တမ်း ပိုရှည်စေရန် ‘အလိုက်အထိုက် ဘက်ထရီအားထိန်း’ က စွမ်းဆောင်ရည်နှင့် နောက်ခံလုပ်ဆောင်ချက်ကို လျှော့ချနိုင်သည်။ အချို့အကြောင်းကြားချက်များ ကြန့်ကြာနိုင်ပါသည်။</string>

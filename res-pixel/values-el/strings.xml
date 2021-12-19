@@ -141,6 +141,12 @@
     <string name="columbus_setting_app_shortcut_selection_help_text">Επιλέξτε τι συμβαίνει όταν ανοίγετε την εφαρμογή χρησιμοποιώντας το Γρήγορο πάτημα.</string>
     <string name="columbus_setting_enable_switch_title">Χρήση Γρήγορου πατήματος</string>
     <string name="columbus_setting_sensitivity_title">Να απαιτούνται ισχυρότερα πατήματα</string>
+    <string name="connectivity_helper_call_quality_category">Ποιότητα κλήσης</string>
+    <string name="connectivity_helper_call_quality_summary">Ειδοποιηθείτε σχετικά με αιτίες προβλημάτων σύνδεσης κατά τη διάρκεια κλήσεων.</string>
+    <string name="connectivity_helper_call_quality_title">Λήψη ειδοποιήσεων</string>
+    <string name="connectivity_helper_d2d_summary">Ειδοποιήστε το άλλο άτομο όταν το τηλέφωνό σας αντιμετωπίζει προβλήματα σύνδεσης κατά τη διάρκεια κλήσεων.</string>
+    <string name="connectivity_helper_d2d_title">Κοινοποίηση πληροφοριών σύνδεσης</string>
+    <string name="connectivity_helper_footnote">Μπορείτε να κοινοποιείτε πληροφορίες σύνδεσης όταν το άλλο άτομο στην κλήση χρησιμοποιεί υποστηριζόμενη συσκευή και δίκτυο.</string>
     <string name="content_capture">Εξατομίκευση με χρήση δεδομένων εφαρμογής</string>
     <string name="copy_toast_msg">Ο σύνδεσμος αντιγράφηκε στο πρόχειρο</string>
     <string name="dark_ui_text">Το Σκούρο θέμα χρησιμοποιεί μαύρο φόντο, για να επεκτείνει τη διάρκεια ζωής της μπαταρίας σας. Τα χρονοδιαγράμματα για το Σκούρο θέμα περιμένουν να σβήσει η οθόνη, για να ενεργοποιηθούν.</string>
@@ -313,6 +319,7 @@
     <string name="security_settings_face_enroll_too_hot_title">Υψηλή θερμοκρασία τηλεφώνου</string>
     <string name="security_settings_fingerprint_preference_summary_none">Πατήστε για ρύθμιση δακτυλικού αποτυπώματος</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Μάθετε περισσότερα στο g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint για επαγγελματική χρήση</string>
     <string name="setup_suggestion_summary">Αντιγραφή δεδομένων, πληρωμή με τηλέφωνο κ.ά.</string>
     <string name="setup_suggestion_title">Ολοκλήρωση ρύθμισης</string>
     <string name="smart_battery_footer">Για να επεκτείνετε τη διάρκεια ζωής της μπαταρίας, η Προσαρμοστική μπαταρία ενδέχεται να μειώσει την απόδοση και τη δραστηριότητα στο παρασκήνιο. Ορισμένες ειδοποιήσεις ενδέχεται να εμφανίζονται με καθυστέρηση.</string>

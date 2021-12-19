@@ -142,6 +142,12 @@ Una vez lo hayas hecho, realiza el proceso de configuración y elige importar lo
     <string name="columbus_setting_app_shortcut_selection_help_text">Selecciona qué pasa cuando abres esta aplicación con Toque rápido.</string>
     <string name="columbus_setting_enable_switch_title">Usar Toque rápido</string>
     <string name="columbus_setting_sensitivity_title">Requerir toques más fuertes</string>
+    <string name="connectivity_helper_call_quality_category">Calidad de las llamadas</string>
+    <string name="connectivity_helper_call_quality_summary">Recibe notificaciones sobre por qué ha habido problemas de conexión en las llamadas</string>
+    <string name="connectivity_helper_call_quality_title">Recibir notificaciones</string>
+    <string name="connectivity_helper_d2d_summary">Avisa a la otra persona cuando tu teléfono tenga problemas de conexión durante una llamada</string>
+    <string name="connectivity_helper_d2d_title">Enviar información de conexión</string>
+    <string name="connectivity_helper_footnote">Puedes compartir información sobre la conexión si la persona con la que hablas utiliza un dispositivo y una red compatibles</string>
     <string name="content_capture">Personalizar usando datos de aplicaciones</string>
     <string name="copy_toast_msg">Enlace copiado en el portapapeles</string>
     <string name="dock_summary_charging_phone">Cargando teléfono</string>
@@ -313,6 +319,7 @@ Para mejorar el rendimiento, puedes volver a configurar Desbloqueo facial en Aju
     <string name="security_settings_face_enroll_too_hot_title">Teléfono demasiado caliente</string>
     <string name="security_settings_fingerprint_preference_summary_none">Toca para configurar la huella digital</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Para consultar más información, visita g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint para el trabajo</string>
     <string name="setup_suggestion_summary">Copia datos, paga con el teléfono y más</string>
     <string name="setup_suggestion_title">Termina la configuración</string>
     <string name="smart_battery_footer">Para que la batería dure más, la función Batería inteligente puede reducir el rendimiento y la actividad en segundo plano. Es posible que algunas notificaciones se retrasen.</string>

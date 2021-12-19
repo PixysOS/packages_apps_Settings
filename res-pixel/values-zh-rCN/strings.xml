@@ -142,6 +142,12 @@
     <string name="columbus_setting_app_shortcut_selection_help_text">选择通过“快速轻触”打开该应用时要执行的操作。</string>
     <string name="columbus_setting_enable_switch_title">使用“快速轻触”</string>
     <string name="columbus_setting_sensitivity_title">需要更大的点按力度</string>
+    <string name="connectivity_helper_call_quality_category">通话质量</string>
+    <string name="connectivity_helper_call_quality_summary">接收关于通话期间连接问题原因的通知</string>
+    <string name="connectivity_helper_call_quality_title">接收通知</string>
+    <string name="connectivity_helper_d2d_summary">当您的手机在通话期间出现连接问题时，通知对方</string>
+    <string name="connectivity_helper_d2d_title">分享连接信息</string>
+    <string name="connectivity_helper_footnote">当通话对方使用受支持的设备和网络时，您可以分享连接信息</string>
     <string name="content_capture">使用应用数据提供个性化服务</string>
     <string name="copy_toast_msg">链接已复制到剪贴板</string>
     <string name="dark_ui_text">深色主题使用黑色背景，有助于延长电池续航时间。深色主题开启时间设置会等到屏幕进入关闭状态后才应用。</string>
@@ -311,6 +317,7 @@
     <string name="security_settings_face_enroll_too_hot_title">手机过热</string>
     <string name="security_settings_fingerprint_preference_summary_none">点按即可设置指纹</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">如需了解详情，请访问 g.co/pixel/fingerprintunlock。</string>
+    <string name="security_settings_work_fingerprint_preference_title">工作资料的 Pixel Imprint</string>
     <string name="setup_suggestion_summary">复制数据，使用手机付款等等</string>
     <string name="setup_suggestion_title">完成设置</string>
     <string name="smart_battery_footer">为延长电池续航时间，“自适应电池”功能可能会降低性能并减少后台活动。部分通知可能会延迟。</string>

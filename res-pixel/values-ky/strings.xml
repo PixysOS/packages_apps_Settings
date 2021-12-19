@@ -142,7 +142,13 @@
     <string name="columbus_setting_app_shortcut_selection_help_text">Бул колдонмону тез баскылап ачкандан кийин аткарыла турган аракетти тандаңыз.</string>
     <string name="columbus_setting_enable_switch_title">Тез баскылоону иштетүү</string>
     <string name="columbus_setting_sensitivity_title">Катуураак басууну талап кылуу</string>
-    <string name="content_capture">Колдонмолордогу дайын-даректердин негизинде жекечелештирүү</string>
+    <string name="connectivity_helper_call_quality_category">Чалуунун сапаты</string>
+    <string name="connectivity_helper_call_quality_summary">Чалуулардагы туташуу көйгөйлөрүнө себеп болгон нерселерди билип турасыз</string>
+    <string name="connectivity_helper_call_quality_title">Билдирмелерди алуу</string>
+    <string name="connectivity_helper_d2d_summary">Чалуу учурунда телефонуңузда келип чыккан туташуу көйгөйлөрү тууралуу башка кишиге кабарлай аласыз</string>
+    <string name="connectivity_helper_d2d_title">Туташуу маалыматын бөлүшүү</string>
+    <string name="connectivity_helper_footnote">Чалып жаткан башка абонент колдоого алынган түзмөктү же тармакты колдонуп жатса, туташуу маалыматын бөлүшө аласыз</string>
+    <string name="content_capture">Колдонмолордогу нерселердин негизинде жекечелештирүү</string>
     <string name="copy_toast_msg">Шилтеме буферге көчүрүлдү</string>
     <string name="dark_ui_text">Түзмөгүңүздүн батареясын көпкө жеткирүү үчүн караңгы темада кара фон колдонулат. Караңгы тема күйгүзүлө турган маалда телефонуңузду колдонуп жаткан болсоңуз, ал экраныңыз кийинки жолу күйгөндө иштейт.</string>
     <string name="dock_summary_charging_phone">Телефонду кубаттоо</string>
@@ -311,7 +317,8 @@
     <string name="security_settings_face_enroll_too_hot_title">Телефон ысып кетти</string>
     <string name="security_settings_fingerprint_preference_summary_none">Манжа изин кошуу үчүн таптап коюуңуз</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Кеңири маалымат: g.co/pixel/fingerprintunlock.</string>
-    <string name="setup_suggestion_summary">Маалыматты көчүрүп, телефонуңуз менен төлөп жана башка аракеттерди аткарыңыз</string>
+    <string name="security_settings_work_fingerprint_preference_title">Жумуш профили үчүн Pixel Imprint</string>
+    <string name="setup_suggestion_summary">Маалыматты көчүрүп, телефонуңуз менен төлөп жана башка нерселерди жасай аласыз</string>
     <string name="setup_suggestion_title">Жөндөп бүтүрүңүз</string>
     <string name="smart_battery_footer">Батареяны көбүрөөк убакытка жеткирүү үчүн Adaptive Battery функциясы түзмөктүн майнаптуулугун жана фондогу аракеттерди чектеп коёт. Айрым колдонмолордун билдирмелери кечигүү менен келиши мүмкүн.</string>
     <string name="smart_battery_manager_title">Ыңгайлаштырылуучу параметрлер</string>

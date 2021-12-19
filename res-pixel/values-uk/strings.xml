@@ -142,6 +142,12 @@
     <string name="columbus_setting_app_shortcut_selection_help_text">Виберіть дію, яка має відбуватися, коли ви відкриваєте цей додаток подвійним дотиком.</string>
     <string name="columbus_setting_enable_switch_title">Використовувати подвійний дотик</string>
     <string name="columbus_setting_sensitivity_title">Сильніший дотик</string>
+    <string name="connectivity_helper_call_quality_category">Якість дзвінка</string>
+    <string name="connectivity_helper_call_quality_summary">Отримуйте сповіщення про причини проблем із підключенням під час дзвінків</string>
+    <string name="connectivity_helper_call_quality_title">Отримуйте сповіщення</string>
+    <string name="connectivity_helper_d2d_summary">Сповістіть іншу людину, коли у вас виникають проблеми з підключенням під час дзвінків</string>
+    <string name="connectivity_helper_d2d_title">Діліться даними про з’єднання</string>
+    <string name="connectivity_helper_footnote">Ви можете поділитися інформацією про з’єднання, якщо інший абонент використовує підтримувані пристрій і мережу</string>
     <string name="content_capture">Персоналізувати використання даних додатків</string>
     <string name="copy_toast_msg">Посилання скопійовано в буфер обміну</string>
     <string name="dark_ui_text">У темній темі використовується чорний фон, щоб економити заряд акумулятора. Її розклад буде активовано після вимкнення екрана.</string>
@@ -312,6 +318,7 @@
     <string name="security_settings_face_enroll_too_hot_title">Телефон загарячий</string>
     <string name="security_settings_fingerprint_preference_summary_none">Торкніться, щоб додати відбиток пальця</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Докладніше: g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint для роботи</string>
     <string name="setup_suggestion_summary">Копіюйте дані, сплачуйте з телефона тощо</string>
     <string name="setup_suggestion_title">Завершіть налаштування</string>
     <string name="smart_battery_footer">Щоб заощадити заряд, функція \"Адаптивний акумулятор\" може обмежувати швидкодію пристрою та роботу додатків у фоновому режимі. Деякі сповіщення можуть з’являтись із затримкою.</string>

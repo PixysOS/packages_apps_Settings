@@ -142,6 +142,12 @@ Po resetování zopakujte proces úvodního nastavení a zkopírujte data z p�
     <string name="columbus_setting_app_shortcut_selection_help_text">Vyberte, co se stane, když tuto aplikaci otevřete pomocí rychlého klepnutí.</string>
     <string name="columbus_setting_enable_switch_title">Používat rychlé klepnutí</string>
     <string name="columbus_setting_sensitivity_title">Vyžadovat silnější klepnutí</string>
+    <string name="connectivity_helper_call_quality_category">Kvalita hovoru</string>
+    <string name="connectivity_helper_call_quality_summary">Dostávejte během hovorů oznámení o příčinách problémů s připojením</string>
+    <string name="connectivity_helper_call_quality_title">Oznámení</string>
+    <string name="connectivity_helper_d2d_summary">Oznámit během hovoru druhé straně, že váš telefon má problémy s připojením</string>
+    <string name="connectivity_helper_d2d_title">Sdílet údaje o připojení</string>
+    <string name="connectivity_helper_footnote">Když druhá strana používá podporované zařízení a síť, můžete s ní sdílet údaje o připojení</string>
     <string name="content_capture">Přizpůsobit pomocí dat aplikací</string>
     <string name="copy_toast_msg">Odkaz zkopírován do schránky</string>
     <string name="dark_ui_text">Tmavý motiv používá černé pozadí, a pomáhá tak prodloužit výdrž baterie. Plány tmavého motivu čekají na zapnutí, dokud se obrazovka nevypne.</string>
@@ -312,6 +318,7 @@ Za účelem zvýšení výkonu můžete odemykání obličejem nastavit znovu v�
     <string name="security_settings_face_enroll_too_hot_title">Telefon je příliš zahřátý</string>
     <string name="security_settings_fingerprint_preference_summary_none">Otisk prstu nastavíte klepnutím</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Další informace: g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint pro práci</string>
     <string name="setup_suggestion_summary">Kopírování dat, platby telefonem atd.</string>
     <string name="setup_suggestion_title">Dokončete nastavování</string>
     <string name="smart_battery_footer">Adaptivní baterie může za účelem prodloužení výdrže baterie omezit výkon a aktivitu na pozadí. Některá oznámení mohou být opožděná.</string>

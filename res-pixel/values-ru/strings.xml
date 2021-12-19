@@ -141,6 +141,12 @@
     <string name="columbus_setting_app_shortcut_selection_help_text">Выберите действие, которое будет выполняться после запуска приложения коротким касанием.</string>
     <string name="columbus_setting_enable_switch_title">Использовать короткое касание</string>
     <string name="columbus_setting_sensitivity_title">Уменьшить чувствительность</string>
+    <string name="connectivity_helper_call_quality_category">Качество связи</string>
+    <string name="connectivity_helper_call_quality_summary">Получайте уведомления о проблемах с подключением во время вызовов.</string>
+    <string name="connectivity_helper_call_quality_title">Получение уведомлений</string>
+    <string name="connectivity_helper_d2d_summary">Отправьте другому пользователю уведомление, если во время вызовов были обнаружены проблемы с подключением.</string>
+    <string name="connectivity_helper_d2d_title">Отправка данных о подключении</string>
+    <string name="connectivity_helper_footnote">Отправьте данные о подключении другому абоненту, если он использует поддерживаемые устройство и сеть.</string>
     <string name="content_capture">Персонализация на основе данных приложений</string>
     <string name="copy_toast_msg">Ссылка скопирована в буфер обмена.</string>
     <string name="dark_ui_text">В тёмной теме используется черный фон. Это помогает продлить срок работы батареи вашего устройства. Если вы работаете с телефоном в тот момент, когда по расписанию должна активироваться тёмная тема, она будет применена только при следующем включении экрана.</string>
@@ -311,6 +317,7 @@
     <string name="security_settings_face_enroll_too_hot_title">Телефон слишком горячий</string>
     <string name="security_settings_fingerprint_preference_summary_none">Нажмите, чтобы добавить отпечаток пальца</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Подробнее: g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint для работы</string>
     <string name="setup_suggestion_summary">Скопируйте данные, настройте оплату с телефона и другие функции</string>
     <string name="setup_suggestion_title">Завершите настройку</string>
     <string name="smart_battery_footer">Чтобы продлить время работы от батареи, функция \"Адаптивное энергопотребление\" может снизить производительность и ограничить фоновые процессы. Некоторые уведомления могут приходить с задержкой.</string>

@@ -104,7 +104,7 @@
         <com.android.settingslib.RestrictedPreference
             android:key="securityhub_fingerprint_settings_profile"
             android:summary="@string/summary_placeholder"
-            android:title="@string/security_settings_fingerprint_preference_title" />
+            android:title="@string/security_settings_work_fingerprint_preference_title" />
 
         <com.android.settingslib.RestrictedPreference
             android:key="securityhub_face_settings_profile"

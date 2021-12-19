@@ -142,6 +142,12 @@ Berrezarri ondoren, gauzatu konfiguratze-prozesua eta adierazi telefono zaharrek
     <string name="columbus_setting_app_shortcut_selection_help_text">Hautatu zer gertatuko den aplikazioa sakatze bizkorra erabiliz irekitzen duzunean.</string>
     <string name="columbus_setting_enable_switch_title">Erabili sakatze bizkorra</string>
     <string name="columbus_setting_sensitivity_title">Eskatu indar handiagoz sakatzeko</string>
+    <string name="connectivity_helper_call_quality_category">Deiaren kalitatea</string>
+    <string name="connectivity_helper_call_quality_summary">Jaso jakinarazpenak deiak abian direnean gertatutako konexio-arazoen arrazoiei buruz</string>
+    <string name="connectivity_helper_call_quality_title">Jaso jakinarazpenak</string>
+    <string name="connectivity_helper_d2d_summary">Jakinarazi besteei telefonoak konexio-arazoak dituenean deiak abian direnean</string>
+    <string name="connectivity_helper_d2d_title">Partekatu konexioari buruzko informazioa</string>
+    <string name="connectivity_helper_footnote">Beste deitzaileak gailu eta sare bateragarriak darabiltzanean parteka dezakezu konexioari buruzko informazioa</string>
     <string name="content_capture">Pertsonalizatu aplikazioetako datuekin</string>
     <string name="copy_toast_msg">Arbelean kopiatu da esteka</string>
     <string name="dark_ui_text">Gai ilunak atzeko plano beltza erabiltzen du bateriak gehiago iraun dezan. Gai ilunaren programazioak ez dira aktibatzen pantaila itzaltzen den arte.</string>
@@ -229,10 +235,10 @@ Babeskopiek ez dute eraginik Drive-ko biltegiratze-kuotan. Fitxategiak handiak b
     <string name="reverse_charging_charging_wirelessly_message">Ez dago erabilgarri telefonoa haririk gabe ari delako kargatzen</string>
     <string name="reverse_charging_detail_charging_overheat_message">Ezin da partekatu bateria Pixel gailua gehiegi berotu delako. Itxaron telefonoa hoztu arte eta saiatu berriro.</string>
     <string name="reverse_charging_detail_charging_wirelessly_message">Ezin da partekatu bateria, telefonoa haririk gabe ari delako kargatzen</string>
-    <string name="reverse_charging_detail_footer_title">Bateria partekatuz gero, bizkorrago agortuko da telefonoaren bateria. Aurikular, ordulari, telefono eta bestelako gailu bateragarriekin parteka daiteke bateria. Hobeto kargatzeko, kendu zorroa telefonoari.</string>
+    <string name="reverse_charging_detail_footer_title">Bateria partekatuz gero, bizkorrago agortuko da telefonoaren bateria. Aurikular, ordulari, telefono eta bestelako gailu bateragarriekin parteka daiteke bateria. Hobeto kargatzeko, kendu karkasa telefonoari.</string>
     <string name="reverse_charging_detail_footer_title_advanced">"Aurikular, telefono eta bestelako gailu bateragarriekin parteka daiteke bateria.
 
-Eginbide hori erabiliz gero, bizkorrago agortuko da telefonoaren bateria. Minutu batzuk igaro ondoren beste gailurik hauteman ez bada, automatikoki desaktibatuko da bateria partekatzeko eginbidea. Hobeto kargatzeko, kendu zorroa eta agian oztopo egiten duten bestelako elementuak (adibidez, metalezko objektuak) telefonoari."</string>
+Eginbide hori erabiliz gero, bizkorrago agortuko da telefonoaren bateria. Minutu batzuk igaro ondoren beste gailurik hauteman ez bada, automatikoki desaktibatuko da bateria partekatzeko eginbidea. Hobeto kargatzeko, kendu karkasa eta agian oztopo egiten duten bestelako elementuak (adibidez, metalezko objektuak) telefonoari."</string>
     <string name="reverse_charging_detail_power_save_mode_is_on_message">Ezin da partekatu bateria, bateria-aurrezlea aktibatuta dagoelako</string>
     <string name="reverse_charging_detail_unplug_usb_cable_message">Ezin da partekatu bateria, USB-C gailu bat entxufatuta dagoelako</string>
     <string name="reverse_charging_instructions_title">"Kargatu beste gailu batzuk Pixel-arekin.
@@ -311,6 +317,7 @@ Errendimendua hobetu nahi baduzu, konfiguratu aurpegi bidez desblokeatzeko eginb
     <string name="security_settings_face_enroll_too_hot_title">Telefonoa gehiegi berotu da</string>
     <string name="security_settings_fingerprint_preference_summary_none">Hatz-marka konfiguratzeko, sakatu hau</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Lortu informazio gehiago g.co/pixel/fingerprintunlock helbidean.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Laneko profilerako Pixel Imprint</string>
     <string name="setup_suggestion_summary">Kopiatu datuak, ordaindu telefonoarekin, eta abar</string>
     <string name="setup_suggestion_title">Amaitu konfiguratzen</string>
     <string name="smart_battery_footer">Bateriaren iraupena luzatzeko, baliteke Bateria egokitua eginbideak errendimendua eta atzeko planoko jarduerak mugatzea. Beharbada, jakinarazpen batzuk atzeratu egingo dira.</string>

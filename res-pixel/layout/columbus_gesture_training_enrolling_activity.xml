@@ -6,7 +6,7 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     android:clipChildren="false"
-    android:icon="@drawable/ic_settings_gestures"
+    android:icon="@drawable/ic_quick_tap"
     app:sucHeaderText="@string/columbus_gesture_training_enrolling_title">
 
     <com.airbnb.lottie.LottieAnimationView

@@ -142,6 +142,12 @@ En canto se restableza, inicia o proceso de configuración e escolle a opción d
     <string name="columbus_setting_app_shortcut_selection_help_text">Selecciona o que queres que pase cando abras esta aplicación co xesto Toque rápido.</string>
     <string name="columbus_setting_enable_switch_title">Usar xesto Toque rápido</string>
     <string name="columbus_setting_sensitivity_title">Requirir toques máis fortes</string>
+    <string name="connectivity_helper_call_quality_category">Calidade das chamadas</string>
+    <string name="connectivity_helper_call_quality_summary">Recibe notificacións sobre as causas dos problemas de conexión que se produzan durante as chamadas</string>
+    <string name="connectivity_helper_call_quality_title">Recibir notificacións</string>
+    <string name="connectivity_helper_d2d_summary">Cando o teu teléfono teña problemas de conexión durante unha chamada, notifícallo a quen estea falando contigo</string>
+    <string name="connectivity_helper_d2d_title">Compartir datos sobre a conexión</string>
+    <string name="connectivity_helper_footnote">Podes compartir información sobre a conexión cando a persoa que estea falando contigo use unha rede e un dispositivo compatible</string>
     <string name="content_capture">Personalizar utilizando datos das aplicacións</string>
     <string name="copy_toast_msg">Copiouse a ligazón no portapapeis</string>
     <string name="dark_ui_text">O tema escuro utiliza un fondo negro para axudar a que a batería dure máis. As planificacións deste tema actívanse cando a pantalla está desactivada.</string>
@@ -313,6 +319,7 @@ Para mellorar o funcionamento, podes configurar de novo o desbloqueo facial en C
     <string name="security_settings_face_enroll_too_hot_title">O teléfono quentouse demasiado</string>
     <string name="security_settings_fingerprint_preference_summary_none">Toca aquí para configurar a impresión dixital</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Obtén máis información en g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint para o traballo</string>
     <string name="setup_suggestion_summary">Copia datos, paga co teléfono e máis</string>
     <string name="setup_suggestion_title">Finaliza a configuración</string>
     <string name="smart_battery_footer">Para aumentar a duración da batería, a función Batería intelixente pode reducir o rendemento e a actividade en segundo plano. Pódense atrasar algunhas notificacións.</string>

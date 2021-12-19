@@ -141,6 +141,12 @@ Når den er nulstillet, kan du gennemgå konfigurationen og vælge at overføre 
     <string name="columbus_setting_app_shortcut_selection_help_text">Vælg, hvad der skal ske, når du åbner denne app ved hjælp af Kviktryk.</string>
     <string name="columbus_setting_enable_switch_title">Brug Kviktryk</string>
     <string name="columbus_setting_sensitivity_title">Kræv hårdere tryk</string>
+    <string name="connectivity_helper_call_quality_category">Opkaldskvalitet</string>
+    <string name="connectivity_helper_call_quality_summary">Få besked om årsager til forbindelsesproblemer under opkald</string>
+    <string name="connectivity_helper_call_quality_title">Få notifikationer</string>
+    <string name="connectivity_helper_d2d_summary">Giv den anden person besked, hvis din telefon har forbindelsesproblemer under opkald</string>
+    <string name="connectivity_helper_d2d_title">Del forbindelsesoplysninger</string>
+    <string name="connectivity_helper_footnote">Du kan dele forbindelsesoplysninger, hvis den anden person i opkaldet anvender en understøttet enhed og et understøttet netværk</string>
     <string name="content_capture">Tilpas ved hjælp af appdata</string>
     <string name="copy_toast_msg">Linket er kopieret til udklipsholderen</string>
     <string name="dark_ui_text">Mørkt tema bruger en sort baggrund for at spare på batteriet. Tidsplaner for Mørkt tema aktiveres først, når din skærm er slukket.</string>
@@ -313,6 +319,7 @@ Du kan vælge at konfigurere ansigtslås igen i Indstillinger for at forbedre re
     <string name="security_settings_face_enroll_too_hot_title">Telefonen er for varm</string>
     <string name="security_settings_fingerprint_preference_summary_none">Tryk for at konfigurere fingeraftryk</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Få flere oplysninger på g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint til arbejdsbrug</string>
     <string name="setup_suggestion_summary">Kopiér data, betal med din telefon m.m.</string>
     <string name="setup_suggestion_title">Afslut konfiguration</string>
     <string name="smart_battery_footer">Batterijustering kan reducere ydeevnen og begrænse baggrundsaktivitet for at forlænge batteritiden. Nogle notifikationer kan blive forsinket.</string>

@@ -142,7 +142,13 @@ Nakon ponovog postavljanja, prođite postupak za postavljanje i odaberite uvoz p
     <string name="columbus_setting_app_shortcut_selection_help_text">Odaberite šta se desi kada otvorite ovu aplikaciju pomoću brzog dodira.</string>
     <string name="columbus_setting_enable_switch_title">Korištenje brzog dodira</string>
     <string name="columbus_setting_sensitivity_title">Zahtijevaj jače dodire</string>
-    <string name="content_capture">Personaliziranje pomoću podataka aplikacije</string>
+    <string name="connectivity_helper_call_quality_category">Kvalitet poziva</string>
+    <string name="connectivity_helper_call_quality_summary">Primajte obavještenja o uzrocima problema s vezom tokom poziva</string>
+    <string name="connectivity_helper_call_quality_title">Primajte obavještenja</string>
+    <string name="connectivity_helper_d2d_summary">Obavijestite drugu osobu kada vaš telefon naiđe na probleme s vezom tokom poziva</string>
+    <string name="connectivity_helper_d2d_title">Dijelite informacije o vezi</string>
+    <string name="connectivity_helper_footnote">Možete dijeliti informacije o vezi kada drugi pozivalac koristi podržani uređaj i mrežu</string>
+    <string name="content_capture">Personaliziraj pomoću podataka aplikacije</string>
     <string name="copy_toast_msg">Link je kopiran u međumemoriju</string>
     <string name="dock_summary_charging_phone">Punjenje telefona</string>
     <string name="double_twist_for_camera_mode_summary">Da uključite ili isključite način za snimanje selfija u Google Kameri, dvaput zakrenite uređaj dok ste u aplikaciji.</string>
@@ -312,6 +318,7 @@ Otključavanje licem možete ponovo postaviti u Postavkama radi poboljšanja per
     <string name="security_settings_face_enroll_too_hot_title">Telefon se pregrijao</string>
     <string name="security_settings_fingerprint_preference_summary_none">Dodirnite da podesite otisak prsta</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Saznajte više na g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint za posao</string>
     <string name="setup_suggestion_summary">Kopirajte podatke, plaćajte putem telefona i dr.</string>
     <string name="setup_suggestion_title">Završite postavljanje</string>
     <string name="smart_battery_footer">Da produžite vijek trajanja baterije, Prilagodljiva baterija može smanjiti performanse i aktivnost u pozadini. Neka obavještenja mogu kasniti.</string>

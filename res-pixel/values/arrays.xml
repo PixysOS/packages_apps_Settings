@@ -3,11 +3,6 @@
     <string-array name="allowlist_hide_background_in_battery_usage">
         <item>com.google.android.GoogleCamera</item>
     </string-array>
-    <integer-array name="color_mode_ids">
-        <item>0</item>
-        <item>-1</item>
-        <item>7</item>
-    </integer-array>
     <string-array name="config_color_mode_options_strings">
         <item>@string/color_mode_option_natural</item>
         <item>@string/color_mode_option_boosted</item>

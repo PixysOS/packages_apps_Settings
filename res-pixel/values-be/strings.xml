@@ -142,6 +142,12 @@
     <string name="columbus_setting_app_shortcut_selection_help_text">Выберыце, што павінна адбыцца, калі вы адкрыеце гэту праграму з дапамогай Хуткага дотыку.</string>
     <string name="columbus_setting_enable_switch_title">Выкарыстоўваць Хуткі дотык</string>
     <string name="columbus_setting_sensitivity_title">Патрабаваць мацнейшыя дотыкі</string>
+    <string name="connectivity_helper_call_quality_category">Якасць выкліку</string>
+    <string name="connectivity_helper_call_quality_summary">Атрымліваць апавяшчэнні пра выпадкі ўзнікнення праблем з падключэннем падчас выклікаў</string>
+    <string name="connectivity_helper_call_quality_title">Атрымліваць апавяшчэнні</string>
+    <string name="connectivity_helper_d2d_summary">Апавяшчаць іншую асобу, калі ў вашага тэлефона ўзнікаюць праблемы з падключэннем у час выклікаў</string>
+    <string name="connectivity_helper_d2d_title">Абагульваць даныя аб падключэнні</string>
+    <string name="connectivity_helper_footnote">Вы можаце абагульваць інфармацыю пра падключэнне, калі іншы абанент выкарыстоўвае прыладу і сетку, якія падтрымліваюцца</string>
     <string name="content_capture">Персаналізаванае выкарыстанне даных праграм</string>
     <string name="copy_toast_msg">Спасылка скапіравана ў буфер абмену</string>
     <string name="dark_ui_text">У цёмнай тэме выкарыстоўваецца чорны фон, які эканоміць зарад акумулятара. Акрамя таго, вы можаце вызначыць, калі цёмная тэма павінна ўключацца і выключацца.</string>
@@ -312,6 +318,7 @@
     <string name="security_settings_face_enroll_too_hot_title">Тэлефон перагрэўся</string>
     <string name="security_settings_fingerprint_preference_summary_none">Дакраніцеся, каб зарэгістраваць адбітак пальца</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Даведайцеся больш на старонцы g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint для працы</string>
     <string name="setup_suggestion_summary">Капіраванне даных, аплата тэлефонам і іншае</string>
     <string name="setup_suggestion_title">Завяршыць наладжванне</string>
     <string name="smart_battery_footer">Каб падоўжыць час працы ад акумулятара, функцыя яго адаптацыі можа панізіць прадукцыйнасць праграм і абмежаваць фонавыя працэсы. Некаторыя апавяшчэнні могуць прыходзіць з затрымкай.</string>

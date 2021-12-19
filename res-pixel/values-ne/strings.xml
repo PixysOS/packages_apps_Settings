@@ -142,6 +142,12 @@
     <string name="columbus_setting_app_shortcut_selection_help_text">क्विक ट्याप प्रयोग गरी यो एप खोल्दा के गरिनु पर्छ</string>
     <string name="columbus_setting_enable_switch_title">क्विक ट्याप प्रयोग गरियोस्</string>
     <string name="columbus_setting_sensitivity_title">अझ बल प्रयोग गरी ट्याप यो सुविधा प्रयोग गर्न सकियोस्</string>
+    <string name="connectivity_helper_call_quality_category">कलको गुणस्तर</string>
+    <string name="connectivity_helper_call_quality_summary">कल गरिरहेका बेला आउने कनेक्सनसम्बन्धी समस्याको कारणका बारेमा सूचना प्राप्त गर्नुहोस्</string>
+    <string name="connectivity_helper_call_quality_title">सूचनाहरू प्राप्त गर्नुहोस्</string>
+    <string name="connectivity_helper_d2d_summary">कल गरिरहेका बेला तपाईंको फोनमा कनेक्सनसम्बन्धी समस्या आउँदा कलमा भएका अर्का व्यक्तिलाई त्यसको सूचना दिनुहोस्</string>
+    <string name="connectivity_helper_d2d_title">कनेक्सनसम्बन्धी जानकारी सेयर गर्नुहोस्</string>
+    <string name="connectivity_helper_footnote">कलमा भएका अर्का व्यक्ति यो सुविधा चलाउन मिल्ने डिभाइस र नेटवर्क प्रयोग गर्दै हुनुहुन्छ भने तपाईं उहाँसँग कनेक्सनसम्बन्धी जानकारी सेयर गर्न सक्नुहुन्छ</string>
     <string name="content_capture">एपको डेटा प्रयोग गरी पर्सनलाइज गरियोस्</string>
     <string name="copy_toast_msg">क्लिपबोर्डमा लिंक प्रतिलिपि गरियो</string>
     <string name="dark_ui_text">अँध्यारो थिमले तपाईंको ब्याट्री अझ बढी समय टिकाउन कालो रङको ब्याकग्राउन्ड प्रयोग गर्दछ। तपाईंको डिभाइसको स्क्रिन अफ नभएसम्म अँध्यारो थिम अन हुँदैन।</string>
@@ -313,6 +319,7 @@ g.co/pixel/faceunlock मा गई थप जान्नुहोस्।"</s
     <string name="security_settings_face_enroll_too_hot_title">फोन निकै तातो छ</string>
     <string name="security_settings_fingerprint_preference_summary_none">फिंगरप्रिन्ट सेटअप गर्न ट्याप गर्नुहोस्</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">g.co/pixel/fingerprintunlock मा गई थप जान्नुहोस्।</string>
+    <string name="security_settings_work_fingerprint_preference_title">कार्य प्रोफाइलका लागि Pixel Imprint</string>
     <string name="setup_suggestion_summary">डेटा कपी गर्नुहोस्, फोनमार्फत भुक्तानी गर्नुहोस् र अन्य कार्यहरू गर्नुहोस्</string>
     <string name="setup_suggestion_title">सेटअप पूरा गर्नुहोस्</string>
     <string name="smart_battery_footer">ब्याट्रीको आयु बढाउन एड्याप्टिभ ब्याट्री मोडले कार्यसम्पादन र ब्याकग्राउन्डमा हुने क्रियाकलाप घटाउन सक्छ। केही सूचनाहरू ढिलो प्राप्त हुन सक्छन्।</string>

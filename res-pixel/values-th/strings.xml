@@ -142,6 +142,12 @@
     <string name="columbus_setting_app_shortcut_selection_help_text">เลือกสิ่งที่จะเกิดขึ้นเมื่อเปิดแอปนี้โดยใช้การแตะด่วน</string>
     <string name="columbus_setting_enable_switch_title">ใช้การแตะด่วน</string>
     <string name="columbus_setting_sensitivity_title">ต้องแตะแรงกว่านี้</string>
+    <string name="connectivity_helper_call_quality_category">คุณภาพการโทร</string>
+    <string name="connectivity_helper_call_quality_summary">รับการแจ้งเตือนเกี่ยวกับสาเหตุของปัญหาการเชื่อมต่อระหว่างที่โทร</string>
+    <string name="connectivity_helper_call_quality_title">รับการแจ้งเตือน</string>
+    <string name="connectivity_helper_d2d_summary">แจ้งให้ปลายสายทราบเมื่อโทรศัพท์ของคุณมีปัญหาการเชื่อมต่อระหว่างที่โทร</string>
+    <string name="connectivity_helper_d2d_title">แชร์ข้อมูลการเชื่อมต่อ</string>
+    <string name="connectivity_helper_footnote">คุณจะแชร์ข้อมูลการเชื่อมต่อได้เมื่อปลายสายใช้อุปกรณ์และเครือข่ายที่รองรับ</string>
     <string name="content_capture">ปรับเปลี่ยนในแบบของคุณโดยใช้ข้อมูลแอป</string>
     <string name="copy_toast_msg">คัดลอกลิงก์ไปยังคลิปบอร์ดแล้ว</string>
     <string name="dark_ui_text">ธีมมืดใช้พื้นหลังสีดำเพื่อให้แบตเตอรี่ใช้งานได้นานขึ้น ธีมมืดกำหนดเวลารอเปิดจนกระทั่งปิดหน้าจอ</string>
@@ -312,6 +318,7 @@
     <string name="security_settings_fingerprint_enroll_find_sensor_message">เซ็นเซอร์อยู่ที่ด้านหลังโทรศัพท์ โปรดใช้นิ้วชี้</string>
     <string name="security_settings_fingerprint_preference_summary_none">แตะเพื่อตั้งค่าลายนิ้วมือ</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">ดูข้อมูลเพิ่มเติมที่ g.co/pixel/fingerprintunlock</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint สำหรับการทำงาน</string>
     <string name="setup_suggestion_summary">คัดลอกข้อมูล ชำระเงินด้วยโทรศัพท์ และอื่นๆ</string>
     <string name="setup_suggestion_title">ตั้งค่าให้เสร็จ</string>
     <string name="smart_battery_footer">แบตเตอรี่แบบปรับอัตโนมัติอาจลดประสิทธิภาพหรือกิจกรรมในเบื้องหลังเพื่อยืดอายุการใช้งานแบตเตอรี่ การแจ้งเตือนบางอย่างอาจล่าช้า</string>

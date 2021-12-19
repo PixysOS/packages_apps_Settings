@@ -141,6 +141,12 @@ Cihazınız sıfırlandıktan sonra kurulum işlemini gerçekleştirin ve verile
     <string name="columbus_setting_app_shortcut_selection_help_text">Bu uygulamayı Hızlı Dokun özelliğini kullanarak açtığınızda ne olacağını seçin.</string>
     <string name="columbus_setting_enable_switch_title">Hızlı Dokun özelliğini kullan</string>
     <string name="columbus_setting_sensitivity_title">Daha kuvvetli dokunma gerektir</string>
+    <string name="connectivity_helper_call_quality_category">Çağrı kalitesi</string>
+    <string name="connectivity_helper_call_quality_summary">Aramalar sırasında oluşan bağlantı sorunlarının nedenleri hakkında bildirim alın</string>
+    <string name="connectivity_helper_call_quality_title">Bildirim al</string>
+    <string name="connectivity_helper_d2d_summary">Aramalar sırasında telefonunuzda bağlantı sorunları olduğunda karşı tarafı bilgilendirin</string>
+    <string name="connectivity_helper_d2d_title">Bağlantı bilgilerini paylaşın</string>
+    <string name="connectivity_helper_footnote">Aramadaki diğer kişi desteklenen bir cihaz ve ağ kullandığında bağlantı bilgilerini paylaşabilirsiniz</string>
     <string name="content_capture">Uygulama verilerini kullanarak kişiselleştir</string>
     <string name="copy_toast_msg">Bağlantı panoya kopyalandı</string>
     <string name="dark_ui_text">Koyu tema, pilinizin daha uzun süre dayanmasına yardımcı olmak için siyah arka plan kullanır. Koyu tema, açılmak için ekranınızın kapanmasını beklemeye programlanır.</string>
@@ -313,6 +319,7 @@ Performansı artırmak için Yüz Tanıma Kilidi'ni Ayarlar'dan tekrar seçebili
     <string name="security_settings_face_enroll_too_hot_title">Telefon çok ısındı</string>
     <string name="security_settings_fingerprint_preference_summary_none">Parmak izini ayarlamak için dokunun</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Daha fazla bilgiyi g.co/pixel/fingerprintunlock adresinde bulabilirsiniz.</string>
+    <string name="security_settings_work_fingerprint_preference_title">İş profili için Pixel Imprint</string>
     <string name="setup_suggestion_summary">Veri kopyalama, telefonunuzla ödeme ve fazlasını yapın</string>
     <string name="setup_suggestion_title">Kurulumu tamamlayın</string>
     <string name="smart_battery_footer">Uyarlamalı Pil özelliği, pil ömrünü uzatmak için performansı düşürebilir ve arka plan etkinliğini azaltabilir. Bazı bildirimler gecikebilir.</string>

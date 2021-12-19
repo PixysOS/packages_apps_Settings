@@ -142,6 +142,12 @@
     <string name="columbus_setting_app_shortcut_selection_help_text">ជ្រើសរើស​ថាមានអ្វី​កើតឡើង នៅពេល​អ្នកបើក​កម្មវិធីនេះ​ដោយប្រើការប៉ះរហ័ស។</string>
     <string name="columbus_setting_enable_switch_title">ប្រើការប៉ះរហ័ស</string>
     <string name="columbus_setting_sensitivity_title">តម្រូវឱ្យ​ប៉ះឱ្យខ្លាំងៗ</string>
+    <string name="connectivity_helper_call_quality_category">គុណភាព​ហៅទូរសព្ទ</string>
+    <string name="connectivity_helper_call_quality_summary">ទទួលបាន​ការជូនដំណឹង​អំពីមូលហេតុដែល​បណ្ដាលឱ្យមាន​បញ្ហានៃការតភ្ជាប់ អំឡុងពេល​ហៅទូរសព្ទ</string>
+    <string name="connectivity_helper_call_quality_title">ទទួលបាន​ការជូនដំណឹង</string>
+    <string name="connectivity_helper_d2d_summary">ជូនដំណឹង​ដល់បុគ្គលម្ខាងទៀត នៅពេលដែល​ទូរសព្ទរបស់អ្នក​មានបញ្ហានៃ​ការតភ្ជាប់ អំឡុងពេល​ហៅទូរសព្ទ</string>
+    <string name="connectivity_helper_d2d_title">ចែករំលែក​ព័ត៌មានអំពី​ការតភ្ជាប់</string>
+    <string name="connectivity_helper_footnote">អ្នកអាច​ចែករំលែក​ព័ត៌មានអំពី​ការតភ្ជាប់បាន នៅពេលអ្នកហៅទូរសព្ទ​ម្ខាងទៀត​កំពុងប្រើប្រាស់​បណ្ដាញ និង​ឧបករណ៍​ដែលស្គាល់</string>
     <string name="content_capture">កំណត់ផ្ទាល់ខ្លួន​ដោយប្រើ​ទិន្នន័យកម្មវិធី</string>
     <string name="copy_toast_msg">បាន​ចម្លង​តំណ​ទៅឃ្លីបបត</string>
     <string name="dark_ui_text">រចនាប័ទ្ម​ងងឹត​ប្រើផ្ទៃខាងក្រោយ​ពណ៌ខ្មៅ ដើម្បីជួយរក្សា​ថាមពលថ្ម​របស់អ្នក​ឱ្យនៅ​បានយូរ​ជាងមុន។ កាលវិភាគ​រចនាប័ទ្មងងឹត​រង់ចាំបើក រហូតទាល់តែ​អេក្រង់​របស់អ្នក​ត្រូវបានបិទ។</string>
@@ -314,6 +320,7 @@
     <string name="security_settings_face_enroll_too_hot_title">ទូរសព្ទ​ក្ដៅ​ពេក</string>
     <string name="security_settings_fingerprint_preference_summary_none">ចុចដើម្បីកំណត់ស្នាមម្រាមដៃ</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">ស្វែងយល់បន្ថែម​តាមរយៈ g.co/pixel/fingerprintunlock។</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint សម្រាប់ការងារ</string>
     <string name="setup_suggestion_summary">ចម្លងទិន្នន័យ បង់ប្រាក់តាមទូរសព្ទរបស់អ្នក និងច្រើនទៀត</string>
     <string name="setup_suggestion_title">បញ្ចប់​ការរៀបចំ</string>
     <string name="smart_battery_footer">ដើម្បីបង្កើនកម្រិតថាមពលថ្ម កម្មវិធីថ្ម​មាន​ភាព​បត់បែនអាចកាត់បន្ថយប្រតិបត្តិការ និងសកម្មភាពនៅផ្ទៃខាងក្រោយ។ ការជូនដំណឹងមួយចំនួនអាចត្រូវបានពន្យារពេល។</string>

@@ -142,6 +142,12 @@
     <string name="columbus_setting_app_shortcut_selection_help_text">Та Шуурхай товшилтыг ашиглан энэ аппыг нээх үед хийгдэх үйлдлийг сонгоно уу.</string>
     <string name="columbus_setting_enable_switch_title">Шуурхай товшилтыг ашиглах</string>
     <string name="columbus_setting_sensitivity_title">Илүү хүчтэй товшилт шаардлагатай</string>
+    <string name="connectivity_helper_call_quality_category">Дуудлагын чанар</string>
+    <string name="connectivity_helper_call_quality_summary">Дуудлагын үеэрх холболтын асуудлын шалтгааны талаар мэдэгдэл авна уу</string>
+    <string name="connectivity_helper_call_quality_title">Мэдэгдэл авах</string>
+    <string name="connectivity_helper_d2d_summary">Таны утас дуудлагын үеэр холболтын асуудалтай тулгарахад нөгөө хүндээ мэдэгдэнэ үү</string>
+    <string name="connectivity_helper_d2d_title">Холболтыг мэдээллийг хуваалцах</string>
+    <string name="connectivity_helper_footnote">Та нөгөө дуудлага хийгчээ дэмжигдсэн төхөөрөмж болон сүлжээ ашиглаж байгаа үед холболтын мэдээллийг хуваалцах боломжтой</string>
     <string name="content_capture">Аппын өгөгдлийг ашиглан хувийн болгох</string>
     <string name="copy_toast_msg">Холбоосыг түр санах ойд хуулсан</string>
     <string name="dark_ui_text">Бараан загвар нь таны батарейн ашиглалтын хугацааг уртасгахад туслахын тулд хар өнгийн дэвсгэр ашигладаг. Бараан загварын хуваарьт төлөв нь таны дэлгэц унтрах хүртэл хүлээж байгаад асдаг.</string>
@@ -313,6 +319,7 @@ Tа g.co/pixel/faceunlock дээрээс нэмэлт мэдээлэл авна 
     <string name="security_settings_face_enroll_too_hot_title">Утас хэт халсан байна</string>
     <string name="security_settings_fingerprint_preference_summary_none">Хурууны хээ тохируулахын тулд товшино уу</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Та g.co/pixel/fingerprintunlock дээрээс нэмэлт мэдээлэл авна уу.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Ажлын зориулалттай Pixel Imprint</string>
     <string name="setup_suggestion_summary">Өгөгдөл хуулах, утсаараа төлөх ба бусад</string>
     <string name="setup_suggestion_title">Тохируулж дуусгах</string>
     <string name="smart_battery_footer">Батарейн ажиллах хугацааг уртасгахын тулд Дасан зохицох батарей нь гүйцэтгэл болон дэвсгэрийн үйл ажиллагааг багасгаж болно. Зарим мэдэгдэл саатаж болзошгүй.</string>

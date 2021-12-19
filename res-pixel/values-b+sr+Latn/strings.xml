@@ -142,6 +142,12 @@ Kada ga resetujete, obavite podešavanje i izaberite da prenesete podatke sa pre
     <string name="columbus_setting_app_shortcut_selection_help_text">Izaberite šta se dešava kada otvorite ovu aplikaciju pomoću brzog dodira.</string>
     <string name="columbus_setting_enable_switch_title">Koristi brzi dodir</string>
     <string name="columbus_setting_sensitivity_title">Zahtevaj jače dodire</string>
+    <string name="connectivity_helper_call_quality_category">Kvalitet poziva</string>
+    <string name="connectivity_helper_call_quality_summary">Dobijajte obaveštenja o uzrocima problema sa vezom tokom poziva</string>
+    <string name="connectivity_helper_call_quality_title">Šalji mi obaveštenja</string>
+    <string name="connectivity_helper_d2d_summary">Obavestite drugu osobu kada vaš telefon ima problema sa vezom tokom poziva</string>
+    <string name="connectivity_helper_d2d_title">Deli informacije o vezi</string>
+    <string name="connectivity_helper_footnote">Možete da delite informacije o vezi kada drugi pozivalac koristi podržani uređaj i mrežu</string>
     <string name="content_capture">Personalizuj pomoću podataka aplikacija</string>
     <string name="copy_toast_msg">Link je kopiran u privremenu memoriju</string>
     <string name="dark_ui_text">Tamna tema koristi crnu pozadinu da bi baterija trajala duže. Rasporedi tamne teme se uključuju tek kada se ekran isključi.</string>
@@ -314,6 +320,7 @@ Da biste poboljšali učinak, možete ponovo da podesite otključavanje licem u 
     <string name="security_settings_fingerprint_enroll_find_sensor_message">Nalazi se na zadnjoj strani telefona. Koristite kažiprst.</string>
     <string name="security_settings_fingerprint_preference_summary_none">Dodirnite da biste podesili otisak prsta</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Saznajte više na g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint za posao</string>
     <string name="setup_suggestion_summary">Kopirajte podatke, plaćajte telefonom itd.</string>
     <string name="setup_suggestion_title">Završite podešavanje</string>
     <string name="smart_battery_footer">Da bi produžila trajanje baterije, prilagodljiva baterija može da smanji učinak i aktivnosti u pozadini. Neka obaveštenja mogu da kasne.</string>

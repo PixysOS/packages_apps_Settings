@@ -141,6 +141,12 @@ Kapag na-reset na ito, sundan ang proseso ng pag-setup at pumili upang mailipat 
     <string name="columbus_setting_app_shortcut_selection_help_text">Piliin kung ano ang mangyayari kapag binuksan mo ang app na ito gamit ang Quick Tap.</string>
     <string name="columbus_setting_enable_switch_title">Gamitin ang Quick Tap</string>
     <string name="columbus_setting_sensitivity_title">Kailanganin ang mas malalakas na pag-tap</string>
+    <string name="connectivity_helper_call_quality_category">Kalidad ng tawag</string>
+    <string name="connectivity_helper_call_quality_summary">Maabisuhan tungkol sa mga dahilan ng mga isyu sa koneksyon sa panahon ng mga tawag</string>
+    <string name="connectivity_helper_call_quality_title">Makatanggap ng mga notification</string>
+    <string name="connectivity_helper_d2d_summary">Abisuhan ang kausap mo kapag may mga isyu sa koneksyon ang iyong telepono habang nasa tawag</string>
+    <string name="connectivity_helper_d2d_title">Ibahagi ang impormasyon ng koneksyon</string>
+    <string name="connectivity_helper_footnote">Puwede mong ibahagi ang impormasyon ng koneksyon kapag sinusuportahang device at network ang ginagamit ng kausap mo</string>
     <string name="content_capture">Mag-personalize gamit ang data ng app</string>
     <string name="copy_toast_msg">Nakopya sa clipboard ang link</string>
     <string name="dark_ui_text">Gumagamit ng itim na background ang Madilim na tema para mas magtagal ang iyong baterya. Naghihintay ang mga iskedyul ng madilim na tema na ma-off ang iyong screen bago ma-on ang mga ito.</string>
@@ -312,6 +318,7 @@ Para mapahusay ang performance, puwede mong i-set up ulit ang Pag-unlock Gamit a
     <string name="security_settings_face_enroll_too_hot_title">Masyadong mainit ang telepono</string>
     <string name="security_settings_fingerprint_preference_summary_none">I-tap upang mag-set up ng fingerprint</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Matuto pa sa g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint para sa trabaho</string>
     <string name="setup_suggestion_summary">Kumopya ng data, magbayad gamit ang telepono, at higit pa</string>
     <string name="setup_suggestion_title">Tapusin ang pag-set up</string>
     <string name="smart_battery_footer">Para patagalin ang baterya, posibleng bawasan ng Adaptive Battery ang performance at aktibidad sa background. Baka maantala ang ilang notification.</string>

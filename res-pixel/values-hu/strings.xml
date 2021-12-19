@@ -142,6 +142,12 @@ Ha elkészült a visszaállítással, végezze el a beállítási folyamatot, é
     <string name="columbus_setting_app_shortcut_selection_help_text">Válassza ki, hogy mi történjen, amikor megnyitja ezt az alkalmazást a Gyors koppintás használatával.</string>
     <string name="columbus_setting_enable_switch_title">Gyors koppintás használata</string>
     <string name="columbus_setting_sensitivity_title">Erősebben kell koppintani</string>
+    <string name="connectivity_helper_call_quality_category">A hívás minősége</string>
+    <string name="connectivity_helper_call_quality_summary">Értesítést kaphat a hívások közben fellépő csatlakozási problémák okairól</string>
+    <string name="connectivity_helper_call_quality_title">Értesítések kérése</string>
+    <string name="connectivity_helper_d2d_summary">Értesítheti a másik felet, ha a telefonjának csatlakozási problémái vannak hívás közben</string>
+    <string name="connectivity_helper_d2d_title">Csatlakozási adatok megosztása</string>
+    <string name="connectivity_helper_footnote">Megoszthatja a csatlakozási adatokat, ha a másik fél támogatott eszközt és hálózatot használ</string>
     <string name="content_capture">Személyre szabás alkalmazásadatok felhasználásával</string>
     <string name="copy_toast_msg">Link vágólapra másolva</string>
     <string name="dark_ui_text">A Sötét téma fekete hátteret használ, ezáltal kíméli az akkumulátort. A Sötét téma csak a képernyő kikapcsolása után kapcsol be.</string>
@@ -311,6 +317,7 @@ A teljesítmény javításához újból beállíthatja az Arcalapú feloldást a
     <string name="security_settings_face_enroll_too_hot_title">A telefon túlmelegedett</string>
     <string name="security_settings_fingerprint_preference_summary_none">Koppintson az ujjlenyomat-olvasás beállításához</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">További információ: g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint munkahelyi használatra</string>
     <string name="setup_suggestion_summary">Adatok másolása, fizetés és egyebek</string>
     <string name="setup_suggestion_title">A beállítás befejezése</string>
     <string name="smart_battery_footer">Az akkumulátor üzemidejének növelése érdekében az Alkalmazkodó akkumulátor funkció csökkentheti a teljesítményt és a háttérbeli tevékenységet. Bizonyos értesítések késve érkezhetnek meg.</string>

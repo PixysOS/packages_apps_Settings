@@ -142,6 +142,12 @@
     <string name="columbus_setting_app_shortcut_selection_help_text">اختَر ما يحدث عندما تفتح هذا التطبيق باستخدام ميزة \"النقرة السريعة\".</string>
     <string name="columbus_setting_enable_switch_title">استخدام ميزة \"النقرة السريعة\"</string>
     <string name="columbus_setting_sensitivity_title">يجب النقر بقوة أكبر</string>
+    <string name="connectivity_helper_call_quality_category">جودة الاتصال</string>
+    <string name="connectivity_helper_call_quality_summary">تلقّي إشعارات بشأن أسباب مشاكل الاتصال أثناء المكالمات</string>
+    <string name="connectivity_helper_call_quality_title">تلقّي الإشعارات</string>
+    <string name="connectivity_helper_d2d_summary">إشعار المتصل الآخر عندما تكون هناك مشاكل في الاتصال في هاتفك أثناء المكالمات</string>
+    <string name="connectivity_helper_d2d_title">مشاركة معلومات الاتصال</string>
+    <string name="connectivity_helper_footnote">يمكنك مشاركة معلومات الاتصال عندما يستخدم المتصل الآخر جهاز متوافق وشبكة متوافقة.</string>
     <string name="content_capture">التخصيص باستخدام بيانات التطبيقات</string>
     <string name="copy_toast_msg">تم نسخ الرابط إلى الحافظة.</string>
     <string name="dark_ui_text">يستخدِم \"المظهر الداكن\" خلفية سوداء لتوفير طاقة البطارية والحفاظ عليها لفترة أطول. لا يتم تفعيل الجداول الزمنية لعمل \"المظهر الداكن\" إلا بعد قفل الشاشة.</string>
@@ -314,6 +320,7 @@
     <string name="security_settings_face_enroll_too_hot_title">درجة حرارة الهاتف مرتفعة جدًا</string>
     <string name="security_settings_fingerprint_preference_summary_none">النقر لإعداد بصمة الإصبع</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">‏تعرّف على المزيد من المعلومات على الرابط g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_work_fingerprint_preference_title">‏Pixel Imprint للملف الشخصي للعمل</string>
     <string name="setup_suggestion_summary">نسخ البيانات والدفع عبر الهاتف والمزيد</string>
     <string name="setup_suggestion_title">إنهاء الإعداد</string>
     <string name="smart_battery_footer">لإطالة عمر البطارية، قد تعمل ميزة \"البطارية التكيُّفية\" على تقليل مستوى الأداء والنشاط في الخلفية، وبالتالي قد يتأخّر ظهور بعض الإشعارات.</string>

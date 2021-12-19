@@ -142,6 +142,12 @@
     <string name="columbus_setting_app_shortcut_selection_help_text">"'কুইক ট্যাপ' জেশচার ব্যবহার করে এই অ্যাপ খুললে কী হবে তা বেছে নিন।"</string>
     <string name="columbus_setting_enable_switch_title">"'কুইক ট্যাপ' জেশচার ব্যবহার করুন"</string>
     <string name="columbus_setting_sensitivity_title">আরও জোরে ট্যাপ করতে হবে</string>
+    <string name="connectivity_helper_call_quality_category">কলের কোয়ালিটি</string>
+    <string name="connectivity_helper_call_quality_summary">কল চলাকালীন কানেকশন সম্পর্কিত কোনও সমস্যা হলে কারণ সম্পর্কে বিজ্ঞপ্তি পান</string>
+    <string name="connectivity_helper_call_quality_title">বিজ্ঞপ্তি পান</string>
+    <string name="connectivity_helper_d2d_summary">কল চলার সময় আপনার ফোনে কানেকশন সম্পর্কিত কোনও সমস্যা হলে কলে থাকা অন্য ব্যক্তিকে জানান</string>
+    <string name="connectivity_helper_d2d_title">কানেকশন সম্পর্কিত তথ্য শেয়ার করুন</string>
+    <string name="connectivity_helper_footnote">অন্য কলার উপযুক্ত ডিভাইস ও নেটওয়ার্ক ব্যবহার করলে আপনি কানেকশন সম্পর্কিত তথ্য শেয়ার করতে পারেন</string>
     <string name="content_capture">অ্যাপ ডেটা ব্যবহার করে নিজের মতো তৈরি করুন</string>
     <string name="copy_toast_msg">লিঙ্ক ক্লিপবোর্ডে কপি করা হয়েছে</string>
     <string name="dark_ui_text">ব্যাটারি যাতে অনেক্ষণ চলতে পারে সেই জন্য গাঢ় থিম কালো রঙয়ের ব্যাকগ্রাউন্ড ব্যবহার করে। গাঢ় থিমের সময়সূচি আপনার স্ক্রিনটি বন্ধ না হওয়া পর্যন্ত চালু হওয়ার জন্য অপেক্ষা করে।</string>
@@ -201,7 +207,7 @@
     <string name="global_actions_panel_short_title">কার্ড এবং পাস</string>
     <string name="global_actions_panel_summary">পেমেন্ট পদ্ধতি এবং বোর্ডিং পাস সংক্রান্ত জিনিসের অ্যাক্সেস পেতে পাওয়ার বোতামটি টিপে ধরে রাখুন।</string>
     <string name="global_actions_panel_title">কার্ড এবং পাস দেখুন</string>
-    <string name="install_unknown_applications">Play স্টোর ছাড়া অন্য উৎস থেকে অ্যাপ্লিকেশান ইনস্টলেশনের অনুমতি দিন</string>
+    <string name="install_unknown_applications">Play Store ছাড়া অন্য উৎস থেকে অ্যাপ্লিকেশান ইনস্টলেশনের অনুমতি দিন</string>
     <string name="keywords_accessibility_menu">মোটর, কুইক মেনু, সহায়তা মেনু, টাচ, ডেক্সটারিটি</string>
     <string name="keywords_adaptive_charging">চার্জ, চার্জিং, স্মার্ট চার্জিং, অ্যাডাপ্টিভ চার্জিং, ব্যাটারি, ব্যাটারির অবস্থা</string>
     <string name="keywords_assist_gesture_launch">ইঙ্গিত, প্রান্ত, পার্শ্ব, সক্রিয় প্রান্ত, স্কুইজ, মুঠো করে ধরা, সহায়তা, সহায়ক, স্কুইজ, ওকে Google, Google সহায়ক</string>
@@ -314,6 +320,7 @@ g.co/pixel/faceunlock লিঙ্ক থেকে আরও জানুন।"
     <string name="security_settings_face_enroll_too_hot_title">ফোনটি খুব গরম</string>
     <string name="security_settings_fingerprint_preference_summary_none">আঙ্গুলের ছাপ সেট-আপ করার জন্য আলতো চাপুন</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">g.co/pixel/fingerprintunlock লিঙ্ক থেকে আরও জানুন।</string>
+    <string name="security_settings_work_fingerprint_preference_title">"অফিসের জন্য 'Pixel Imprint'"</string>
     <string name="setup_suggestion_summary">ডেটা কপি, ফোনের সাহায্য পেমেন্ট এবং আরও অনেক কিছু করুন</string>
     <string name="setup_suggestion_title">সেট আপ সম্পূর্ণ করুন</string>
     <string name="smart_battery_footer">ব্যাটারির আয়ু বাড়ানোর জন্য, পারফর্ম্যান্স এবং ব্যাকগ্রাউন্ডের অ্যাক্টিভিটি কমাতে পারে অ্যাডাপটিভ ব্যাটারি কয়েকটি বিজ্ঞপ্তি পেতে দেরি হতে পারে।</string>

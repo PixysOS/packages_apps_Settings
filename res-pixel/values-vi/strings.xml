@@ -141,6 +141,12 @@ Sau khi thiết bị đặt lại, hãy chuyển tới quy trình thiết lập 
     <string name="columbus_setting_app_shortcut_selection_help_text">Chọn hành động sẽ diễn ra khi bạn mở ứng dụng này bằng chế độ Chạm nhanh.</string>
     <string name="columbus_setting_enable_switch_title">Dùng chế độ Chạm nhanh</string>
     <string name="columbus_setting_sensitivity_title">Bạn cần chạm mạnh hơn</string>
+    <string name="connectivity_helper_call_quality_category">Chất lượng cuộc gọi</string>
+    <string name="connectivity_helper_call_quality_summary">Nhận thông báo về nguyên nhân gây ra các vấn đề về kết nối trong khi gọi điện</string>
+    <string name="connectivity_helper_call_quality_title">Nhận thông báo</string>
+    <string name="connectivity_helper_d2d_summary">Thông báo cho người khác khi điện thoại của bạn gặp vấn đề về kết nối trong khi gọi điện</string>
+    <string name="connectivity_helper_d2d_title">Chia sẻ thông tin kết nối</string>
+    <string name="connectivity_helper_footnote">Bạn có thể chia sẻ thông tin kết nối khi người gọi bên kia đang dùng mạng và thiết bị được hỗ trợ</string>
     <string name="content_capture">Cá nhân hóa bằng dữ liệu ứng dụng</string>
     <string name="copy_toast_msg">Đã sao chép đường liên kết vào khay nhớ tạm</string>
     <string name="dock_summary_charging_phone">Đang sạc điện thoại</string>
@@ -310,6 +316,7 @@ Khi bạn dùng tính năng Mở khóa bằng khuôn mặt, các hình ảnh s�
     <string name="security_settings_fingerprint_enroll_find_sensor_message">Dùng ngón tay trỏ chạm vào cảm biến nằm ở mặt sau của điện thoại.</string>
     <string name="security_settings_fingerprint_preference_summary_none">Nhấn để thiết lập vân tay</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Tìm hiểu thêm tại g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint cho công việc</string>
     <string name="setup_suggestion_summary">Sao chép dữ liệu, thanh toán bằng điện thoại, v.v.</string>
     <string name="setup_suggestion_title">Hoàn tất việc thiết lập</string>
     <string name="smart_battery_footer">Để kéo dài thời lượng pin, tính năng Pin thích ứng có thể làm giảm hiệu suất thiết bị và hoạt động ở chế độ nền. Một số thông báo có thể đến chậm.</string>

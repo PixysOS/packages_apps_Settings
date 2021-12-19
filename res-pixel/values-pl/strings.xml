@@ -142,6 +142,12 @@ Po zresetowaniu przejdź proces konfiguracji i wybierz opcję przeniesienia dany
     <string name="columbus_setting_app_shortcut_selection_help_text">Wybierz, co ma się dziać, gdy otworzysz tę aplikację przy użyciu dwukrotnego dotknięcia.</string>
     <string name="columbus_setting_enable_switch_title">Używaj dwukrotnego dotknięcia</string>
     <string name="columbus_setting_sensitivity_title">Wymagaj silniejszych dotknięć</string>
+    <string name="connectivity_helper_call_quality_category">Jakość rozmów telefonicznych</string>
+    <string name="connectivity_helper_call_quality_summary">Otrzymuj powiadomienia o powodach problemów z połączeniem podczas rozmów telefonicznych</string>
+    <string name="connectivity_helper_call_quality_title">Otrzymywanie powiadomień</string>
+    <string name="connectivity_helper_d2d_summary">Powiadamiaj rozmówców o problemach z połączeniem podczas rozmów telefonicznych</string>
+    <string name="connectivity_helper_d2d_title">Udostępnianie informacji o połączeniu</string>
+    <string name="connectivity_helper_footnote">Możesz udostępnić informacje o połączeniu, jeśli rozmówca korzysta z obsługiwanego urządzenia i sieci</string>
     <string name="content_capture">Personalizuj na podstawie danych z aplikacji</string>
     <string name="copy_toast_msg">Link skopiowany do schowka</string>
     <string name="dark_ui_text">Ciemny motyw używa czarnego tła, by wydłużyć czas pracy na baterii. Harmonogramy ciemnego motywu są uruchamiane dopiero po wyłączeniu ekranu.</string>
@@ -312,6 +318,7 @@ Aby poprawić szybkość działania, możesz skonfigurować rozpoznawanie twarzy
     <string name="security_settings_face_enroll_too_hot_title">Telefon jest zbyt gorący</string>
     <string name="security_settings_fingerprint_preference_summary_none">Kliknij, by zarejestrować odcisk palca</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Więcej informacji znajdziesz na stronie g.co/pixel/fingerprintunlock</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint w profilu służbowym</string>
     <string name="setup_suggestion_summary">Kopiuj dane, płać telefonem i wykonuj inne działania</string>
     <string name="setup_suggestion_title">Dokończ konfigurację</string>
     <string name="smart_battery_footer">Aby wydłużyć czas pracy na baterii, Bateria adaptacyjna może ograniczyć wydajność i aktywność w tle. Niektóre powiadomienia mogą być opóźnione.</string>

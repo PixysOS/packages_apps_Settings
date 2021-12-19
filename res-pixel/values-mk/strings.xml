@@ -142,6 +142,12 @@
     <string name="columbus_setting_app_shortcut_selection_help_text">Изберете што да се случува кога ќе ја отворите апликацијава со „Брз допир“.</string>
     <string name="columbus_setting_enable_switch_title">Користи „Брз допир“</string>
     <string name="columbus_setting_sensitivity_title">Барај посилни допири</string>
+    <string name="connectivity_helper_call_quality_category">Квалитет на повик</string>
+    <string name="connectivity_helper_call_quality_summary">Добивајте известувања за случаи со проблеми со врската за време на повици</string>
+    <string name="connectivity_helper_call_quality_title">Добивајте известувања</string>
+    <string name="connectivity_helper_d2d_summary">Известете го другото лице кога вашиот телефон има проблеми со врската за време на повици</string>
+    <string name="connectivity_helper_d2d_title">Споделете податоци за врската</string>
+    <string name="connectivity_helper_footnote">Може да споделувате податоци за врската кога другиот повикувач користи поддржани уред и мрежа</string>
     <string name="content_capture">Персонализирај со користење податоци од апликациите</string>
     <string name="copy_toast_msg">Линкот е копиран во привремена меморија</string>
     <string name="dark_ui_text">Темната тема користи црна заднина за подолго траење на батеријата. Распоредите за темната тема не се вклучуваат додека не се исклучи екранот.</string>
@@ -314,6 +320,7 @@
     <string name="security_settings_face_enroll_too_hot_title">Телефонот е премногу топол</string>
     <string name="security_settings_fingerprint_preference_summary_none">Допрете за да поставите отпечаток</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Дознајте повеќе на g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint за работа</string>
     <string name="setup_suggestion_summary">Копирајте податоци, плаќајте со телефон…</string>
     <string name="setup_suggestion_title">Завршете го поставувањето</string>
     <string name="smart_battery_footer">За да го продолжи траењето на батеријата, „Адаптивна батерија“ може да ги намали изведбата и активноста во заднина. Можно е некои известувања да бидат одложени.</string>

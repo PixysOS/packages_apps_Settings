@@ -142,6 +142,12 @@
     <string name="columbus_setting_app_shortcut_selection_help_text">クイックタップを使用してこのアプリを開いたときのアクションを選択してください。</string>
     <string name="columbus_setting_enable_switch_title">クイックタップの使用</string>
     <string name="columbus_setting_sensitivity_title">強いタップが必要</string>
+    <string name="connectivity_helper_call_quality_category">通話品質</string>
+    <string name="connectivity_helper_call_quality_summary">通話時の接続の問題の原因に関する通知が届きます</string>
+    <string name="connectivity_helper_call_quality_title">通知を受け取る</string>
+    <string name="connectivity_helper_d2d_summary">スマートフォンでの通話中に接続の問題が起きたときに、通話相手に通知が届きます</string>
+    <string name="connectivity_helper_d2d_title">接続情報の共有</string>
+    <string name="connectivity_helper_footnote">通話相手がサポート対象のデバイスとネットワークを使用している場合に、接続情報を共有できます</string>
     <string name="content_capture">アプリデータに基づくパーソナライズ</string>
     <string name="copy_toast_msg">リンクをクリップボードにコピーしました</string>
     <string name="dark_ui_text">ダークモードでは黒地の背景を使用するため、電池が長持ちします。画面が OFF になるまでダークモードが ON にならないように設定できます。</string>
@@ -190,7 +196,7 @@
     <string name="game_mode_standard_description">ゲームのデフォルトを使用します</string>
     <string name="game_mode_standard_title">標準</string>
     <string name="game_optimization_unavailable">このゲームでは利用できません</string>
-    <string name="gesture_aware_confirmation_action_button">OK</string>
+    <string name="gesture_aware_confirmation_action_button">次へ</string>
     <string name="gesture_aware_footer"><annotation link="link">設定</annotation></string>
     <string name="gesture_silence_footer"><annotation link="link">設定</annotation></string>
     <string name="gesture_skip_direction_ltr">左から右</string>
@@ -311,6 +317,7 @@
     <string name="security_settings_face_enroll_too_hot_title">スマートフォンが過熱しています</string>
     <string name="security_settings_fingerprint_preference_summary_none">指紋をセットアップするにはタップします</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">詳しくは、g.co/pixel/fingerprintunlock をご覧ください。</string>
+    <string name="security_settings_work_fingerprint_preference_title">仕事用の Pixel Imprint</string>
     <string name="setup_suggestion_summary">データのコピー、スマートフォンでのお支払いなど</string>
     <string name="setup_suggestion_title">設定を完了してください</string>
     <string name="smart_battery_footer">自動調整バッテリーは、バッテリーを長持ちさせるために、パフォーマンスやバックグラウンド アクティビティを制限することがあります。一部の通知が遅れる場合があります。</string>

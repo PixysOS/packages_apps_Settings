@@ -142,6 +142,12 @@ Zodra de Pixel is gereset, doorloop je het instelproces en kies je de optie om g
     <string name="columbus_setting_app_shortcut_selection_help_text">Selecteer wat er gebeurt als je deze app opent met Snel tikken.</string>
     <string name="columbus_setting_enable_switch_title">Snel tikken gebruiken</string>
     <string name="columbus_setting_sensitivity_title">Intensievere tikken vereisen</string>
+    <string name="connectivity_helper_call_quality_category">Gesprekskwaliteit</string>
+    <string name="connectivity_helper_call_quality_summary">Krijg meldingen over oorzaken van verbindingsproblemen tijdens gesprekken</string>
+    <string name="connectivity_helper_call_quality_title">Meldingen krijgen</string>
+    <string name="connectivity_helper_d2d_summary">Informeer de andere persoon als je telefoon verbindingsproblemen ondervindt tijdens gesprekken</string>
+    <string name="connectivity_helper_d2d_title">Verbindingsgegevens delen</string>
+    <string name="connectivity_helper_footnote">Je kunt verbindingsgegevens delen als de andere beller een ondersteund apparaat en netwerk gebruikt</string>
     <string name="content_capture">Personaliseren met app-gegevens</string>
     <string name="copy_toast_msg">Link naar klembord gekopieerd</string>
     <string name="dark_ui_text">"Het donkere thema gebruikt een zwarte achtergrond zodat je batterij langer meegaat. Schema's voor het donkere thema worden pas aangezet als je scherm uitstaat."</string>
@@ -312,6 +318,7 @@ Als je de prestaties wilt verbeteren, kun je Ontgrendelen via gezichtsherkenning
     <string name="security_settings_face_enroll_too_hot_title">De telefoon is te heet</string>
     <string name="security_settings_fingerprint_preference_summary_none">Tik om vingerafdruk in te stellen</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Ga naar g.co/pixel/fingerprintunlock voor meer informatie.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint voor werk</string>
     <string name="setup_suggestion_summary">Kopieer gegevens, betaal met je telefoon en meer</string>
     <string name="setup_suggestion_title">Instellen afronden</string>
     <string name="smart_battery_footer">Aangepast batterijgebruik kan achtergrondactiviteit uitzetten of beperken om de batterijduur te verlengen. Sommige meldingen kunnen vertraagd zijn.</string>

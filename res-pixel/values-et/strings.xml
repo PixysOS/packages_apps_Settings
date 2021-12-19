@@ -142,6 +142,12 @@ Kui see on lähtestatud, läbige seadistusprotsess ning hankige oma eelmisest te
     <string name="columbus_setting_app_shortcut_selection_help_text">Valige, mis juhtub, kui selle rakenduse kiirpuudutusega avate.</string>
     <string name="columbus_setting_enable_switch_title">Kiirpuudutuse kasutamine</string>
     <string name="columbus_setting_sensitivity_title">Tugevamate puudutuste nõudmine</string>
+    <string name="connectivity_helper_call_quality_category">Kõne kvaliteet</string>
+    <string name="connectivity_helper_call_quality_summary">Hankige telefonikõnede ajal märguandeid ühendusprobleemide kohta</string>
+    <string name="connectivity_helper_call_quality_title">Märguannete hankimine</string>
+    <string name="connectivity_helper_d2d_summary">Teavitage teist inimest, kui teie telefonil on kõne ajal ühendusprobleeme</string>
+    <string name="connectivity_helper_d2d_title">Ühendusteabe jagamine</string>
+    <string name="connectivity_helper_footnote">Saate jagada ühendusteavet, kui teine helistaja kasutab toetatud seadet ja võrku</string>
     <string name="content_capture">Isikupärastamine rakenduste andmete abil</string>
     <string name="copy_toast_msg">Link kopeeriti lõikelauale</string>
     <string name="dark_ui_text">Tume teema kasutab musta tausta, et teie aku kestaks kauem. Tumeda teema ajakava lülitatakse sisse siis, kui ekraan on väljas.</string>
@@ -312,6 +318,7 @@ Toimivuse parandamiseks saate näoga avamise seadetes uuesti seadistada."</strin
     <string name="security_settings_face_enroll_too_hot_title">Telefon on liiga kuum</string>
     <string name="security_settings_fingerprint_preference_summary_none">Puudutage sõrmejälje seadistamiseks</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Lisateave: g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint töö jaoks</string>
     <string name="setup_suggestion_summary">Kopeerige andmeid, makske telefoniga jm</string>
     <string name="setup_suggestion_title">Lõpetage seadistamine</string>
     <string name="smart_battery_footer">Aku tööea pikendamiseks võib kohanduv akuhaldur vähendada jõudlust ja taustategevusi. Mõni märguanne võib viibida.</string>

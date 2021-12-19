@@ -142,6 +142,12 @@
     <string name="columbus_setting_app_shortcut_selection_help_text">ਚੁਣੋ ਕਿ ਜਦੋਂ ਤੁਸੀਂ ਕਵਿੱਕ ਟੈਪ ਦੀ ਵਰਤੋਂ ਨਾਲ ਇਸ ਐਪ ਨੂੰ ਖੋਲ੍ਹਦੇ ਹੋ ਤਾਂ ਕੀ ਹੁੰਦਾ ਹੈ।</string>
     <string name="columbus_setting_enable_switch_title">ਕਵਿੱਕ ਟੈਪ ਵਰਤੋ</string>
     <string name="columbus_setting_sensitivity_title">ਮਜ਼ਬੂਤ ਟੈਪਾਂ ਦੀ ਲੋੜ ਹੈ</string>
+    <string name="connectivity_helper_call_quality_category">ਕਾਲ ਦੀ ਕੁਆਲਿਟੀ</string>
+    <string name="connectivity_helper_call_quality_summary">ਕਾਲਾਂ ਦੌਰਾਨ ਕਨੈਕਸ਼ਨ ਸੰਬੰਧੀ ਸਮੱਸਿਆਵਾਂ ਦੇ ਕਾਰਨਾਂ ਬਾਰੇ ਸੂਚਿਤ ਰਹੋ</string>
+    <string name="connectivity_helper_call_quality_title">ਸੂਚਨਾਵਾਂ ਪ੍ਰਾਪਤ ਕਰੋ</string>
+    <string name="connectivity_helper_d2d_summary">"ਕਾਲਾਂ ਦੌਰਾਨ ਤੁਹਾਡੇ ਫ਼ੋਨ ਵਿੱਚ ਕਨੈਕਸ਼ਨ ਸੰਬੰਧੀ ਸਮੱਸਿਆਵਾਂ ਹੋਣ 'ਤੇ ਦੂਜੇ ਵਿਅਕਤੀ ਨੂੰ ਸੂਚਿਤ ਕਰੋ"</string>
+    <string name="connectivity_helper_d2d_title">ਕਨੈਕਸ਼ਨ ਦੀ ਜਾਣਕਾਰੀ ਸਾਂਝੀ ਕਰੋ</string>
+    <string name="connectivity_helper_footnote">ਦੂਜੇ ਕਾਲਰ ਵੱਲੋਂ ਸਮਰਥਿਤ ਡੀਵਾਈਸ ਅਤੇ ਨੈੱਟਵਰਕ ਦੀ ਵਰਤੋਂ ਕੀਤੇ ਜਾਣ ਵੇਲੇ ਤੁਸੀਂ ਕਨੈਕਸ਼ਨ ਦੀ ਜਾਣਕਾਰੀ ਸਾਂਝੀ ਕਰ ਸਕਦੇ ਹੋ</string>
     <string name="content_capture">ਐਪ ਡਾਟਾ ਵਰਤ ਕੇ ਵਿਅਕਤੀਗਤ ਬਣਾਓ</string>
     <string name="copy_toast_msg">"ਲਿੰਕ ਕਲਿੱਪਬੋਰਡ 'ਤੇ ਕਾਪੀ ਹੋ ਗਿਆ"</string>
     <string name="dark_ui_text">"ਗੂੜ੍ਹਾ ਥੀਮ ਬੈਟਰੀ ਨੂੰ ਜ਼ਿਆਦਾ ਲੰਬੇ ਸਮੇਂ ਤੱਕ ਬਚਾਈ ਰੱਖਣ ਵਿੱਚ ਮਦਦ ਕਰਨ ਲਈ ਕਾਲੇ ਰੰਗ ਦੇ ਬੈਕਗ੍ਰਾਊਂਡ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹੈ। ਗੂੜ੍ਹਾ ਥੀਮ ਸਕ੍ਰੀਨ ਬੰਦ ਹੋਣ 'ਤੇ ਚਾਲੂ ਹੁੰਦਾ ਹੈ।"</string>
@@ -201,7 +207,7 @@
     <string name="global_actions_panel_short_title">ਕਾਰਡ ਅਤੇ ਪਾਸ</string>
     <string name="global_actions_panel_summary">ਤੁਹਾਡੀਆਂ ਭੁਗਤਾਨ ਵਿਧੀਆਂ ਅਤੇ ਬੋਰਡਿੰਗ ਪਾਸ ਵਰਗੀਆਂ ਚੀਜ਼ਾਂ ਤੱਕ ਪਹੁੰਚ ਕਰਨ ਲਈ, ਪਾਵਰ ਬਟਨ ਨੂੰ ਦਬਾਈ ਰੱਖੋ।</string>
     <string name="global_actions_panel_title">ਕਾਰਡ ਅਤੇ ਪਾਸ ਦਿਖਾਓ</string>
-    <string name="install_unknown_applications">Play ਸਟੋਰ ਤੋਂ ਇਲਾਵਾ ਹੋਰ ਸਰੋਤਾਂ ਤੋਂ ਐਪਾਂ ਦੀ ਸਥਾਪਨਾ ਕਰਨ ਦੀ ਆਗਿਆ ਦਿਓ</string>
+    <string name="install_unknown_applications">Play Store ਤੋਂ ਇਲਾਵਾ ਹੋਰ ਸਰੋਤਾਂ ਤੋਂ ਐਪਾਂ ਦੀ ਸਥਾਪਨਾ ਕਰਨ ਦੀ ਆਗਿਆ ਦਿਓ</string>
     <string name="keywords_accessibility_menu">ਮੋਟਰ, ਤੁਰੰਤ ਮੀਨੂ, ਸਹਿਯੋਗਮਈ ਮੀਨੂ, ਸਪਰਸ਼, ਨਿਪੁੰਨਤਾ</string>
     <string name="keywords_adaptive_charging">ਚਾਰਜ, ਚਾਰਜਿੰਗ, ਸਮਾਰਟ ਚਾਰਜਿੰਗ, ਅਡੈਪਟਿਵ ਚਾਰਜਿੰਗ, ਬੈਟਰੀ, ਬੈਟਰੀ ਦੀ ਸਥਿਤੀ</string>
     <string name="keywords_assist_gesture_launch">"ਸੰਕੇਤ, ਕਿਨਾਰਾ, ਸਾਈਡ, ਕਿਰਿਆਸ਼ੀਲ ਕਿਨਾਰਾ, ਘੁੱਟੋ, ਪਕੜ, ਸਹਾਇਤਾ, ਘੁੱਟੋ, Ok Google, Google  Assistant"</string>
@@ -313,6 +319,7 @@ g.co/pixel/faceunlock 'ਤੇ ਹੋਰ ਜਾਣੋ।"</string>
     <string name="security_settings_face_enroll_too_hot_title">ਫ਼ੋਨ ਬਹੁਤ ਗਰਮ ਹੈ</string>
     <string name="security_settings_fingerprint_preference_summary_none">ਫਿੰਗਰਪ੍ਰਿੰਟ ਸੈੱਟਅੱਪ ਕਰਨ ਲਈ ਟੈਪ ਕਰੋ</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">"g.co/pixel/fingerprintunlock 'ਤੇ ਹੋਰ ਜਾਣੋ।"</string>
+    <string name="security_settings_work_fingerprint_preference_title">ਕਾਰਜ ਪ੍ਰੋਫਾਈਲ ਲਈ Pixel Imprint</string>
     <string name="setup_suggestion_summary">ਡਾਟਾ ਕਾਪੀ ਕਰੋ, ਆਪਣੇ ਫ਼ੋਨ ਨਾਲ ਭੁਗਤਾਨ ਕਰੋ ਅਤੇ ਹੋਰ</string>
     <string name="setup_suggestion_title">ਸੈੱਟਅੱਪ ਪੂਰਾ ਕਰੋ</string>
     <string name="smart_battery_footer">ਬੈਟਰੀ ਲਾਈਫ਼ ਨੂੰ ਵਧਾਉਣ ਲਈ, ਅਡੈਪਟਿਵ ਬੈਟਰੀ ਸ਼ਾਇਦ ਕਾਰਗੁਜ਼ਾਰੀ ਅਤੇ ਬੈਕਗ੍ਰਾਊਂਡ ਸਰਗਰਮੀ ਨੂੰ ਘੱਟ ਕਰ ਦੇਵੇ। ਕੁਝ ਸੂਚਨਾਵਾਂ ਸ਼ਾਇਦ ਦੇਰ ਨਾਲ ਮਿਲਣ।</string>

@@ -142,6 +142,12 @@
     <string name="columbus_setting_app_shortcut_selection_help_text">ፈጣን መታ ማድረግን በመጠቀም ይህን መተግበሪያ ሲከፍቱት ጊዜ ምን እንደሚከሰት ይምረጡ።</string>
     <string name="columbus_setting_enable_switch_title">ፈጣን መታ ማድረግን ይጠቀሙ</string>
     <string name="columbus_setting_sensitivity_title">ጠንከር ያሉ መታ ማድረጎችን ይጠይቁ</string>
+    <string name="connectivity_helper_call_quality_category">የጥሪ ጥራት</string>
+    <string name="connectivity_helper_call_quality_summary">በጥሪዎች ጊዜ ስለ የግንኙነት ችግሮች መንስኤዎች ማሳወቂያ ያግኙ</string>
+    <string name="connectivity_helper_call_quality_title">ማሳወቂያዎችን ያግኙ</string>
+    <string name="connectivity_helper_d2d_summary">በጥሪዎች ጊዜ ስልክዎ የግንኙነት ችግሮች ሲኖሩት ለሌላው ሰው ያሳውቁ</string>
+    <string name="connectivity_helper_d2d_title">የግንኙነት መረጃን ያጋሩ</string>
+    <string name="connectivity_helper_footnote">ሌላኛው ደዋይ የሚደገፍ መሣሪያ እና አውታረ መረብ ሲጠቀም የግንኙነት መረጃን ማጋራት ይችላሉ</string>
     <string name="content_capture">የመተግበሪያ ውሂብን በመጠቀም ግላዊነት ማላበስ</string>
     <string name="copy_toast_msg">አገናኝ ወደ ቅንጥብ ሰሌዳ ተቀድቷል</string>
     <string name="dark_ui_text">ጨለማ ገጽታ የባትሪዎን ዕድሜ ለማራዘም እንዲያግዝ ጥቁር ጀርባን ይጠቀማል። የጨለማ ገጽታ መርሐግብሮች ለመብራት ማያ ገጽዎ እስኪጠፋ ድረስ ይጠብቃሉ።</string>
@@ -312,6 +318,7 @@ g.co/pixel/faceunlock ላይ የበለጠ ይወቁ።"</string>
     <string name="security_settings_face_enroll_too_hot_title">ስልኩ ግሏል</string>
     <string name="security_settings_fingerprint_preference_summary_none">የጣት አሻራን ለማቀናበር መታ ያድርጉ</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">g.co/pixel/fingerprintunlock ላይ የበለጠ ይወቁ።</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint ለሥራ</string>
     <string name="setup_suggestion_summary">ውሂብን ይቅዱ፣ በስልክዎ ይክፈሉ እና ሌሎችንም ያድርጉ</string>
     <string name="setup_suggestion_title">ማዋቀር ይጨርሱ</string>
     <string name="smart_battery_footer">የባትሪ ዕድሜን ለማራዘም የተስማሚ ባትሪ የአፈፃፀምን እና የጀርባ እንቅስቃሴን ሊቀንስ ይችላል። አንዳንድ ማሳወቂያዎች ሊዘገዩ ይችላሉ</string>

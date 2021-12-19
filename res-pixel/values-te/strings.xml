@@ -20,7 +20,7 @@
     <string name="adaptive_charging_time_estimate"><b>అనుకూల ఛార్జింగ్</b> • %1$sలోగా పూర్తి అవుతుంది</string>
     <string name="ambient_display_wake_screen_footer"><annotation link="link">ప్రాధాన్యతలు</annotation></string>
     <string name="app_and_notification_dashboard_summary">Assistant, ఇటీవలి యాప్‌లు, ఆటోమేటిక్‌ యాప్‌లు</string>
-    <string name="assist_gesture_enrollment_continue_to_assistant">సహాయకానికి వెళ్లు</string>
+    <string name="assist_gesture_enrollment_continue_to_assistant">Assistantకు వెళ్లు</string>
     <string name="assist_gesture_enrollment_do_it_later">దీనిని తర్వాత చేయి</string>
     <string name="assist_gesture_enrollment_seekbar_light">తేలికగా నొక్కడం</string>
     <string name="assist_gesture_enrollment_seekbar_strong">ఒత్తిడితో నొక్కడం</string>
@@ -34,7 +34,7 @@
     <string name="assist_gesture_squeeze_help_maximum_sensitivity">తేలికగా నొక్కడం</string>
     <string name="assist_gesture_squeeze_help_minimum_sensitivity">ఒత్తిడితో నొక్కడం</string>
     <string name="assist_gesture_squeeze_sensitivity_label">గట్టిగా నొక్కడం యొక్క సున్నితత్వం</string>
-    <string name="assist_gesture_training_enrolling_error_may_cause_falsing">సహాయకం అనుకోకుండా తెరవబడవచ్చు</string>
+    <string name="assist_gesture_training_enrolling_error_may_cause_falsing">Assistant అనుకోకుండా తెరవబడవచ్చు</string>
     <string name="assist_gesture_training_enrolling_error_squeeze_bottom">మీ ఫోన్ దిగువ సగం భాగం గట్టిగా నొక్కండి</string>
     <string name="assist_gesture_training_enrolling_error_squeeze_faster">వేగంగా గట్టిగా నొక్కండి</string>
     <string name="assist_gesture_training_enrolling_error_squeeze_harder">మరింత గట్టిగా నొక్కండి</string>
@@ -46,9 +46,9 @@
     <string name="assist_gesture_training_finished_title">ముగించండి లేదా సర్దుబాటు చేయడం కొనసాగించండి</string>
     <string name="assist_gesture_training_intro_text">ఏ టైములోనైనా Assistantతో మాట్లాడాలంటే, ఫోన్ దిగువ సగ భాగాన్ని త్వరితగతిన గట్టిగా నొక్కి, ఆపై వదలండి</string>
     <string name="assist_gesture_training_intro_title">మీ Assistant కోసం గట్టిగా నొక్కండి</string>
-    <string name="assist_gesture_training_suggestion_summary">సహాయకంతో మాట్లాడండి, కాల్స్‌ను నిశ్శబ్దం చేయండి</string>
-    <string name="assist_gesture_training_suggestion_summary_including_alarms">సహాయకంతో మాట్లాడండి, అలారాలు మరియు కాల్స్‌ను నిశ్శబ్దం చేయండి</string>
-    <string name="assist_gesture_training_suggestion_title">సహాయకం కోసం గట్టిగా నొక్కి, విడుదల చేయండి</string>
+    <string name="assist_gesture_training_suggestion_summary">Assistantతో మాట్లాడండి, కాల్స్‌ను మ్యూట్ చేయండి</string>
+    <string name="assist_gesture_training_suggestion_summary_including_alarms">Assistantతో మాట్లాడండి, అలారాలు మరియు కాల్స్‌ను మ్యూట్ చేయండి</string>
+    <string name="assist_gesture_training_suggestion_title">Assistant కోసం గట్టిగా నొక్కి, విడుదల చేయండి</string>
     <string name="automatic_storage_manager_activation_warning">మీరు కనెక్ట్ అయ్యి ఉన్నప్పుడు, ఫోటోలు, వీడియోలను ఇప్పటికీ మీరు బ్యాకప్ చేయడానికి ఎంచుకున్న క్వాలిటీలో యాక్సెస్ చేయవచ్చు</string>
     <string name="automatic_storage_manager_days_title">బ్యాకప్ చేసిన ఫోటోలు &amp; వీడియోలను తీసివేయి</string>
     <string name="automatic_storage_manager_deactivation_warning">"స్మార్ట్ నిల్వను ఆఫ్ చేయాలా? 
@@ -78,9 +78,9 @@
     <string name="backup_suggestion_get_started">మరింత తెలుసుకోండి</string>
     <string name="backup_suggestion_item_summary">Android లేదా iPhone® పరికరం నుండి కాపీ చేయండి</string>
     <string name="backup_suggestion_item_title">పాత ఫోన్ డేటా కనిపించలేదా?</string>
-    <string name="backup_suggestion_missing_description">"SMS మెసేజ్‌లు మరియు ఫోటోల వంటి మీ డేటా కనిపించకుంటే, మీరు కేబుల్‌ని ఉపయోగించి వాటిని మీ Pixelకు బదిలీ చేయవచ్చు.
+    <string name="backup_suggestion_missing_description">"SMS మెసేజ్‌లు, ఫోటోల వంటి మీ డేటా కనిపించకపోతే, మీరు కేబుల్‌ను ఉపయోగించి వాటిని మీ Pixelకు బదిలీ చేయవచ్చు.
 
-ప్రారంభించాలంటే, మీ Pixelని రీసెట్ చేయాలి. అనుకూలీకరించబడిన సెట్టింగ్‌లు మరియు క్లౌడ్‌కి సమకాలీకరించని కంటెంట్‌తో సహా ఈ ఫోన్‌లో ఉన్న డేటా మొత్తం తొలగించబడుతుంది."</string>
+ప్రారంభించడానికి, మీ Pixelను రీసెట్ చేయాలి. అనుకూలీకరించబడిన సెట్టింగ్‌లు, క్లౌడ్‌కు సింక్ చేయని కంటెంట్‌తో సహా ఈ ఫోన్‌లో ఉన్న డేటా మొత్తం తొలగించబడుతుంది."</string>
     <string name="backup_suggestion_missing_title">మీ డేటా కనిపించడం లేదా?</string>
     <string name="backup_suggestion_next">తర్వాత</string>
     <string name="backup_suggestion_other_ways_to_copy">డేటాను కాపీ చేయడానికి ఇతర మార్గాలు</string>
@@ -142,11 +142,17 @@
     <string name="columbus_setting_app_shortcut_selection_help_text">మీరు క్విక్ ట్యాప్‌ను ఉపయోగించి ఈ యాప్‌ను తెరిచినప్పుడు ఏమి జరుగుతుందో ఎంచుకోండి.</string>
     <string name="columbus_setting_enable_switch_title">క్విక్ ట్యాప్‌ను ఉపయోగించండి</string>
     <string name="columbus_setting_sensitivity_title">గట్టిగా ట్యాప్ చేయడం అవసరం</string>
+    <string name="connectivity_helper_call_quality_category">కాల్ క్వాలిటీ</string>
+    <string name="connectivity_helper_call_quality_summary">కాల్స్‌లో ఉన్నప్పుడు, కనెక్షన్‌కు సంబంధించిన సమస్యల గురించి నోటిఫికేషన్‌ను పొందండి</string>
+    <string name="connectivity_helper_call_quality_title">నోటిఫికేషన్‌లను పొందండి</string>
+    <string name="connectivity_helper_d2d_summary">కాల్స్‌లో ఉన్నప్పుడు, మీ ఫోన్‌కు కనెక్షన్ సమస్యలు ఉన్నప్పుడు ఇతర వ్యక్తికి తెలియజేయండి</string>
+    <string name="connectivity_helper_d2d_title">కనెక్షన్ సమాచారం షేర్ చేయండి</string>
+    <string name="connectivity_helper_footnote">ఇతర కాలర్ సపోర్ట్ చేసే పరికరం, నెట్‌వర్క్‌ను ఉపయోగిస్తున్నప్పుడు మీరు కనెక్షన్ సమాచారాన్ని షేర్ చేయవచ్చు</string>
     <string name="content_capture">యాప్ డేటాని ఉపయోగించుకోవడాన్ని వ్యక్తిగతీకరించు</string>
     <string name="copy_toast_msg">క్లిప్‌బోర్డ్‌కు లింక్ కాపీ చేయబడింది</string>
     <string name="dark_ui_text">మీ బ్యాటరీ ఎక్కువ సేపు పని చేయడానికి ముదురు రంగు థీమ్ నలుపు బ్యాక్‌గ్రౌండ్‌ను ఉపయోగిస్తుంది. ముదురు రంగు థీమ్, మీ స్క్రీన్ ఆఫ్ అయ్యే వరకు వేచి ఉండాల్సిన సమయాన్ని షెడ్యూల్ చేస్తుంది.</string>
     <string name="dock_summary_charging_phone">ఫోన్‌ని చార్జ్ చేస్తోంది</string>
-    <string name="double_twist_for_camera_mode_summary">Google కెమెరాలో సెల్ఫీ మోడ్‌లోకి స్విచ్ అవడానికి, నిష్క్రమించడానికి, మీరు యాప్ ఉపయోగించేటప్పుడు ఫోన్ పట్టుకున్న చేతిని రెండుసార్లు అటుఇటూ కదపండి.</string>
+    <string name="double_twist_for_camera_mode_summary">Google Cameraలో సెల్ఫీ మోడ్‌లోకి స్విచ్ అవడానికి, నిష్క్రమించడానికి, మీరు యాప్ ఉపయోగించేటప్పుడు ఫోన్ పట్టుకున్న చేతిని రెండుసార్లు అటుఇటూ కదపండి.</string>
     <string name="downloads_backup_text">డౌన్‌లోడ్ చేసిన ఫైళ్లు Google డిస్క్‌కు బ్యాకప్ చేయబడతాయి</string>
     <string name="duration_less_than_one_minute">1 నిమిషం కంటే తక్కువ</string>
     <string name="extra_app_info_label">గేమ్ ఆప్టిమైజేషన్</string>
@@ -172,11 +178,11 @@
     <string name="fallback_menu_item_copy_link">లింక్‌ను కాపీ చేయి</string>
     <string name="fallback_menu_item_open_in_browser">బ్రౌజర్‌లో తెరువు</string>
     <string name="fallback_menu_item_share_link">లింక్‌ను షేర్ చేయి</string>
-    <string name="fullbackup_data_summary">"డివైజ్ డేటా (Wi-Fi పాస్‌వర్డ్‌లు, కాల్ హిస్టరీ వంటివి), యాప్ డేటాను (సెట్టింగ్‌లు, యాప్‌ల ద్వారా నిల్వ చేయబడిన ఫైళ్ల వంటివి) Google Driveకు ఆటోమేటిక్‌గా బ్యాకప్ చేస్తుంది.
+    <string name="fullbackup_data_summary">"డివైజ్ డేటాను (Wi-Fi పాస్‌వర్డ్‌లు, కాల్ హిస్టరీ వంటివి), యాప్ డేటాను (సెట్టింగ్‌లు, యాప్‌ల ద్వారా స్టోర్ చేయబడిన ఫైళ్ల వంటివి) Google Driveకు ఆటోమేటిక్‌గా బ్యాకప్ చేస్తుంది.
 
-మీరు స్వీయ బ్యాకప్‌ను ఆన్ చేసినప్పుడు, డివైజ్ మరియు యాప్ డేటా కాలానుగుణంగా Google Driveలో ప్రైవేట్ ఫోల్డర్‌కు సేవ్ చేయబడుతుంది. కాంటాక్ట్‌లు, మెసేజ్‌లు, ఫోటోల వంటి గోప్యమైన డేటాతో సహా యాప్ సేవ్ చేసిన (డెవలపర్ సెట్టింగ్‌ల ఆధారంగా) ఎలాంటి డేటా అయినా యాప్ డేటాగా పరిగణించబడుతుంది.
+మీరు ఆటోమేటిక్ బ్యాకప్‌ను ఆన్ చేసినప్పుడు, డివైజ్, యాప్ డేటా కాలానుగుణంగా Google Driveలో ప్రైవేట్ ఫోల్డర్‌కు సేవ్ చేయబడుతుంది. కాంటాక్ట్‌లు, మెసేజ్‌లు, ఫోటోల వంటి గోప్యమైనది కావడానికి అవకాశం ఉన్న డేటాతో సహా యాప్ సేవ్ చేసిన (డెవలపర్ సెట్టింగ్‌ల ఆధారంగా) ఎలాంటి డేటా అయినా యాప్ డేటాగా పరిగణించబడుతుంది.
 
-బ్యాకప్ డేటా మీ Drive స్టోరేజీ కోటాలో లెక్కించబడదు. పెద్ద ఫైళ్లు, అలాగే డెవలపర్‌లు ఈ సర్వీస్ నుండి మినహాయించాలని ఎంచుకున్న ఫైళ్లు బ్యాకప్ చేయబడవు."</string>
+బ్యాకప్ డేటా మీ Drive స్టోరేజీ కోటాలో లెక్కించబడదు. పెద్ద ఫైళ్లు, లేదా డెవలపర్‌లు ఈ సర్వీస్ నుండి మినహాయించాలని ఎంచుకున్న ఫైళ్లు బ్యాకప్ చేయబడవు."</string>
     <string name="fullbackup_erase_dialog_message">పరికర డేటా (Wi-Fi పాస్‌వర్డ్‌లు మరియు కాల్ చరిత్ర వంటివి) మరియు యాప్‌ డేటాను (సెట్టింగ్‌లు మరియు యాప్‌ల ద్వారా నిల్వ చేయబడిన ఫైళ్లు వంటివి) బ్యాకప్ చేయడం ఆపివేసి, Google డిస్క్‌లోని అన్ని కాపీలను తీసివేయాలా?</string>
     <string name="game_dashboard_always_on_summary">గేమ్‌లలో గేమ్ డ్యాష్‌బోర్డ్ షార్ట్‌కట్‌ను చూపించండి</string>
     <string name="game_dashboard_always_on_title">గేమ్ డ్యాష్‌బోర్డ్</string>
@@ -201,10 +207,10 @@
     <string name="global_actions_panel_short_title">కార్డ్‌లు &amp; పాస్‌లు</string>
     <string name="global_actions_panel_summary">మీ చెల్లింపు పద్ధతులు, బోర్డ్ పాస్‌లు వంటి వాటిని యాక్సెస్ చేయడానికి పవర్ బటన్‌ను నొక్కి, పట్టుకోండి.</string>
     <string name="global_actions_panel_title">కార్యక్రమం కార్డ్‌లు &amp; పాస్‌లు</string>
-    <string name="install_unknown_applications">Play స్టోర్ కాకుండా ఇతర మూలాల నుండి యాప్‌ల ఇన్‌స్టాలేషన్‌ను అనుమతించండి</string>
+    <string name="install_unknown_applications">Play Store కాకుండా ఇతర మూలాల నుండి యాప్‌ల ఇన్‌స్టాలేషన్‌ను అనుమతించండి</string>
     <string name="keywords_accessibility_menu">మోటార్, త్వరిత మెనూ, సహాయక మెనూ, టచ్, సామర్థ్యము</string>
     <string name="keywords_adaptive_charging">ఛార్జ్, ఛార్జింగ్, స్మార్ట్ ఛార్జింగ్, అనుకూల ఛార్జింగ్, బ్యాటరీ, బ్యాటరీ సామర్థ్యం</string>
-    <string name="keywords_assist_gesture_launch">సంజ్ఞ, అంచు, పక్కన, active edge, గట్టిగా నొక్కండి, గ్రిప్, సహాయం, సహాయకం, గట్టిగా నొక్కండి, ok google, Google సహాయకం</string>
+    <string name="keywords_assist_gesture_launch">సంజ్ఞ, edge, పక్కన, active edge, గట్టిగా నొక్కండి, గ్రిప్, సహాయం, Assistant, గట్టిగా నొక్కండి, ok google, Google Assistant</string>
     <string name="keywords_assist_gesture_silence">సంజ్ఞ, అంచు, పక్కన, active edge, నిశ్శబ్దం, తాత్కాలిక ఆపివేత, అలారం, ఇన్‌కమింగ్ కాల్, నిశ్శబ్దం, ప్రదర్శన, లాక్‌స్క్రీన్, గట్టిగా నొక్కండి, గ్రిప్, ఆపివేయి</string>
     <string name="keywords_assist_gesture_wake">సంజ్ఞ, అంచు, పక్కన, active edge, సక్రియపరుచు, నోటిఫికేషన్‌లు, స్క్రీన్, ప్రదర్శన, స్క్రీన్ ఆఫ్, స్క్రీన్ ఆన్, గట్టిగా నొక్కండి, నిద్రావస్థలోకి వెళ్లు, స్లీప్, గ్రిప్</string>
     <string name="keywords_battery_share">బ్యాటరీ షేరింగ్, వైర్‌లెస్ ఛార్జింగ్</string>
@@ -222,7 +228,7 @@
     <string name="keywords_voice_access">వాయిస్, వాయిస్ కంట్రోల్, మోటార్, చేయి, మైక్, మైక్రోఫోన్, డిక్టేషన్, టాక్, కంట్రోల్</string>
     <string name="language_input_gesture_summary_off">Active Edge ఆఫ్ చేయబడింది</string>
     <string name="language_input_gesture_summary_on_non_assist">Active Edge ఆన్ చేయబడింది</string>
-    <string name="language_input_gesture_summary_on_with_assist">Active Edge ఆన్‌లో ఉంది, మీ సహాయకం కోసం గట్టిగా నొక్కండి</string>
+    <string name="language_input_gesture_summary_on_with_assist">Active Edge ఆన్‌లో ఉంది, మీ Assistant కోసం గట్టిగా నొక్కండి</string>
     <string name="me_card_title">నా Pixel</string>
     <string name="my_device_info_account_preference_title">Google ఖాతా</string>
     <string name="owner_info_settings_edit_text_hint">ఉదా. జో యొక్క Pixel.</string>
@@ -311,6 +317,7 @@ g.co/pixel/faceunlockలో మరింత తెలుసుకోండి."<
     <string name="security_settings_face_enroll_too_hot_title">ఫోన్ చాలా వేడిగా ఉంది</string>
     <string name="security_settings_fingerprint_preference_summary_none">వేలిముద్రను సెటప్ చేయడానికి నొక్కండి</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">g.co/pixel/fingerprintunlockలో మరింత తెలుసుకోండి.</string>
+    <string name="security_settings_work_fingerprint_preference_title">ఆఫీస్ కోసం Pixel Imprint</string>
     <string name="setup_suggestion_summary">డేటా కాపీ, మీ ఫోన్‌తో పేమెంట్ చేయడం మొ. చేయండి</string>
     <string name="setup_suggestion_title">సెటప్‌ను ముగించండి</string>
     <string name="smart_battery_footer">బ్యాటరీ జీవితకాలాన్ని పొడిగించడానికి, అనుకూల బ్యాటరీ అనేది బ్యాక్‌గ్రౌండ్ యాక్టివిటీతో పాటు పనితీరును తగ్గించవచ్చు. కొన్ని నోటిఫికేషన్‌లు రావడం ఆలస్యం కావచ్చు.</string>

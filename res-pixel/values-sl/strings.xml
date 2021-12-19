@@ -141,6 +141,12 @@ Ko je telefon ponastavljen, izvedite postopek nastavitve in izberite možnost za
     <string name="columbus_setting_app_shortcut_selection_help_text">Izberite, katero dejanje se izvede, ko to aplikacijo odprete s hitrim dotikom.</string>
     <string name="columbus_setting_enable_switch_title">Uporabi hitri dotik</string>
     <string name="columbus_setting_sensitivity_title">Uporaba močnejših dotikov</string>
+    <string name="connectivity_helper_call_quality_category">Kakovost klica</string>
+    <string name="connectivity_helper_call_quality_summary">Bodite obveščeni o vzrokih težav s povezavo med klici.</string>
+    <string name="connectivity_helper_call_quality_title">Prejemanje obvestil</string>
+    <string name="connectivity_helper_d2d_summary">Obvestite sogovornika, ko ima vaš telefon težave s povezavo med klici.</string>
+    <string name="connectivity_helper_d2d_title">Deljenje podatkov o povezavi</string>
+    <string name="connectivity_helper_footnote">Podatke o povezavi lahko delite, kadar sogovornik uporablja podprto napravo in omrežje.</string>
     <string name="content_capture">Individualno prilagajanje z uporabo podatkov aplikacij</string>
     <string name="copy_toast_msg">Povezava je kopirana v odložišče</string>
     <string name="dark_ui_text">Temna tema s črnim ozadjem podaljša čas delovanja baterije. Razporedi temne teme z vklopom počakajo, dokler se zaslon ne izklopi.</string>
@@ -312,6 +318,7 @@ Ko uporabljate odklepanje z obrazom, se model obraza posodablja s slikami iz teh
     <string name="security_settings_fingerprint_enroll_find_sensor_message">Najdete ga na hrbtni strani telefona. Uporabite kazalec.</string>
     <string name="security_settings_fingerprint_preference_summary_none">Dotaknite se, da nastavite prstni odtis.</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Preberite več o tem na g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint za službo</string>
     <string name="setup_suggestion_summary">Kopirajte podatke, plačujte s telefonom in drugo.</string>
     <string name="setup_suggestion_title">Dokončajte nastavitev</string>
     <string name="smart_battery_footer">Prilagodljivo varčevanje z energijo baterije lahko zmanjša zmogljivost in dejavnost v ozadju, da podaljša čas delovanja baterije. Nekatera obvestila bodo morda zakasnjena.</string>

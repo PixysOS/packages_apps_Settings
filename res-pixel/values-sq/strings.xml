@@ -141,6 +141,12 @@ Pasi të rivendoset, kryej procesin e konfigurimit dhe zgjidh t'i kopjosh të dh
     <string name="columbus_setting_app_shortcut_selection_help_text">Zgjidh se çfarë ndodh kur e hap këtë aplikacion duke përdorur \"Trokitjen e shpejtë\".</string>
     <string name="columbus_setting_enable_switch_title">Përdor \"Trokitjen e shpejtë\"</string>
     <string name="columbus_setting_sensitivity_title">Kërko trokitje më të forta</string>
+    <string name="connectivity_helper_call_quality_category">Cilësia e telefonatës</string>
+    <string name="connectivity_helper_call_quality_summary">Merr njoftime për shkaqet e problemeve me lidhjen gjatë telefonatave</string>
+    <string name="connectivity_helper_call_quality_title">Merr njoftime</string>
+    <string name="connectivity_helper_d2d_summary">Njoftoje personin tjetër kur telefoni yt ka probleme me lidhjen gjatë telefonatave</string>
+    <string name="connectivity_helper_d2d_title">Shpërndaj informacionin e lidhjes</string>
+    <string name="connectivity_helper_footnote">Nuk mund ta shpërndash informacionin e lidhjes kur telefonuesi tjetër është duke përdorur një pajisje dhe rrjet të mbështetur</string>
     <string name="content_capture">Personalizo duke përdorur të dhënat e aplikacioneve</string>
     <string name="copy_toast_msg">Lidhja u kopjua në kujtesën e fragmenteve</string>
     <string name="dock_summary_charging_phone">Telefoni po karikohet</string>
@@ -313,6 +319,7 @@ Për të përmirësuar cilësinë e funksionimit, mund ta konfigurosh \"Shkyçje
     <string name="security_settings_face_enroll_too_hot_title">Telefoni është tepër i nxehtë</string>
     <string name="security_settings_fingerprint_preference_summary_none">Trokit për të konfiguruar gjurmën e gishtit</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Mëso më shumë te g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint për punën</string>
     <string name="setup_suggestion_summary">Kopjo të dhënat, paguaj me telefonin tënd etj.</string>
     <string name="setup_suggestion_title">Përfundo konfigurimin</string>
     <string name="smart_battery_footer">Për të rritur kohëzgjatjen e baterisë, \"Bateria me përshtatje\" mund të reduktojë cilësinë e funksionimit dhe aktivitetin në sfond. Disa njoftime mund të vonohen.</string>

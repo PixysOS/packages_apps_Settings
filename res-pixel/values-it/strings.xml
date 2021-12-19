@@ -142,6 +142,12 @@ Una volta reimpostato, segui la procedura di configurazione e scegli di importar
     <string name="columbus_setting_app_shortcut_selection_help_text">"Seleziona l'azione da eseguire quando apri questa app usando Tocco rapido."</string>
     <string name="columbus_setting_enable_switch_title">Usa Tocco rapido</string>
     <string name="columbus_setting_sensitivity_title">Richiedi tocchi più decisi</string>
+    <string name="connectivity_helper_call_quality_category">Qualità delle chiamate</string>
+    <string name="connectivity_helper_call_quality_summary">Ricevi notifiche sulle cause dei problemi di connessione durante le chiamate</string>
+    <string name="connectivity_helper_call_quality_title">Ricevi notifiche</string>
+    <string name="connectivity_helper_d2d_summary">"Comunica all'altra persona quando il tuo telefono ha problemi di connessione durante le chiamate"</string>
+    <string name="connectivity_helper_d2d_title">Condividi info sulla connessione</string>
+    <string name="connectivity_helper_footnote">"Quando l'altra persona utilizza un dispositivo e una rete supportati, puoi condividere informazioni sulla connessione"</string>
     <string name="content_capture">Personalizza con i dati delle app</string>
     <string name="copy_toast_msg">Link copiato negli appunti</string>
     <string name="dark_ui_text">Il tema scuro usa uno sfondo nero per aumentare la durata della batteria. Le pianificazioni del tema scuro non si attivano finché lo schermo non viene spento.</string>
@@ -314,6 +320,7 @@ Per migliorare le prestazioni, puoi riconfigurare lo sblocco con il volto nelle 
     <string name="security_settings_face_enroll_too_hot_title">Il telefono è troppo caldo</string>
     <string name="security_settings_fingerprint_preference_summary_none">"Tocca per configurare l'impronta"</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">"Scopri di più all'indirizzo g.co/pixel/fingerprintunlock."</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint per il profilo di lavoro</string>
     <string name="setup_suggestion_summary">Copia dati, paga con il telefono e altro</string>
     <string name="setup_suggestion_title">Completa la configurazione</string>
     <string name="smart_battery_footer">"Per prolungare la durata della batteria, la funzionalità Batteria adattiva potrebbe ridurre le prestazioni e l'attività in background. Alcune notifiche potrebbero subire dei ritardi."</string>

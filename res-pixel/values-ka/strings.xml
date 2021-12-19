@@ -142,6 +142,12 @@
     <string name="columbus_setting_app_shortcut_selection_help_text">აირჩიეთ, რა მოხდეს, როცა აპს „სწრაფი შეხებით“ გახსნით.</string>
     <string name="columbus_setting_enable_switch_title">„სწრაფი შეხების“ გამოყენება</string>
     <string name="columbus_setting_sensitivity_title">უფრო ძლიერად შეხების მოთხოვნა</string>
+    <string name="connectivity_helper_call_quality_category">ზარის ხარისხი</string>
+    <string name="connectivity_helper_call_quality_summary">მიიღეთ შეტყობინებები ზარების განმავლობაში კავშირის პრობლემების მიზეზების შესახებ</string>
+    <string name="connectivity_helper_call_quality_title">შეტყობინებების მიღება</string>
+    <string name="connectivity_helper_d2d_summary">შეატყობინეთ თანამოსაუბრეს, როდესაც თქვენს ტელეფონს ზარის განმავლობაში კავშირის პრობლემები აქვს</string>
+    <string name="connectivity_helper_d2d_title">კავშირის ინფორმაციის გაზიარება</string>
+    <string name="connectivity_helper_footnote">შეგიძლიათ, თანამოსაუბრეს გაუზიაროთ კავშირის ინფორმაცია, როდესაც ის მხარდაჭერილი მოწყობილობით და ქსელით სარგებლობს</string>
     <string name="content_capture">პერსონალიზება აპების მონაცემების გამოყენებით</string>
     <string name="copy_toast_msg">გაცვლის ბუფერში კოპირებული ბმული</string>
     <string name="dark_ui_text">მუქი თემა იყენებს შავ ფონს იმისთვის, რომ თქვენმა ბატარეამ დიდხანს გაძლოს. მუქი თემა აყენებს ჩართვის განრიგს სანამ თქვენი ეკრანი გამორთულია.</string>
@@ -311,6 +317,7 @@
     <string name="security_settings_face_enroll_too_hot_title">ტელეფონი გადახურებულია</string>
     <string name="security_settings_fingerprint_preference_summary_none">შეეხეთ თითის ანაბეჭდის დასაყენებლად</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">შეიტყვეთ მეტი ბმულზე g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint სამსახურისთვის</string>
     <string name="setup_suggestion_summary">მონაცემთა კოპირება, ტელეფონით გადახდა და სხვა</string>
     <string name="setup_suggestion_title">დაასრულეთ დაყენება</string>
     <string name="smart_battery_footer">ბატარეის მუშაობის გასახანგრძლივებლად ადაპტაციურმა ბატარეამ, შესაძლოა, შეამციროს ეფექტურობა და ფონური აქტივობა. გარკვეული შეტყობინებები, შესაძლოა, დაგვიანდეს.</string>

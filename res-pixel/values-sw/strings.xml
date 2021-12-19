@@ -141,6 +141,12 @@ Baada ya kubadilisha mipangilio, kagua mchakato wa kuweka mipangilio na uchague 
     <string name="columbus_setting_app_shortcut_selection_help_text">Chagua kinachofanyika unapofungua programu hii ukitumia kipengele cha Kugusa Haraka.</string>
     <string name="columbus_setting_enable_switch_title">Tumia kipengele cha Kugusa Haraka</string>
     <string name="columbus_setting_sensitivity_title">Inahitaji uguse kwa nguvu</string>
+    <string name="connectivity_helper_call_quality_category">Ubora wa kupiga simu</string>
+    <string name="connectivity_helper_call_quality_summary">Pokea arifa kuhusu vyanzo vya hitilafu za muunganisho wakati wa kupiga simu</string>
+    <string name="connectivity_helper_call_quality_title">Pokea arifa</string>
+    <string name="connectivity_helper_d2d_summary">Mwarifu unayezungumza naye simu yako inapokuwa na hitilafu za muunganisho wakati wa kupiga simu</string>
+    <string name="connectivity_helper_d2d_title">Shiriki maelezo ya muunganisho</string>
+    <string name="connectivity_helper_footnote">Unaweza kushiriki maelezo ya muunganisho wakati anayekupigia anatumia kifaa na mtandao unaoweza kutumika</string>
     <string name="content_capture">Weka mapendeleo ukitumia data ya programu</string>
     <string name="copy_toast_msg">Imenakili kiungo kwenye ubao wa kunakili</string>
     <string name="dark_ui_text">Mandhari meusi hutumia mandharinyuma meusi ili kuboresha muda wa matumizi ya betri. Ratiba za Mandhari meusi hujiwasha hadi skrini ya simu yako inapozima.</string>
@@ -312,6 +318,7 @@ Ili uboreshe utendaji, unaweza kuweka tena mipangilio ya Kufungua kwa uso katika
     <string name="security_settings_face_enroll_too_hot_title">Simu ina joto sana</string>
     <string name="security_settings_fingerprint_preference_summary_none">Gusa ili uweke mipangilio ya alama ya kidole</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Pata maelezo zaidi kwenye g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint kwenye wasifu wa kazini</string>
     <string name="setup_suggestion_summary">Nakili data, lipa kwa simu yako na zaidi</string>
     <string name="setup_suggestion_title">Maliza kuweka mipangilio</string>
     <string name="smart_battery_footer">Ili uboreshe muda wa matumizi ya betri, kipengele cha Betri Inayojirekebisha kinaweza kupunguza utendaji na shughuli za chinichini. Huenda baadhi ya arifa zikachelewa.</string>

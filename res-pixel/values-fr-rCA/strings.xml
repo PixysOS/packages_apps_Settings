@@ -142,6 +142,12 @@ Une fois qu'il est réinitialisé, suivez le processus de configuration et chois
     <string name="columbus_setting_app_shortcut_selection_help_text">"Sélectionnez l'action à effectuer quand vous ouvrez cette application avec le double toucher."</string>
     <string name="columbus_setting_enable_switch_title">Utiliser le double toucher</string>
     <string name="columbus_setting_sensitivity_title">Touchez plus fort</string>
+    <string name="connectivity_helper_call_quality_category">"Qualité de l'appel"</string>
+    <string name="connectivity_helper_call_quality_summary">Recevez des notifications relatives aux causes des problèmes de connexion pendant les appels</string>
+    <string name="connectivity_helper_call_quality_title">Recevoir des notifications</string>
+    <string name="connectivity_helper_d2d_summary">"Envoyez une notification à l'autre personne lorsque votre téléphone éprouve des problèmes de connexion pendant les appels"</string>
+    <string name="connectivity_helper_d2d_title">"Partager l'info de la connexion"</string>
+    <string name="connectivity_helper_footnote">"Vous pouvez partager les informations relatives à la connexion lorsque l'autre appelant utilise un appareil et un réseau compatibles"</string>
     <string name="content_capture">"Personnalisation à l'aide des données des applications"</string>
     <string name="copy_toast_msg">Lien copié dans le presse-papiers</string>
     <string name="dark_ui_text">"Le thème sombre utilise un arrière-plan noir pour contribuer à prolonger l'autonomie de votre pile. Les horaires du thème sombre attendent que votre écran soit éteint pour s'activer."</string>
@@ -174,9 +180,9 @@ Une fois qu'il est réinitialisé, suivez le processus de configuration et chois
     <string name="fallback_menu_item_share_link">Partager le lien</string>
     <string name="fullbackup_data_summary">"Sauvegardez automatiquement les données de l'appareil (comme les mots de passe Wi-Fi et l'historique des appels) et celles des applications (telles que les paramètres et les fichiers enregistrés par ces applications) sur Google Disque.
 
-Lorsque vous activez la sauvegarde automatique, les données de l'appareil et des applications sont enregistrées régulièrement dans un dossier privé sur Google Disque. Les données d'applications correspondent à toutes les données enregistrées par une application (en fonction des paramètres que le concepteur définit), y compris les données potentiellement confidentielles comme les contacts, les messages et les photos.
+Lorsque vous activez la sauvegarde automatique, les données de l'appareil et des applications sont enregistrées régulièrement dans un dossier privé sur Google Disque. Les données d'applications correspondent à toutes les données enregistrées par une application (en fonction des paramètres que le développeur définit), y compris les données potentiellement confidentielles comme les contacts, les messages et les photos.
 
-Les données de sauvegarde ne sont pas prises en compte dans le quota de stockage de Google Disque. Les fichiers volumineux ou ceux que les concepteurs ont choisi d'exclure du service ne sont pas sauvegardés."</string>
+Les données de sauvegarde ne sont pas prises en compte dans le quota de stockage de Google Disque. Les fichiers volumineux ou ceux que les développeurs ont choisi d'exclure du service ne sont pas sauvegardés."</string>
     <string name="fullbackup_erase_dialog_message">"Voulez-vous vraiment arrêter de sauvegarder les données de l'appareil (comme les mots de passe Wi-Fi et l'historique des appels) et celles des applications (telles que les paramètres et les fichiers enregistrés par ces applications), et en effacer toutes les copies sur Google Disque?"</string>
     <string name="game_dashboard_always_on_summary">Afficher le raccourci vers le tableau de bord de jeu dans les jeux</string>
     <string name="game_dashboard_always_on_title">Tableau de bord de jeu</string>
@@ -237,7 +243,7 @@ La pile de votre téléphone s'épuisera plus vite si vous utilisez cette foncti
     <string name="reverse_charging_detail_unplug_usb_cable_message">"Le partage de la pile n'est pas accessible parce qu'un appareil USB-C est branché"</string>
     <string name="reverse_charging_instructions_title">"Rechargez d'autres appareils avec votre Pixel.
 Retournez votre appareil pour essayer."</string>
-    <string name="reverse_charging_is_off_summary">Désactivée</string>
+    <string name="reverse_charging_is_off_summary">Désactivé</string>
     <string name="reverse_charging_is_on_and_charging_summary">Partage et recharge de la pile</string>
     <string name="reverse_charging_is_on_and_discharging_summary">Partage de la pile</string>
     <string name="reverse_charging_is_on_summary">"Activé : permet de recharger d'autres appareils"</string>
@@ -309,8 +315,9 @@ Pour améliorer la performance, vous pouvez configurer le déverrouillage par re
     <string name="security_settings_face_enroll_too_hot_message">"La configuration du déverrouillage par reconnaissance faciale n'a pas pu être terminée parce que le téléphone est trop chaud. Réessayez plus tard quand le téléphone aura refroidi."</string>
     <string name="security_settings_face_enroll_too_hot_skip_face_unlock">Ignorer cette étape de config.</string>
     <string name="security_settings_face_enroll_too_hot_title">Le téléphone est trop chaud</string>
-    <string name="security_settings_fingerprint_preference_summary_none">Toucher pour configurer les empreintes digitales</string>
+    <string name="security_settings_fingerprint_preference_summary_none">Touchez pour configurer les empreintes digitales</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Apprenez-en plus à la page g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint pour le travail</string>
     <string name="setup_suggestion_summary">Copiez des données, payez avec votre téléphone et plus</string>
     <string name="setup_suggestion_title">Terminer la configuration</string>
     <string name="smart_battery_footer">"Pour prolonger l'autonomie de la pile, le gestionnaire de pile adaptatif peut réduire la performance ou l'activité en arrière-plan. Certaines notifications pourraient s'afficher plus tard."</string>

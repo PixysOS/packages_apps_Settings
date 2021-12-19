@@ -142,6 +142,12 @@ Quan s'hagi restablert, completa el procés de configuració i tria copiar les d
     <string name="columbus_setting_app_shortcut_selection_help_text">Tria què passa quan obres aquesta aplicació amb Toc ràpid.</string>
     <string name="columbus_setting_enable_switch_title">Utilitza Toc ràpid</string>
     <string name="columbus_setting_sensitivity_title">Requereix tocs més forts</string>
+    <string name="connectivity_helper_call_quality_category">Qualitat de la trucada</string>
+    <string name="connectivity_helper_call_quality_summary">Obtén notificacions sobre les causes dels problemes de connexió durant les trucades</string>
+    <string name="connectivity_helper_call_quality_title">Rep notificacions</string>
+    <string name="connectivity_helper_d2d_summary">"Notifica l'altra persona quan el teu telèfon tingui problemes de connexió durant les trucades"</string>
+    <string name="connectivity_helper_d2d_title">Comparteix informació de connexió</string>
+    <string name="connectivity_helper_footnote">Pots compartir la informació sobre la connexió si la persona amb qui parles utilitza un dispositiu i una xarxa compatibles</string>
     <string name="content_capture">"Personalitza amb dades d'aplicacions"</string>
     <string name="copy_toast_msg">"S'ha copiat l'enllaç al porta-retalls"</string>
     <string name="dark_ui_text">"El tema fosc utilitza un fons negre perquè la bateria duri més. Si el programes, no s'activarà fins que la pantalla estigui apagada."</string>
@@ -315,6 +321,7 @@ Per millorar-ne el rendiment, pots tornar a configurar Desbloqueig facial a Conf
     <string name="security_settings_face_enroll_too_hot_title">El telèfon està massa calent</string>
     <string name="security_settings_fingerprint_preference_summary_none">"Toca per configurar l'empremta digital"</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Obtén més informació a g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint per a la feina</string>
     <string name="setup_suggestion_summary">Copia dades, paga amb el telèfon i més</string>
     <string name="setup_suggestion_title">Finalitza la configuració</string>
     <string name="smart_battery_footer">"Per allargar la durada de la bateria, la funció Bateria adaptativa pot reduir el rendiment i l'activitat en segon pla. És possible que algunes notificacions arribin amb retard."</string>

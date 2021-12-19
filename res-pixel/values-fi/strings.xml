@@ -142,6 +142,12 @@ Kun palautus on valmis, määritä laite uudelleen ja valitse tietojen tuominen 
     <string name="columbus_setting_app_shortcut_selection_help_text">Valitse, mitä tapahtuu, kun tämä sovellus avataan pikanäpäytyksellä.</string>
     <string name="columbus_setting_enable_switch_title">Käytä pikanäpäytystä</string>
     <string name="columbus_setting_sensitivity_title">Vaadi voimakkaampia napautuksia</string>
+    <string name="connectivity_helper_call_quality_category">Puhelun laatu</string>
+    <string name="connectivity_helper_call_quality_summary">Näe ilmoituksia yhteysongelmien syistä puheluiden aikana</string>
+    <string name="connectivity_helper_call_quality_title">Tilaa ilmoitukset</string>
+    <string name="connectivity_helper_d2d_summary">Ilmoita toiselle osapuolelle, kun puhelimessa on yhteysongelmia puheluiden aikana</string>
+    <string name="connectivity_helper_d2d_title">Jaa yhteyden tiedot</string>
+    <string name="connectivity_helper_footnote">Voit jakaa yhteyden tiedot, kun toinen osapuoli käyttää tuettua laitetta ja verkkoa</string>
     <string name="content_capture">Personoi sovellusdatan perusteella</string>
     <string name="copy_toast_msg">Linkki kopioitu leikepöydälle</string>
     <string name="dark_ui_text">Tumman teeman musta tausta auttaa pidentämään akunkestoa. Tumman teeman aikataulut otetaan käyttöön vasta, kun näyttö on sammutettu.</string>
@@ -313,6 +319,7 @@ Voit parantaa kasvojentunnistusavauksen toimintaa ottamalla sen käyttöön uude
     <string name="security_settings_face_enroll_too_hot_title">Puhelin on liian kuuma</string>
     <string name="security_settings_fingerprint_preference_summary_none">Määritä sormenjälki koskettamalla</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Lue lisää: g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint työkäyttöön</string>
     <string name="setup_suggestion_summary">Kopioi dataa, maksa puhelimella ja muuta</string>
     <string name="setup_suggestion_title">Viimeistele käyttöönotto</string>
     <string name="smart_battery_footer">Mukautuva virta voi pidentää akun kestoa rajoittamalla suorituskykyä ja taustatoimintaa. Osa ilmoituksista voi näkyä viiveellä.</string>

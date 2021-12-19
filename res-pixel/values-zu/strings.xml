@@ -142,6 +142,12 @@ Uma isetha kabusha, dlula kunqubo yokusetha uphinde ukhethe ukuletha idatha yakh
     <string name="columbus_setting_app_shortcut_selection_help_text">Khetha ukuthi kwenzekani lapho uvula le app usebenzisa Ukuthepha Okusheshayo.</string>
     <string name="columbus_setting_enable_switch_title">Sebenzisa Ukuthepha Okusheshayo</string>
     <string name="columbus_setting_sensitivity_title">Idinga ukuthepha okunamandla</string>
+    <string name="connectivity_helper_call_quality_category">Ikhwalithi yekholi</string>
+    <string name="connectivity_helper_call_quality_summary">Yaziswa ngezimbangela zezinkinga zoxhumo phakathi namakholi</string>
+    <string name="connectivity_helper_call_quality_title">Thola izaziso</string>
+    <string name="connectivity_helper_d2d_summary">Yazisa omunye umuntu uma ifoni yakho inezinkinga zokuxhuma phakathi namakholi</string>
+    <string name="connectivity_helper_d2d_title">Yabelana ngolwazi loxhumo</string>
+    <string name="connectivity_helper_footnote">Ungabelana ngolwazi loxhumo uma omunye oshayayo esebenzisa idivayisi esekelwayo nenethiwekhi</string>
     <string name="content_capture">Yenza ngeziifiso usebenzisa idatha yohlelo lokusebenza</string>
     <string name="copy_toast_msg">Isixhumanisi sikopishelwe ku-clipboard</string>
     <string name="dark_ui_text">Itimu emnyama isebenzisa ingemuva elimnyama ukuze isize ukugcina ibhethri lakho liphilile isikhathi eside. Itimu emnyama ihlelelwe ukulinga ukuvula isikrini sakho size sivale.</string>
@@ -313,6 +319,7 @@ Ukuze uthuthukise ukusebenza, ungasetha futhi Ukuvula ngobuso kokuthi Amasething
     <string name="security_settings_face_enroll_too_hot_title">Ifoni ishisa kakhulu</string>
     <string name="security_settings_fingerprint_preference_summary_none">Thepha ukuze usethe izigxivizo zeminwe</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Funda kabanzi ku-g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_work_fingerprint_preference_title">I-Pixel Imprint yomsebenzi</string>
     <string name="setup_suggestion_summary">Kopisha idatha, khokhela ngefoni, noma okwengeziwe</string>
     <string name="setup_suggestion_title">Qedela ukusetha</string>
     <string name="smart_battery_footer">Ukuze unweebe impilo yebhethri, i-Adaptive Battery inganciphisa ukusebenza kanye nomsebenzi wangemuva. Ezinye izaziso zingabambezeleka.</string>

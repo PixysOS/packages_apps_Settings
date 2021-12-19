@@ -141,6 +141,12 @@ Po obnovení zopakujte proces nastavenia a zvoľte možnosť skopírovania dát
     <string name="columbus_setting_app_shortcut_selection_help_text">Vyberte, čo sa má stať, keď rýchlym poklepaním otvoríte túto aplikáciu.</string>
     <string name="columbus_setting_enable_switch_title">Použiť rýchle poklepanie</string>
     <string name="columbus_setting_sensitivity_title">Vyžadovať silnejšie klepnutia</string>
+    <string name="connectivity_helper_call_quality_category">Kvalita hovoru</string>
+    <string name="connectivity_helper_call_quality_summary">Dostávajte počas hovorov upozornenia na príčiny problémov s pripojením</string>
+    <string name="connectivity_helper_call_quality_title">Dostávanie upozornení</string>
+    <string name="connectivity_helper_d2d_summary">Pri problémoch telefónu s pripojením počas hovoru upozorniť druhú osobu</string>
+    <string name="connectivity_helper_d2d_title">Zdienie informácií o pripojení</string>
+    <string name="connectivity_helper_footnote">Keď druhý volajúci používa podporované zariadenie a sieť, môžete zdieľať informácie o pripojení</string>
     <string name="content_capture">Prispôsobiť pomocou dát aplikácií</string>
     <string name="copy_toast_msg">Odkaz bol skopírovaný do schránky</string>
     <string name="dark_ui_text">Tmavý motív pomáha predĺžiť výdrž batérie pomocou čierneho pozadia. Plány tmavého motívu sa zapnú až po vypnutí obrazovky.</string>
@@ -311,6 +317,7 @@ Ak chcete zlepšiť výkonnosť, môžete znova nastaviť odomknutie tvárou v 
     <string name="security_settings_face_enroll_too_hot_title">Telefón je príliš horúci</string>
     <string name="security_settings_fingerprint_preference_summary_none">Klepnutím nastavíte odtlačok prsta</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Viac sa dozviete na g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint pre prácu</string>
     <string name="setup_suggestion_summary">Kopírovanie údajov, platby telefónom a pod.</string>
     <string name="setup_suggestion_title">Dokončenie nastavenia</string>
     <string name="smart_battery_footer">Adaptácia batérie predĺži výdrž batérie obmedzením výkonnosti a aktivity na pozadí. Niektoré upozornenia môžu byť oneskorené.</string>

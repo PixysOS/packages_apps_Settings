@@ -141,6 +141,12 @@ Pixel이 초기화되면 설정 과정을 진행한 다음 이전 휴대전화�
     <string name="columbus_setting_app_shortcut_selection_help_text">앱을 더블 탭으로 열 때 실행할 작업을 선택하세요.</string>
     <string name="columbus_setting_enable_switch_title">더블 탭 사용</string>
     <string name="columbus_setting_sensitivity_title">더 강한 탭 필요</string>
+    <string name="connectivity_helper_call_quality_category">통화 품질</string>
+    <string name="connectivity_helper_call_quality_summary">통화 중 연결 문제를 일으킨 원인에 관해 알림을 받습니다.</string>
+    <string name="connectivity_helper_call_quality_title">알림 받기</string>
+    <string name="connectivity_helper_d2d_summary">통화 중 휴대전화에 연결 문제가 있을 때 상대방에게 알립니다.</string>
+    <string name="connectivity_helper_d2d_title">연결 정보 공유</string>
+    <string name="connectivity_helper_footnote">상대방이 지원되는 기기와 네트워크를 사용 중일 때 연결 정보를 공유할 수 있습니다.</string>
     <string name="content_capture">앱 데이터를 사용하여 맞춤설정</string>
     <string name="copy_toast_msg">클립보드에 링크 복사됨</string>
     <string name="dark_ui_text">어두운 테마는 검은색 배경을 사용하므로 배터리 사용 시간이 늘어납니다. 어두운 테마 일정은 화면이 꺼질 때까지 기다린 후 켜집니다.</string>
@@ -312,6 +318,7 @@ g.co/pixel/faceunlock에서 자세히 알아보세요."</string>
     <string name="security_settings_face_enroll_too_hot_title">휴대전화 온도가 너무 높습니다</string>
     <string name="security_settings_fingerprint_preference_summary_none">탭하여 지문 설정하기</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">g.co/pixel/fingerprintunlock에서 자세히 알아보세요.</string>
+    <string name="security_settings_work_fingerprint_preference_title">직장용 Pixel Imprint</string>
     <string name="setup_suggestion_summary">데이터 복사, 휴대전화로 결제 등</string>
     <string name="setup_suggestion_title">설정을 완료하세요</string>
     <string name="smart_battery_footer">배터리 자동 조절 기능은 배터리 수명을 늘리기 위해 성능 및 백그라운드 활동을 제한할 수 있습니다. 일부 알림이 지연될 수 있습니다.</string>

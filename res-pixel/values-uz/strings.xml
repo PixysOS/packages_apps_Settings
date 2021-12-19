@@ -142,6 +142,12 @@ Asl holatiga qaytgach, ma’lumotlarni ko‘chirish uchun boshlang‘ich jarayon
     <string name="columbus_setting_app_shortcut_selection_help_text">Tezkor teginish yordamida bu ilova ochilganda nimalar boʻlishini tanlang.</string>
     <string name="columbus_setting_enable_switch_title">Tezkor teginishdan foydalanish</string>
     <string name="columbus_setting_sensitivity_title">Kuchliroq teginishni talab etish</string>
+    <string name="connectivity_helper_call_quality_category">Chaqiruv sifati</string>
+    <string name="connectivity_helper_call_quality_summary">Chaqiruv davomida aloqada yuz bergan muammolar sabablari haqida maʼlumot oling</string>
+    <string name="connectivity_helper_call_quality_title">Bildirishnomalar olish</string>
+    <string name="connectivity_helper_d2d_summary">Chaqiruv mobaynida telefonda yuz bergan aloqa muammolari haqida boshqa insonga xabar bering</string>
+    <string name="connectivity_helper_d2d_title">Aloqa axborotini ulashish</string>
+    <string name="connectivity_helper_footnote">Boshqa telefon qiluvchi mos qurilma va tarmoqdan foydalansa, aloqa axborotini ulashishingiz mumkin</string>
     <string name="content_capture">Ilova maʼlumotlari asosida moslashtirish</string>
     <string name="copy_toast_msg">Havoladan vaqtinchalik xotiraga nusxa olindi</string>
     <string name="dark_ui_text">Tungi mavzu batareyani uzoqroqqa yetkazish uchun qora fondan foydalanadi. Bundan tashqari, tungi mavzuni ishga tushishi va faolsizlantirishni tanlay olasiz.</string>
@@ -312,6 +318,7 @@ Unumdorlikni yaxshilash uchun Yuz bilan ochish funksiyasini Sozlamalar orqali qa
     <string name="security_settings_face_enroll_too_hot_title">Telefon qizib ketdi</string>
     <string name="security_settings_fingerprint_preference_summary_none">Barmoq izi kiritish uchun bosing</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Batafsil: g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Ish uchun Pixel Imprint</string>
     <string name="setup_suggestion_summary">Maʼlumotlardan nusxa olish, telefon bilan toʻlash va boshqalar</string>
     <string name="setup_suggestion_title">Sozlashni tugallang</string>
     <string name="smart_battery_footer">Batareya quvvatini uzaytirish uchun Adaptive Battery rejimida unumdorlik va fondagi amallar cheklanishi mumkin. Ayrim bildirishnomalar kechikishi mumkin.</string>

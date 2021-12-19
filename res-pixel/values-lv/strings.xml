@@ -142,6 +142,12 @@ Pēc atiestatīšanas veiciet iestatīšanu un izvēlieties datu importēšanu n
     <string name="columbus_setting_app_shortcut_selection_help_text">Atlasiet darbību, kas jāveic, ja atverat šo lietotni, izmantojot ātro pieskārienu.</string>
     <string name="columbus_setting_enable_switch_title">Ātrā pieskāriena izmantošana</string>
     <string name="columbus_setting_sensitivity_title">Reaģēt tikai uz stiprākiem pieskārieniem</string>
+    <string name="connectivity_helper_call_quality_category">Zvanu kvalitāte</string>
+    <string name="connectivity_helper_call_quality_summary">Saņemiet paziņojumus par savienojuma problēmu iemesliem zvanu laikā.</string>
+    <string name="connectivity_helper_call_quality_title">Paziņojumu saņemšana</string>
+    <string name="connectivity_helper_d2d_summary">Paziņojiet otram dalībniekam, ja jūsu tālrunim ir savienojuma problēmas zvanu laikā.</string>
+    <string name="connectivity_helper_d2d_title">Savienojuma informācijas kopīgošana</string>
+    <string name="connectivity_helper_footnote">Varat kopīgot savienojuma informāciju, ja otrs zvanītājs izmanto atbalstītu ierīci un tīklu.</string>
     <string name="content_capture">Personalizēt, izmantojot lietotņu datus</string>
     <string name="copy_toast_msg">Saite ir kopēta starpliktuvē.</string>
     <string name="dark_ui_text">Tumšajā motīvā tiek izmantots melns fons, lai paildzinātu akumulatora darbību. Turklāt jūs varat iestatīt, kad ieslēgt un izslēgt tumšo motīvu.</string>
@@ -313,6 +319,7 @@ Lai uzlabotu darbību, iestatījumos varat atkal iestatīt autorizāciju pēc se
     <string name="security_settings_face_enroll_too_hot_title">Tālrunis ir pārāk karsts</string>
     <string name="security_settings_fingerprint_preference_summary_none">Pieskarieties, lai iestatītu pirksta nospiedumu</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">Uzziniet vairāk vietnē g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint darbam</string>
     <string name="setup_suggestion_summary">Kopējiet datus, maksājiet tālrunī u.c.</string>
     <string name="setup_suggestion_title">Iestatīšanas pabeigšana</string>
     <string name="smart_battery_footer">Lai paildzinātu akumulatora darbību, adaptīvā akumulatora funkcija var ierobežot veiktspēju un fonā veiktās darbības. Daži paziņojumi var darboties ar aizkavi.</string>
