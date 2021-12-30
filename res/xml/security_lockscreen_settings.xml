@@ -120,6 +120,12 @@
             android:summary="@string/doze_summary"
             settings:controller="com.android.settings.display.AmbientDisplayNotificationsPreferenceController" />
 
+        <com.pixys.support.preference.SecureSettingSwitchPreference
+            android:key="pulse_on_new_tracks"
+            android:title="@string/pulse_on_new_tracks_title"
+            android:summary="@string/pulse_on_new_tracks_summary"
+            android:defaultValue="true" />
+
         <Preference
             android:key="ambient_display_custom"
             android:title="@string/advanced_settings" />
