@@ -442,4 +442,8 @@
     <string name="qs_show_battery_estimate_summary_on">Showing battery estimates in QS</string>
     <string name="qs_show_battery_estimate_summary_off">Battery estimates in QS is hidden</string>
 
+    <!-- Idle Manager -->
+    <string name="idle_manager_title">Kill background processes</string>
+    <string name="idle_manager_summary">Stop all non-essential background processes when the device is idle</string>
+
 </resources>
