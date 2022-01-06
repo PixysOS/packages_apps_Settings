@@ -437,4 +437,9 @@
     <string name="keyboard_extras_title">Extras</string>
     <string name="advanced_keyboard_settings_title">Advanced settings</string>
 
+    <!-- QS Battery estimates -->
+    <string name="qs_show_battery_estimate_title">Battery estimates</string>
+    <string name="qs_show_battery_estimate_summary_on">Showing battery estimates in QS</string>
+    <string name="qs_show_battery_estimate_summary_off">Battery estimates in QS is hidden</string>
+
 </resources>
