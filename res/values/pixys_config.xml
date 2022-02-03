@@ -36,4 +36,8 @@
     <!-- Wellbeing: Total time -->
     <string name="duration_less_than_one_minute">Less than 1 minute</string>
     <string name="screen_time_summary_usage_today">%1$s today</string>
+
+    <!-- Fingerprint -->
+    <bool name="config_is_front_facing_fps" translatable="false">false</bool>
+
 </resources>
