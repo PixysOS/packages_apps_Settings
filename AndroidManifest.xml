@@ -122,6 +122,9 @@
 
     <uses-permission android:name="com.google.android.settings.intelligence.BATTERY_DATA"/>
 
+    <!-- App lock -->
+    <uses-permission android:name="android.permission.MANAGE_APP_LOCK" />
+
     <application
             android:name=".SettingsApplication"
             android:label="@string/settings_label"
