@@ -79,6 +79,7 @@ android_library {
         "SettingsLibActivityEmbedding",
         "VendorSupport-Libs",
         "glide",
+        "faceunlock_framework",
     ],
 
     libs: [
