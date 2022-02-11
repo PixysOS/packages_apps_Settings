@@ -81,6 +81,17 @@ public class FaceSettingsConfirmPreferenceController extends FaceSettingsPrefere
 
     @Override
     public int getAvailabilityStatus() {
-        return FaceUtils.isFaceUnlockSupported() ? UNSUPPORTED_ON_DEVICE : AVAILABLE;
+        if (FaceUtils.isFaceUnlockSupported()){
+            return UNSUPPORTED_ON_DEVICE;
+        }
+        List<FaceSensorProperties> properties = mFaceManager.getSensorProperties();
+        // If a sensor is convenience, it is possible that it becomes weak or strong with
+        // an update. For this reason, the sensor is conditionally unavailable.
+        if (!properties.isEmpty()
+                && properties.get(0).getSensorStrength() == SensorProperties.STRENGTH_CONVENIENCE) {
+            return CONDITIONALLY_UNAVAILABLE;
+        } else {
+            return AVAILABLE;
+        }
     }
 }
