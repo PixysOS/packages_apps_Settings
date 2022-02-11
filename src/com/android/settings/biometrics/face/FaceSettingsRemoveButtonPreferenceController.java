@@ -44,8 +44,8 @@ import java.util.List;
  * Controller for the remove button. This assumes that there is only a single face enrolled. The UI
  * will likely change if multiple enrollments are allowed/supported.
  */
-public class FaceSettingsRemoveButtonPreferenceController extends BasePreferenceController
-        implements Preference.OnPreferenceClickListener {
+public class FaceSettingsRemoveButtonPreferenceController extends BasePreferenceController implements
+        Preference.OnPreferenceClickListener {
 
     private static final String TAG = "FaceSettings/Remove";
     static final String KEY = "security_settings_face_delete_faces_container";
@@ -65,7 +65,9 @@ public class FaceSettingsRemoveButtonPreferenceController extends BasePreference
             AlertDialog.Builder builder = new AlertDialog.Builder(getActivity());
 
             builder.setTitle(R.string.security_settings_face_settings_remove_dialog_title)
-                    .setMessage(R.string.security_settings_face_settings_remove_dialog_details)
+                    .setMessage(mIsConvenience
+                            ? R.string.security_settings_face_settings_remove_dialog_details_convenience
+                            : R.string.security_settings_face_settings_remove_dialog_details)
                     .setPositiveButton(R.string.delete, mOnClickListener)
                     .setNegativeButton(R.string.cancel, mOnClickListener);
             AlertDialog dialog = builder.create();
@@ -162,7 +164,6 @@ public class FaceSettingsRemoveButtonPreferenceController extends BasePreference
     @Override
     public void updateState(Preference preference) {
         super.updateState(preference);
-
         mPreference = preference;
 
         mPreference.setOnPreferenceClickListener(this);
@@ -186,9 +187,11 @@ public class FaceSettingsRemoveButtonPreferenceController extends BasePreference
 
     @Override
     public boolean onPreferenceClick(Preference preference) {
+        mMetricsFeatureProvider.logClickedPreference(mPreference, getMetricsCategory());
         mRemoving = true;
         ConfirmRemoveDialog dialog = new ConfirmRemoveDialog();
         dialog.setOnClickListener(mOnClickListener);
+        dialog.setIsConvenience(BiometricUtils.isConvenience(mFaceManager));
         dialog.show(mActivity.getSupportFragmentManager(), ConfirmRemoveDialog.class.getName());
         return true;
     }
