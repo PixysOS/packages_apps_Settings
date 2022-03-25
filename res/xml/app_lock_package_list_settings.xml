@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2020 Project-Pixys
+<!-- Copyright (C) 2022 FlamingoOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -13,14 +13,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
-
-    <!-- Interval seekbar -->
-    <declare-styleable name="IntervalSeekBar">
-        <attr name="minI" format="float" />
-        <attr name="maxI" format="float" />
-        <attr name="defaultValuePure" format="float" />
-        <attr name="digits" format="integer" />
-    </declare-styleable>
-
-</resources>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:settings="http://schemas.android.com/apk/res-auto"
+    android:title="@string/app_lock_packages_title">
+</PreferenceScreen>
