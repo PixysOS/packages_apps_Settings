@@ -316,4 +316,8 @@
     <string name="app_lock_biometrics_allowed_title">Enable biometrics for unlocking</string>
     <string name="app_lock_footer_text">Bubbles will be automatically dismissed after timeout</string>
     <string name="enable_protection">Enable protection</string>
+
+    <!-- Hidden apps -->
+    <string name="hidden_apps_title">Hidden apps</string>
+    <string name="hidden_apps_summary">Applications that should be hidden from launcher. Requires a launcher restart for changes to take effect</string>
 </resources>
