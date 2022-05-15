@@ -2,7 +2,6 @@ package com.android.settings.gestures.columbus;
 
 import android.content.Context;
 import android.content.IntentFilter;
-import com.android.settings.R;
 import com.android.settings.slices.SliceBackgroundWorker;
 import com.google.android.settings.gestures.columbus.ColumbusTogglePreferenceController;
 
@@ -19,10 +18,5 @@ public class ColumbusLowSensitivityPreferenceController extends ColumbusTogglePr
             return UNSUPPORTED_ON_DEVICE;
         }
         return super.getAvailabilityStatus();
-    }
-
-    @Override
-    public int getSliceHighlightMenuRes() {
-        return R.string.menu_key_system;
     }
 }

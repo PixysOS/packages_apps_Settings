@@ -42,7 +42,7 @@
     <bool name="config_show_camera_laser_sensor">false</bool>
 
     <!-- Fully-qualified class name for the implementation of the FeatureFactory to be instantiated. -->
-    <string name="config_featureFactory" translatable="false">com.google.android.settings.overlay.FeatureFactoryImpl</string>
+    <string name="config_featureFactory" translatable="false">com.android.settings.overlay.FeatureFactoryImpl</string>
 
     <!-- Package name and fully-qualified class name for the wallpaper picker activity. -->
     <string name="config_wallpaper_picker_package" translatable="false">com.android.settings</string>
@@ -229,7 +229,7 @@
 
     <!-- Settings intelligence package name -->
     <string name="config_settingsintelligence_package_name" translatable="false">
-        com.google.android.settings.intelligence
+        com.android.settings.intelligence
     </string>
 
     <!-- Whether the confirmation for sim deletion is defaulted to be on or off-->
@@ -241,9 +241,7 @@
     </string>
 
     <!-- Settings intelligence interaction log intent action -->
-    <string name="config_settingsintelligence_log_action" translatable="false">
-        com.google.android.settings.intelligence.LOG_BRIDGE
-    </string>
+    <string name="config_settingsintelligence_log_action" translatable="false"></string>
 
     <!-- AOSP Emergency app package name -->
     <string name="config_aosp_emergency_package_name" translatable="false">
