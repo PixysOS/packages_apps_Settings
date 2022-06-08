@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright 2020 Pixys OS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- PixysOS version preference -->
+    <!-- String for removal of sensitive info on about, depending on tap -->
+    <!-- Three-fingers-swipe to screenshot -->
+    <!-- Density category -->
+    <!-- Volume button music control -->
+    <!-- Battery stats reset -->
+    <!-- Lock screen pattern size -->
+    <!-- Whether a visible red line will be drawn after the user has drawn the unlock pattern incorrectly -->
+    <!-- Whether the dots will be drawn when using the lockscreen pattern -->
+    <!-- Scramble pin -->
+    <!-- Themes -->
+    <!-- Monet Engine -->
+    <!-- Navbar length -->
+    <!-- Navigation bar hint -->
+    <!-- SELinux Status -->
+    <!-- Power Menu -->
+    <!-- AOD Schedule -->
+    <!-- Statusbar net monitor -->
+    <!-- Notification headers -->
+    <!-- Custom vibration intensity -->
+    <!-- Incall actions options -->
+    <!-- Blink flashlight for incoming calls -->
+    <!-- Quick Settings brightness slider -->
+    <!-- Quick Settings brightness icon -->
+    <!-- Pocket mode -->
+    <!-- Title for connected TWS device group [CHAR LIMIT=none]-->
+    <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
+    <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->
+    <!-- Annoying Notifications -->
+    <!-- Less boring heads up -->
+    <!-- Black theme -->
+    <!-- Vibration patterns -->
+    <!-- Face Unlock -->
+    <!-- Statusbar tuner -->
+    <!-- QS Battery estimates -->
+    <!-- Lockscreen media art -->
+    <!-- Screenshot shutter -->
+    <!-- Volume dialog position -->
+    <!-- Game -->
+    <!-- Columbus -->
+    <!-- Notch: Full screen apps -->
+    <!-- Hotspot -->
+    <!-- Cloudflare DNS Option -->
+    <!-- AdGuard DNS Option -->
+    <!-- Package details -->
+    <!-- Custom Signal bar icons -->
+    <!-- Custom Wi-Fi bar icons -->
+    <!-- App lock -->
+</resources>

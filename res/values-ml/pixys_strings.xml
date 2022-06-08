@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright 2020 Pixys OS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="build_date">"നിർമ്മാണ തീയതി"</string>
+    <string name="device_info_protected_single_press">കൂടുതല്‍ വിവരങ്ങള്‍ കാണിക്കൂക</string>
+    <string name="three_finger_gesture">സ്‌ക്രീൻഷോട്ട് എഡ്യൂക്കൻ സ്വൈപ്പ് ചെയ്യുക</string>
+    <string name="three_finger_gesture_summary">സ്ക്രീൻഷോട്ട് എടുക്കാൻ മൂന്ന് വിരലുകൾ ഉപയോഗിച്ച് താഴേക്ക് സ്വൈപ്പുചെയ്യുക</string>
+    <string name="density_category">സാന്ദ്രത ഓപ്ഷനുകൾ</string>
+    <string name="volume_button_music_control_title">പ്ലേബാക്ക് നിയന്ത്രണം</string>
+    <string name="volume_button_music_control_summary">സ്‌ക്രീൻ ഓഫായിരിക്കുമ്പോൾ, വോളിയം കീകൾ ദീർഘനേരം അമർത്തുന്നത് സംഗീത ട്രാക്കുകൾ ഒഴിവാക്കും</string>
+    <string name="battery_stats_reset">ഉപയോഗ ഡാറ്റ മായ്‌ക്കണോ?</string>
+    <string name="battery_stats_message">ബാറ്ററി ഉപയോഗ ഡാറ്റ നഷ്ടപ്പെടും</string>
+</resources>

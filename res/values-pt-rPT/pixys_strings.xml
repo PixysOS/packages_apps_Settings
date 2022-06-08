@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright 2020 Pixys OS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pixys_version">"Versão da PixysOS"</string>
+    <string name="build_date">"Data de compilação"</string>
+    <string name="device_info_protected_single_press">Toque para mostrar informações</string>
+    <string name="three_finger_gesture">Deslizar para capturar ecrã</string>
+    <string name="three_finger_gesture_summary">Deslizar para baixo com três dedos para fazer uma captura de ecrã</string>
+    <string name="density_category">Opções de densidade</string>
+    <string name="volume_button_music_control_title">Controlo de reprodução</string>
+    <string name="volume_button_music_control_summary">Quando o ecrã está desligado, pressione os botões de volume para mudar as faixas de música</string>
+    <string name="battery_stats_reset">Limpar dados de utilização?</string>
+    <string name="battery_stats_message">Os dados de utilização da bateria serão perdidos</string>
+    <string name="battery_stats_clear">@string/proxy_clear_text</string>
+    <string name="lock_settings_picker_pattern_size_message">Escolha um tamanho para o padrão</string>
+    <string name="lockpattern_settings_enable_error_path_title">Mostrar erro no padrão</string>
+    <string name="lockpattern_settings_enable_dots_title">Mostrar pontos do padrão</string>
+    <string name="unlock_scramble_pin_layout_title">Baralhar números</string>
+    <string name="unlock_scramble_pin_layout_summary">Alterar aleatoriamente a disposição do teclado numérico ao desbloquear com PIN</string>
+    <string name="themes_title">Temas</string>
+    <string name="themes_summary">Monet - um artista que pinta...</string>
+    <string name="monet_engine_custom_color_title">Usar cor personalizada</string>
+    <string name="monet_engine_custom_color_summary">Usar cor personalizada para o motor monet em vez das cores do papel de parede</string>
+    <string name="monet_engine_color_override_title">Cor personalizada</string>
+    <string name="monet_engine_white_luminance_user_title">Luminância branca</string>
+    <string name="monet_engine_accurate_shades_title">Usar tons precisos</string>
+    <string name="monet_engine_chroma_factor_title">Fator cromático</string>
+    <string name="monet_engine_linear_lightness_title">Usar brilho linear</string>
+    <string name="navbar_length">Largura da barra de gestos</string>
+    <string name="short_label">Curta</string>
+    <string name="long_label">Longa</string>
+    <string name="show_navbar_gesture_bar_title">Barra de gestos</string>
+    <string name="show_navbar_gesture_bar_summary">Mostrar barra de gestos na parte inferior do ecrã</string>
+    <string name="selinux_status">Estado do SELinux</string>
+    <string name="selinux_status_disabled">Desativado</string>
+    <string name="selinux_status_permissive">Permissivo</string>
+    <string name="selinux_status_enforcing">Forçador</string>
+    <string name="power_menu_title">Menu de energia</string>
+    <string name="power_menu_title_summary">Ver ou alterar os itens do menu de energia</string>
+    <string name="powermenu_screenshot">Captura de ecrã</string>
+    <string name="powermenu_power">Energia</string>
+    <string name="powermenu_advanced">Opções avançadas de reinicialização</string>
+    <string name="powermenu_restart">Reiniciar</string>
+    <string name="powermenu_airplane">Modo de avião</string>
+    <string name="powermenu_settings">Configurações</string>
+    <string name="powermenu_lockdown">Bloquear</string>
+    <string name="powermenu_soundpanel">Painel de som</string>
+    <string name="powermenu_users">Utilizadores</string>
+    <string name="powermenu_logout">Encerrar sessão</string>
+    <string name="powermenu_emergency">Emergência</string>
+    <string name="always_on_display_schedule_title">Programação do ecrã ambiente</string>
+    <string name="always_on_display_schedule_sunset">Anoitecer</string>
+    <string name="always_on_display_schedule_sunrise">Amanhecer</string>
+    <string name="disabled">Desativado</string>
+    <string name="always_on_display_schedule_mixed_sunset">Ativar do anoitecer até uma determinada hora</string>
+    <string name="always_on_display_schedule_mixed_sunrise">Ativar de uma determinada hora até ao amanhecer</string>
+    <string name="traffic_title">Indicadores de tráfego</string>
+    <string name="traffic_summary">Mostrar tráfego de rede</string>
+    <string name="network_traffic">Tráfego de rede</string>
+    <string name="network_traffic_state_title">Exibição de tráfego de rede</string>
+    <string name="network_traffic_location">Posição do indicador de tráfego</string>
+    <string name="traffic_disabled">Desativado</string>
+    <string name="traffic_statusbar">Barra de estado</string>
+    <string name="traffic_expanded_statusbar">Cabeçalho expandido</string>
+    <string name="network_traffic_autohide_threshold_title">Limite para auto-ocultar a atividade de rede</string>
+    <string name="network_traffic_arrow">Mostrar setas</string>
+    <string name="network_traffic_arrow_summary">Mostrar as setas dos indicadores de tráfego de rede</string>
+    <string name="network_traffic_type">Selecione o tipo de atividade de rede</string>
+    <string name="show_network_traffic_combined">Combinado (Upload + Download)</string>
+    <string name="show_network_traffic_dynamic">Dinâmico</string>
+    <string name="show_network_traffic_up">Upload</string>
+    <string name="show_network_traffic_down">Download</string>
+    <string name="show_network_traffic_all">Ambos</string>
+    <string name="network_traffic_font_size_title">Tamanho da letra dos indicadores</string>
+    <string name="notification_headers_title">Cabeçalhos das notificações</string>
+    <string name="notification_headers_summary">Mostrar os cabeçalhos na área de notificações</string>
+    <string name="vibration_intensity_title">Intensidade da vibração</string>
+    <string name="vibration_intensity_summary">Controle a intensidade da vibração para diferentes origens</string>
+    <string name="notification_vibration_intensity_title">Notificações</string>
+    <string name="ring_vibration_intensity_title">Toque</string>
+    <string name="haptic_feedback_intensity_title">Resposta tátil</string>
+    <string name="vibration_intensity_off">Desativada</string>
+    <string name="vibration_intensity_low">Baixa</string>
+    <string name="vibration_intensity_medium">Média</string>
+    <string name="vibration_intensity_high">Alta</string>
+    <string name="incall_actions_category">Opções de ações em chamada</string>
+    <string name="incall_vibrate_connect_title">Vibrar ao ligar</string>
+    <string name="incall_vibrate_call_wait_title">Vibrar em chamada em espera</string>
+    <string name="incall_vibrate_disconnect_title">Vibrar ao desligar</string>
+    <string name="flashlight_on_call_title">Piscar lanterna ao receber chamada</string>
+    <string name="flashlight_on_call_disabled">Desativado</string>
+    <string name="flashlight_on_call_ringer">Quando tocar</string>
+    <string name="flashlight_on_call_no_ringer">Quando o toque estiver silenciado</string>
+    <string name="flashlight_on_call_silent">Quando totalmente silencioso (sem toque ou vibração)</string>
+    <string name="flashlight_on_call_always">Sempre</string>
+    <string name="qs_brightness_slider_category">Controlo de brilho</string>
+    <string name="qs_brightness_slider_title">Mostrar barra de controlo de brilho</string>
+    <string name="qs_brightness_slider_summary">Mostrar a barra de controlo de brilho nas configurações rápidas</string>
+    <string name="qs_brightness_position_bottom_title">Mostrar barra de controlo de brilho em baixo</string>
+    <string name="qs_brightness_position_bottom_summary">Mostrar a barra de controlo de brilho na parte inferior das configurações rápidas</string>
+    <string name="brightness_icon_title">Botão de brilho adaptável</string>
+    <string name="brightness_icon_summary">Mostrar o botão de brilho adaptável</string>
+    <string name="proximity_wake_title">Prevenir despertar acidental</string>
+    <string name="proximity_wake_summary">Verificar o sensor de proximidade antes de ligar o ecrã</string>
+    <string name="connected_tws_device_saved_title">Auriculares guardados</string>
+    <string name="duration_less_than_one_minute">Menos de 1 minuto</string>
+    <string name="screen_time_summary_usage_today">%1$s hoje</string>
+    <string name="notification_sound_vib_screen_on_title">Notificações irritantes</string>
+    <string name="notification_sound_vib_screen_on_summary">Reproduzir som e vibrar para notificações quando o ecrã estiver ligado</string>
+    <string name="less_boring_heads_up_title">Notificações pop-up reduzidas</string>
+    <string name="less_boring_heads_up_summary">Desligar as notificações pop-up para todas as aplicações exceto aplicações de telefone e mensagens</string>
+    <string name="system_black_theme_title">Usar tema preto</string>
+    <string name="system_black_theme_summary">Forçar cores de fundo pretas</string>
+    <string name="vibration_pattern_title">Padrão de vibração de toque</string>
+    <string name="pattern_dzzz_dzzz">dzzz-dzzz</string>
+    <string name="pattern_dzzz_da">dzzz-da</string>
+    <string name="pattern_mm_mm_mm">mm-mm-mm</string>
+    <string name="pattern_da_da_dzzz">da-da-dzzz</string>
+    <string name="pattern_da_dzzz_da">da-dzzz-da</string>
+    <string name="pattern_custom">Personalizado</string>
+    <string name="custom_vibration_pattern_title">Padrão personalizado</string>
+    <string name="custom_vibration_pattern_summary">Definir um padrão de vibração personalizado</string>
+    <string name="security_settings_face_unlock_redo_face_scan_summary">Remover os dados da verificação de rosto existente e criar uma nova</string>
+    <string name="security_settings_face_unlock_redo_face_scan_title">Analisar rosto novamente</string>
+    <string name="face_redo_confirm_btn">Refazer</string>
+    <string name="face_redo_warning_msg">Deseja remover os dados da verificação de rosto existente e criar uma nova?</string>
+    <string name="face_unlock_method_title">Permitir desbloqueio facial no ecrã de bloqueio</string>
+    <string name="face_unlock_method_default">Quando o ecrã estiver ligado</string>
+    <string name="face_unlock_method_swipe">Ao deslizar no ecrã de bloqueio</string>
+    <string name="security_settings_face_settings_footer_custom">O desbloqueio facial permite que desbloqueie o dispositivo ao olhar para ele. Tenha em mente:\n\n● O dispositivo poderá ser desbloqueado a qualquer altura que o utilizador olhe para ele.\n● O dispositivo pode ser desbloqueado se alguém o mantiver à frente do seu rosto quando tem os olhos abertos.\n● O dispositivo também pode ser desbloqueado por alguém que se pareça bastante consigo, como um filho ou irmão idêntico.</string>
+    <string name="security_settings_face_settings_remove_dialog_details_custom">Os dados guardados pelo desbloqueio facial serão eliminados de forma segura e permanente. Depois da eliminação, será necessário o seu PIN, padrão ou senha para desbloquear o telefone.</string>
+    <string name="statusbar_tuner_title">Definições da barra de estado</string>
+    <string name="qs_show_battery_estimate_title">Estimativas de bateria</string>
+    <string name="qs_show_battery_estimate_summary_on">Mostrar estimativas de bateria nas configurações rápidas</string>
+    <string name="qs_show_battery_estimate_summary_off">Ocultar estimativas de bateria nas configurações rápidas</string>
+    <string name="keygaurd_media_art_title">Arte multimédia</string>
+    <string name="keygaurd_media_art_summary">Mostrar arte multimédia como fundo do ecrã de bloqueio</string>
+    <string name="screenshot_shutter_sound_title">Som de captura de ecrã</string>
+    <string name="volume_panel_on_left_title">Painel de volume à esquerda</string>
+    <string name="volume_panel_on_left_summary">Mostrar o painel de volume no lado esquerdo do ecrã</string>
+    <string name="game_dashboard_always_on_summary">Mostrar o atalho do Painel de Jogo nos jogos</string>
+    <string name="game_dashboard_always_on_title">Painel de Jogo</string>
+    <string name="game_dashboard_dnd_rule_name">Jogos</string>
+    <string name="game_dashboard_dnd_summary">Seja notificado apenas sobre apps e pessoas importantes quando estiver a jogar</string>
+    <string name="game_dashboard_dnd_title">Não Incomodar para jogos</string>
+    <string name="columbus_title">@string/columbus_name</string>
+    <string name="columbus_gesture_detected">Toque Rápido detetado!</string>
+    <string name="columbus_gesture_enrollment_complete">Concluído</string>
+    <string name="columbus_gesture_enrollment_do_it_later">Agora não</string>
+    <string name="columbus_gesture_enrollment_settings">Ir para as configurações</string>
+    <string name="columbus_gesture_enrollment_try_it">Experimente</string>
+    <string name="columbus_gesture_training_action_no_selection_error">Por favor, selecione uma ação para executar</string>
+    <string name="columbus_gesture_training_action_text">Selecione o que acontece quando usa o Toque Rápido. Pode mudar isto mais tarde nas configurações.</string>
+    <string name="columbus_gesture_training_action_title">Escolher opção de Toque Rápido</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture">… Toque duplo 1 de 2 detetado</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">Vamos tentar mais uma vez. Toque rapidamente duas vezes na parte de trás do seu telefone.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">Ótimo!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture">… Toque duplo 2 de 2 detetado</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">Está pronto para começar a usar o Toque Rápido</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">Conseguiu!</string>
+    <string name="columbus_gesture_training_enrolling_text">Toque rapidamente duas vezes na parte de trás do seu telefone.</string>
+    <string name="columbus_gesture_training_enrolling_title">Experimente o Toque Rápido</string>
+    <string name="columbus_gesture_training_finished_text">Para alterar a força de toque necessária para usar o Toque Rápido, vá para as configurações.</string>
+    <string name="columbus_gesture_training_finished_title">Configurou o Toque Rápido</string>
+    <string name="columbus_gesture_training_intro_text_accidental">Acabou de tocar duas vezes na parte de trás do seu telefone, o que lhe permite usar o seu Assistente. Pode personalizar este gesto nas configurações.</string>
+    <string name="columbus_gesture_training_intro_text_suw">Faça uma captura de ecrã, veja notificações ou inicie outra ação com dois toques.</string>
+    <string name="columbus_gesture_training_intro_title">Toque rápido para ações rápidas</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">Por favor, selecione uma app para abrir</string>
+    <string name="columbus_gesture_training_launch_text">Selecione a app que gostaria de abrir quando usa o Toque Rápido.</string>
+    <string name="columbus_gesture_training_launch_title">Escolha uma app para abrir</string>
+    <string name="columbus_launch_app_extra_widget_a11y_label">Configurações do atalho %1$s</string>
+    <string name="columbus_launch_settings_activity_title">Configurações do Toque Rápido</string>
+    <string name="columbus_name">Toque Rápido</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">Configurações de %1$s</string>
+    <string name="columbus_setting_action_assistant_title">Aceder ao seu assistente digital</string>
+    <string name="columbus_setting_action_assistant_value">assistente</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">Nenhuma app selecionada</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">App não instalada</string>
+    <string name="columbus_setting_action_launch_title">Abrir aplicação</string>
+    <string name="columbus_setting_action_launch_value">iniciar</string>
+    <string name="columbus_setting_action_notification_title">Mostrar notificações</string>
+    <string name="columbus_setting_action_notification_value">notificações</string>
+    <string name="columbus_setting_action_open_app_title">Abrir aplicação</string>
+    <string name="columbus_setting_action_overview_title">Ver apps recentes</string>
+    <string name="columbus_setting_action_overview_value">visão geral</string>
+    <string name="columbus_setting_action_play_pause_title">Reproduzir ou pausar música</string>
+    <string name="columbus_setting_action_play_pause_value">multimédia</string>
+    <string name="columbus_setting_action_screenshot_title">Captura de ecrã</string>
+    <string name="columbus_setting_action_screenshot_value">capturar ecrã</string>
+    <string name="columbus_setting_actions_title">Toque duas vezes na parte de trás do telefone para</string>
+    <string name="columbus_setting_additional_settings_title">Força do Toque Rápido</string>
+    <string name="columbus_setting_app_selection_help_text">Selecione uma app para abrir quando tocar duas vezes na parte de trás do seu telefone. Se desinstalar a app, o Toque Rápido é desativado até selecionar uma app diferente.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">Selecione o que acontece quando abre esta app usando o Toque Rápido.</string>
+    <string name="columbus_setting_enable_switch_title">Usar o Toque Rápido</string>
+    <string name="columbus_setting_sensitivity_title">Exigir toques mais fortes</string>
+    <string name="columbus_summary">%1$s / %2$s</string>
+    <string name="display_cutout_force_fullscreen_title">Aplicações em ecrã inteiro</string>
+    <string name="display_cutout_force_fullscreen_summary">Forçar aplicações a ignorar o espaço do entalhe</string>
+    <string name="search">Procurar</string>
+    <string name="search_apps">Procurar aplicações</string>
+    <string name="wifi_hotspot_hidden_ssid_title">Rede oculta</string>
+    <string name="wifi_hotspot_hidden_ssid_summary">O nome do seu ponto de acesso não aparecerá na lista de redes Wi-Fi disponíveis.</string>
+    <string name="wifi_band_24ghz_and_5ghz">2,4 GHz e 5 GHz</string>
+    <string name="wifi_band_24ghz_and_6ghz">2,4 GHz e 6 GHz</string>
+    <string name="wifi_band_60ghz">60 GHz</string>
+    <plurals name="wifi_hotspot_auto_off_timeout">
+        <item quantity="other">Desativar quando não houver nenhum dispositivo conectado há <xliff:g id="DURATION">%1$d</xliff:g> minutos</item>
+        <item quantity="one">Desativar quando não houver nenhum dispositivo conectado há <xliff:g id="DURATION">%1$d</xliff:g> minuto</item>
+    </plurals>
+    <string name="wifi_hotspot_auto_off_timeout_never">Nunca desligar o ponto de acesso</string>
+    <string name="wifi_hotspot_client_manager_title">Dispositivos conectados</string>
+    <string name="wifi_hotspot_client_manager_summary">Listar e gerir dispositivos conectados ao ponto de acesso, e definir o limite do número de clientes</string>
+    <string name="wifi_hotspot_client_manager_list_only_summary">Listar dispositivos conectados ao ponto de acesso</string>
+    <string name="wifi_hotspot_client_limit_title">Limite de dispositivos conectados</string>
+    <plurals name="wifi_hotspot_client_limit_summary">
+        <item quantity="other">Até <xliff:g id="device_num">%1$d</xliff:g> dispositivos podem conectar-se a este ponto de acesso</item>
+        <item quantity="one">Até <xliff:g id="device_num">%1$d</xliff:g> dispositivo pode conectar-se a este ponto de acesso</item>
+    </plurals>
+    <string name="wifi_hotspot_blocked_clients_list_title">Dispositivos bloqueados</string>
+    <string name="wifi_hotspot_connected_clients_list_title">Dispositivos conectados</string>
+    <string name="wifi_hotspot_block_client_dialog_title">Bloquear dispositivo</string>
+    <string name="wifi_hotspot_block_client_dialog_text">Esta ação vai desconectar \"<xliff:g id="device_name">%1$s</xliff:g>\" deste dispositivo e adicioná-lo à lista de bloqueio</string>
+    <string name="wifi_hotspot_unblock_client_dialog_title">Desbloquear dispositivo</string>
+    <string name="wifi_hotspot_unblock_client_dialog_text">Este dispositivo \"<xliff:g id="device_name">%1$s</xliff:g>\" será capaz de se conectar a este ponto de acesso</string>
+    <string name="wifi_hotspot_client_manager_footer_text">Nenhum cliente disponível atualmente. Dispositivos conectados e bloqueados serão listados aqui quando disponíveis.</string>
+</resources>

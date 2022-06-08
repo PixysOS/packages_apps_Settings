@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright 2020 Pixys OS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pixys_version">"Versi PixysOS"</string>
+    <string name="build_date">"Tanggal pembuatan"</string>
+    <string name="device_info_protected_single_press">Sentuh untuk melihat info</string>
+    <string name="three_finger_gesture">Gesek untuk menangkap layar</string>
+    <string name="three_finger_gesture_summary">Gesek tiga jari ke bawah untuk menangkap layar</string>
+    <string name="density_category">Opsi kepadatan</string>
+    <string name="volume_button_music_control_title">Kontrol Pemutaran</string>
+    <string name="volume_button_music_control_summary">Saat layar mati, menekan lama tombol volume akan melewatkan trek musik</string>
+    <string name="battery_stats_reset">Atur ulang statistik baterai?</string>
+    <string name="battery_stats_message">Statistik riwayat baterai akan diatur ulang</string>
+    <string name="battery_stats_clear">@string/proxy_clear_text</string>
+    <string name="lock_settings_picker_pattern_size_message">Pilih ukuran pola</string>
+    <string name="lockpattern_settings_enable_error_path_title">Tampilkan kesalahan pola</string>
+    <string name="lockpattern_settings_enable_dots_title">Tampilkan titik-titik pola</string>
+    <string name="unlock_scramble_pin_layout_title">Nomor acak</string>
+    <string name="unlock_scramble_pin_layout_summary">Acak tata letak PIN saat membuka perangkat</string>
+    <string name="themes_title">Tema</string>
+    <string name="themes_summary">Monet -seorang seniman yang melukis...</string>
+    <string name="monet_engine_custom_color_title">Gunakan warna kustom</string>
+    <string name="monet_engine_custom_color_summary">Gunakan warna kustom untuk mesin monet alih-alih warna wallpaper</string>
+    <string name="monet_engine_color_override_title">Warna kustom</string>
+    <string name="monet_engine_white_luminance_user_title">Pencahayaan putih</string>
+    <string name="monet_engine_accurate_shades_title">Gunakan nuansa yang akurat</string>
+    <string name="monet_engine_chroma_factor_title">Faktor kroma</string>
+    <string name="monet_engine_linear_lightness_title">Gunakan cahaya linier</string>
+    <string name="navbar_length">Panjang bilah gestur</string>
+    <string name="short_label">Pendek</string>
+    <string name="long_label">Panjang</string>
+    <string name="show_navbar_gesture_bar_title">Bilah gestur</string>
+    <string name="show_navbar_gesture_bar_summary">Tampilkan bilah gestur di bagian bawah layar</string>
+    <string name="selinux_status">Status SELinux</string>
+    <string name="selinux_status_disabled">Dinonaktifkan</string>
+    <string name="selinux_status_permissive">Permissive</string>
+    <string name="selinux_status_enforcing">Enforcing</string>
+    <string name="power_menu_title">Menu tombol daya</string>
+    <string name="power_menu_title_summary">Lihat atau ubah pilihan menu daya</string>
+    <string name="powermenu_screenshot">Tangkapan layar</string>
+    <string name="powermenu_power">Daya</string>
+    <string name="powermenu_advanced">Opsi mulai ulang lanjutan</string>
+    <string name="powermenu_restart">Mulai ulang</string>
+    <string name="powermenu_airplane">Mode pesawat</string>
+    <string name="powermenu_settings">Setelan</string>
+    <string name="powermenu_lockdown">Kunci total</string>
+    <string name="powermenu_soundpanel">Panel suara</string>
+    <string name="powermenu_users">Pengguna</string>
+    <string name="powermenu_logout">Keluar</string>
+    <string name="powermenu_emergency">Darurat</string>
+    <string name="always_on_display_schedule_title">Jadwal Layar Selalu Hidup</string>
+    <string name="always_on_display_schedule_sunset">Matahari terbenam</string>
+    <string name="always_on_display_schedule_sunrise">Matahari terbit</string>
+    <string name="disabled">Dinonaktifkan</string>
+    <string name="always_on_display_schedule_mixed_sunset">Menyala dari matahari terbenam sampai waktu tertentu</string>
+    <string name="always_on_display_schedule_mixed_sunrise">Menyala dari waktu tertentu sampai matahari terbit</string>
+    <string name="traffic_title">Indikator Jaringan</string>
+    <string name="traffic_summary">Tampilkan indikator jaringan</string>
+    <string name="network_traffic">Lalu lintas jaringan</string>
+    <string name="network_traffic_state_title">Tampilan lalu lintas jaringan</string>
+    <string name="network_traffic_location">Penempatan lalu lintas jaringan</string>
+    <string name="traffic_disabled">Dinonaktifkan</string>
+    <string name="traffic_statusbar">Bilah status</string>
+    <string name="traffic_expanded_statusbar">Header diperluas</string>
+    <string name="network_traffic_autohide_threshold_title">Ambang batas sembunyikan otomatis aktivitas jaringan</string>
+    <string name="network_traffic_arrow">Tampilkan panah</string>
+    <string name="network_traffic_arrow_summary">Tampilkan panah indikator lalu lintas jaringan</string>
+    <string name="network_traffic_type">Pilih tipe aktivitas jaringan</string>
+    <string name="show_network_traffic_combined">Digabungkan (Unggah + Unduh)</string>
+    <string name="show_network_traffic_dynamic">Dinamis</string>
+    <string name="show_network_traffic_up">Unggah</string>
+    <string name="show_network_traffic_down">Unduh</string>
+    <string name="show_network_traffic_all">Keduanya</string>
+    <string name="network_traffic_font_size_title">Ukuran font jaringan tunggal</string>
+    <string name="notification_headers_title">Tajuk Pemberitahuan</string>
+    <string name="notification_headers_summary">Tampilkan tajuk di bayangan pemberitahuan</string>
+    <string name="vibration_intensity_title">Intensitas Getaran</string>
+    <string name="vibration_intensity_summary">Kontrol intensitas getaran untuk aliran yang berbeda</string>
+    <string name="notification_vibration_intensity_title">Notifikasi</string>
+    <string name="ring_vibration_intensity_title">Dering</string>
+    <string name="haptic_feedback_intensity_title">Umpan Balik Haptik</string>
+    <string name="vibration_intensity_off">Dinonaktifkan</string>
+    <string name="vibration_intensity_low">Rendah</string>
+    <string name="vibration_intensity_medium">Sedang</string>
+    <string name="vibration_intensity_high">Tinggi</string>
+    <string name="incall_actions_category">Opsi tindakan dalam panggilan</string>
+    <string name="incall_vibrate_connect_title">Bergetar saat terhubung</string>
+    <string name="incall_vibrate_call_wait_title">Bergetar saat menunggu panggilan</string>
+    <string name="incall_vibrate_disconnect_title">Bergetar saat terputus</string>
+    <string name="flashlight_on_call_title">Kedipkan Senter untuk panggilan masuk</string>
+    <string name="flashlight_on_call_disabled">Dinonaktifkan</string>
+    <string name="flashlight_on_call_ringer">Saat berdering</string>
+    <string name="flashlight_on_call_no_ringer">Saat dering disenyapkan</string>
+    <string name="flashlight_on_call_silent">Saat benar-benar senyap (tidak ada dering atau getar)</string>
+    <string name="flashlight_on_call_always">Selalu</string>
+    <string name="qs_brightness_slider_category">Slider kecerahan</string>
+    <string name="qs_brightness_slider_title">Tampilkan slider kecerahan</string>
+    <string name="qs_brightness_slider_summary">Tampilkan slider kecerahan di panel Setelan Cepat</string>
+    <string name="qs_brightness_position_bottom_title">Tampilkan slider kecerahan di bawah</string>
+    <string name="qs_brightness_position_bottom_summary">Tampilkan slider kecerahan di setelan cepat bawah</string>
+    <string name="brightness_icon_title">Tombol kecerahan adaptif</string>
+    <string name="brightness_icon_summary">Tampilkan tombol kecerahan adaptif</string>
+    <string name="proximity_wake_title">Mencegah bangun tidak disengaja</string>
+    <string name="proximity_wake_summary">Periksa sensor proximity sebelum membangunkan layar</string>
+    <string name="connected_tws_device_saved_title">Earbud tersimpan</string>
+    <string name="duration_less_than_one_minute">Kurang dari 1 menit</string>
+    <string name="screen_time_summary_usage_today">%1$s hari ini</string>
+    <string name="notification_sound_vib_screen_on_title">Notifikasi Mengganggu</string>
+    <string name="notification_sound_vib_screen_on_summary">Memutar suara dan getaran untuk notifikasi saat layar hidup</string>
+    <string name="less_boring_heads_up_title">Kurangi notifikasi mengambang</string>
+    <string name="less_boring_heads_up_summary">Nonaktifkan notifikasi mengambang dengan cepat untuk semua aplikasi tetapi tetap aktifkan untuk aplikasi telepon dan pesan</string>
+    <string name="system_black_theme_title">Gunakan tema gelap</string>
+    <string name="system_black_theme_summary">Paksa warna latar belakang hitam</string>
+    <string name="vibration_pattern_title">Pola getaran nada dering</string>
+    <string name="pattern_dzzz_dzzz">dzzz-dzzz</string>
+    <string name="pattern_dzzz_da">dzzz-da</string>
+    <string name="pattern_mm_mm_mm">mm-mm-mm</string>
+    <string name="pattern_da_da_dzzz">da-da-dzzz</string>
+    <string name="pattern_da_dzzz_da">da-dzzz-da</string>
+    <string name="pattern_custom">Kustom</string>
+    <string name="custom_vibration_pattern_title">Pola kustom</string>
+    <string name="custom_vibration_pattern_summary">Setel pola getaran kustom</string>
+    <string name="security_settings_face_unlock_redo_face_scan_summary">Hapus pemindaian wajah yang ada dan buat pemindaian baru</string>
+    <string name="security_settings_face_unlock_redo_face_scan_title">Ulangi pemindaian wajah</string>
+    <string name="face_redo_confirm_btn">Ulangi</string>
+    <string name="face_redo_warning_msg">Apakah Anda ingin menghapus pemindaian wajah yang ada dan membuat pemindaian baru?</string>
+    <string name="face_unlock_method_title">Izinkan face unlock di layar kunci</string>
+    <string name="face_unlock_method_default">Saat layar dihidupkan</string>
+    <string name="face_unlock_method_swipe">Saat mengusap layar kunci</string>
+    <string name="security_settings_face_settings_footer_custom">Buka kunci dengan wajah memungkinkan Anda membuka kunci perangkat dengan melihatnya. Perhatikan:\n\n● Perangkat Anda dapat terbuka kuncinya setiap kali Anda melihatnya.\n● Perangkat Anda dapat dibuka kuncinya oleh orang lain jika mereka memegangnya di depan wajah Anda saat mata Anda terbuka.\n● Perangkat Anda juga dapat dibuka oleh seseorang yang sangat mirip dengan Anda, seperti anak kecil atau saudara kandung yang identik.</string>
+    <string name="security_settings_face_settings_remove_dialog_details_custom">Data yang disimpan dengan metode pengenalan wajah akan dihapus dan diamankan secara permanen. Setelah dihapus, Anda akan memerlukan PIN, pola, atau kata sandi untuk membuka ponsel Anda.</string>
+    <string name="statusbar_tuner_title">Penyetel bilah status</string>
+    <string name="qs_show_battery_estimate_title">Perkiraan sisa baterai</string>
+    <string name="qs_show_battery_estimate_summary_on">Tampilkan perkiraan baterai di Setelan Cepat</string>
+    <string name="qs_show_battery_estimate_summary_off">Sembunyikan perkiraan baterai di Setelan Cepat</string>
+    <string name="keygaurd_media_art_title">Seni Media</string>
+    <string name="keygaurd_media_art_summary">Tampilkan seni media sebagai latar belakang layar kunci</string>
+    <string name="screenshot_shutter_sound_title">Suara tangkapan layar</string>
+    <string name="volume_panel_on_left_title">Panel volume di kiri</string>
+    <string name="volume_panel_on_left_summary">Tampilkan panel volume di sisi kiri layar</string>
+    <string name="game_dashboard_always_on_summary">Tampilkan pintasan Dasbor Game di game</string>
+    <string name="game_dashboard_always_on_title">Dasbor Game</string>
+    <string name="game_dashboard_dnd_rule_name">Bermain Game</string>
+    <string name="game_dashboard_dnd_summary">Hanya dapatkan notifikasi dari orang dan aplikasi penting saat bermain game</string>
+    <string name="game_dashboard_dnd_title">Jangan Ganggu untuk game</string>
+    <string name="columbus_title">@string/columbus_name</string>
+    <string name="columbus_gesture_detected">Ketum Cepat terdeteksi!</string>
+    <string name="columbus_gesture_enrollment_complete">Selesai</string>
+    <string name="columbus_gesture_enrollment_do_it_later">Tidak sekarang</string>
+    <string name="columbus_gesture_enrollment_settings">Pergi ke Setelan</string>
+    <string name="columbus_gesture_enrollment_try_it">Cobalah</string>
+    <string name="columbus_gesture_training_action_no_selection_error">Silakan pilih tindakan untuk dilakukan</string>
+    <string name="columbus_gesture_training_action_text">Pilih apa yang terjadi saat Anda menggunakan Ketuk Cepat. Anda dapat mengubahnya nanti di setelan.</string>
+    <string name="columbus_gesture_training_action_title">Pilih opsi Ketuk Cepat</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture">… Ketuk dua kali 1 dari 2 yang terdeteksi</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">Mari kita coba sekali lagi. Ketuk bagian belakang ponsel Anda dua kali dengan cepat.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">Bagus!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture">… Ketuk dua kali 2 dari 2 yang terdeteksi</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">Anda siap untuk mulai menggunakan Ketuk Cepat</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">Anda mengerti!</string>
+    <string name="columbus_gesture_training_enrolling_text">Ketuk bagian belakang ponsel Anda dua kali dengan cepat.</string>
+    <string name="columbus_gesture_training_enrolling_title">Coba Ketuk Cepat</string>
+    <string name="columbus_gesture_training_finished_text">Untuk mengubah kekuatan ketuk yang diperlukan untuk menggunakan Ketuk Cepat, pergi ke Setelan.</string>
+    <string name="columbus_gesture_training_finished_title">Anda telah menyiapkan Ketuk Cepat</string>
+    <string name="columbus_gesture_training_intro_text_accidental">Anda baru saja mengetuk dua kali di bagian belakang perangkat Anda, yang memungkinkan Anda menggunakan Asisten saat bepergian. Anda dapat menyesuaikan gestur ini di setelan.</string>
+    <string name="columbus_gesture_training_intro_text_suw">Ambil tangkapan layar, tampilkan notifikasi, atau mulai tindakan lain dalam dua ketukan.</string>
+    <string name="columbus_gesture_training_intro_title">Ketuk Cepat untuk tindakan cepat</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">Silakan pilih aplikasi yang akan dibuka</string>
+    <string name="columbus_gesture_training_launch_text">Pilih aplikasi yang ingin Anda buka saat menggunakan Ketuk Cepat.</string>
+    <string name="columbus_gesture_training_launch_title">Pilih aplikasi untuk dibuka</string>
+    <string name="columbus_launch_app_extra_widget_a11y_label">%1$s setelan pintasan</string>
+    <string name="columbus_launch_settings_activity_title">Setelan Ketuk Cepat</string>
+    <string name="columbus_name">Ketuk Cepat</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">%1$s setelan</string>
+    <string name="columbus_setting_action_assistant_title">Akses asisten digital Anda</string>
+    <string name="columbus_setting_action_assistant_value">Asisten</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">Tidak ada aplikasi dipilih</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">Aplikasi tidak dipasang</string>
+    <string name="columbus_setting_action_launch_title">Buka aplikasi</string>
+    <string name="columbus_setting_action_launch_value">luncurkan</string>
+    <string name="columbus_setting_action_notification_title">Tampilkan notifikasi</string>
+    <string name="columbus_setting_action_notification_value">notifikasi</string>
+    <string name="columbus_setting_action_open_app_title">Buka aplikasi</string>
+    <string name="columbus_setting_action_overview_title">Lihat aplikasi baru-baru ini</string>
+    <string name="columbus_setting_action_overview_value">tinjauan</string>
+    <string name="columbus_setting_action_play_pause_title">Putar atau jeda media</string>
+    <string name="columbus_setting_action_play_pause_value">media</string>
+    <string name="columbus_setting_action_screenshot_title">Ambil tangkapan layar</string>
+    <string name="columbus_setting_action_screenshot_value">tangkapan layar</string>
+    <string name="columbus_setting_actions_title">Ketuk bagian belakang ponsel dua kali untuk</string>
+    <string name="columbus_setting_additional_settings_title">Kekuatan Ketuk Cepat</string>
+    <string name="columbus_setting_app_selection_help_text">Pilih aplikasi yang akan dibuka saat Anda mengetuk bagian belakang ponsel dua kali. Jika Anda mencopot pemasangan aplikasi, Ketuk Cepat mati hingga Anda memilih aplikasi lain.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">Pilih apa yang terjadi saat Anda membuka aplikasi ini menggunakan Ketuk Cepat.</string>
+    <string name="columbus_setting_enable_switch_title">Gunakan Ketuk Cepat</string>
+    <string name="columbus_setting_sensitivity_title">Membutuhkan ketukan yang lebih kuat</string>
+    <string name="columbus_summary">%1$s / %2$s</string>
+    <string name="display_cutout_force_fullscreen_title">Aplikasi layar penuh</string>
+    <string name="display_cutout_force_fullscreen_summary">Paksa aplikasi untuk mengabaikan jarak notch</string>
+    <string name="search">Telusuri</string>
+    <string name="search_apps">Cari aplikasi</string>
+    <string name="wifi_hotspot_hidden_ssid_title">Jaringan tersembunyi</string>
+    <string name="wifi_hotspot_hidden_ssid_summary">Nama hotspot seluler Anda tidak akan muncul dalam daftar jaringan WiFi yang tersedia.</string>
+    <string name="wifi_band_24ghz_and_5ghz">2.4 GHz &amp; 5 GHz</string>
+    <string name="wifi_band_24ghz_and_6ghz">2.4 GHz &amp; 6 GHz</string>
+    <string name="wifi_band_60ghz">60 GHz</string>
+    <plurals name="wifi_hotspot_auto_off_timeout">
+        <item quantity="other">Matikan saat tidak ada perangkat yang terhubung untuk <xliff:g id="DURATION">%1$d</xliff:g> menit</item>
+    </plurals>
+    <string name="wifi_hotspot_auto_off_timeout_never">Jangan pernah mematikan hotspot</string>
+    <string name="wifi_hotspot_client_manager_title">Perangkat terhubung</string>
+    <string name="wifi_hotspot_client_manager_summary">Daftar dan kelola perangkat yang terhubung ke hotspot, dan tetapkan batas jumlah klien</string>
+    <string name="wifi_hotspot_client_manager_list_only_summary">Daftar perangkat yang terhubung ke hotspot</string>
+    <string name="wifi_hotspot_client_limit_title">Batas perangkat terhubung</string>
+    <plurals name="wifi_hotspot_client_limit_summary">
+        <item quantity="other">Hingga <xliff:g id="device_num">%1$d</xliff:g> perangkat dapat terhubung ke hotspot ini</item>
+    </plurals>
+    <string name="wifi_hotspot_blocked_clients_list_title">Perangkat yang diblokir</string>
+    <string name="wifi_hotspot_connected_clients_list_title">Perangkat yang terhubung</string>
+    <string name="wifi_hotspot_block_client_dialog_title">Blokir perangkat</string>
+    <string name="wifi_hotspot_block_client_dialog_text">Tindakan ini akan memutuskan \"<xliff:g id="device_name">%1$s</xliff:g>\" dari perangkat ini dan menambahkannya ke daftar blokir</string>
+    <string name="wifi_hotspot_unblock_client_dialog_title">Buka blokir perangkat</string>
+    <string name="wifi_hotspot_unblock_client_dialog_text">Perangkat ini \"<xliff:g id="device_name">%1$s</xliff:g>\" akan dapat terhubung ke hotspot ini</string>
+    <string name="wifi_hotspot_client_manager_footer_text">Tidak ada klien yang tersedia saat ini. Perangkat yang terhubung dan diblokir akan dicantumkan di sini jika tersedia.</string>
+</resources>

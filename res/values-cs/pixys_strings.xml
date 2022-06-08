@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright 2020 Pixys OS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pixys_version">"Verze PixysOS"</string>
+    <string name="build_date">"Datum kompilace"</string>
+    <string name="device_info_protected_single_press">Klepnutím zobrazíte informace</string>
+    <string name="three_finger_gesture">Snímek obrazovky třemi prsty</string>
+    <string name="three_finger_gesture_summary">Snímek obrazovky přejetím dolů třemi prsty</string>
+    <string name="density_category">Možnosti hustoty zobrazení</string>
+    <string name="volume_button_music_control_title">Ovládání přehrávání</string>
+    <string name="volume_button_music_control_summary">Pokud je obrazovka vypnutá, dlouhím stisknutí tlačítek hlasitosti přeskočíte skladby</string>
+    <string name="battery_stats_reset">Vynulovat statistiky?</string>
+    <string name="battery_stats_message">Chystáte se obnovit historii statistiky baterie</string>
+    <string name="battery_stats_clear">@string/proxy_clear_text</string>
+    <string name="lock_settings_picker_pattern_size_message">Zvolit velikost vzoru</string>
+    <string name="lockpattern_settings_enable_error_path_title">Zobrazit cestu chybného gesta</string>
+    <string name="lockpattern_settings_enable_dots_title">Zobrazit body gesta</string>
+    <string name="unlock_scramble_pin_layout_title">Přeházet rozložení</string>
+    <string name="unlock_scramble_pin_layout_summary">Přeházet rozložení pro zadání PINu při odemykání zařízení</string>
+    <string name="themes_title">Motivy</string>
+    <string name="themes_summary">Nastavení vzhedu systému..</string>
+    <string name="monet_engine_custom_color_title">Použít vlastní barvu</string>
+    <string name="monet_engine_custom_color_summary">Použít vlastní barvu pro engine Monetu namísto barev tapety</string>
+    <string name="monet_engine_color_override_title">Vlastní barva</string>
+    <string name="monet_engine_white_luminance_user_title">Bílý bod</string>
+    <string name="monet_engine_accurate_shades_title">Použít přesné odstíny</string>
+    <string name="monet_engine_chroma_factor_title">Chromatický faktor</string>
+    <string name="monet_engine_linear_lightness_title">Použití lineární světlost</string>
+    <string name="navbar_length">Délka panelu gesta</string>
+    <string name="short_label">Krátká</string>
+    <string name="long_label">Dlouhá</string>
+    <string name="show_navbar_gesture_bar_title">Panel gest</string>
+    <string name="show_navbar_gesture_bar_summary">Zobrazit panel gesta v dolní části obrazovky</string>
+    <string name="selinux_status">Stav SELinux</string>
+    <string name="selinux_status_disabled">Vypnuto</string>
+    <string name="selinux_status_permissive">Mírný</string>
+    <string name="selinux_status_enforcing">Vynucený</string>
+    <string name="power_menu_title">Menu napájení</string>
+    <string name="power_menu_title_summary">Zobrazit nebo změnit položky menu napájení</string>
+    <string name="powermenu_screenshot">Snímek obrazovky</string>
+    <string name="powermenu_power">Vypnout</string>
+    <string name="powermenu_advanced">Rozšířené možnosti restartování</string>
+    <string name="powermenu_restart">Restartovat</string>
+    <string name="powermenu_airplane">Letadlo</string>
+    <string name="powermenu_settings">Nastavení</string>
+    <string name="powermenu_lockdown">Uzamknout</string>
+    <string name="powermenu_soundpanel">Panel zvuku</string>
+    <string name="powermenu_users">Uživatelé</string>
+    <string name="powermenu_logout">Odhlásit</string>
+    <string name="powermenu_emergency">Stav nouze</string>
+    <string name="always_on_display_schedule_title">Plán zobrazení režimu Vždy zapnuto</string>
+    <string name="always_on_display_schedule_sunset">Soumrak</string>
+    <string name="always_on_display_schedule_sunrise">Úsvit</string>
+    <string name="disabled">Vypnuto</string>
+    <string name="always_on_display_schedule_mixed_sunset">Zapnuto od soumraku do daného času</string>
+    <string name="always_on_display_schedule_mixed_sunrise">Zapnuto od daného času do úsvitu</string>
+    <string name="traffic_title">Indikátor datových přenosů</string>
+    <string name="traffic_summary">Zobrazit síťový provoz</string>
+    <string name="network_traffic">Síťový provoz</string>
+    <string name="network_traffic_state_title">Zobrazení síťového provozu</string>
+    <string name="network_traffic_location">Umístění indikátoru síťového provozu</string>
+    <string name="traffic_disabled">Vypnuto</string>
+    <string name="traffic_statusbar">Stavový řádek</string>
+    <string name="traffic_expanded_statusbar">Rozšířené záhlaví</string>
+    <string name="network_traffic_autohide_threshold_title">Prahová hodnota pro automatické skrytí sítě</string>
+    <string name="network_traffic_arrow">Zobrazit šipky</string>
+    <string name="network_traffic_arrow_summary">Zobrazit šipky aktivity sítě</string>
+    <string name="network_traffic_type">Vyberte typ činnosti sítě</string>
+    <string name="show_network_traffic_combined">Kombinovaný (nahrávání + stahování)</string>
+    <string name="show_network_traffic_dynamic">Dynamický</string>
+    <string name="show_network_traffic_up">Nahrávání</string>
+    <string name="show_network_traffic_down">Stahování</string>
+    <string name="show_network_traffic_all">Obojí</string>
+    <string name="network_traffic_font_size_title">Velikost textu jedné sítě</string>
+    <string name="notification_headers_title">Záhlaví oznámení</string>
+    <string name="notification_headers_summary">Zobrazit záhlaví v liště oznámení</string>
+    <string name="vibration_intensity_title">Intenzita vibrací</string>
+    <string name="vibration_intensity_summary">Ovládání intenzity vibrací pro různé toky</string>
+    <string name="notification_vibration_intensity_title">Oznámení</string>
+    <string name="ring_vibration_intensity_title">Vyzvánění</string>
+    <string name="haptic_feedback_intensity_title">Hmatová odezva</string>
+    <string name="vibration_intensity_off">Vypnuto</string>
+    <string name="vibration_intensity_low">Nízká</string>
+    <string name="vibration_intensity_medium">Střední</string>
+    <string name="vibration_intensity_high">Vysoká</string>
+    <string name="incall_actions_category">Možnosti akcí při volání</string>
+    <string name="incall_vibrate_connect_title">Zavibrovat při spojení</string>
+    <string name="incall_vibrate_call_wait_title">Zavibrovat při dalším příchozím hovoru</string>
+    <string name="incall_vibrate_disconnect_title">Zavibrovat při zavěšení</string>
+    <string name="flashlight_on_call_title">Rozblikat svítilnu během příchozího hovoru</string>
+    <string name="flashlight_on_call_disabled">Vypnuto</string>
+    <string name="flashlight_on_call_ringer">Při vyzvánění</string>
+    <string name="flashlight_on_call_no_ringer">Při tichém vyzvánění</string>
+    <string name="flashlight_on_call_silent">Při zcela tichém režimu (žádné vyzvánění nebo vibrace)</string>
+    <string name="flashlight_on_call_always">Vždy</string>
+    <string name="qs_brightness_slider_category">Posuvník jasu</string>
+    <string name="qs_brightness_slider_title">Zobrazit posuvník jasu</string>
+    <string name="qs_brightness_slider_summary">Zobrazit posuvník jasu v\u00a0panelu Rychlého nastavení</string>
+    <string name="qs_brightness_position_bottom_title">Zobrazit posuvník jasu v v dolní části</string>
+    <string name="qs_brightness_position_bottom_summary">Zobrazit posuvník jasu v dolní části panelu Rychlého nastavení</string>
+    <string name="brightness_icon_title">Tlačítko adaptivního jasu</string>
+    <string name="brightness_icon_summary">Zobrazovat tlačítko adaptivního jasu</string>
+    <string name="proximity_wake_title">Zabránit nechtěným probuzením</string>
+    <string name="proximity_wake_summary">Kontrolovat senzor přiblížení pro zabránění nechtěných probuzení</string>
+    <string name="connected_tws_device_saved_title">Uložená sluchátka</string>
+    <string name="duration_less_than_one_minute">Méně než 1 min.</string>
+    <string name="screen_time_summary_usage_today">Dnes %1$s</string>
+    <string name="notification_sound_vib_screen_on_title">Obtěžující oznámení</string>
+    <string name="notification_sound_vib_screen_on_summary">Přehrát zvuk a vibrovat při přijetí oznámení, když je obrazovka zapnutá</string>
+    <string name="less_boring_heads_up_title">Méně obtěžující plovoucí oznámení</string>
+    <string name="less_boring_heads_up_summary">Rychle vypne plovoucí oznámení pro všechny aplikace, ale ponechá je zapnuté pro aplikace Telefon a Zprávy</string>
+    <string name="system_black_theme_title">Použít černý motiv</string>
+    <string name="system_black_theme_summary">Vynutit černou barvu pozadí</string>
+    <string name="vibration_pattern_title">Vzor vibrací vyzvánění</string>
+    <string name="pattern_dzzz_dzzz">dzzz-dzzz</string>
+    <string name="pattern_dzzz_da">dzzz-da</string>
+    <string name="pattern_mm_mm_mm">mm-mm-mm</string>
+    <string name="pattern_da_da_dzzz">da-da-dzzz</string>
+    <string name="pattern_da_dzzz_da">da-dzzz-da</string>
+    <string name="pattern_custom">Vlastní</string>
+    <string name="custom_vibration_pattern_title">Vlastní vzor</string>
+    <string name="custom_vibration_pattern_summary">Vlastní vzor vibrací</string>
+    <string name="security_settings_face_unlock_redo_face_scan_summary">Odstranit stávající sken obličeje a vytvořit nový</string>
+    <string name="security_settings_face_unlock_redo_face_scan_title">Znovu naskenovat obličej</string>
+    <string name="face_redo_confirm_btn">Znovu</string>
+    <string name="face_redo_warning_msg">Chcete odstranit stávající sken obličeje a vytvořit nový?</string>
+    <string name="face_unlock_method_title">Povolit odemknutí obličejem na obrazovce uzamčení</string>
+    <string name="face_unlock_method_default">Když je obrazovka zapnutá</string>
+    <string name="face_unlock_method_swipe">Při přejetí prstem přes obrazovku uzamčení</string>
+    <string name="security_settings_face_settings_footer_custom">Odemknutí obličejem vám umožní odemknout zařízení pohledem. Mějte na paměti:\n\n● Vaše zařízení se může odemknout, kdykoli se na něj podíváte.\n● Vaše zařízení může odemknout někdo jiný, pokud jej drží před vaší tváří, zatímco máte otevřené oči.\n● Vaše zařízení může odemknout také někdo, kdo vypadá podobně jako vy, například dítě nebo identický sourozenec.</string>
+    <string name="security_settings_face_settings_remove_dialog_details_custom">Data, která se při odemknutí obličeje uloží, budou trvale a bezpečně smazána. Pokud chcete odemknout telefon po jejich odstranění, musíte zadat kód PIN, gesto nebo heslo.</string>
+    <string name="statusbar_tuner_title">Úprava stavového řádku</string>
+    <string name="qs_show_battery_estimate_title">Odhad výdrže baterie</string>
+    <string name="qs_show_battery_estimate_summary_on">Zobrazit odhady baterie v panelu QS</string>
+    <string name="qs_show_battery_estimate_summary_off">Skrýt odhady baterie v panelu QS</string>
+    <string name="keygaurd_media_art_title">Obal interpreta</string>
+    <string name="keygaurd_media_art_summary">Zobrazit obal interpreta jako pozadí zamykací obrazovky</string>
+    <string name="screenshot_shutter_sound_title">Zvuk při snímku obrazovky</string>
+    <string name="volume_panel_on_left_title">Panel hlasitosti na lévé straně</string>
+    <string name="volume_panel_on_left_summary">Zobrazit panel hlasitosti na levé straně obrazovky</string>
+    <string name="game_dashboard_always_on_summary">Zobrazit ve hrách zástupce Herního přehledu</string>
+    <string name="game_dashboard_always_on_title">Herní přehled</string>
+    <string name="game_dashboard_dnd_rule_name">Hry</string>
+    <string name="game_dashboard_dnd_summary">Být upozorňován pouze důležitými lidmi a\u00a0aplikacemi během hraní hry</string>
+    <string name="game_dashboard_dnd_title">Režim Nerušit při hraní</string>
+    <string name="columbus_title">@string/columbus_name</string>
+    <string name="columbus_gesture_detected">Bylo zaznamenáno Rychlé poklepání!</string>
+    <string name="columbus_gesture_enrollment_complete">Hotovo</string>
+    <string name="columbus_gesture_enrollment_do_it_later">Teď ne</string>
+    <string name="columbus_gesture_enrollment_settings">Přejít do nastavení</string>
+    <string name="columbus_gesture_enrollment_try_it">Vyzkoušet</string>
+    <string name="columbus_gesture_training_action_no_selection_error">Vyberte prosím akci k\u00a0provedení</string>
+    <string name="columbus_gesture_training_action_text">Vyberte, co se má stát, když použijete Rychlé poklepání. Později to můžete změnit v\u00a0nastavení.</string>
+    <string name="columbus_gesture_training_action_title">Vyberte možnost Rychlého poklepání</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture">… Bylo zjištěno dvojité klepnutí 1\u00a0ze\u00a02</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">Zkusme to ještě jednou. Dvakrát rychle klepněte na zadní stranu telefonu.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">Skvěle!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture">… Bylo zjištěno dvojité klepnutí 2\u00a0ze\u00a02</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">Jste připraveni začít používat Rychlé poklepání</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">Dobrá práce!</string>
+    <string name="columbus_gesture_training_enrolling_text">Rychle dvakrát klepněte na zadní stranu telefonu.</string>
+    <string name="columbus_gesture_training_enrolling_title">Vyzkoušejte Rychlé poklepání</string>
+    <string name="columbus_gesture_training_finished_text">Chcete‑li změnit sílu klepnutí potřebnou k\u00a0použití Rychlého poklepání, přejděte do nastavení.</string>
+    <string name="columbus_gesture_training_finished_title">Nastavili jste Rychlé poklepání</string>
+    <string name="columbus_gesture_training_intro_text_accidental">Právě jste dvakrát klepnuli na zadní stranu vašeho zařízení, což vám umožňuje použít vašeho Asistenta on‑the‑go. Toto gesto si můžete přizpůsobit v\u00a0nastavení.</string>
+    <string name="columbus_gesture_training_intro_text_suw">Pořídit snímek obrazovky, zobrazit oznámení nebo zahájit další akci dvěma klepnutími.</string>
+    <string name="columbus_gesture_training_intro_title">Rychlé poklepání pro rychlé akce</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">Vyberte prosím aplikaci, kterou chcete otevřít</string>
+    <string name="columbus_gesture_training_launch_text">Vyberte aplikaci, kterou chcete otevřít, když použijete Rychlé poklepání.</string>
+    <string name="columbus_gesture_training_launch_title">Vyberte aplikaci k\u00a0otevření</string>
+    <string name="columbus_launch_app_extra_widget_a11y_label">Nastavení zástupce %1$s</string>
+    <string name="columbus_launch_settings_activity_title">Nastavení Rychlého poklepání</string>
+    <string name="columbus_name">Rychlé poklepání</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">Nastavení %1$s</string>
+    <string name="columbus_setting_action_assistant_title">Přístup k\u00a0vašemu digitálnímu asistentovi</string>
+    <string name="columbus_setting_action_assistant_value">Asistent</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">Není vybrána žádná aplikace</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">Aplikace není nainstalována</string>
+    <string name="columbus_setting_action_launch_title">Otevřít aplikaci</string>
+    <string name="columbus_setting_action_launch_value">spustit</string>
+    <string name="columbus_setting_action_notification_title">Zobrazit oznámení</string>
+    <string name="columbus_setting_action_notification_value">oznámení</string>
+    <string name="columbus_setting_action_open_app_title">Otevřít aplikaci</string>
+    <string name="columbus_setting_action_overview_title">Zobrazit nedávné aplikace</string>
+    <string name="columbus_setting_action_overview_value">přehled</string>
+    <string name="columbus_setting_action_play_pause_title">Přehrát nebo pozastavit média</string>
+    <string name="columbus_setting_action_play_pause_value">média</string>
+    <string name="columbus_setting_action_screenshot_title">Pořídit snímek obrazovky</string>
+    <string name="columbus_setting_action_screenshot_value">snímek obrazovky</string>
+    <string name="columbus_setting_actions_title">Dvojitým klepnutím na zadní stranu telefonu</string>
+    <string name="columbus_setting_additional_settings_title">Síla Rychlého poklepání</string>
+    <string name="columbus_setting_app_selection_help_text">Vyberte aplikaci, která se otevře, když dvakrát klepnete na zadní stranu telefonu. Pokud aplikaci odinstalujete, Rychlé poklepání se vypne, dokud nevyberete jinou aplikaci.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">Vyberte, co se má stát, když otevřete tuto aplikaci pomocí Rychlého poklepání.</string>
+    <string name="columbus_setting_enable_switch_title">Používat Rychlé poklepání</string>
+    <string name="columbus_setting_sensitivity_title">Vyžadovat silnější klepnutí</string>
+    <string name="columbus_summary">%1$s / %2$s</string>
+    <string name="display_cutout_force_fullscreen_title">Aplikace přes celou obrazovku</string>
+    <string name="display_cutout_force_fullscreen_summary">Vynutit, aby aplikace ignorovaly výřez v displeji</string>
+    <string name="search">Hledat</string>
+    <string name="search_apps">Vyhledávání aplikací</string>
+    <string name="wifi_hotspot_hidden_ssid_title">Skrytá síť</string>
+    <string name="wifi_hotspot_hidden_ssid_summary">Název vašeho mobilního hotspotu se nezobrazí v seznamu dostupných sítí WLAN.</string>
+    <string name="wifi_band_24ghz_and_5ghz">2.4 GHz a 5 GHz</string>
+    <string name="wifi_band_24ghz_and_6ghz">2.4 GHz a 6 GHz</string>
+    <string name="wifi_band_60ghz">60 GHz</string>
+    <plurals name="wifi_hotspot_auto_off_timeout">
+        <item quantity="other">Vypnout, když není po dobu <xliff:g id="DURATION">%1$d</xliff:g> minut připojeno žádné zařízení</item>
+        <item quantity="one">Vypnout, když není po dobu <xliff:g id="DURATION">%1$d</xliff:g> minuty připojeno žádné zařízení</item>
+        <item quantity="few">Vypnout, když není po dobu <xliff:g id="DURATION">%1$d</xliff:g> minut připojeno žádné zařízení</item>
+        <item quantity="many">Vypnout, když není po dobu <xliff:g id="DURATION">%1$d</xliff:g> minut připojeno žádné zařízení</item>
+    </plurals>
+    <string name="wifi_hotspot_auto_off_timeout_never">Nikdy nevypínat hotspot</string>
+    <string name="wifi_hotspot_client_manager_title">Připojená zařízení</string>
+    <string name="wifi_hotspot_client_manager_summary">Seznam a správa zařízení připojených k hotspotu a nastavení limitu počtu klientů</string>
+    <string name="wifi_hotspot_client_manager_list_only_summary">Seznam zařízení připojených k hotspotu</string>
+    <string name="wifi_hotspot_client_limit_title">Omezení počtu připojených zařízení</string>
+    <plurals name="wifi_hotspot_client_limit_summary">
+        <item quantity="other">K tomuto hotspotu se může připojit až <xliff:g id="device_num">%1$d</xliff:g> zařízení</item>
+        <item quantity="one">K tomuto hotspotu se může připojit až <xliff:g id="device_num">%1$d</xliff:g> zařízení</item>
+        <item quantity="few">K tomuto hotspotu se může připojit až <xliff:g id="device_num">%1$d</xliff:g> zařízení</item>
+        <item quantity="many">K tomuto hotspotu se může připojit až <xliff:g id="device_num">%1$d</xliff:g> zařízení</item>
+    </plurals>
+    <string name="wifi_hotspot_blocked_clients_list_title">Blokovaná zařízení</string>
+    <string name="wifi_hotspot_connected_clients_list_title">Připojená zařízení</string>
+    <string name="wifi_hotspot_block_client_dialog_title">Blokovat zařízení</string>
+    <string name="wifi_hotspot_block_client_dialog_text">Tato akce odpojí \"<xliff:g id="device_name">%1$s</xliff:g>\" od tohoto zařízení a přidá jej do seznamu blokovaných</string>
+    <string name="wifi_hotspot_unblock_client_dialog_title">Odblokovat zařízení</string>
+    <string name="wifi_hotspot_unblock_client_dialog_text">Toto zařízení \"<xliff:g id="device_name">%1$s</xliff:g>\" se bude moci připojit k tomuto hotspotu</string>
+    <string name="wifi_hotspot_client_manager_footer_text">Aktuálně nejsou k dispozici žádní klienti. Připojená a blokovaná zařízení budou zobrazena v případě, že budou k dostupná.</string>
+</resources>

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright 2020 Pixys OS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pixys_version">"PixysOS バージョン"</string>
+    <string name="build_date">"ビルド日時"</string>
+    <string name="device_info_protected_single_press">タップして情報を表示</string>
+    <string name="three_finger_gesture">スワイプでスクリーンショット</string>
+    <string name="three_finger_gesture_summary">3本指で下スワイプしてスクリーンショットを取得する</string>
+    <string name="density_category">解像度オプション</string>
+    <string name="volume_button_music_control_title">再生コントロール</string>
+    <string name="volume_button_music_control_summary">画面消灯時に音量キーを長押しして曲をシークする</string>
+    <string name="battery_stats_reset">統計データを消去しますか?</string>
+    <string name="battery_stats_message">バッテリーの使用統計はリセットされます</string>
+    <string name="battery_stats_clear">@string/proxy_clear_text</string>
+    <string name="lock_settings_picker_pattern_size_message">パターンサイズを選択して下さい</string>
+    <string name="lockpattern_settings_enable_error_path_title">間違えたパターンを表示</string>
+    <string name="lockpattern_settings_enable_dots_title">パターンのドットを表示</string>
+    <string name="unlock_scramble_pin_layout_title">数字のランダム化</string>
+    <string name="unlock_scramble_pin_layout_summary">端末のロック解除時に PIN レイアウトをランダムにする</string>
+    <string name="themes_title">テーマ</string>
+    <string name="themes_summary">絵を描くモネ派の画家..</string>
+    <string name="monet_engine_custom_color_title">カスタムの色を使用</string>
+    <string name="monet_engine_custom_color_summary">Monet エンジンに壁紙の色の代わりにカスタムの色を使用する</string>
+    <string name="monet_engine_color_override_title">カスタムの色</string>
+    <string name="monet_engine_white_luminance_user_title">白い輝き</string>
+    <string name="monet_engine_accurate_shades_title">正確な色合いを使用</string>
+    <string name="monet_engine_chroma_factor_title">クローマ (彩度) 係数</string>
+    <string name="monet_engine_linear_lightness_title">線形の明度を使用</string>
+    <string name="navbar_length">ジェスチャーバーの長さ</string>
+    <string name="short_label">短</string>
+    <string name="long_label">長</string>
+    <string name="show_navbar_gesture_bar_title">ジェスチャーバー</string>
+    <string name="show_navbar_gesture_bar_summary">ジェスチャーバーを画面の下部に表示する</string>
+    <string name="selinux_status">SELinux ステータス</string>
+    <string name="selinux_status_disabled">Disabled</string>
+    <string name="selinux_status_permissive">Permissive</string>
+    <string name="selinux_status_enforcing">Enforcing</string>
+    <string name="power_menu_title">電源メニュー</string>
+    <string name="power_menu_title_summary">電源メニューの表示項目を変更する</string>
+    <string name="powermenu_screenshot">スクリーンショット</string>
+    <string name="powermenu_power">電源</string>
+    <string name="powermenu_advanced">高度な再起動オプション</string>
+    <string name="powermenu_restart">再起動</string>
+    <string name="powermenu_airplane">機内モード</string>
+    <string name="powermenu_settings">設定</string>
+    <string name="powermenu_lockdown">画面ロック</string>
+    <string name="powermenu_soundpanel">音量パネル</string>
+    <string name="powermenu_users">ユーザー</string>
+    <string name="powermenu_logout">ログアウト</string>
+    <string name="powermenu_emergency">緊急通報</string>
+    <string name="always_on_display_schedule_title">Always On Display のスケジュール</string>
+    <string name="always_on_display_schedule_sunset">日没</string>
+    <string name="always_on_display_schedule_sunrise">日の出</string>
+    <string name="disabled">無効</string>
+    <string name="always_on_display_schedule_mixed_sunset">日没から設定時刻まで</string>
+    <string name="always_on_display_schedule_mixed_sunrise">設定時刻から日の出まで</string>
+    <string name="traffic_title">通信速度</string>
+    <string name="traffic_summary">通信速度を表示する</string>
+    <string name="network_traffic">通信速度</string>
+    <string name="network_traffic_state_title">通信速度の表示</string>
+    <string name="network_traffic_location">電波アイコンの置き換え</string>
+    <string name="traffic_disabled">無効</string>
+    <string name="traffic_statusbar">ステータスバー</string>
+    <string name="traffic_expanded_statusbar">拡張ヘッダー</string>
+    <string name="network_traffic_autohide_threshold_title">自動非表示にするしきい値</string>
+    <string name="network_traffic_arrow">矢印を表示</string>
+    <string name="network_traffic_arrow_summary">通信方向の矢印を表示する</string>
+    <string name="network_traffic_type">表示する通信方向を選択</string>
+    <string name="show_network_traffic_combined">両方 (送信+受信)</string>
+    <string name="show_network_traffic_dynamic">動的</string>
+    <string name="show_network_traffic_up">送信</string>
+    <string name="show_network_traffic_down">受信</string>
+    <string name="show_network_traffic_all">両方</string>
+    <string name="network_traffic_font_size_title">ネットワークフォントサイズ</string>
+    <string name="notification_headers_title">通知のヘッダー</string>
+    <string name="notification_headers_summary">通知の影にヘッダーを表示する</string>
+    <string name="vibration_intensity_title">振動の強さ</string>
+    <string name="vibration_intensity_summary">異なるストリームでの振動の強さを制御する</string>
+    <string name="notification_vibration_intensity_title">通知</string>
+    <string name="ring_vibration_intensity_title">着信</string>
+    <string name="haptic_feedback_intensity_title">振動フィードバック</string>
+    <string name="vibration_intensity_off">無効</string>
+    <string name="vibration_intensity_low">低</string>
+    <string name="vibration_intensity_medium">中</string>
+    <string name="vibration_intensity_high">高</string>
+    <string name="incall_actions_category">通話中のアクションオプション</string>
+    <string name="incall_vibrate_connect_title">接続時に振動</string>
+    <string name="incall_vibrate_call_wait_title">割込通話時に振動</string>
+    <string name="incall_vibrate_disconnect_title">切断時に振動</string>
+    <string name="flashlight_on_call_title">着信時にフラッシュライト点滅</string>
+    <string name="flashlight_on_call_disabled">無効</string>
+    <string name="flashlight_on_call_ringer">着信時</string>
+    <string name="flashlight_on_call_no_ringer">着信音がサイレント時</string>
+    <string name="flashlight_on_call_silent">完全サイレント時 (着信音やバイブなし)</string>
+    <string name="flashlight_on_call_always">常時</string>
+    <string name="qs_brightness_slider_category">明るさスライダー</string>
+    <string name="qs_brightness_slider_title">明るさスライダーを表示</string>
+    <string name="qs_brightness_slider_summary">クイック設定パネルに明るさスライダーを表示する</string>
+    <string name="qs_brightness_position_bottom_title">下部に明るさスライダーを表示</string>
+    <string name="qs_brightness_position_bottom_summary">クイック設定下部に明るさスライダーを表示する</string>
+    <string name="brightness_icon_title">明るさ自動調節ボタン</string>
+    <string name="brightness_icon_summary">明るさ自動調節ボタンを表示する</string>
+    <string name="proximity_wake_title">誤起動を防止</string>
+    <string name="proximity_wake_summary">スリープ解除する前に接近センサーで確認する</string>
+    <string name="connected_tws_device_saved_title">保存されたイヤホン</string>
+    <string name="duration_less_than_one_minute">1分未満</string>
+    <string name="screen_time_summary_usage_today">本日: %1$s</string>
+    <string name="notification_sound_vib_screen_on_title">不必要な通知</string>
+    <string name="notification_sound_vib_screen_on_summary">画面点灯中に通知を受信した時に通知音と振動を鳴らす</string>
+    <string name="less_boring_heads_up_title">不必要な Heads Up</string>
+    <string name="less_boring_heads_up_summary">素早く全てのアプリの Heads Up 通知を無効化しますが電話とメッセージアプリは無効化されません</string>
+    <string name="system_black_theme_title">ブラックテーマを使用</string>
+    <string name="system_black_theme_summary">強制的に黒い背景のテーマを使用する</string>
+    <string name="vibration_pattern_title">着信音の振動パターン</string>
+    <string name="pattern_dzzz_dzzz">dzzz-dzzz</string>
+    <string name="pattern_dzzz_da">dzzz-da</string>
+    <string name="pattern_mm_mm_mm">mm-mm-mm</string>
+    <string name="pattern_da_da_dzzz">da-da-dzzz</string>
+    <string name="pattern_da_dzzz_da">da-dzzz-da</string>
+    <string name="pattern_custom">カスタム</string>
+    <string name="custom_vibration_pattern_title">カスタムパターン</string>
+    <string name="custom_vibration_pattern_summary">カスタムの振動パターンを設定する</string>
+    <string name="security_settings_face_unlock_redo_face_scan_summary">既存の顔スキャンを削除して新しいスキャンを作成する</string>
+    <string name="security_settings_face_unlock_redo_face_scan_title">顔スキャンを再実行</string>
+    <string name="face_redo_confirm_btn">やり直す</string>
+    <string name="face_redo_warning_msg">既存の顔スキャンを削除して新しいスキャンを作成しますか?</string>
+    <string name="face_unlock_method_title">ロック画面での顔認証ロック解除を許可</string>
+    <string name="face_unlock_method_default">画面が点灯した時</string>
+    <string name="face_unlock_method_swipe">ロック画面をスワイプした時</string>
+    <string name="security_settings_face_settings_footer_custom">顔認証ロック解除では端末を覗き込むことでロック解除できます。以下のことに中止して下さい:\n\n● いつでもあなたの端末はロック解除できるようになります。\n● あなたの目が開いている間に他人があなたの端末をあなたの顔に向けたら誰でもロック解除が可能です。\n● 子供や兄弟などの見た目が似ている人物の顔でロック解除される可能性があります。</string>
+    <string name="security_settings_face_settings_remove_dialog_details_custom">顔認証ロック解除により記録されたデータは完全かつ安全に削除されます。削除後は PIN、パターン、パスワードで端末をロック解除する必要があります。</string>
+    <string name="statusbar_tuner_title">ステータスバーチューナー</string>
+    <string name="qs_show_battery_estimate_title">予想稼働時間</string>
+    <string name="qs_show_battery_estimate_summary_on">バッテリー予想稼働時間をクイック設定パネルに表示する</string>
+    <string name="qs_show_battery_estimate_summary_off">バッテリー予想稼働時間をクイック設定パネルに表示しない</string>
+    <string name="keygaurd_media_art_title">メディアアート</string>
+    <string name="keygaurd_media_art_summary">メディアアートをロック画面の背景として表示する</string>
+    <string name="screenshot_shutter_sound_title">スクリーンショットの音</string>
+    <string name="volume_panel_on_left_title">左の音量パネル</string>
+    <string name="volume_panel_on_left_summary">画面の左側に音量パネルを表示する</string>
+    <string name="game_dashboard_always_on_summary">ゲーム内でダッシュボードのショートカットを表示する</string>
+    <string name="game_dashboard_always_on_title">ゲームダッシュボード</string>
+    <string name="game_dashboard_dnd_rule_name">ゲーム</string>
+    <string name="game_dashboard_dnd_summary">ゲームをプレイ中は重要な人やアプリからのみ通知を受け取る</string>
+    <string name="game_dashboard_dnd_title">ゲーム用の Do Not Disturb</string>
+    <string name="columbus_title">@string/columbus_name</string>
+    <string name="columbus_gesture_detected">クイックタップを検出しました!</string>
+    <string name="columbus_gesture_enrollment_complete">完了</string>
+    <string name="columbus_gesture_enrollment_do_it_later">後で</string>
+    <string name="columbus_gesture_enrollment_settings">設定に移動</string>
+    <string name="columbus_gesture_enrollment_try_it">試す</string>
+    <string name="columbus_gesture_training_action_no_selection_error">実行するアクションを選択して下さい</string>
+    <string name="columbus_gesture_training_action_text">クイックタップを使用したときの動作を選択します。これは後から設定で変更できます。</string>
+    <string name="columbus_gesture_training_action_title">クイックタップのオプションを選択</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture">… ダブルタップの1回目を検出しました</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">もう一度試してみましょう。背面を2回素早くタップして下さい。</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">いいね!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture">… ダブルタップの2回目を検出しました</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">クイックタップを使用する準備ができました</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">お見事!</string>
+    <string name="columbus_gesture_training_enrolling_text">背面を2回素早くタップします。</string>
+    <string name="columbus_gesture_training_enrolling_title">クイックタップを試す</string>
+    <string name="columbus_gesture_training_finished_text">クイックタップを使うために必要なタップ強度を変更するには、設定に進んで下さい。</string>
+    <string name="columbus_gesture_training_finished_title">クイックタップを設定しました</string>
+    <string name="columbus_gesture_training_intro_text_accidental">背面を2回タップするだけでアシスタントを使用できます。 このジェスチャーは設定でカスタマイズできます。</string>
+    <string name="columbus_gesture_training_intro_text_suw">スクリーンショット撮影、通知の表示やその他のアクションを2回のタップで実行できます。</string>
+    <string name="columbus_gesture_training_intro_title">クイックタップでクイックアクション</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">開くアプリを選択して下さい</string>
+    <string name="columbus_gesture_training_launch_text">クイックタップを使用したときに開きたいアプリを選択して下さい。</string>
+    <string name="columbus_gesture_training_launch_title">開くアプリを選択</string>
+    <string name="columbus_launch_app_extra_widget_a11y_label">%1$s ショートカットの設定</string>
+    <string name="columbus_launch_settings_activity_title">クイックタップの設定</string>
+    <string name="columbus_name">クイックタップ</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">%1$s の設定</string>
+    <string name="columbus_setting_action_assistant_title">アシスタントにアクセス</string>
+    <string name="columbus_setting_action_assistant_value">アシスタント</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">アプリが選択されていません</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">アプリはインストールされていません</string>
+    <string name="columbus_setting_action_launch_title">アプリを開く</string>
+    <string name="columbus_setting_action_launch_value">起動</string>
+    <string name="columbus_setting_action_notification_title">通知の表示</string>
+    <string name="columbus_setting_action_notification_value">通知</string>
+    <string name="columbus_setting_action_open_app_title">アプリを開く</string>
+    <string name="columbus_setting_action_overview_title">アプリ履歴を表示</string>
+    <string name="columbus_setting_action_overview_value">一覧</string>
+    <string name="columbus_setting_action_play_pause_title">メディアの再生/一時停止</string>
+    <string name="columbus_setting_action_play_pause_value">メディア</string>
+    <string name="columbus_setting_action_screenshot_title">スクリーンショットを撮る</string>
+    <string name="columbus_setting_action_screenshot_value">スクリーンショット</string>
+    <string name="columbus_setting_actions_title">背面を2回タップで実行:</string>
+    <string name="columbus_setting_additional_settings_title">クイックタップの強度</string>
+    <string name="columbus_setting_app_selection_help_text">背面を2回タップしたときに開くアプリを選択します。 選択したアプリをアンインストールした場合は、別のアプリを選択するまでクイックタップはオフになります。</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">クイックタップを使用してこのアプリを開いたとき、どうするかを選択します。</string>
+    <string name="columbus_setting_enable_switch_title">クイックタップを使用</string>
+    <string name="columbus_setting_sensitivity_title">強いタップが必要です</string>
+    <string name="columbus_summary">%1$s / %2$s</string>
+    <string name="display_cutout_force_fullscreen_title">全画面表示のアプリ</string>
+    <string name="display_cutout_force_fullscreen_summary">強制的にアプリのノッチ領域を無視する</string>
+    <string name="search">検索</string>
+    <string name="search_apps">アプリを検索</string>
+    <string name="wifi_hotspot_hidden_ssid_title">非公開ネットワーク</string>
+    <string name="wifi_hotspot_hidden_ssid_summary">お使いのモバイルホットスポット名は利用可能な WLAN ネットワークのリスト内から消えます</string>
+    <string name="wifi_band_24ghz_and_5ghz">2.4 GHz &amp; 5 GHz</string>
+    <string name="wifi_band_24ghz_and_6ghz">2.4 GHz &amp; 6 GHz</string>
+    <string name="wifi_band_60ghz">60 GHz</string>
+    <plurals name="wifi_hotspot_auto_off_timeout">
+        <item quantity="other"><xliff:g id="DURATION">%1$d</xliff:g>分間端末の接続がない場合はオフにする</item>
+    </plurals>
+    <string name="wifi_hotspot_auto_off_timeout_never">ホットスポットを維持</string>
+    <string name="wifi_hotspot_client_manager_title">接続された端末</string>
+    <string name="wifi_hotspot_client_manager_summary">ホットスポットへ接続済みの端末のリストと管理、クライアント数の上限を設定します。</string>
+    <string name="wifi_hotspot_client_manager_list_only_summary">ホットスポットに接続された端末一覧</string>
+    <string name="wifi_hotspot_client_limit_title">接続する端末の上限数</string>
+    <plurals name="wifi_hotspot_client_limit_summary">
+        <item quantity="other">最大<xliff:g id="device_num">%1$d</xliff:g>台の端末がこのホットポットに接続できます</item>
+    </plurals>
+    <string name="wifi_hotspot_blocked_clients_list_title">ブロック済みの端末</string>
+    <string name="wifi_hotspot_connected_clients_list_title">接続された端末</string>
+    <string name="wifi_hotspot_block_client_dialog_title">端末をブロック</string>
+    <string name="wifi_hotspot_block_client_dialog_text">この操作によりこの端末から \"<xliff:g id="device_name">%1$s</xliff:g>\" を切断しブロックリストに追加します</string>
+    <string name="wifi_hotspot_unblock_client_dialog_title">端末をブロック解除</string>
+    <string name="wifi_hotspot_unblock_client_dialog_text">端末 \"<xliff:g id="device_name">%1$s</xliff:g>\" はこのホットスポットへ接続可能になります</string>
+    <string name="wifi_hotspot_client_manager_footer_text">利用可能なクライアントは現在ありません。利用可能になった時に接続済みまたはブロック済みの端末はこのリストに表示されます。</string>
+</resources>

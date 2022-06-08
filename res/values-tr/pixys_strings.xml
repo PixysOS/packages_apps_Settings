@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright 2020 Pixys OS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pixys_version">"PixysOS sürümü"</string>
+    <string name="build_date">"İnşa tarihi"</string>
+    <string name="device_info_protected_single_press">Bilgileri göstermek için dokunun</string>
+    <string name="three_finger_gesture">Üç parmak hareketi</string>
+    <string name="three_finger_gesture_summary">Ekran görüntüsü almak için üç parmağınızla aşağı kaydırın</string>
+    <string name="density_category">Ekran yoğunluğu</string>
+    <string name="volume_button_music_control_title">Oynatma kontrolü</string>
+    <string name="volume_button_music_control_summary">Ekran kapalıyken ses tuşlarına uzun basarak şarkıyı değiştir</string>
+    <string name="battery_stats_reset">Kullanım verileri temizlensin mi?</string>
+    <string name="battery_stats_message">Pil kullanım verileri kaybolacak</string>
+    <string name="battery_stats_clear">@string/proxy_clear_text</string>
+    <string name="lock_settings_picker_pattern_size_message">Desen boyutu seçin</string>
+    <string name="lockpattern_settings_enable_error_path_title">Desen hatalarını göster</string>
+    <string name="lockpattern_settings_enable_dots_title">Desen noktalarını göster</string>
+    <string name="unlock_scramble_pin_layout_title">Karışık düzen</string>
+    <string name="unlock_scramble_pin_layout_summary">Cihazın kilidini açarken PIN düzenini karıştır</string>
+    <string name="themes_title">Temalar</string>
+    <string name="themes_summary">Monet-resim yapan bir sanatçı..</string>
+    <string name="monet_engine_custom_color_title">Özel renk kullan</string>
+    <string name="monet_engine_custom_color_summary">Monet için duvar kağıdı renkleri yerine özel renk kullan</string>
+    <string name="monet_engine_color_override_title">Özel renk</string>
+    <string name="monet_engine_white_luminance_user_title">Beyaz parlaklığı</string>
+    <string name="monet_engine_accurate_shades_title">Doğru renk tonları kullan</string>
+    <string name="monet_engine_chroma_factor_title">Netlik faktörü</string>
+    <string name="monet_engine_linear_lightness_title">Doğrusal canlılığı kullan</string>
+    <string name="navbar_length">Hareket çubuğu uzunluğu</string>
+    <string name="short_label">Kısa</string>
+    <string name="long_label">Uzun</string>
+    <string name="show_navbar_gesture_bar_title">Hareket çubuğu</string>
+    <string name="show_navbar_gesture_bar_summary">Ekranın altında hareket çubuğunu göster</string>
+    <string name="selinux_status">SELinux durumu</string>
+    <string name="selinux_status_disabled">Devre dışı</string>
+    <string name="selinux_status_permissive">Permissive (Serbest)</string>
+    <string name="selinux_status_enforcing">Enforcing (Zorunlu)</string>
+    <string name="power_menu_title">Güç menüsü</string>
+    <string name="power_menu_title_summary">Güç menüsü öğelerini görüntüle veya değiştir</string>
+    <string name="powermenu_screenshot">Ekran görüntüsü</string>
+    <string name="powermenu_power">Güç</string>
+    <string name="powermenu_advanced">Gelişmiş yeniden başlatma seçenekleri</string>
+    <string name="powermenu_restart">Yeniden başlat</string>
+    <string name="powermenu_airplane">Uçak modu</string>
+    <string name="powermenu_settings">Ayarlar</string>
+    <string name="powermenu_lockdown">Kilitleme</string>
+    <string name="powermenu_soundpanel">Ses paneli</string>
+    <string name="powermenu_users">Kullanıcılar</string>
+    <string name="powermenu_logout">Çıkış</string>
+    <string name="powermenu_emergency">Acil durum</string>
+    <string name="always_on_display_schedule_title">Her zaman açık ekranı programla</string>
+    <string name="always_on_display_schedule_sunset">Gün batımı</string>
+    <string name="always_on_display_schedule_sunrise">Gün doğumu</string>
+    <string name="disabled">Devre dışı</string>
+    <string name="always_on_display_schedule_mixed_sunset">Gün batımından bir zamana kadar açılıyor</string>
+    <string name="always_on_display_schedule_mixed_sunrise">Bir zamandan gün doğumuna kadar açılıyor</string>
+    <string name="traffic_title">Ağ göstergeleri</string>
+    <string name="traffic_summary">Ağ göstergelerini göster</string>
+    <string name="network_traffic">Ağ göstergesi</string>
+    <string name="network_traffic_state_title">Ağ etkinliği göstergesi</string>
+    <string name="network_traffic_location">Ağ göstergesi konumu</string>
+    <string name="traffic_disabled">Devre dışı</string>
+    <string name="traffic_statusbar">Durum çubuğu</string>
+    <string name="traffic_expanded_statusbar">Genişletilmiş başlık</string>
+    <string name="network_traffic_autohide_threshold_title">Ağ etkinliği otomatik gizleme eşiği</string>
+    <string name="network_traffic_arrow">Okları göster</string>
+    <string name="network_traffic_arrow_summary">Ağ etkinliği göstergesi oklarını göster</string>
+    <string name="network_traffic_type">İnternet etkinlik türünü seç</string>
+    <string name="show_network_traffic_combined">Birlikte (Yükleme + İndirme)</string>
+    <string name="show_network_traffic_dynamic">Dinamik</string>
+    <string name="show_network_traffic_up">Yükleme</string>
+    <string name="show_network_traffic_down">İndirme</string>
+    <string name="show_network_traffic_all">Her ikisi</string>
+    <string name="network_traffic_font_size_title">Tek net yazı tipi boyutu</string>
+    <string name="notification_headers_title">Bildirim başlığı</string>
+    <string name="notification_headers_summary">Başlıkları bildirim gölgesinde göster</string>
+    <string name="vibration_intensity_title">Titreşim yoğunluğu</string>
+    <string name="vibration_intensity_summary">Titreşim yoğunluğunu kontrol edin</string>
+    <string name="notification_vibration_intensity_title">Bildirimler</string>
+    <string name="ring_vibration_intensity_title">Zil sesi</string>
+    <string name="haptic_feedback_intensity_title">Dokunumsal geri bildirim</string>
+    <string name="vibration_intensity_off">Devre dışı</string>
+    <string name="vibration_intensity_low">Düşük</string>
+    <string name="vibration_intensity_medium">Orta</string>
+    <string name="vibration_intensity_high">Yüksek</string>
+    <string name="incall_actions_category">Arama titreşimi</string>
+    <string name="incall_vibrate_connect_title">Bağlandığında titret</string>
+    <string name="incall_vibrate_call_wait_title">Bekletildiğinde titret</string>
+    <string name="incall_vibrate_disconnect_title">Bağlantı kesildiğinde titret</string>
+    <string name="flashlight_on_call_title">Gelen aramada el fenerini yakıp söndür</string>
+    <string name="flashlight_on_call_disabled">Devre dışı</string>
+    <string name="flashlight_on_call_ringer">Zil sesi çalarken</string>
+    <string name="flashlight_on_call_no_ringer">Zil sesi sessiz olduğunda</string>
+    <string name="flashlight_on_call_silent">Tamamen sessizken (zil sesi veya titreşim yok)</string>
+    <string name="flashlight_on_call_always">Her zaman</string>
+    <string name="qs_brightness_slider_category">Parlaklık kaydırıcısı</string>
+    <string name="qs_brightness_slider_title">Parlaklık kaydırıcısını göster</string>
+    <string name="qs_brightness_slider_summary">Hızlı ayarlar panelinde parlaklık kaydırıcısını göster</string>
+    <string name="qs_brightness_position_bottom_title">Alt parlaklık kaydırıcısı</string>
+    <string name="qs_brightness_position_bottom_summary">Hızlı ayarlar paneli altında parlaklık kaydırıcısını göster</string>
+    <string name="brightness_icon_title">Uyarlanabilir parlaklık tuşu</string>
+    <string name="brightness_icon_summary">Uyarlanabilir parlaklık tuşlarını göster</string>
+    <string name="proximity_wake_title">Yanlışlıkla uyandırmayı önle</string>
+    <string name="proximity_wake_summary">Ekranı uyandırmadan önce yakınlık sensörünü kontrol et</string>
+    <string name="connected_tws_device_saved_title">Kayıtlı kulaklıklar</string>
+    <string name="duration_less_than_one_minute">1 dakikadan az</string>
+    <string name="screen_time_summary_usage_today">Bugün %1$s</string>
+    <string name="notification_sound_vib_screen_on_title">Sıkıcı bildirimler</string>
+    <string name="notification_sound_vib_screen_on_summary">Ekran açıkken bildirimler için ses çal ve titret</string>
+    <string name="less_boring_heads_up_title">Daha az bildirim pencereleri</string>
+    <string name="less_boring_heads_up_summary">Tüm uygulamalar için bildirim pencerelerini dışı bırakır, sadece arama ve mesajlaşma uygulamaları için göstermeye devam eder</string>
+    <string name="system_black_theme_title">Siyah temayı kullan</string>
+    <string name="system_black_theme_summary">Siyah arka plan rengine zorla</string>
+    <string name="vibration_pattern_title">Zil sesi titreşim modeli</string>
+    <string name="pattern_dzzz_dzzz">dzzz-dzzz</string>
+    <string name="pattern_dzzz_da">dzzz-da</string>
+    <string name="pattern_mm_mm_mm">mm-mm-mm</string>
+    <string name="pattern_da_da_dzzz">da-da-dzzz</string>
+    <string name="pattern_da_dzzz_da">da-dzzz-da</string>
+    <string name="pattern_custom">Özel</string>
+    <string name="custom_vibration_pattern_title">Özel model</string>
+    <string name="custom_vibration_pattern_summary">Özel bir titreşim modeli ayarlayın</string>
+    <string name="security_settings_face_unlock_redo_face_scan_summary">Mevcut yüz taramasını kaldır ve yeni bir tarama oluştur</string>
+    <string name="security_settings_face_unlock_redo_face_scan_title">Yüz taramasını yeniden yap</string>
+    <string name="face_redo_confirm_btn">Yeniden yap</string>
+    <string name="face_redo_warning_msg">Mevcut yüz taramasını kaldırıp yeni bir tane oluşturmak istiyor musunuz?</string>
+    <string name="face_unlock_method_title">Kilit ekranında yüz kilidini açmaya izin ver</string>
+    <string name="face_unlock_method_default">Ekran açıldığında</string>
+    <string name="face_unlock_method_swipe">Kilit ekranında kaydırırken</string>
+    <string name="security_settings_face_settings_footer_custom">Yüz tanıma kilidi, cihazınıza bakarak kilidini açmanızı sağlar. Unutmayın:\n\n● Cihazınıza baktığınızda kilidi açılabilir.\n● Cihazınız, gözleriniz açıkken başka biri tarafından yüzünüzün önünde tutulursa kilidi açılabilir.\n● Cihazın kilidi, çocuk veya öz kardeş gibi size çok benzeyen biri tarafından da açılabilir.</string>
+    <string name="security_settings_face_settings_remove_dialog_details_custom">Yüz tanıma kilidi ile kaydedilen veriler kalıcı ve güvenli bir şekilde silinir. Kaldırma işleminden sonra telefonunuzun kilidini açmak için PIN, desen veya şifre kullanmanız gerekir.</string>
+    <string name="statusbar_tuner_title">Durum çubuğu ayarlayıcı</string>
+    <string name="qs_show_battery_estimate_title">Tahmini pil süresi</string>
+    <string name="qs_show_battery_estimate_summary_on">Tahmini pil süresini hızlı ayarlarda göster</string>
+    <string name="qs_show_battery_estimate_summary_off">Tahmini pil süresini hızlı ayarlarda gizle</string>
+    <string name="keygaurd_media_art_title">Medya resmi</string>
+    <string name="keygaurd_media_art_summary">Medya resmini kilit ekranı arkaplanı olarak göster</string>
+    <string name="screenshot_shutter_sound_title">Ekran görüntüsü sesi</string>
+    <string name="volume_panel_on_left_title">Ses paneli solda</string>
+    <string name="volume_panel_on_left_summary">Ses panelini ekranın sol tarafında göster</string>
+    <string name="game_dashboard_always_on_summary">Oyunlarda oyun panosu kısayolunu göster</string>
+    <string name="game_dashboard_always_on_title">Oyun paneli</string>
+    <string name="game_dashboard_dnd_rule_name">Oyun</string>
+    <string name="game_dashboard_dnd_summary">Oyun oynarken yalnızca önemli kişilerden ve uygulamalardan haberdar olun</string>
+    <string name="game_dashboard_dnd_title">Oyunlar için Rahatsız etmeyin</string>
+    <string name="columbus_title">@string/columbus_name</string>
+    <string name="columbus_gesture_detected">Hızlı dokunma algılandı!</string>
+    <string name="columbus_gesture_enrollment_complete">Bitti</string>
+    <string name="columbus_gesture_enrollment_do_it_later">Şimdi değil</string>
+    <string name="columbus_gesture_enrollment_settings">Ayarlara git</string>
+    <string name="columbus_gesture_enrollment_try_it">Dene</string>
+    <string name="columbus_gesture_training_action_no_selection_error">Lütfen gerçekleştirilecek bir işlem seçin</string>
+    <string name="columbus_gesture_training_action_text">Hızlı dokunmayı kullandığınızda ne olacağını seçin. Bunu daha sonra ayarlardan değiştirebilirsiniz.</string>
+    <string name="columbus_gesture_training_action_title">Hızlı dokunma seçeneği seçin</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture">… Çift dokunma 2\'den 1\'i algılandı</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">Bunu bir kez daha deneyelim. Telefonunuzun arkasına hızlıca iki kez dokunun.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">Güzel!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture">… Çift dokunma 2\'den 2\'si algılandı</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">Hızlı dokunmayı kullanmaya başlamaya hazırsınız</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">Anladın!</string>
+    <string name="columbus_gesture_training_enrolling_text">Telefonunuzun arkasına hızlıca iki kez dokunun.</string>
+    <string name="columbus_gesture_training_enrolling_title">Hızlı dokunmayı deneyin</string>
+    <string name="columbus_gesture_training_finished_text">Hızlı dokunmayı kullanmak için gereken dokunma gücünü değiştirmek için Ayarlar\'a gidin.</string>
+    <string name="columbus_gesture_training_finished_title">Hızlı dokunmayı ayarladınız</string>
+    <string name="columbus_gesture_training_intro_text_accidental">Cihazınızın arkasına iki kez dokundunuz, bu da Asistanınızı hareket halindeyken kullanmanıza olanak tanır. Bu hareketi ayarlarda özelleştirebilirsiniz.</string>
+    <string name="columbus_gesture_training_intro_text_suw">Ekran görüntüsü alın, bildirimleri gösterin veya iki dokunuşla başka bir işlem başlatın.</string>
+    <string name="columbus_gesture_training_intro_title">Hızlı eylemler için Hızlı dokunma</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">Lütfen açmak için bir uygulama seçin</string>
+    <string name="columbus_gesture_training_launch_text">Hızlı dokunmayı kullandığınızda açmak istediğiniz uygulamayı seçin.</string>
+    <string name="columbus_gesture_training_launch_title">Açılacak uygulamayı seçin</string>
+    <string name="columbus_launch_app_extra_widget_a11y_label">%1$s kısayol ayarları</string>
+    <string name="columbus_launch_settings_activity_title">Hızlı dokunma ayarları</string>
+    <string name="columbus_name">Hızlı dokunma</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">%1$s ayarlar</string>
+    <string name="columbus_setting_action_assistant_title">Dijital asistanınıza erişin</string>
+    <string name="columbus_setting_action_assistant_value">asistan</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">Uygulama seçilmedi</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">Uygulama yüklenmedi</string>
+    <string name="columbus_setting_action_launch_title">Uygulamayı aç</string>
+    <string name="columbus_setting_action_launch_value">başlat</string>
+    <string name="columbus_setting_action_notification_title">Bildirimleri göster</string>
+    <string name="columbus_setting_action_notification_value">bildirimler</string>
+    <string name="columbus_setting_action_open_app_title">Uygulamayı aç</string>
+    <string name="columbus_setting_action_overview_title">Son uygulamaları görün</string>
+    <string name="columbus_setting_action_overview_value">son uygulamalar</string>
+    <string name="columbus_setting_action_play_pause_title">Medyayı oynatın veya duraklatın</string>
+    <string name="columbus_setting_action_play_pause_value">medya</string>
+    <string name="columbus_setting_action_screenshot_title">Ekran görüntüsü al</string>
+    <string name="columbus_setting_action_screenshot_value">ekran görüntüsü</string>
+    <string name="columbus_setting_actions_title">Telefonun arkasına iki kez dokunun</string>
+    <string name="columbus_setting_additional_settings_title">Hızlı dokunma gücü</string>
+    <string name="columbus_setting_app_selection_help_text">Telefonunuzun arkasına iki kez dokunduğunuzda açılacak bir uygulama seçin. Uygulamayı kaldırırsanız, farklı bir uygulama seçene kadar Hızlı dokunma kapanır.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">Hızlı dokunmayı kullanarak bu uygulamayı açtığınızda ne olacağını seçin.</string>
+    <string name="columbus_setting_enable_switch_title">Hızlı dokunmayı kullan</string>
+    <string name="columbus_setting_sensitivity_title">Daha güçlü dokunmalar gerektir</string>
+    <string name="columbus_summary">%1$s / %2$s</string>
+    <string name="display_cutout_force_fullscreen_title">Tam ekran uygulamalar</string>
+    <string name="display_cutout_force_fullscreen_summary">Uygulamaları çentik alanını yok saymaya zorla</string>
+    <string name="search">Ara</string>
+    <string name="search_apps">Uygulamalar ara</string>
+    <string name="wifi_hotspot_hidden_ssid_title">Gizli ağ</string>
+    <string name="wifi_hotspot_hidden_ssid_summary">Hotspot isminiz uygun WLAN ağları listesinde görünmeyecek.</string>
+    <string name="wifi_band_24ghz_and_5ghz">2.4 GHz &amp; 5 GHz</string>
+    <string name="wifi_band_24ghz_and_6ghz">2.4 GHz &amp; 6 GHz</string>
+    <string name="wifi_band_60ghz">60 GHz</string>
+    <plurals name="wifi_hotspot_auto_off_timeout">
+        <item quantity="other"><xliff:g id="DURATION">%1$d</xliff:g> dakika boyunca hiçbir cihaz bağlı olmadığında kapatın</item>
+        <item quantity="one"><xliff:g id="DURATION">%1$d</xliff:g> dakika boyunca hiçbir cihaz bağlı olmadığında kapatın</item>
+    </plurals>
+    <string name="wifi_hotspot_auto_off_timeout_never">Hotspot\'u asla kapatma</string>
+    <string name="wifi_hotspot_client_manager_title">Bağlı cihazlar</string>
+    <string name="wifi_hotspot_client_manager_summary">Hotspot\'a bağlı cihazları listeleyin ve yönetin ve bağlı cihaz sayısı sınırını ayarlayın</string>
+    <string name="wifi_hotspot_client_manager_list_only_summary">Hotspot\'a bağlı cihazları listeleyin</string>
+    <string name="wifi_hotspot_client_limit_title">Bağlı cihazların sınırı</string>
+    <plurals name="wifi_hotspot_client_limit_summary">
+        <item quantity="other">Bu cihazlar <xliff:g id="device_num">%1$d</xliff:g> hotspot\'a bağlanabilecek</item>
+        <item quantity="one">Bu cihaz <xliff:g id="device_num">%1$d</xliff:g> hotspot\'a bağlanabilecek</item>
+    </plurals>
+    <string name="wifi_hotspot_blocked_clients_list_title">Engellenen cihazlar</string>
+    <string name="wifi_hotspot_connected_clients_list_title">Bağlı cihazlar</string>
+    <string name="wifi_hotspot_block_client_dialog_title">Cihazı engelle</string>
+    <string name="wifi_hotspot_block_client_dialog_text">Bu eylem \"<xliff:g id="device_name">%1$s</xliff:g>\" bu cihazdan bağlantıyı kesecek ve kara listeye ekleyecek</string>
+    <string name="wifi_hotspot_unblock_client_dialog_title">Cihaz engelini kaldır</string>
+    <string name="wifi_hotspot_unblock_client_dialog_text">Bu cihaz \"<xliff:g id="device_name">%1$s</xliff:g>\" bu hotspot\'a bağlanabilecek</string>
+    <string name="wifi_hotspot_client_manager_footer_text">Şu anda hiçbir istemci mevcut değil. Bağlı ve engellenen cihazlar mevcut olduğunda burada listelenecek.</string>
+</resources>

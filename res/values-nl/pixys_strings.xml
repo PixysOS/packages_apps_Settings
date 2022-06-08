@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright 2020 Pixys OS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pixys_version">"PixysOS versie"</string>
+    <string name="build_date">"Build datum"</string>
+    <string name="device_info_protected_single_press">Tik om info te tonen</string>
+    <string name="three_finger_gesture">Veeg voor schermafdruk</string>
+    <string name="three_finger_gesture_summary">Swipe naar beneden met drie vingers om een schermafbeelding te maken</string>
+    <string name="density_category">Dichtheid opties</string>
+    <string name="volume_button_music_control_title">Muziek bediening</string>
+    <string name="volume_button_music_control_summary">Bij scherm uit, volumeknoppen inhouden om door muzieknummers te navigeren</string>
+    <string name="battery_stats_reset">Gebruiksgegevens wissen?</string>
+    <string name="battery_stats_message">Gegevens over batterijgebruik zullen verloren gaan</string>
+    <string name="battery_stats_clear">@string/proxy_clear_text</string>
+    <string name="lock_settings_picker_pattern_size_message">Patroongrootte kiezen</string>
+    <string name="lockpattern_settings_enable_error_path_title">Toon patroonfout</string>
+    <string name="lockpattern_settings_enable_dots_title">Toon patroonstippen</string>
+    <string name="unlock_scramble_pin_layout_title">Nummers door elkaar husselen</string>
+    <string name="unlock_scramble_pin_layout_summary">PIN lay-out husselen bij apparaat ontgrendelen</string>
+    <string name="themes_title">Thema\'s</string>
+    <string name="themes_summary">Monet-een kunstenaar die schildert..</string>
+    <string name="monet_engine_custom_color_title">Aangepaste kleur gebruiken</string>
+    <string name="monet_engine_custom_color_summary">Aangepaste kleur gebruiken voor Monet Engine in plaats van achtergrond kleuren</string>
+    <string name="monet_engine_color_override_title">Aangepaste kleur</string>
+    <string name="monet_engine_white_luminance_user_title">Wit belichting</string>
+    <string name="monet_engine_accurate_shades_title">Gebruik nauwkeurige tinten</string>
+    <string name="monet_engine_chroma_factor_title">Chroma factor</string>
+    <string name="monet_engine_linear_lightness_title">Gebruik lineaire lichtheid</string>
+    <string name="navbar_length">Lengte gebarenbalk</string>
+    <string name="short_label">Kort</string>
+    <string name="long_label">Lang</string>
+    <string name="show_navbar_gesture_bar_title">Gebarenbalk</string>
+    <string name="show_navbar_gesture_bar_summary">Toon gebarenbalk aan de onderkant van het scherm</string>
+    <string name="selinux_status">SELinux status</string>
+    <string name="selinux_status_disabled">Uitgeschakeld</string>
+    <string name="selinux_status_permissive">Permissive</string>
+    <string name="selinux_status_enforcing">Enforcing</string>
+    <string name="power_menu_title">Aan-/uit menu</string>
+    <string name="power_menu_title_summary">Weergeven of wijzigen van opties in het aan/uit menu</string>
+    <string name="powermenu_screenshot">Schermafdruk</string>
+    <string name="powermenu_power">Aan/uit zetten</string>
+    <string name="powermenu_advanced">Menu voor geavanceerd herstarten</string>
+    <string name="powermenu_restart">Opnieuw opstarten</string>
+    <string name="powermenu_airplane">Vliegtuigmodus</string>
+    <string name="powermenu_settings">Instellingen</string>
+    <string name="powermenu_lockdown">Vergrendelen</string>
+    <string name="powermenu_soundpanel">Geluidspaneel</string>
+    <string name="powermenu_users">Gebruikers</string>
+    <string name="powermenu_logout">Uitloggen</string>
+    <string name="powermenu_emergency">Noodgeval</string>
+    <string name="always_on_display_schedule_title">\"Always On\"-display tijdsplanning</string>
+    <string name="always_on_display_schedule_sunset">Zonsondergang</string>
+    <string name="always_on_display_schedule_sunrise">Zonsopgang</string>
+    <string name="disabled">Uitgeschakeld</string>
+    <string name="always_on_display_schedule_mixed_sunset">Schakelt in vanaf zonsondergang tot een tijd</string>
+    <string name="always_on_display_schedule_mixed_sunrise">Schakelt in vanaf een tijd tot zonsopgang</string>
+    <string name="traffic_title">Verkeersindicatoren</string>
+    <string name="traffic_summary">Netwerkverkeer weergeven</string>
+    <string name="network_traffic">Netwerkverkeer</string>
+    <string name="network_traffic_state_title">Netwerkverkeer weergave</string>
+    <string name="network_traffic_location">Netwerkverkeer indicator positie</string>
+    <string name="traffic_disabled">Uitgeschakeld</string>
+    <string name="traffic_statusbar">Statusbalk</string>
+    <string name="traffic_expanded_statusbar">Uitgebreide header</string>
+    <string name="network_traffic_autohide_threshold_title">Drempel voor netwerk activiteit automatisch verbergen</string>
+    <string name="network_traffic_arrow">Pijlen weergeven</string>
+    <string name="network_traffic_arrow_summary">Toon de netwerkactiviteit indicator pijlen</string>
+    <string name="network_traffic_type">Selecteer het type netwerkactiviteit</string>
+    <string name="show_network_traffic_combined">Gecombineerd (Upload + Download)</string>
+    <string name="show_network_traffic_dynamic">Dynamisch</string>
+    <string name="show_network_traffic_up">Upload</string>
+    <string name="show_network_traffic_down">Download</string>
+    <string name="show_network_traffic_all">Beiden</string>
+    <string name="network_traffic_font_size_title">Enkel netwerk lettergrootte</string>
+    <string name="notification_headers_title">Melding headers</string>
+    <string name="notification_headers_summary">Toon headers in de notificatiebalk</string>
+    <string name="vibration_intensity_title">Trilintensiteit</string>
+    <string name="vibration_intensity_summary">Trilintensiteit voor verschillende streams beheren</string>
+    <string name="notification_vibration_intensity_title">Notificaties</string>
+    <string name="ring_vibration_intensity_title">Beltoon</string>
+    <string name="haptic_feedback_intensity_title">Haptische feedback</string>
+    <string name="vibration_intensity_off">Uitgeschakeld</string>
+    <string name="vibration_intensity_low">Laag</string>
+    <string name="vibration_intensity_medium">Middel</string>
+    <string name="vibration_intensity_high">Hoog</string>
+    <string name="incall_actions_category">Opties voor acties tijdens bellen</string>
+    <string name="incall_vibrate_connect_title">Trillen bij verbinden</string>
+    <string name="incall_vibrate_call_wait_title">Trillen bij wisselgesprek</string>
+    <string name="incall_vibrate_disconnect_title">Trillen bij ophangen</string>
+    <string name="flashlight_on_call_title">Zaklamp laten knipperen voor inkomende oproep</string>
+    <string name="flashlight_on_call_disabled">Uitgeschakeld</string>
+    <string name="flashlight_on_call_ringer">Wanneer telefoon overgaat</string>
+    <string name="flashlight_on_call_no_ringer">Wanneer beltoon stil is</string>
+    <string name="flashlight_on_call_silent">Wanneer volledig stil (geen beltoon of trilling)</string>
+    <string name="flashlight_on_call_always">Altijd</string>
+    <string name="qs_brightness_slider_category">Helderheidsregelaar</string>
+    <string name="qs_brightness_slider_title">Helderheidsregelaar weergeven</string>
+    <string name="qs_brightness_slider_summary">Helderheidsregelaar in het paneel snelle instellingen weergeven</string>
+    <string name="qs_brightness_position_bottom_title">Toon helderheidsregelaar onderaan</string>
+    <string name="qs_brightness_position_bottom_summary">Toon een helderheidsregelaar onderaan bij de snelle instellingen</string>
+    <string name="brightness_icon_title">Knop voor automatische helderheid</string>
+    <string name="brightness_icon_summary">Toon knop voor automatische helderheid</string>
+    <string name="proximity_wake_title">Voorkom onbedoeld ontwaken</string>
+    <string name="proximity_wake_summary">Nabijheidssensor controleren voor ontwaken van scherm</string>
+    <string name="connected_tws_device_saved_title">Opgeslagen oordoppen</string>
+    <string name="duration_less_than_one_minute">Minder dan een minuut</string>
+    <string name="screen_time_summary_usage_today">%1$s vandaag</string>
+    <string name="notification_sound_vib_screen_on_title">Irritante meldingen</string>
+    <string name="notification_sound_vib_screen_on_summary">Geluid en trillen afspelen voor meldingen wanneer het scherm aan is</string>
+    <string name="less_boring_heads_up_title">Verminderde pop-up meldingen</string>
+    <string name="less_boring_heads_up_summary">Schakel pop-up meldingen uit voor alle apps, behalve voor oproepen en berichtenapps</string>
+    <string name="system_black_theme_title">Gebruik zwart thema</string>
+    <string name="system_black_theme_summary">Forceer zwarte achtergrondkleuren</string>
+    <string name="vibration_pattern_title">Beltoon trillingspatroon</string>
+    <string name="pattern_dzzz_dzzz">dzzz-dzzz</string>
+    <string name="pattern_dzzz_da">dzzz-da</string>
+    <string name="pattern_mm_mm_mm">mm-mm-mm</string>
+    <string name="pattern_da_da_dzzz">da-da-dzzz</string>
+    <string name="pattern_da_dzzz_da">da-dzzz-da</string>
+    <string name="pattern_custom">Aangepast</string>
+    <string name="custom_vibration_pattern_title">Aangepast patroon</string>
+    <string name="custom_vibration_pattern_summary">Stel aangepast trillingspatroon in</string>
+    <string name="security_settings_face_unlock_redo_face_scan_summary">Verwijder de bestaande gezichtsscan en maak een nieuwe scan</string>
+    <string name="security_settings_face_unlock_redo_face_scan_title">Gezicht opnieuw scannen</string>
+    <string name="face_redo_confirm_btn">Opnieuw</string>
+    <string name="face_redo_warning_msg">Wil je de bestaande gezichtsscan verwijderen en een nieuwe maken?</string>
+    <string name="face_unlock_method_title">Sta gezichtsontgrendeling toe op vergrendelingsscherm</string>
+    <string name="face_unlock_method_default">Wanneer het scherm is ingeschakeld</string>
+    <string name="face_unlock_method_swipe">Bij vegen over het vergrendelscherm</string>
+    <string name="security_settings_face_settings_footer_custom">Gebruik ontgrendelen via gezichtsherkenning om je apparaat te ontgrendelen. Houd rekening met het volgende:\n\n● Je apparaat kan ontgrendelen als je er naar kijkt.\n● Je apparaat kan worden ontgrendeld door iemand anders wanneer deze voor je gezicht wordt gehouden terwijl je ogen open zijn.\n● Je apparaat kan ook door iemand anders wanneer deze persoon sterk op je lijkt, zoals een kind of een tweelingbroer of -zus.</string>
+    <string name="security_settings_face_settings_remove_dialog_details_custom">Gegevens die worden vastgelegd via ontgrendelen via gezichtsherkenning, worden permanent en veilig verwijderd. Na het verwijderen heb je je pincode, patroon of wachtwoord nodig om je telefoon te ontgrendelen.</string>
+    <string name="statusbar_tuner_title">Statusbalk tuner</string>
+    <string name="qs_show_battery_estimate_title">Schatting batterij</string>
+    <string name="qs_show_battery_estimate_summary_on">Toon inschatting van de batterijduur in Snelle instellingen</string>
+    <string name="qs_show_battery_estimate_summary_off">Verberg inschatting van de batterijduur in Snelle instellingen</string>
+    <string name="keygaurd_media_art_title">Media art</string>
+    <string name="keygaurd_media_art_summary">Media art weergeven als vergrendelscherm achtergrond</string>
+    <string name="screenshot_shutter_sound_title">Schermafdruk geluid</string>
+    <string name="volume_panel_on_left_title">Volume paneel links</string>
+    <string name="volume_panel_on_left_summary">Geef het volumepaneel weer aan de linkerkant van het scherm</string>
+    <string name="game_dashboard_always_on_summary">Toon Game Dashboard snelkoppeling in spellen</string>
+    <string name="game_dashboard_always_on_title">Game Dashboard</string>
+    <string name="game_dashboard_dnd_rule_name">Gaming</string>
+    <string name="game_dashboard_dnd_summary">Krijg alleen meldingen van belangrijke mensen en apps wanneer je een spel speelt</string>
+    <string name="game_dashboard_dnd_title">Niet Storen voor spellen</string>
+    <string name="columbus_title">@string/columbus_name</string>
+    <string name="columbus_gesture_detected">Quick Tap gedetecteerd!</string>
+    <string name="columbus_gesture_enrollment_complete">Gereed</string>
+    <string name="columbus_gesture_enrollment_do_it_later">Niet nu</string>
+    <string name="columbus_gesture_enrollment_settings">Ga naar instellingen</string>
+    <string name="columbus_gesture_enrollment_try_it">Probeer het uit</string>
+    <string name="columbus_gesture_training_action_no_selection_error">Selecteer a. u. b. welke actie je wilt uitvoeren</string>
+    <string name="columbus_gesture_training_action_text">Selecteer wat gebeurt wanneer je Quick Tap gebruikt. Je kan dit later aanpassen in instellingen.</string>
+    <string name="columbus_gesture_training_action_title">Selecteer Quick Tap optie</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture">... Dubbel-tap 1 van 2 gedetecteerd</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">Laten we het nog eens proberen. Tik snel twee keer op de achterkant van je telefoon.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">Nice!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture">... Dubbel-tap 2 van 2 gedetecteerd</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">Je bent klaar om te beginnen met het gebruik van Quick Tap</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">Je snapt het!</string>
+    <string name="columbus_gesture_training_enrolling_text">Tik snel twee keer op de achterkant van je telefoon.</string>
+    <string name="columbus_gesture_training_enrolling_title">Probeer Quick Tap</string>
+    <string name="columbus_gesture_training_finished_text">Om de tiksterkte te wijzigen die nodig is voor Quick Tap, ga naar Instellingen.</string>
+    <string name="columbus_gesture_training_finished_title">Je hebt Quick Tap ingesteld</string>
+    <string name="columbus_gesture_training_intro_text_accidental">Je hebt net twee keer op de achterkant van je apparaat getikt, waarmee je je assistent kunt gebruiken. U kunt dit gebaar aanpassen in de instellingen.</string>
+    <string name="columbus_gesture_training_intro_text_suw">Neem een schermafdruk, toon meldingen of start een andere actie in twee tikken.</string>
+    <string name="columbus_gesture_training_intro_title">Quick Tap voor snelle acties</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">Selecteer een app om te openen</string>
+    <string name="columbus_gesture_training_launch_text">Selecteer de app die je wilt openen wanneer je Quick Tap gebruikt.</string>
+    <string name="columbus_gesture_training_launch_title">Kies app om te openen</string>
+    <string name="columbus_launch_app_extra_widget_a11y_label">%1$s snelkoppeling instellingen</string>
+    <string name="columbus_launch_settings_activity_title">Quick Tap instellingen</string>
+    <string name="columbus_name">Quick Tap</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">%1$s instellingen</string>
+    <string name="columbus_setting_action_assistant_title">Toegang tot je digitale assistent</string>
+    <string name="columbus_setting_action_assistant_value">assistent</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">Geen app geselecteerd</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">App niet geïnstalleerd</string>
+    <string name="columbus_setting_action_launch_title">App openen</string>
+    <string name="columbus_setting_action_launch_value">starten</string>
+    <string name="columbus_setting_action_notification_title">Notificaties weergeven</string>
+    <string name="columbus_setting_action_notification_value">notificaties</string>
+    <string name="columbus_setting_action_open_app_title">App openen</string>
+    <string name="columbus_setting_action_overview_title">Recente apps bekijken</string>
+    <string name="columbus_setting_action_overview_value">overzicht</string>
+    <string name="columbus_setting_action_play_pause_title">Media Afspelen/Pauzeren</string>
+    <string name="columbus_setting_action_play_pause_value">media</string>
+    <string name="columbus_setting_action_screenshot_title">Schermafdruk maken</string>
+    <string name="columbus_setting_action_screenshot_value">schermafdruk</string>
+    <string name="columbus_setting_actions_title">Dubbel tikken op de achterzijde telefoon om</string>
+    <string name="columbus_setting_additional_settings_title">Quick Tap sterkte</string>
+    <string name="columbus_setting_app_selection_help_text">Selecteer een app om te openen wanneer je twee keer op de achterkant van je telefoon klikt. Als je de app verwijdert, wordt Quick Tap uitgeschakeld totdat je een andere app selecteert.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">Selecteer wat er gebeurt wanneer je deze app opent met behulp van Quick Tap.</string>
+    <string name="columbus_setting_enable_switch_title">Gebruik Quick Tap</string>
+    <string name="columbus_setting_sensitivity_title">Sterkere tikken vereisen</string>
+    <string name="columbus_summary">%1$s / %2$s</string>
+    <string name="display_cutout_force_fullscreen_title">Apps in volledig scherm</string>
+    <string name="display_cutout_force_fullscreen_summary">Dwing apps om de notch te negeren</string>
+    <string name="search">Zoeken</string>
+    <string name="search_apps">Apps zoeken</string>
+    <string name="wifi_hotspot_hidden_ssid_title">Verborgen netwerk</string>
+    <string name="wifi_hotspot_hidden_ssid_summary">De naam van uw mobiele hotspot zal niet worden weergegeven in de lijst met beschikbare WLAN-netwerken.</string>
+    <string name="wifi_band_24ghz_and_5ghz">2.4 GHz &amp; 5 GHz</string>
+    <string name="wifi_band_24ghz_and_6ghz">2.4 GHz &amp; 6 GHz</string>
+    <string name="wifi_band_60ghz">60 GHz</string>
+    <plurals name="wifi_hotspot_auto_off_timeout">
+        <item quantity="other">Uitschakelen wanneer er langer dan <xliff:g id="DURATION">%1$d</xliff:g> minuten geen apparaat verbonden is</item>
+        <item quantity="one">Uitschakelen wanneer er langer dan <xliff:g id="DURATION">%1$d</xliff:g> minuut geen apparaat verbonden is</item>
+    </plurals>
+    <string name="wifi_hotspot_auto_off_timeout_never">Hotspot nooit uitschakelen</string>
+    <string name="wifi_hotspot_client_manager_title">Verbonden apparaten</string>
+    <string name="wifi_hotspot_client_manager_summary">Toon en beheer apparaten die zijn verbonden met de hotspot en stel een limiet voor hoeveelheid verbonden apparaten in</string>
+    <string name="wifi_hotspot_client_manager_list_only_summary">Toon apparen die verbonden zijn met de hotspot</string>
+    <string name="wifi_hotspot_client_limit_title">Limiteer de hoeveelheid apparaten die kunnen verbinden</string>
+    <plurals name="wifi_hotspot_client_limit_summary">
+        <item quantity="other">Er kunnen maximaal <xliff:g id="device_num">%1$d</xliff:g> apparaten verbonden zijn met deze hotspot</item>
+        <item quantity="one">Er kan maximaal <xliff:g id="device_num">%1$d</xliff:g> apparaat verbonden zijn met deze hotspot</item>
+    </plurals>
+    <string name="wifi_hotspot_blocked_clients_list_title">Geblokkeerde apparaten</string>
+    <string name="wifi_hotspot_connected_clients_list_title">Verbonden apparaten</string>
+    <string name="wifi_hotspot_block_client_dialog_title">Blokkeer apparaat</string>
+    <string name="wifi_hotspot_block_client_dialog_text">Deze actie zal \"<xliff:g id="device_name">%1$s</xliff:g>\" ontkoppelen van dit apparaat en deze toevoegen aan de lijst van geblokkeerde apparaten</string>
+    <string name="wifi_hotspot_unblock_client_dialog_title">Apparaat deblokkeren</string>
+    <string name="wifi_hotspot_unblock_client_dialog_text">Dit apparaat \"<xliff:g id="device_name">%1$s</xliff:g>\" zal verbindingen kunnen maken met deze hotspot</string>
+    <string name="wifi_hotspot_client_manager_footer_text">Er zijn momenteel geen apparaten beschikbaar. Verbonden en geblokkeerde apparaten zullen hier verschijnen wanneer deze beschikbaar zijn.</string>
+</resources>

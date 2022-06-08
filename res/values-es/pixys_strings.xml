@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright 2020 Pixys OS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pixys_version">"Versión de PixysOS"</string>
+    <string name="build_date">"Fecha de compilación"</string>
+    <string name="device_info_protected_single_press">Toque para mostrar información</string>
+    <string name="three_finger_gesture">Deslizar para tomar captura de pantalla</string>
+    <string name="three_finger_gesture_summary">Deslizar hacia abajo con 3 dedos para tomar una captura de pantalla</string>
+    <string name="density_category">Opciones de densidad</string>
+    <string name="volume_button_music_control_title">Control de reproducción</string>
+    <string name="volume_button_music_control_summary">Cuando la pantalla esté apagada. Mantenga presionados los botones de volumen para cambiar de canción</string>
+    <string name="battery_stats_reset">Limpiar datos de uso?</string>
+    <string name="battery_stats_message">Los datos de uso de la batería se perderán</string>
+    <string name="battery_stats_clear">@string/proxy_clear_text</string>
+    <string name="lock_settings_picker_pattern_size_message">Elegir un tamaño del patrón</string>
+    <string name="lockpattern_settings_enable_error_path_title">Mostrar error del patrón</string>
+    <string name="lockpattern_settings_enable_dots_title">Mostrar puntos del patrón</string>
+    <string name="unlock_scramble_pin_layout_title">Números de lucha</string>
+    <string name="unlock_scramble_pin_layout_summary">Diseño del pasador de lucha al desbloquear el dispositivo</string>
+    <string name="themes_title">Temas</string>
+    <string name="themes_summary">Monet-An Artista que pinta..</string>
+    <string name="monet_engine_custom_color_title">Usar color personalizado</string>
+    <string name="monet_engine_custom_color_summary">Usar un color personalizado para monet en vez de los colores del fondo de pantalla</string>
+    <string name="monet_engine_color_override_title">Color personalizado</string>
+    <string name="monet_engine_white_luminance_user_title">Luminancia blanca</string>
+    <string name="monet_engine_accurate_shades_title">Use tonos precisos</string>
+    <string name="monet_engine_chroma_factor_title">Factor de croma</string>
+    <string name="monet_engine_linear_lightness_title">Usar brillo lineal</string>
+    <string name="navbar_length">Longitud de la barra de gestos</string>
+    <string name="short_label">Pequeña</string>
+    <string name="long_label">Grande</string>
+    <string name="show_navbar_gesture_bar_title">Barra de gestos</string>
+    <string name="show_navbar_gesture_bar_summary">Mostrar barra de gestos en la parte inferior de la pantalla</string>
+    <string name="selinux_status">Estado de SELinux</string>
+    <string name="selinux_status_disabled">Deshabilitado</string>
+    <string name="selinux_status_permissive">Permisivo</string>
+    <string name="selinux_status_enforcing">Obligatorio</string>
+    <string name="power_menu_title">Menú de encendido</string>
+    <string name="power_menu_title_summary">Mirar o cambiar las entradas del menú de encendido</string>
+    <string name="powermenu_screenshot">Captura de pantalla</string>
+    <string name="powermenu_power">Poder</string>
+    <string name="powermenu_advanced">Opciones de reinicio avanzado</string>
+    <string name="powermenu_restart">Reiniciar</string>
+    <string name="powermenu_airplane">Avión</string>
+    <string name="powermenu_settings">Ajustes</string>
+    <string name="powermenu_lockdown">Confinamiento</string>
+    <string name="powermenu_soundpanel">Panel de sonido</string>
+    <string name="powermenu_users">Usuarios</string>
+    <string name="powermenu_logout">Cerrar sesión</string>
+    <string name="powermenu_emergency">Emergencias</string>
+    <string name="always_on_display_schedule_title">Horario de Aod</string>
+    <string name="always_on_display_schedule_sunset">Puesta de sol</string>
+    <string name="always_on_display_schedule_sunrise">Amanecer</string>
+    <string name="disabled">Deshabilitado</string>
+    <string name="always_on_display_schedule_mixed_sunset">Se enciende desde la puesta del sol hasta una hora</string>
+    <string name="always_on_display_schedule_mixed_sunrise">Se enciende desde un momento hasta el amanecer</string>
+    <string name="traffic_title">Indicadores de tráfico</string>
+    <string name="traffic_summary">Mostrar tráfico de red</string>
+    <string name="network_traffic">Indicadores de red</string>
+    <string name="network_traffic_state_title">Pantalla de tráfico de red</string>
+    <string name="network_traffic_location">Colocación de indicadores de tráfico</string>
+    <string name="traffic_disabled">Deshabilitado</string>
+    <string name="traffic_statusbar">Barra de estado</string>
+    <string name="traffic_expanded_statusbar">Encabezado expandido</string>
+    <string name="network_traffic_autohide_threshold_title">Umbral de ocultación automática de actividad neta</string>
+    <string name="network_traffic_arrow">Mostrar flechas</string>
+    <string name="network_traffic_arrow_summary">Mostrar flechas de los indicadores de tráfico de red</string>
+    <string name="network_traffic_type">Seleccione el tipo de actividad neta</string>
+    <string name="show_network_traffic_combined">Combinado (Subida + Bajada)</string>
+    <string name="show_network_traffic_dynamic">Dinámico</string>
+    <string name="show_network_traffic_up">Subida</string>
+    <string name="show_network_traffic_down">Bajada</string>
+    <string name="show_network_traffic_all">Ambos</string>
+    <string name="network_traffic_font_size_title">Tamaño de fuente neto único</string>
+    <string name="notification_headers_title">Encabezados de notificación</string>
+    <string name="notification_headers_summary">Mostrar encabezados en el tono de notificación</string>
+    <string name="vibration_intensity_title">Intensidad de vibración</string>
+    <string name="vibration_intensity_summary">Controle la intensidad de la vibración para diferentes flujos</string>
+    <string name="notification_vibration_intensity_title">Notificaciones</string>
+    <string name="ring_vibration_intensity_title">Ring</string>
+    <string name="haptic_feedback_intensity_title">Retroalimentación háptica</string>
+    <string name="vibration_intensity_off">Deshabilitado</string>
+    <string name="vibration_intensity_low">Bajo</string>
+    <string name="vibration_intensity_medium">Mediano</string>
+    <string name="vibration_intensity_high">Arriba</string>
+    <string name="incall_actions_category">Opciones de acciones durante la llamada</string>
+    <string name="incall_vibrate_connect_title">Vibrar al conectar</string>
+    <string name="incall_vibrate_call_wait_title">Vibración de llamada en espera</string>
+    <string name="incall_vibrate_disconnect_title">Vibrar al desconectar</string>
+    <string name="flashlight_on_call_title">Linterna parpadeante durante una llamada entrante</string>
+    <string name="flashlight_on_call_disabled">Deshabilitado</string>
+    <string name="flashlight_on_call_ringer">Al sonar</string>
+    <string name="flashlight_on_call_no_ringer">Cuando el timbre está en silencio</string>
+    <string name="flashlight_on_call_silent">Cuando está completamente silencioso (sin timbre ni vibración)</string>
+    <string name="flashlight_on_call_always">Siempre</string>
+    <string name="qs_brightness_slider_category">Barra de brillo</string>
+    <string name="qs_brightness_slider_title">Mostrar barra de brillo</string>
+    <string name="qs_brightness_slider_summary">Mostrar la barra de brillo en el panel Qs</string>
+    <string name="qs_brightness_position_bottom_title">Mostrar barra de brillo en la parte inferior</string>
+    <string name="qs_brightness_position_bottom_summary">Mostrar la barra de brillo en la parte inferior de QS</string>
+    <string name="brightness_icon_title">Botón de brillo adaptable</string>
+    <string name="brightness_icon_summary">Mostrar botón de brillo adaptable</string>
+    <string name="proximity_wake_title">Prevenir encendido accidental</string>
+    <string name="proximity_wake_summary">Verificar el sensor de proximidad para despertar la pantalla</string>
+    <string name="connected_tws_device_saved_title">Auriculares guardados</string>
+    <string name="duration_less_than_one_minute">Menos de 1 minuto</string>
+    <string name="screen_time_summary_usage_today">%1$s hoy</string>
+    <string name="notification_sound_vib_screen_on_title">Notificaciones molestas</string>
+    <string name="notification_sound_vib_screen_on_summary">Reproduce sonido y vibración para notificaciones cuando la pantalla está encendida</string>
+    <string name="less_boring_heads_up_title">Saner Heads-Up</string>
+    <string name="less_boring_heads_up_summary">Deshabilite rápidamente los avisos para todas las aplicaciones, pero manténgalos habilitados para las aplicaciones de marcación y mensajería</string>
+    <string name="system_black_theme_title">Usar tema negro</string>
+    <string name="system_black_theme_summary">Forzar fondo de color negro</string>
+    <string name="vibration_pattern_title">Patrón de vibración de tono de llamada</string>
+    <string name="pattern_dzzz_dzzz">dzzz-dzzz</string>
+    <string name="pattern_dzzz_da">dzzz-da</string>
+    <string name="pattern_mm_mm_mm">mm-mm-mm</string>
+    <string name="pattern_da_da_dzzz">da-da-dzzz</string>
+    <string name="pattern_da_dzzz_da">da-dzzz-da</string>
+    <string name="pattern_custom">Personalizado</string>
+    <string name="custom_vibration_pattern_title">Patrón custodiado</string>
+    <string name="custom_vibration_pattern_summary">Establecer un patrón de vibración personalizado</string>
+    <string name="security_settings_face_unlock_redo_face_scan_summary">Elimine el escaneo facial existente y cree un nuevo escaneo</string>
+    <string name="security_settings_face_unlock_redo_face_scan_title">Rehacer escaneo facial</string>
+    <string name="face_redo_confirm_btn">Rehacer</string>
+    <string name="face_redo_warning_msg">¿Desea eliminar el escaneo facial existente y crear uno nuevo?</string>
+    <string name="face_unlock_method_title">Permitir desbloqueo facial en bloqueo de pantalla</string>
+    <string name="face_unlock_method_default">Cuando la pantalla este encendida</string>
+    <string name="face_unlock_method_swipe">Al deslizar en la pantalla de bloqueo</string>
+    <string name="security_settings_face_settings_footer_custom">El desbloqueo facial le permite desbloquear su dispositivo mirándolo. Ten en cuenta:\n\n● Tu dispositivo puede desbloquearse cada vez que lo mires.\n● Otra persona puede desbloquear tu dispositivo si lo sostiene frente a ti mientras tus ojos están abiertos.\n● Tu El dispositivo también puede ser desbloqueado por alguien que se parezca mucho a usted, como un niño o un hermano idéntico.</string>
+    <string name="security_settings_face_settings_remove_dialog_details_custom">Los datos registrados por el desbloqueo facial se eliminarán de forma permanente y segura. Después de la eliminación, necesitará su PIN, patrón o contraseña para desbloquear su teléfono.</string>
+    <string name="statusbar_tuner_title">Sintonizador de barra de estado</string>
+    <string name="qs_show_battery_estimate_title">Estimación de batería</string>
+    <string name="qs_show_battery_estimate_summary_on">Mostrar estimación de batería en QS</string>
+    <string name="qs_show_battery_estimate_summary_off">Ocultar la estimación de bateria de QS</string>
+    <string name="keygaurd_media_art_title">Media art</string>
+    <string name="keygaurd_media_art_summary">Mostrar arte multimedia como fondo de pantalla de bloqueo</string>
+    <string name="screenshot_shutter_sound_title">Sonido de captura de pantalla</string>
+    <string name="volume_panel_on_left_title">Panel de volumen izquierdo</string>
+    <string name="volume_panel_on_left_summary">Mostrar el panel de volumen a la izquierda de la pantalla</string>
+</resources>

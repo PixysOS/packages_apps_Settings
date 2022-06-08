@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright 2020 Pixys OS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="themes_title">主題</string>
+    <string name="monet_engine_custom_color_title">使用自訂顏色</string>
+    <string name="monet_engine_color_override_title">自訂顏色</string>
+    <string name="navbar_length">手勢列長度</string>
+    <string name="short_label">短</string>
+    <string name="long_label">長</string>
+    <string name="show_navbar_gesture_bar_title">手勢列</string>
+    <string name="show_navbar_gesture_bar_summary">在螢幕底部顯示手勢列</string>
+    <string name="selinux_status">SELinux 狀態</string>
+    <string name="selinux_status_disabled">已停用</string>
+    <string name="power_menu_title">電源選單</string>
+    <string name="power_menu_title_summary">檢視或更改電源選單項目</string>
+    <string name="powermenu_screenshot">螢幕快照</string>
+    <string name="powermenu_power">電源</string>
+    <string name="powermenu_advanced">進階重新啟動選項</string>
+    <string name="powermenu_restart">重新啟動</string>
+    <string name="powermenu_airplane">飛航模式</string>
+    <string name="powermenu_settings">設定</string>
+    <string name="powermenu_soundpanel">音量面板</string>
+    <string name="powermenu_users">使用者管理</string>
+    <string name="powermenu_logout">登出</string>
+    <string name="always_on_display_schedule_sunset">日落</string>
+    <string name="always_on_display_schedule_sunrise">日出</string>
+    <string name="disabled">已停用</string>
+    <string name="traffic_title">流量指示</string>
+    <string name="traffic_summary">顯示網路流量</string>
+    <string name="network_traffic">網路流量</string>
+    <string name="network_traffic_state_title">網路流量顯示</string>
+    <string name="flashlight_on_call_disabled">已停用</string>
+    <string name="flashlight_on_call_ringer">當響鈴時</string>
+    <string name="flashlight_on_call_no_ringer">當鈴聲靜音時</string>
+    <string name="flashlight_on_call_silent">當完全靜音（鈴聲及震動皆關閉）時</string>
+    <string name="flashlight_on_call_always">一律</string>
+    <string name="qs_brightness_slider_category">亮度滑桿</string>
+    <string name="qs_brightness_slider_title">顯示亮度滑桿</string>
+    <string name="qs_brightness_slider_summary">在快速設定面板顯示亮度滑桿</string>
+    <string name="qs_brightness_position_bottom_title">亮度滑桿顯示在底部</string>
+    <string name="qs_brightness_position_bottom_summary">亮度滑桿顯示在快速設定面板底部</string>
+    <string name="brightness_icon_title">自動調整亮度按鈕</string>
+    <string name="brightness_icon_summary">顯示自動調整亮度按鈕</string>
+    <string name="proximity_wake_title">防止意外喚醒</string>
+    <string name="proximity_wake_summary">喚醒螢幕前先檢查距離感測器</string>
+    <string name="duration_less_than_one_minute">不到 1 分鐘</string>
+    <string name="system_black_theme_title">使用黑色主題</string>
+    <string name="system_black_theme_summary">強制使用黑色背景</string>
+    <string name="pattern_dzzz_dzzz">dzzz-dzzz（滋……滋……）</string>
+    <string name="pattern_mm_mm_mm">mm-mm-mm（嗯……嗯……嗯……）</string>
+    <string name="pattern_custom">自訂</string>
+    <string name="face_unlock_method_default">當螢幕開啟時</string>
+    <string name="face_unlock_method_swipe">在鎖定畫面滑動時</string>
+    <string name="statusbar_tuner_title">狀態列調整</string>
+    <string name="qs_show_battery_estimate_title">電池預估可用時間</string>
+    <string name="qs_show_battery_estimate_summary_on">於快速設定顯示電池預估可用時間</string>
+    <string name="qs_show_battery_estimate_summary_off">於快速設定隱藏電池預估可用時間</string>
+    <string name="keygaurd_media_art_title">專輯封面</string>
+    <string name="keygaurd_media_art_summary">顯示專輯封面作為鎖定畫面背景</string>
+    <string name="screenshot_shutter_sound_title">螢幕快照音效</string>
+    <string name="game_dashboard_dnd_title">遊戲用零打擾模式</string>
+    <string name="columbus_gesture_enrollment_complete">完成</string>
+    <string name="columbus_gesture_enrollment_do_it_later">之後再說</string>
+    <string name="columbus_gesture_enrollment_settings">前往設定</string>
+    <string name="columbus_gesture_enrollment_try_it">試試看</string>
+    <string name="columbus_gesture_training_action_no_selection_error">請選擇要執行的動作</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">請選擇要開啟的 app</string>
+    <string name="columbus_gesture_training_launch_title">選擇要開啟的 app</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">未選擇 app</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">app 未安裝</string>
+    <string name="columbus_setting_action_launch_title">開啟 app</string>
+    <string name="columbus_setting_action_launch_value">啟動</string>
+    <string name="columbus_setting_action_notification_title">顯示通知</string>
+    <string name="columbus_setting_action_notification_value">通知</string>
+    <string name="columbus_setting_action_open_app_title">開啟 app</string>
+    <string name="columbus_setting_action_overview_value">總覽</string>
+    <string name="columbus_setting_action_play_pause_title">播放或暫停媒體</string>
+    <string name="columbus_setting_action_play_pause_value">媒體</string>
+    <string name="columbus_setting_action_screenshot_title">拍攝螢幕快照</string>
+    <string name="columbus_setting_action_screenshot_value">螢幕快照</string>
+    <string name="display_cutout_force_fullscreen_title">app 全螢幕</string>
+    <string name="display_cutout_force_fullscreen_summary">強制 app 忽略螢幕凹口</string>
+    <string name="search">搜尋</string>
+    <string name="search_apps">搜尋 app</string>
+    <string name="wifi_band_24ghz_and_5ghz">2.4 GHz &amp; 5 GHz</string>
+    <string name="wifi_band_24ghz_and_6ghz">2.4 GHz &amp; 6 GHz</string>
+    <string name="wifi_band_60ghz">60 GHz</string>
+    <string name="wifi_hotspot_client_manager_title">已連線的裝置</string>
+    <string name="wifi_hotspot_blocked_clients_list_title">已封鎖的裝置</string>
+    <string name="wifi_hotspot_connected_clients_list_title">已連線的裝置</string>
+    <string name="wifi_hotspot_block_client_dialog_title">封鎖裝置</string>
+    <string name="wifi_hotspot_unblock_client_dialog_title">取消封鎖裝置</string>
+</resources>
