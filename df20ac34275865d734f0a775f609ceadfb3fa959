@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3e8e890c_f5251688",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000009
+      },
+      "writtenOn": "2022-06-10T04:09:20Z",
+      "side": 1,
+      "message": "after testing looks like its just redfin varient so will stick to current raven one",
+      "revId": "df20ac34275865d734f0a775f609ceadfb3fa959",
+      "serverId": "dc9c43de-f401-424a-9bd3-945633c9f028"
+    }
+  ]
+}
