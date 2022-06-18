@@ -87,6 +87,7 @@ android_library {
         "faceunlock_framework",
         "glide",
         "SettingsGoogle-lib",
+        "vendor.lineage.touch-V1.0-java",
     ],
     manifest: "AndroidManifest.xml",
     additional_manifests: ["SettingsGoogle-Manifest.xml"],
