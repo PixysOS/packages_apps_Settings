@@ -152,4 +152,9 @@
     <string name="screenshot_shutter_sound_title">Sonido de captura de pantalla</string>
     <string name="volume_panel_on_left_title">Panel de volumen izquierdo</string>
     <string name="volume_panel_on_left_summary">Mostrar el panel de volumen a la izquierda de la pantalla</string>
+    <string name="wifi_band_24ghz_and_5ghz">2.4 GHz &amp; 5 GHz</string>
+    <string name="wifi_band_24ghz_and_6ghz">2.4 GHz &amp; 6 GHz</string>
+    <string name="wifi_band_60ghz">60 GHz</string>
+    <string name="package_version_text"><xliff:g id="version_num">%1$s</xliff:g></string>
+    <string name="custom_wifi_bar_title">Wi-Fi</string>
 </resources>

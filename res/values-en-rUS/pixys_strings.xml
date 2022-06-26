@@ -53,8 +53,6 @@
     <!-- Lockscreen media art -->
     <!-- Screenshot shutter -->
     <!-- Volume dialog position -->
-    <!-- Game -->
-    <!-- Columbus -->
     <!-- Notch: Full screen apps -->
     <!-- Hotspot -->
     <!-- Cloudflare DNS Option -->
@@ -63,4 +61,11 @@
     <!-- Custom Signal bar icons -->
     <!-- Custom Wi-Fi bar icons -->
     <!-- App lock -->
+    <!-- Generic stuff used everywhere -->
+    <!-- Buttons -->
+    <!-- Key backlight -->
+    <!-- Buttons - Enable navbar -->
+    <!-- Buttons - Swap capacitive keys -->
+    <!-- Others settings -->
+    <!-- Advanced keyboard settings -->
 </resources>

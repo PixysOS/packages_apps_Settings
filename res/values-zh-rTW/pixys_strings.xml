@@ -72,26 +72,6 @@
     <string name="keygaurd_media_art_title">專輯封面</string>
     <string name="keygaurd_media_art_summary">顯示專輯封面作為鎖定畫面背景</string>
     <string name="screenshot_shutter_sound_title">螢幕快照音效</string>
-    <string name="game_dashboard_dnd_title">遊戲用零打擾模式</string>
-    <string name="columbus_gesture_enrollment_complete">完成</string>
-    <string name="columbus_gesture_enrollment_do_it_later">之後再說</string>
-    <string name="columbus_gesture_enrollment_settings">前往設定</string>
-    <string name="columbus_gesture_enrollment_try_it">試試看</string>
-    <string name="columbus_gesture_training_action_no_selection_error">請選擇要執行的動作</string>
-    <string name="columbus_gesture_training_launch_no_selection_error">請選擇要開啟的 app</string>
-    <string name="columbus_gesture_training_launch_title">選擇要開啟的 app</string>
-    <string name="columbus_setting_action_launch_summary_no_selection">未選擇 app</string>
-    <string name="columbus_setting_action_launch_summary_not_installed">app 未安裝</string>
-    <string name="columbus_setting_action_launch_title">開啟 app</string>
-    <string name="columbus_setting_action_launch_value">啟動</string>
-    <string name="columbus_setting_action_notification_title">顯示通知</string>
-    <string name="columbus_setting_action_notification_value">通知</string>
-    <string name="columbus_setting_action_open_app_title">開啟 app</string>
-    <string name="columbus_setting_action_overview_value">總覽</string>
-    <string name="columbus_setting_action_play_pause_title">播放或暫停媒體</string>
-    <string name="columbus_setting_action_play_pause_value">媒體</string>
-    <string name="columbus_setting_action_screenshot_title">拍攝螢幕快照</string>
-    <string name="columbus_setting_action_screenshot_value">螢幕快照</string>
     <string name="display_cutout_force_fullscreen_title">app 全螢幕</string>
     <string name="display_cutout_force_fullscreen_summary">強制 app 忽略螢幕凹口</string>
     <string name="search">搜尋</string>
@@ -104,4 +84,7 @@
     <string name="wifi_hotspot_connected_clients_list_title">已連線的裝置</string>
     <string name="wifi_hotspot_block_client_dialog_title">封鎖裝置</string>
     <string name="wifi_hotspot_unblock_client_dialog_title">取消封鎖裝置</string>
+    <string name="custom_signal_bar_title">訊號</string>
+    <string name="custom_wifi_bar_title">Wi-Fi</string>
+    <string name="app_lock_authentication_dialog_title">解鎖</string>
 </resources>
