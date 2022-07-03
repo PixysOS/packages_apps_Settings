@@ -289,4 +289,8 @@
 
     <!-- In-call notifications -->
     <string name="in_call_notifications_title">In-call notifications</string>
+
+    <!-- Ignore window secure -->
+    <string name="ignore_window_secure_title">Ignore window secure flags</string>
+    <string name="ignore_window_secure_summary">Removes the screenshots and screenrecords limits for all applicatications, restart applications for the change to take effect.</string>
 </resources>
