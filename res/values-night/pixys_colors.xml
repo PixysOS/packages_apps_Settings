@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?> 
 <!--
-     Copyright (C) 2015-2018 AOSiP
+     Copyright (C) 2022 PixysOS
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -17,11 +17,8 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"
     xmlns:androidprv="http://schemas.android.com/apk/prv/res/android">
 
-    <!-- Themes -->
-    <color name="homepage_themes_background">#536dfe</color>
-
     <!-- New UI -->
-    <color name="homepage_card">@android:color/system_accent2_100</color>
-    <color name="homepage_card_bg">?androidprv:attr/colorSurfaceHighlight</color>
-    <color name="homepage_icon">@android:color/system_accent1_600</color>
+    <color name="homepage_card">@android:color/system_accent2_700</color>
+    <color name="homepage_card_bg">?androidprv:attr/colorSurfaceVariant</color>
+    <color name="homepage_icon">@android:color/system_accent2_200</color>
 </resources>
