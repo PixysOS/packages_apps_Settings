@@ -70,6 +70,12 @@
     <PreferenceCategory
         android:title="@string/category_name_appearance">
 
+        <SwitchPreference
+            android:key="pixys_ui_toggle"
+            android:title="@string/pixys_ui_toggle_title"
+            android:summary="@string/pixys_ui_toggle_summary"
+            android:defaultValue="true" />
+
         <com.android.settings.display.darkmode.DarkModePreference
             android:key="dark_ui_mode"
             android:title="@string/dark_ui_mode"

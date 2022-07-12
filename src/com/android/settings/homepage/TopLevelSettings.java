@@ -55,6 +55,8 @@ import com.android.settingslib.search.SearchIndexable;
 import com.android.settingslib.widget.LayoutPreference;
 import com.android.settings.widget.EntityHeaderController;
 
+import static android.provider.Settings.System.PIXYS_UI_TOGGLE;
+
 @SearchIndexable(forTarget = MOBILE)
 public class TopLevelSettings extends DashboardFragment implements
         PreferenceFragmentCompat.OnPreferenceStartFragmentCallback {
@@ -186,6 +188,9 @@ public class TopLevelSettings extends DashboardFragment implements
         // Tint the homepage icons
         final int tintColor = Utils.getHomepageIconColor(getContext());
         final int count = screen.getPreferenceCount();
+	int pixysUIToggleValue = Settings.System.getInt(getContext().getContentResolver(),
+                 PIXYS_UI_TOGGLE, 0);
+
         for (int i = 0; i < count; i++) {
             final Preference preference = screen.getPreference(i);
             if (preference == null) {
@@ -196,12 +201,13 @@ public class TopLevelSettings extends DashboardFragment implements
                 icon.setTint(tintColor);
             }
 
-   	 onSetPrefCard();
-
+	    if(pixysUIToggleValue == 1){
+	 	onSetPrefCard();
+	    }
         }
     }
 
-	private void onSetPrefCard() {
+    private void onSetPrefCard() {
 	final PreferenceScreen screen = getPreferenceScreen();
         final int count = screen.getPreferenceCount();
         for (int i = 0; i < count; i++) {
