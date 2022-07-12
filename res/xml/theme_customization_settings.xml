@@ -31,4 +31,10 @@
         android:summary="@string/monet_engine_settings_summary"
         android:fragment="com.pixys.settings.theme.MonetEngineSettings" />
 
+    <SwitchPreference
+        android:key="custom_ui_toggle"
+        android:title="@string/custom_ui_toggle_title"
+        android:summary="@string/custom_ui_toggle_summary"
+        android:defaultValue="false" />
+
 </PreferenceScreen>
