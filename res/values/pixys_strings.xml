@@ -437,4 +437,7 @@
     <string name="dialog_delete_message">Remove selected item?</string>
     <string name="dialog_delete_title">Delete</string>
 
+    <!-- PixysUI -->
+    <string name="pixys_ui_toggle_title">Use alternate settings UI</string>
+    <string name="pixys_ui_toggle_summary">A reimagined custom UI for pixysos (needs systemui restart)</string>
 </resources>
