@@ -16,6 +16,7 @@
 
 package com.android.settings.homepage;
 
+import static android.provider.Settings.System.CUSTOM_UI_TOGGLE;
 import static com.android.settings.search.actionbar.SearchMenuController.NEED_SEARCH_ICON_IN_ACTION_BAR;
 import static com.android.settingslib.search.SearchIndexable.MOBILE;
 
@@ -28,6 +29,7 @@ import android.content.Intent;
 import android.content.res.Configuration;
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
+import android.os.UserHandle;
 import android.provider.Settings;
 import android.text.TextUtils;
 import android.util.Log;
@@ -223,7 +225,11 @@ public class TopLevelSettings extends DashboardFragment implements SplitLayoutLi
                 icon.setTint(tintColor);
             }
         });
-        onSetPrefCard();
+	int customUIToggleValue = Settings.System.getInt(getContext().getContentResolver(),
+                 CUSTOM_UI_TOGGLE, 0);
+            if (customUIToggleValue == 1) {
+                onSetPrefCard();
+            }
     }
 
     private void onSetPrefCard() {
