@@ -320,4 +320,8 @@
     <string name="gesture_navbar_length_title">Pill length</string>
     <string name="short_label">Short</string>
     <string name="long_label">Long</string>
+
+    <!-- PixysUI -->
+    <string name="custom_ui_toggle_title">Use alternate settings UI</string>
+    <string name="custom_ui_toggle_summary">A reimagined dashboard UI for PixysOS</string>
 </resources>
