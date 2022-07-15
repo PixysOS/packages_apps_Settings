@@ -127,11 +127,20 @@
         android:summary="@string/network_traffic_summary"        
         android:title="@string/network_traffic_title" />    
 
+  <!-- Combined signal icons -->
+    <com.pixys.support.preference.SecureSettingSwitchPreference
+        android:key="show_wifi_standard_icon"
+        android:title="@string/show_wifi_standard_icon_title"
+        android:summary="@string/show_wifi_standard_icon_summary"
+        android:icon="@drawable/ic_settings_wireless"
+        android:order="30"
+        android:defaultValue="false" />
+
     <Preference
         android:fragment="com.android.settings.network.AdaptiveConnectivitySettings"
         android:key="adaptive_connectivity"
         android:title="@string/adaptive_connectivity_title"
         android:summary="@string/summary_placeholder"
-        android:order="30"
+        android:order="35"
         settings:controller="com.android.settings.network.AdaptiveConnectivityPreferenceController"/>
 </PreferenceScreen>

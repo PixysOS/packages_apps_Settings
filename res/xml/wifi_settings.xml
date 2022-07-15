@@ -45,4 +45,11 @@
     <com.android.settings.datausage.DataUsagePreference
         android:key="wifi_data_usage"
         android:title="@string/wifi_data_usage"/>
+
+    <!-- Combined signal icons -->
+    <com.pixys.support.preference.SecureSettingSwitchPreference
+        android:key="show_wifi_standard_icon"
+        android:title="@string/show_wifi_standard_icon_title"
+        android:summary="@string/show_wifi_standard_icon_summary"
+        android:defaultValue="false" />
 </PreferenceScreen>
