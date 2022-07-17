@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2a05c237_b834c9e0",
+        "filename": "src/com/android/settings/applications/sensors/SensorBlock.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 264,
+      "author": {
+        "id": 1000085
+      },
+      "writtenOn": "2022-07-17T05:57:04Z",
+      "side": 1,
+      "message": "may i know, where is this layout come from?",
+      "revId": "e8b1956f8ba91a50b5cee951efdf31808e0ac2ce",
+      "serverId": "dc9c43de-f401-424a-9bd3-945633c9f028"
+    }
+  ]
+}
