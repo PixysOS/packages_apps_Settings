@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "50a29db2_04fb3937",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000085
+      },
+      "writtenOn": "2022-07-17T01:04:05Z",
+      "side": 1,
+      "message": "Please rebase this, the latest patch in Settings doesn\u0027t match with the first patch.\nSee https://github.com/PixysOS/packages_apps_Settings/commits/fe649ef5ae1ac954ca08b3a659d4f174b55c2df5",
+      "revId": "fe649ef5ae1ac954ca08b3a659d4f174b55c2df5",
+      "serverId": "dc9c43de-f401-424a-9bd3-945633c9f028"
+    }
+  ]
+}
