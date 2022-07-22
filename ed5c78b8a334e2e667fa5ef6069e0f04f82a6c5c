@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "401d1518_b7630e2d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000085
+      },
+      "writtenOn": "2022-07-22T10:18:38Z",
+      "side": 1,
+      "message": "Applying this patch fix Icon Pack overlay persistent across reboots.\nBut in the other case, Signal \u0026 Wi-Fi icon will not be set if Icon Pack is not device default.",
+      "revId": "ed5c78b8a334e2e667fa5ef6069e0f04f82a6c5c",
+      "serverId": "dc9c43de-f401-424a-9bd3-945633c9f028"
+    }
+  ]
+}
