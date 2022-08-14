@@ -77,6 +77,7 @@ import android.provider.ContactsContract.Contacts;
 import android.provider.ContactsContract.Data;
 import android.provider.ContactsContract.Profile;
 import android.provider.ContactsContract.RawContacts;
+import android.provider.Settings;
 import android.telephony.SubscriptionManager;
 import android.telephony.TelephonyManager;
 import android.text.Spannable;
@@ -118,6 +119,8 @@ import com.android.settingslib.widget.AdaptiveIcon;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Locale;
+
+import static android.provider.Settings.System.PIXYS_UI_TOGGLE;
 
 public final class Utils extends com.android.settingslib.Utils {
 
@@ -1220,7 +1223,9 @@ public final class Utils extends com.android.settingslib.Utils {
      */
     @ColorInt
     public static int getHomepageIconColor(Context context) {
-        return getColorAttrDefaultColor(context, android.R.attr.textColorSecondary);
+        int pixysUIToggleValue = Settings.System.getInt(context.getContentResolver(),
+                 PIXYS_UI_TOGGLE, 0);
+        return getColorAttrDefaultColor(context, pixysUIToggleValue == 1 ? android.R.attr.colorAccent : android.R.attr.textColorSecondary);
     }
 
     /**
