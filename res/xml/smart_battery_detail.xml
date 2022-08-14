@@ -48,6 +48,12 @@
         settings:controller="com.google.android.settings.fuelgauge.AdaptiveChargingPreferenceController"
         settings:keywords="@string/keywords_adaptive_charging" />
 
+    <Preference
+        android:key="sensor_block_settings"
+        android:title="@string/sensor_block_title"
+        android:summary="@string/sensor_block_summary"
+        android:fragment="com.android.settings.applications.sensors.SensorBlock"/>
+
     <com.android.settingslib.widget.FooterPreference
         android:key="smart_battery_detail_footer"
         android:selectable="false"
