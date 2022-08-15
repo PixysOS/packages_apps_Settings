@@ -17,7 +17,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="pixys_version">"Versi PixysOS"</string>
     <string name="build_date">"Tanggal pembuatan"</string>
-    <string name="device_info_protected_single_press">Sentuh untuk melihat info</string>
     <string name="three_finger_gesture">Gesek untuk menangkap layar</string>
     <string name="three_finger_gesture_summary">Gesek tiga jari ke bawah untuk menangkap layar</string>
     <string name="density_category">Opsi kepadatan</string>
@@ -249,4 +248,16 @@
     <string name="additional_buttons_title">Tombol tambahan</string>
     <string name="keyboard_extras_title">Tambahan</string>
     <string name="advanced_keyboard_settings_title">Setelan lanjutan</string>
+    <string name="qs_footer_datausage_title">Penggunaan data</string>
+    <string name="qs_footer_datausage_summary">Tampilkan ringkasan penggunaan data di footer setelan cepat</string>
+    <string name="ignore_window_secure_title">Abaikan bendera pengaman jendela</string>
+    <string name="ignore_window_secure_summary">Hapus batas tangkapan layar dan rekaman layar untuk semua aplikasi, mulai ulang aplikasi agar perubahan diterapkan.</string>
+    <string name="strict_standby_policy_title">Kebijakan siaga yang ketat</string>
+    <string name="strict_standby_policy_summary">Saat menutup dari yang terbaru, ini akan memaksa menghentikan aplikasi dengan penggunaan baterai terbatas dan memberlakukan pembatasan yang lebih kuat kepada mereka. Selain itu, semua batasan siaga aplikasi akan diberlakukan bahkan saat perangkat sedang diisi daya.</string>
+    <string name="force_background_freezer_title">Bekukan tugas latar belakang</string>
+    <string name="force_background_freezer_summary">Membekukan tugas dengan penggunaan baterai terbatas saat memindahkannya ke latar belakang dan mencairkan saat memindahkannya ke latar depan. Ini dapat menghemat baterai sedikit tetapi dapat menyebabkan crash dan ANR latar belakang.</string>
+    <string name="ambient_display_screen_off_udfps_title" product="default">Tekan lama pada sensor sidik jari untuk membuka kunci ponsel</string>
+    <string name="ambient_display_screen_off_udfps_title" product="tablet">Tekan lama pada sensor sidik jari untuk membuka kunci tablet</string>
+    <string name="ambient_display_screen_off_udfps_title" product="device">Tekan lama pada sensor sidik jari untuk membuka kunci perangkat</string>
+    <string name="ambient_display_screen_off_udfps_summary">Untuk mengaktifkan layar dan membuka kunci, tekan lama sensor sidik jari di bawah layar.</string>
 </resources>

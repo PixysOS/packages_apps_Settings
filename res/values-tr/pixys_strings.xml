@@ -17,7 +17,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="pixys_version">"PixysOS sürümü"</string>
     <string name="build_date">"İnşa tarihi"</string>
-    <string name="device_info_protected_single_press">Bilgileri göstermek için dokunun</string>
     <string name="three_finger_gesture">Üç parmak hareketi</string>
     <string name="three_finger_gesture_summary">Ekran görüntüsü almak için üç parmağınızla aşağı kaydırın</string>
     <string name="density_category">Ekran yoğunluğu</string>
@@ -251,4 +250,16 @@
     <string name="additional_buttons_title">Ek tuşlar</string>
     <string name="keyboard_extras_title">Ekstralar</string>
     <string name="advanced_keyboard_settings_title">Gelişmiş ayarlar</string>
+    <string name="qs_footer_datausage_title">Veri kullanımı</string>
+    <string name="qs_footer_datausage_summary">Hızlı ayarlar alt bilgisinde veri kullanım özetini göster</string>
+    <string name="ignore_window_secure_title">Pencere güvenlik işaretlerini yoksay</string>
+    <string name="ignore_window_secure_summary">Tüm uygulamalar için ekran görüntüleri ve ekran kayıtları sınırlarını kaldırır, değişikliğin yürürlüğe girmesi için uygulamaları yeniden başlatın.</string>
+    <string name="strict_standby_policy_title">Sıkı bekleme politikası</string>
+    <string name="strict_standby_policy_summary">Son kullanılardan çıkarken, bu kısıtlı pil kullanımına sahip uygulamaları durdurmaya zorlayacak ve bunlara daha güçlü kısıtlamalar getirecektir. Ayrıca, cihaz şarj olurken bile tüm uygulama bekleme kısıtlamaları uygulanacaktır.</string>
+    <string name="force_background_freezer_title">Arkaplan görev durdurucusu</string>
+    <string name="force_background_freezer_summary">Sınırlı pil kullanımına sahip görevleri arka plana taşırken durdurun ve ön plana taşırken bunları çözün. Bu, pilden biraz tasarruf sağlayabilir ancak çökmelere ve arka planda ANR\'ye neden olabilir.</string>
+    <string name="ambient_display_screen_off_udfps_title" product="default">Telefonun kilidini açmak için parmak izi sensörüne uzun basın</string>
+    <string name="ambient_display_screen_off_udfps_title" product="tablet">Tabletin kilidini açmak için parmak izi sensörüne uzun basın</string>
+    <string name="ambient_display_screen_off_udfps_title" product="device">Cihazın kilidini açmak için parmak izi sensörüne uzun basın</string>
+    <string name="ambient_display_screen_off_udfps_summary">Ekranınızı uyandırmak ve kilidini açmak için ekranın altındaki parmak izi sensörünüze uzun basın.</string>
 </resources>

@@ -17,7 +17,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="pixys_version">"Версия PixysOS"</string>
     <string name="build_date">"Дата сборки"</string>
-    <string name="device_info_protected_single_press">Нажмите, чтобы показать информацию</string>
     <string name="three_finger_gesture">Проведите, чтобы сделать скиншот</string>
     <string name="three_finger_gesture_summary">Проведите вниз тремя пальцами чтобы сделать скриншот</string>
     <string name="density_category">Настройки плотности</string>
@@ -243,4 +242,16 @@
     <string name="additional_buttons_title">Дополнительные кнопки</string>
     <string name="keyboard_extras_title">Дополнения</string>
     <string name="advanced_keyboard_settings_title">Расширенные настройки</string>
+    <string name="qs_footer_datausage_title">Использование данных</string>
+    <string name="qs_footer_datausage_summary">Показывать статистику использования трафика в нижней части быстрых настроек</string>
+    <string name="ignore_window_secure_title">Игнорировать флаги безопасности в окне</string>
+    <string name="ignore_window_secure_summary">Удаляет скриншоты и ограничения записи экрана для всех приложений, перезапустите приложения, чтобы изменения вступили в силу.</string>
+    <string name="strict_standby_policy_title">Строгая политика в режиме ожидания</string>
+    <string name="strict_standby_policy_summary">При отключении от недавних приложений, это приведёт к остановке приложений с ограниченным потреблением заряда батареи и к более жестким ограничениям. Кроме того, все резервные ограничения будут введены даже при зарядке устройства.</string>
+    <string name="force_background_freezer_title">Замораживание фоновых задач</string>
+    <string name="force_background_freezer_summary">Заморозить задачи с ограниченным использованием батареи при перемещении их в фоновый режим и разморозить их при переключении на передний план. Это может немного сэкономить аккумулятор, но может привести к сбоям и сбоям в фоновом режиме.</string>
+    <string name="ambient_display_screen_off_udfps_title" product="default">Длительное нажатие на датчик отпечатка пальца для разблокировки телефона</string>
+    <string name="ambient_display_screen_off_udfps_title" product="tablet">Длительное нажатие на датчик отпечатка пальца для разблокировки планшета</string>
+    <string name="ambient_display_screen_off_udfps_title" product="device">Длительное нажатие на датчик отпечатка пальца для разблокировки устройства</string>
+    <string name="ambient_display_screen_off_udfps_summary">Чтобы включить экран и разблокировать его, длительное нажатие на датчик отпечатка пальца под дисплеем.</string>
 </resources>

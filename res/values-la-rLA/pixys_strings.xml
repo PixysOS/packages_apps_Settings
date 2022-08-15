@@ -16,7 +16,6 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- PixysOS version preference -->
-    <!-- String for removal of sensitive info on about, depending on tap -->
     <!-- Three-fingers-swipe to screenshot -->
     <!-- Density category -->
     <!-- Volume button music control -->
@@ -33,6 +32,7 @@
     <!-- Power Menu -->
     <!-- AOD Schedule -->
     <!-- Statusbar net monitor -->
+    <!-- Status bar clock and date options -->
     <!-- Notification headers -->
     <!-- Custom vibration intensity -->
     <!-- Incall actions options -->
@@ -76,4 +76,7 @@
     <!-- Preference and settings suggestion title text for screen off UDFPS  (tablet) [CHAR LIMIT=60]-->
     <!-- Preference and settings suggestion title text for screen off UDFPS  (device) [CHAR LIMIT=60]-->
     <!-- Summary text for screen off UDFPS [CHAR LIMIT=NONE]-->
+    <!-- Refresh rate -->
+    <!-- Sensor block per-package -->
+    <!-- PixysUI -->
 </resources>

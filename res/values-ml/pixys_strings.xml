@@ -16,7 +16,6 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="build_date">"നിർമ്മാണ തീയതി"</string>
-    <string name="device_info_protected_single_press">കൂടുതല്‍ വിവരങ്ങള്‍ കാണിക്കൂക</string>
     <string name="three_finger_gesture">സ്‌ക്രീൻഷോട്ട് എഡ്യൂക്കൻ സ്വൈപ്പ് ചെയ്യുക</string>
     <string name="three_finger_gesture_summary">സ്ക്രീൻഷോട്ട് എടുക്കാൻ മൂന്ന് വിരലുകൾ ഉപയോഗിച്ച് താഴേക്ക് സ്വൈപ്പുചെയ്യുക</string>
     <string name="density_category">സാന്ദ്രത ഓപ്ഷനുകൾ</string>

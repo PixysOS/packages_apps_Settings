@@ -17,7 +17,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="pixys_version">"Verze PixysOS"</string>
     <string name="build_date">"Datum kompilace"</string>
-    <string name="device_info_protected_single_press">Klepnutím zobrazíte informace</string>
     <string name="three_finger_gesture">Snímek obrazovky třemi prsty</string>
     <string name="three_finger_gesture_summary">Snímek obrazovky přejetím dolů třemi prsty</string>
     <string name="density_category">Možnosti hustoty zobrazení</string>
@@ -255,4 +254,16 @@
     <string name="additional_buttons_title">Další tlačítka</string>
     <string name="keyboard_extras_title">Doplňky</string>
     <string name="advanced_keyboard_settings_title">Pokročilá nastavení</string>
+    <string name="qs_footer_datausage_title">Využití dat</string>
+    <string name="qs_footer_datausage_summary">Zobrazit přehled využití dat v\u00a0zápatí rychlého nastavení</string>
+    <string name="ignore_window_secure_title">Ignorovat příznaky zabezpečení oken</string>
+    <string name="ignore_window_secure_summary">Odstraní omezení snímků obrazovky a záznamů obrazovky pro všechny aplikace. Restartujte aplikace, aby se změna projevila.</string>
+    <string name="strict_standby_policy_title">Přísná politika režimu nečinnosti</string>
+    <string name="strict_standby_policy_summary">Při vyjmutí z nedávných se vynutí ukončení aplikací s omezeným využitím baterie a zavede pro ně silnější omezení. Všechna omezení aplikací v pohotovostním režimu budou platit i při nabíjení zařízení.</string>
+    <string name="force_background_freezer_title">Zmrazení úloh na pozadí</string>
+    <string name="force_background_freezer_summary">Zmrazení úloh s omezeným využitím baterie při jejich přesunu na pozadí a jejich rozmrazení při přesunu do popředí. To by mohlo mírně šetřit baterii, ale může to vést k pádům a ANR na pozadí.</string>
+    <string name="ambient_display_screen_off_udfps_title" product="default">Dlouhým stisknutím snímače otisků prstů odemknout telefon</string>
+    <string name="ambient_display_screen_off_udfps_title" product="tablet">Dlouhým stisknutím snímače otisků prstů odemknout tablet</string>
+    <string name="ambient_display_screen_off_udfps_title" product="device">Dlouhým stisknutím snímače otisků prstů odemknout zařízení</string>
+    <string name="ambient_display_screen_off_udfps_summary">Chcete-li obrazovku probudit a odemknout, dlouze stiskněte snímač otisků prstů v displeji.</string>
 </resources>

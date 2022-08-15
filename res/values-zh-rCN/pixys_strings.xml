@@ -17,7 +17,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="pixys_version">"PixysOS 版本"</string>
     <string name="build_date">"编译日期"</string>
-    <string name="device_info_protected_single_press">点击以显示信息</string>
     <string name="three_finger_gesture">三指截屏</string>
     <string name="three_finger_gesture_summary">三指下滑以截屏</string>
     <string name="volume_button_music_control_title">播放控制</string>

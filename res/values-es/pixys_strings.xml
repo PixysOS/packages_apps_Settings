@@ -17,7 +17,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="pixys_version">"Versión de PixysOS"</string>
     <string name="build_date">"Fecha de compilación"</string>
-    <string name="device_info_protected_single_press">Toque para mostrar información</string>
     <string name="three_finger_gesture">Deslizar para tomar captura de pantalla</string>
     <string name="three_finger_gesture_summary">Deslizar hacia abajo con 3 dedos para tomar una captura de pantalla</string>
     <string name="density_category">Opciones de densidad</string>

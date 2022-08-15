@@ -17,7 +17,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="pixys_version">"PixysOS versie"</string>
     <string name="build_date">"Build datum"</string>
-    <string name="device_info_protected_single_press">Tik om info te tonen</string>
     <string name="three_finger_gesture">Veeg voor schermafdruk</string>
     <string name="three_finger_gesture_summary">Swipe naar beneden met drie vingers om een schermafbeelding te maken</string>
     <string name="density_category">Dichtheid opties</string>
@@ -251,4 +250,16 @@
     <string name="additional_buttons_title">Extra knoppen</string>
     <string name="keyboard_extras_title">Extra’s</string>
     <string name="advanced_keyboard_settings_title">Geavanceerde instellingen</string>
+    <string name="qs_footer_datausage_title">Datagebruik</string>
+    <string name="qs_footer_datausage_summary">Toon overzicht van dagelijks gegevensverbruik onder de snelle instellingen</string>
+    <string name="ignore_window_secure_title">Negeer beveiligd scherm status</string>
+    <string name="ignore_window_secure_summary">Verwijdert de screenshots en screenrecords limieten voor alle toepassingen, herstart applicaties om de wijziging van kracht te laten worden.</string>
+    <string name="strict_standby_policy_title">Strikte standby-beleid</string>
+    <string name="strict_standby_policy_summary">Wanneer recente app worden gesloten, worden apps met ingeperkt batterijgebruik geforceerd afgesloten en worden er strictere resticties aan toegewezen. Ook zullen alle app standby-beperkingen worden opgelegd, zelfs wanneer het apparaat wordt opgeladen.</string>
+    <string name="force_background_freezer_title">Achtergrondtaken bevriezen</string>
+    <string name="force_background_freezer_summary">Bevries taken met beperkt batterijgebruik wanneer je ze naar de achtergrond verplaatst en deblokkeer ze wanneer je naar de voorgrond verplaatst. Dit kan iets batterij besparen, maar kan leiden tot crashes en achtergrond ANR.</string>
+    <string name="ambient_display_screen_off_udfps_title" product="default">Vingerafdruksensor lang indrukken om telefoon te ontgrendelen</string>
+    <string name="ambient_display_screen_off_udfps_title" product="tablet">Vingerafdruksensor lang indrukken om tablet te ontgrendelen</string>
+    <string name="ambient_display_screen_off_udfps_title" product="device">Vingerafdruksensor lang indrukken om apparaat te ontgrendelen</string>
+    <string name="ambient_display_screen_off_udfps_summary">Houdt de vingerafdruksensor lang ingedrukt om het scherm aan te zetten en deze te ontgrendelen.</string>
 </resources>
