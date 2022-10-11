@@ -36,6 +36,15 @@
         settings:controller="com.android.settings.gestures.GesturesSettingPreferenceController"/>
 
     <Preference
+        android:key="theme_customization_summary"
+        android:title="@string/theme_customization_category"
+        android:summary="@string/theme_customization_summary"
+        android:icon="@drawable/ic_settings_themes"
+        android:order="-240"
+        android:fragment="com.pixys.settings.theme.ThemeSettings"
+        settings:controller="com.pixys.settings.theme.ThemeSettingsPreferenceController"/>
+
+    <Preference
         android:key="date_time_settings"
         android:title="@string/date_and_time"
         android:icon="@drawable/ic_settings_date_time"
