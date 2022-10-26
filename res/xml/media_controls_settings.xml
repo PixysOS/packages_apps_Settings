@@ -33,4 +33,11 @@
         android:summary="@string/media_controls_recommendations_description"
         app:controller="com.android.settings.sound.MediaControlsRecommendationController" />
 
+    <!-- Squiggle animation -->
+    <com.pixys.support.preference.SecureSettingSwitchPreference
+        android:key="show_media_squiggle_animation"
+        android:title="@string/show_squiggle_animation_title"
+        android:summary="@string/show_squiggle_animation_summary"
+        android:defaultValue="true" />
+
 </PreferenceScreen>
