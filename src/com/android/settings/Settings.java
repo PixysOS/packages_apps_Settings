@@ -522,4 +522,9 @@ public class Settings extends SettingsActivity {
      * Activity for Pixys Lab
      */
     public static class StartLabActivity extends SettingsActivity {}
+
+    /**
+     * Activity for PreviouslyConnectedDeviceDashboardFragment
+     */
+    public static class PreviouslyConnectedDevicesActivity extends SettingsActivity { /* empty */ }
 }
