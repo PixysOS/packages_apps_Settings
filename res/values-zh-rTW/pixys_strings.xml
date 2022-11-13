@@ -73,6 +73,38 @@
     <string name="show_network_traffic_up">上傳</string>
     <string name="show_network_traffic_down">下載</string>
     <string name="show_network_traffic_all">兩者</string>
+    <string name="status_bar_clock_title">時鐘與日期設定</string>
+    <string name="status_bar_clock">時鐘與日期</string>
+    <string name="clock_enabled">啟用</string>
+    <string name="clock_disabled">停用</string>
+    <string name="statusbar_clock_style_title">時鐘與日期位置</string>
+    <string name="statusbar_clock_style_right">右側</string>
+    <string name="statusbar_clock_style_centre">中央</string>
+    <string name="statusbar_clock_style_left">左側</string>
+    <string name="status_bar_clock_style_reset">重設顏色</string>
+    <string name="status_bar_show_clock_title">顯示時鐘與日期</string>
+    <string name="status_bar_am_pm_title">上午／下午</string>
+    <string name="status_bar_am_pm_info">24 小時格式已啟用</string>
+    <string name="clock_seconds_display">顯示秒數</string>
+    <string name="enable_clock_weekday">星期</string>
+    <string name="dont_show">不顯示</string>
+    <string name="clock_date_display">日期</string>
+    <string name="clock_date_display_summary">在時鐘前顯示自訂日期</string>
+    <string name="clock_date_style">日期樣式</string>
+    <string name="clock_date_format">日期格式</string>
+    <string name="clock_date_string_edittext_summary">輸入字串</string>
+    <string name="am_pm_clock_normal">正常字體大小</string>
+    <string name="am_pm_clock_small">小型字體大小</string>
+    <string name="am_pm_clock_none">不顯示</string>
+    <string name="clock_date_display_none">不顯示</string>
+    <string name="clock_date_display_small">小型字體大小</string>
+    <string name="clock_date_display_normal">正常字體大小</string>
+    <string name="clock_date_style_normal">正常</string>
+    <string name="clock_date_style_lowercase">小寫</string>
+    <string name="clock_date_style_uppercase">大寫</string>
+    <string name="clock_date_right">時間右側</string>
+    <string name="clock_date_left">時間左側</string>
+    <string name="clock_date_position">日期位置</string>
     <string name="notification_headers_title">通知標題</string>
     <string name="vibration_intensity_title">震動強度</string>
     <string name="notification_vibration_intensity_title">通知</string>
@@ -207,4 +239,11 @@
     <string name="ambient_display_screen_off_udfps_title" product="tablet">在指紋感應器上長按以解鎖平板電腦</string>
     <string name="ambient_display_screen_off_udfps_title" product="device">在指紋感應器上長按以解鎖裝置</string>
     <string name="ambient_display_screen_off_udfps_summary">要喚醒您的螢幕並解鎖，請長按螢幕下指紋感應器。</string>
+    <string name="min_refresh_rate_title">最低更新率</string>
+    <string name="max_refresh_rate_title">最高更新率</string>
+    <string name="low_power_refresh_rate_title_custom">省電更新率</string>
+    <string name="sensor_block_title">封鎖感測器</string>
+    <string name="profile_choose_app">選取 app</string>
+    <string name="dialog_delete_title">刪除</string>
+    <string name="pixys_ui_toggle_title">使用另一種設定介面</string>
 </resources>

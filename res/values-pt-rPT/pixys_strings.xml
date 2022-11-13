@@ -85,6 +85,40 @@
     <string name="show_network_traffic_down">Download</string>
     <string name="show_network_traffic_all">Ambos</string>
     <string name="network_traffic_font_size_title">Tamanho da letra dos indicadores</string>
+    <string name="status_bar_clock_title">Definições de data e hora</string>
+    <string name="status_bar_clock">Data e Hora</string>
+    <string name="clock_enabled">Ativado</string>
+    <string name="clock_disabled">Desativado</string>
+    <string name="statusbar_clock_style_title">Posição do relógio e data</string>
+    <string name="statusbar_clock_style_right">Direita</string>
+    <string name="statusbar_clock_style_centre">Centro</string>
+    <string name="statusbar_clock_style_left">Esquerda</string>
+    <string name="status_bar_clock_style_reset">Redefinir cor</string>
+    <string name="status_bar_show_clock_title">Mostrar relógio e data</string>
+    <string name="status_bar_am_pm_title">AM/PM</string>
+    <string name="status_bar_am_pm_info">O formato de 24 horas está ativado</string>
+    <string name="clock_seconds_display">Mostrar segundos</string>
+    <string name="enable_clock_weekday">Dia da semana</string>
+    <string name="enable_clock_weekday_summary">Dia da semana abreviado antes do relógio</string>
+    <string name="dont_show">Não mostrar</string>
+    <string name="clock_date_display">Data</string>
+    <string name="clock_date_display_summary">Mostrar data personalizada antes do relógio</string>
+    <string name="clock_date_style">Estilo da data</string>
+    <string name="clock_date_format">Formato da data</string>
+    <string name="clock_date_string_edittext_title">Deve estar num formato de data, por exemplo: DD/MM/AA</string>
+    <string name="clock_date_string_edittext_summary">Insira os caracteres</string>
+    <string name="am_pm_clock_normal">Letra de tamanho normal</string>
+    <string name="am_pm_clock_small">Letra de tamanho pequeno</string>
+    <string name="am_pm_clock_none">Não mostrar</string>
+    <string name="clock_date_display_none">Não mostrar</string>
+    <string name="clock_date_display_small">Letra de tamanho pequeno</string>
+    <string name="clock_date_display_normal">Letra de tamanho normal</string>
+    <string name="clock_date_style_normal">Normal</string>
+    <string name="clock_date_style_lowercase">Minúsculas</string>
+    <string name="clock_date_style_uppercase">Maiúsculas</string>
+    <string name="clock_date_right">À direita do relógio</string>
+    <string name="clock_date_left">À esquerda do relógio</string>
+    <string name="clock_date_position">Posição da data</string>
     <string name="notification_headers_title">Cabeçalhos das notificações</string>
     <string name="notification_headers_summary">Mostrar os cabeçalhos na área de notificações</string>
     <string name="vibration_intensity_title">Intensidade da vibração</string>
@@ -214,6 +248,7 @@
     <string name="hardware_keys_double_tap_title">Ação de toque duplo</string>
     <string name="hardware_keys_action_nothing">Sem ação</string>
     <string name="hardware_keys_action_menu">Abrir/fechar menu</string>
+    <string name="hardware_keys_action_app_switch">Alternador de apps recentes</string>
     <string name="hardware_keys_action_search">Assistente de pesquisa</string>
     <string name="hardware_keys_action_voice_search">Pesquisa por voz</string>
     <string name="hardware_keys_action_in_app_search">Pesquisa na app</string>
@@ -261,4 +296,17 @@
     <string name="ambient_display_screen_off_udfps_title" product="tablet">Pressione longamente no sensor de impressão digital para desbloquear o tablet</string>
     <string name="ambient_display_screen_off_udfps_title" product="device">Pressione longamente no sensor de impressão digital para desbloquear o dispositivo</string>
     <string name="ambient_display_screen_off_udfps_summary">Para ligar o ecrã e desbloquear, pressione longamente o sensor de impressão digital.</string>
+    <string name="min_refresh_rate_title">Taxa de atualização mínima</string>
+    <string name="max_refresh_rate_title">Taxa de atualização máxima</string>
+    <string name="low_power_refresh_rate_title_custom">Taxa de atualização de baixo consumo</string>
+    <string name="sensor_block_title">Bloquear sensores</string>
+    <string name="sensor_block_summary">Bloquear certas apps de acederem a sensores de consomem muita bateria</string>
+    <string name="sensor_block_app_picker_title">Bloquear sensores para estas apps</string>
+    <string name="add_sensor_block_package_title">Adicionar apps ao bloqueio de sensores</string>
+    <string name="add_sensor_block_package_summary">Sensores de movimento, acelerómetro e sensores de aceleração linear vão ser bloqueados para estas apps</string>
+    <string name="profile_choose_app">Escolher app</string>
+    <string name="dialog_delete_message">Remover o item selecionado?</string>
+    <string name="dialog_delete_title">Eliminar</string>
+    <string name="pixys_ui_toggle_title">Usar interface de definições alternativa</string>
+    <string name="pixys_ui_toggle_summary">Uma interface de utilizador personalizada para pixysos (necessita reinicialização do systemui)</string>
 </resources>
