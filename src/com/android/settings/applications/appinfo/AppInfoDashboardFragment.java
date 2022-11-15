@@ -449,7 +449,7 @@ public class AppInfoDashboardFragment extends DashboardFragment
         // and grab the Google Play Store itself (com.android.vending) in the process
         if (com.android.internal.util.pixys.PixysUtils.isPackageInstalled(getContext(),"com.android.vending")) {
             menu.findItem(PLAY_STORE).setVisible(!Utils.isSystemPackage(getContext().getResources(), mPm, mPackageInfo)
-                && !isAospOrStore(mAppEntry.info.packageName));
+                && isAppFromStore(mAppEntry.info.packageName));
         }
     }
 
@@ -640,8 +640,9 @@ public class AppInfoDashboardFragment extends DashboardFragment
         i.setData(Uri.parse(playURL));
         startActivity(i);
     }
-     private boolean isAospOrStore(String packageName) {
-        return packageName.contains("com.android");
+
+    private boolean isAppFromStore(String packageName) {
+        return !packageName.contains("com.android") && !packageName.contains("org.chromium.webapk");
     }
 
     private void uninstallPkg(String packageName, boolean allUsers, boolean andDisable) {
