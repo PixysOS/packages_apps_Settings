@@ -41,15 +41,12 @@
     <!-- Fully-qualified class name for the implementation of the FeatureFactory to be instantiated. -->
     <string name="config_featureFactory" translatable="false">com.android.settings.overlay.FeatureFactoryImpl</string>
 
-    <!-- Package name and fully-qualified class name for the wallpaper picker activity. -->
-    <string name="config_wallpaper_picker_package" translatable="false">com.android.settings</string>
-    <string name="config_wallpaper_picker_class" translatable="false">com.android.settings.Settings$WallpaperSettingsActivity</string>
-    <!-- Fully-qualified class name for the styles & wallpaper picker activity. -->
-    <string name="config_styles_and_wallpaper_picker_class" translatable="false"></string>
-    <!-- Action name for the wallpaper picker activity. -->
-    <string name="config_wallpaper_picker_action" translatable="false"></string>
-    <!-- Action name for the styles & wallpaper picker activity. -->
-    <string name="config_styles_and_wallpaper_picker_action" translatable="false"></string>
+    <string name="config_styles_and_wallpaper_picker_action">android.intent.action.SET_WALLPAPER</string>
+    <string name="config_styles_and_wallpaper_picker_class">com.android.customization.picker.CustomizationPickerActivity</string>
+    <string name="config_wallpaper_picker_action">android.intent.action.MAIN</string>
+    <string name="config_wallpaper_picker_class">com.google.android.apps.wallpaper.picker.CategoryPickerActivity</string>
+    <string name="config_wallpaper_picker_package">com.google.android.apps.wallpaper</string>
+
     <!-- Intent extra for wallpaper picker activity. -->
     <string name="config_wallpaper_picker_launch_extra" translatable="false">com.android.wallpaper.LAUNCH_SOURCE</string>
 
@@ -236,7 +233,7 @@
     <bool name="config_use_legacy_suggestion">true</bool>
 
     <!-- Whether or not homepage should display user's account avatar -->
-    <bool name="config_show_avatar_in_homepage">false</bool>
+    <bool name="config_show_avatar_in_homepage">true</bool>
 
     <!-- Whether or not emergency info tile should display in device info page -->
     <bool name="config_show_emergency_info_in_device_info">true</bool>
@@ -255,7 +252,7 @@
 
     <!-- Settings intelligence package name -->
     <string name="config_settingsintelligence_package_name" translatable="false">
-        com.android.settings.intelligence
+       com.google.android.settings.intelligence
     </string>
 
     <!-- Whether the confirmation for sim deletion is defaulted to be on or off-->
@@ -267,7 +264,7 @@
     </string>
 
     <!-- Settings intelligence interaction log intent action -->
-    <string name="config_settingsintelligence_log_action" translatable="false"></string>
+    <string name="config_settingsintelligence_log_action" translatable="false">com.google.android.settings.intelligence.LOG_BRIDGE</string>
 
     <!-- Whether Settings intelligence supports presenting Slices. -->
     <bool name="config_settingsintelligence_slice_supported">false</bool>
@@ -284,12 +281,12 @@
 
     <!-- Emergency app package name -->
     <string name="config_emergency_package_name" translatable="false">
-        com.android.emergency
+        com.google.android.apps.safetyhub
     </string>
 
     <!-- Emergency app intent action -->
     <string name="config_emergency_intent_action" translatable="false">
-        android.settings.EDIT_EMERGENCY_INFO
+	com.google.android.safetyhub.SAFETY_HUB
     </string>
 
     <!-- Email address for the homepage contextual cards feedback -->
@@ -350,7 +347,7 @@
     <string name="config_regulatory_info_overlay_package_name" translatable="false" />
 
     <!-- Whether to show a preference item for mobile plan -->
-    <bool name="config_show_mobile_plan">true</bool>
+    <bool name="config_show_mobile_plan">false</bool>
 
     <!-- Whether none security option is hide or not  (country specific). -->
     <bool name="config_hide_none_security_option">false</bool>
@@ -511,7 +508,7 @@
     <string name="config_bt_slice_extra_pending_intent" translatable="false"></string>
 
     <!-- Grayscale settings intent -->
-    <string name="config_grayscale_settings_intent" translatable="false"></string>
+    <string name="config_grayscale_settings_intent" translatable="false">intent:#Intent;action=com.google.android.apps.wellbeing.action.WIND_DOWN;launchFlags=0x10000000;end</string>
 
     <!-- List containing the injected tile keys which are suppressed. -->
     <string-array name="config_suppress_injected_tile_keys" translatable="false"/>
@@ -534,13 +531,13 @@
     </string-array>
 
     <!-- Uri to query non-public Slice Uris. -->
-    <string name="config_non_public_slice_query_uri" translatable="false"></string>
+    <string name="config_non_public_slice_query_uri" translatable="false">content://com.android.settings.slices/settings_internal_slices</string>
 
     <!-- RTT setting intent action -->
-    <string name="config_rtt_setting_intent_action" translatable="false"></string>
+    <string name="config_rtt_setting_intent_action" translatable="false">com.android.dialer.rtt.settings.impl.gateway.ACTION_OPEN_RTT_SETTINGS</string>
 
     <!-- Package name of dialer supports RTT setting-->
-    <string name="config_rtt_setting_package_name" translatable="false"></string>
+    <string name="config_rtt_setting_package_name" translatable="false">com.google.android.dialer</string>
 
     <!-- Whether nfc detection point preview image is available or not. -->
     <bool name="config_nfc_detection_point">false</bool>
@@ -561,7 +558,9 @@
     <bool name="config_show_adaptive_connectivity">false</bool>
 
     <!-- Authority of advanced device battery prediction -->
-    <string name="config_battery_prediction_authority" translatable="false"></string>
+    <string name="config_battery_prediction_authority" translatable="false">com.google.android.apps.turbo.bluetooth.estimated_time_remaining</string>
+
+    <string name="config_bluetooth_device_settings_uri">content://com.google.android.apps.wearables.maestro.companion/settings_slice?addr=%1$s</string>
 
     <!-- Whether to handle slot change events -->
     <bool name="config_handle_sim_slot_change">false</bool>
