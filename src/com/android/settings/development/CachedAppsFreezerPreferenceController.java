@@ -53,15 +53,7 @@ public class CachedAppsFreezerPreferenceController extends DeveloperOptionsPrefe
 
     @Override
     public boolean isAvailable() {
-        boolean available = false;
-
-        try {
-            available = ActivityManager.getService().isAppFreezerSupported();
-        } catch (RemoteException e) {
-            Log.w(TAG, "Unable to obtain freezer support status from ActivityManager");
-        }
-
-        return available;
+        return true;
     }
 
     @Override
