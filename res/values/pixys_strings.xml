@@ -324,4 +324,8 @@
     <!-- PixysUI -->
     <string name="custom_ui_toggle_title">Use alternate settings UI</string>
     <string name="custom_ui_toggle_summary">A reimagined dashboard UI for PixysOS</string>
+
+    <!-- Custom Fonts -->
+    <string name="theme_customization_lock_clock_title">Lockscreen clock font</string>
+    <string name="theme_customization_lock_clock_summary">Set LS clock font style</string>
 </resources>
