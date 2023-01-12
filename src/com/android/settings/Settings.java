@@ -532,4 +532,9 @@ public class Settings extends SettingsActivity {
      * Activity for Pixys Themes
      */
     public static class StartThemesActivity extends SettingsActivity {}
+
+    /**
+     * Activity for WirelessDebuggingActivity
+     */
+    public static class WirelessDebuggingActivity extends SettingsActivity { /* empty */ }
 }
