@@ -23,6 +23,7 @@ import com.android.settings.MainClear;
 import com.android.settings.MainClearConfirm;
 import com.android.settings.Settings;
 import com.pixys.settings.theme.ThemeSettings;
+import com.pixys.settings.laboratory.LabSettings;
 import com.android.settings.TestingSettings;
 import com.android.settings.TetherSettings;
 import com.android.settings.TrustedCredentialsSettings;
@@ -353,7 +354,8 @@ public class SettingsGateway {
             TurnScreenOnDetails.class.getName(),
             WifiTetherClientManager.class.getName(),
             SecurityHubDashboard.class.getName(),
-            ThemeSettings.class.getName()
+            ThemeSettings.class.getName(),
+            LabSettings.class.getName()            
     };
 
     public static final String[] SETTINGS_FOR_RESTRICTED = {
