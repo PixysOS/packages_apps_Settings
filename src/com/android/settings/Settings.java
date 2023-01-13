@@ -527,4 +527,9 @@ public class Settings extends SettingsActivity {
      * Activity for PreviouslyConnectedDeviceDashboardFragment
      */
     public static class PreviouslyConnectedDevicesActivity extends SettingsActivity { /* empty */ }
+
+   /**
+     * Activity for Pixys Themes
+     */
+    public static class StartThemesActivity extends SettingsActivity {}
 }

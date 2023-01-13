@@ -5032,5 +5032,22 @@
                 android:value="true" />
         </activity>
 
+        <!-- Start of our manifest entries -->
+
+       <!-- Pixys Themes -->
+       <activity android:name="Settings$StartThemesActivity"
+            android:label="@string/theme_customization_category"
+            android:exported="true"            
+            android:icon="@drawable/ic_homepage_themes">
+            <intent-filter>
+                <action android:name="com.android.settings.action.SETTINGS" />
+                <category android:name="android.intent.category.DEFAULT" />                
+            </intent-filter>
+            <meta-data android:name="com.android.settings.FRAGMENT_CLASS"
+                android:value="com.pixys.settings.theme.ThemeSettings" />
+            <meta-data android:name="com.android.settings.PRIMARY_PROFILE_CONTROLLED"
+                android:value="true" />
+        </activity>
+
     </application>
 </manifest>
