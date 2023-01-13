@@ -448,4 +448,9 @@ public class Settings extends SettingsActivity {
      * Activity for Pixys Themes
      */
     public static class StartThemesActivity extends SettingsActivity {}
+
+    /**
+     * Activity for Pixys Lab
+     */
+    public static class StartLabActivity extends SettingsActivity {}
 }
