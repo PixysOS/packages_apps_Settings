@@ -4969,5 +4969,21 @@
             tools:node="remove" />
 
         <!-- This is the longest AndroidManifest.xml ever. -->
+
+       <!-- Pixys Labs -->
+       <activity android:name="Settings$StartLabActivity"
+            android:label="@string/pixys_lab_title"
+            android:exported="true"            
+            android:icon="@drawable/ic_pixys_lab">
+            <intent-filter>
+                <action android:name="com.android.settings.action.SETTINGS" />
+                <category android:name="android.intent.category.DEFAULT" />                
+            </intent-filter>
+            <meta-data android:name="com.android.settings.FRAGMENT_CLASS"
+                android:value="com.pixys.settings.laboratory.LabSettings" />
+            <meta-data android:name="com.android.settings.PRIMARY_PROFILE_CONTROLLED"
+                android:value="true" />
+        </activity>
+
     </application>
 </manifest>

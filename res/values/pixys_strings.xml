@@ -20,4 +20,8 @@
     <string name="pixys_version">"PixysOS version"</string>
     <string name="build_date">"Build date"</string>
 
+    <!-- Pixys Lab -->
+    <string name="pixys_lab_title">PixysOS Laboratory</string>
+    <string name="pixys_lab_footer">These features are experimental. They can be unstable, have security issues or may even lead to crashes and data loss. Use them at your own risks.</string>
+    <string name="pixys_lab_summary">Experimental features</string>
 </resources>
