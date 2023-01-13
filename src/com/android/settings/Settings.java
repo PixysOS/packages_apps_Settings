@@ -448,4 +448,9 @@ public class Settings extends SettingsActivity {
      * Activity for OneHandedSettings
      */
     public static class OneHandedSettingsActivity extends SettingsActivity { /* empty */ }
+
+    /**
+     * Activity for Pixys Themes
+     */
+    public static class StartThemesActivity extends SettingsActivity {}
 }

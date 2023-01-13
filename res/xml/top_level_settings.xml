@@ -89,6 +89,15 @@
         settings:controller="com.android.settings.deviceinfo.TopLevelStoragePreferenceController"/>
 
     <com.android.settings.widget.HomepagePreference
+        android:key="theme_customization_summary"
+        android:title="@string/theme_customization_category"
+        android:summary="@string/theme_customization_summary"
+        android:icon="@drawable/ic_settings_themes"
+        android:fragment="com.pixys.settings.theme.ThemeSettings"
+        settings:controller="com.pixys.settings.theme.ThemeSettingsPreferenceController"
+        android:order="-92"/>        
+
+    <com.android.settings.widget.HomepagePreference
         android:fragment="com.android.settings.notification.SoundSettings"
         android:icon="@drawable/ic_volume_up_24dp"
         android:key="top_level_sound"
