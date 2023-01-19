@@ -12310,4 +12310,9 @@
 
     <!-- Warning message when we try to dock an app not supporting multiple instances split into multiple sides [CHAR LIMIT=NONE] -->
     <string name="dock_multi_instances_not_supported_text">"This app can only be opened in 1 window"</string>
+    <!-- Title text for swapping the back and recents buttons in the navigation bar. [CHAR LIMIT=60] -->
+    <string name="swap_back_recents_title">Swap Back/Recents Navigation</string>
+    <!-- Summary text for swapping the back and recents buttons in the navigation bar. [CHAR LIMIT=NONE] -->
+    <string name="swap_back_recents_summary">Swap the back and recents button in the navigation bar.</string>
+
 </resources>
