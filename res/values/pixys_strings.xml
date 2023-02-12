@@ -43,7 +43,7 @@
     <string name="fingerprint_enroll_touch_dialog_message_side">Touch the sensor on the side of your phone.</string>
 
     <!-- Hardware info -->
-    <string name="platform_revision">Platform</string>
+    <string name="soc_model">SoC Model</string>
     <string name="total_ram">Total RAM</string>
 
     <!-- Preference and settings suggestion title text for screen off UDFPS [CHAR LIMIT=60]-->
