@@ -28,6 +28,7 @@ import androidx.annotation.IntDef;
 import androidx.annotation.VisibleForTesting;
 
 import com.android.settings.Utils;
+import com.android.settings.homepage.contextualcards.slices.BatteryFixSlice;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
@@ -137,5 +138,6 @@ public class BatteryBroadcastReceiver extends BroadcastReceiver {
                 mBatteryListener.onBatteryChanged(BatteryUpdateType.BATTERY_STATUS);
             }
         }
+        BatteryFixSlice.updateBatteryTipAvailabilityCache(mContext);
     }
 }

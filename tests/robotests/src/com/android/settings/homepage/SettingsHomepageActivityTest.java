@@ -48,6 +48,7 @@ import androidx.fragment.app.Fragment;
 
 import com.android.settings.R;
 import com.android.settings.dashboard.suggestions.SuggestionFeatureProviderImpl;
+import com.android.settings.homepage.contextualcards.slices.BatteryFixSliceTest;
 import com.android.settings.testutils.shadow.ShadowActivityEmbeddingUtils;
 import com.android.settings.testutils.shadow.ShadowPasswordUtils;
 import com.android.settings.testutils.shadow.ShadowUserManager;
@@ -166,6 +167,9 @@ public class SettingsHomepageActivityTest {
     }
 
     @Test
+    @Config(shadows = {
+            BatteryFixSliceTest.ShadowBatteryTipLoader.class
+    })
     public void onStart_isNotDebuggable_shouldHideSystemOverlay() {
         ReflectionHelpers.setStaticField(Build.class, "IS_DEBUGGABLE", false);
 
@@ -182,6 +186,9 @@ public class SettingsHomepageActivityTest {
     }
 
     @Test
+    @Config(shadows = {
+            BatteryFixSliceTest.ShadowBatteryTipLoader.class,
+    })
     public void onStop_isNotDebuggable_shouldRemoveHideSystemOverlay() {
         ReflectionHelpers.setStaticField(Build.class, "IS_DEBUGGABLE", false);
 
