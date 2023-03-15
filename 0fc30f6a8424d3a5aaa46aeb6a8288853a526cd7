@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3b07c6cc_ed25d83f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000009
+      },
+      "writtenOn": "2023-03-15T11:02:22Z",
+      "side": 1,
+      "message": "remind me about this once qpr2 merge is completed",
+      "revId": "0fc30f6a8424d3a5aaa46aeb6a8288853a526cd7",
+      "serverId": "dc9c43de-f401-424a-9bd3-945633c9f028"
+    }
+  ]
+}
