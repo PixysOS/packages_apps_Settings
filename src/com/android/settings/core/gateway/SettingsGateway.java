@@ -183,8 +183,6 @@ import com.android.settings.wifi.tether.WifiTetherSettings;
 
 import ink.kscope.settings.wifi.tether.WifiTetherClientManager;
 
-import com.google.android.settings.security.SecurityHubDashboard;
-
 public class SettingsGateway {
 
     /**
@@ -353,7 +351,6 @@ public class SettingsGateway {
             TurnScreenOnSettings.class.getName(),
             TurnScreenOnDetails.class.getName(),
             WifiTetherClientManager.class.getName(),
-            SecurityHubDashboard.class.getName(),
             ThemeSettings.class.getName(),
             LabSettings.class.getName()            
     };
