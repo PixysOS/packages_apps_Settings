@@ -84,8 +84,8 @@
    <Preference
         android:key="power_button_torch_summary"
         android:title="@string/power_button_torch_title"
-        android:fragment="com.android.settings.gestures.PowerButtonTorchSettings"
-        settings:controller="com.android.settings.gestures.PowerButtonTorchGesturePreferenceController" />
+        android:summary="@string/power_button_torch_summary"
+        android:fragment="com.android.settings.gestures.PowerButtonTorchSettings" />
 
     <Preference
         android:key="gesture_screen_off_udfps_input_summary"
