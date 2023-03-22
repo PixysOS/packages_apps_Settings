@@ -27,10 +27,14 @@
         app:lottie_rawRes="@raw/lottie_power_button_torch"
         settings:searchable="false" />
 
-    <SwitchPreference
-        android:key="power_button_torch"
-        android:title="@string/power_button_torch_title"
-        android:summary="@string/power_button_torch_summary"
-        app:controller="com.android.settings.gestures.PowerButtonTorchGesturePreferenceController" />
+    <!-- Torch gesture -->
+    <com.pixys.support.preference.SystemSettingListPreference
+        android:key="torch_power_button_gesture"
+        android:dialogTitle="@string/torch_power_button_gesture_title"
+        android:title="@string/torch_power_button_gesture_title"
+        android:summary="%s"
+        android:entries="@array/torch_power_button_gesture_entries"
+        android:entryValues="@array/torch_power_button_gesture_values"
+        android:defaultValue="0" />
 
 </PreferenceScreen>
