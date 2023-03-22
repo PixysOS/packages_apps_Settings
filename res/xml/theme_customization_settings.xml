@@ -8,21 +8,9 @@
     android:title="@string/monet_settings_title"
     xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
 
-
-    <com.android.settings.display.darkmode.DarkModePreference
-        android:key="dark_ui_mode"
-        android:title="@string/dark_ui_mode"
-        android:fragment="com.android.settings.display.darkmode.DarkModeSettingsFragment"
-        android:widgetLayout="@null"
-        settings:widgetLayout="@null"
-        settings:controller="com.android.settings.display.DarkUIPreferenceController"
-        settings:keywords="@string/keywords_dark_ui_mode"/>
-
-    <com.pixys.support.preference.OverlaySwitchPreference
-        android:key="com.android.pixys.dark_bg"
-        settings:dkey="android:neutral"
-        android:title="@string/black_bg_title"
-        android:summary="@string/black_bg_summary" />
+    <PreferenceCategory
+        android:key="category_monet"
+        android:title="@string/monet_category">
 
     <ListPreference
         android:key="theme_style"
@@ -82,10 +70,29 @@
         android:summary="@string/tint_background_summary"
         android:defaultValue="false" />
 
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:key="category_pixys_ui"
+        android:title="@string/pixys_ui_category">
+
+    <com.android.settings.display.darkmode.DarkModePreference
+        android:key="dark_ui_mode"
+        android:title="@string/dark_ui_mode"
+        android:fragment="com.android.settings.display.darkmode.DarkModeSettingsFragment"
+        settings:controller="com.android.settings.display.DarkUIPreferenceController"
+        settings:keywords="@string/keywords_dark_ui_mode"/>
+
+    <com.pixys.support.preference.OverlaySwitchPreference
+        android:key="com.android.pixys.dark_bg"
+        settings:dkey="android:neutral"
+        android:title="@string/black_bg_title"
+        android:summary="@string/black_bg_summary" />
+
     <SwitchPreference
         android:key="custom_ui_toggle"
         android:title="@string/custom_ui_toggle_title"
         android:summary="@string/custom_ui_toggle_summary"
         android:defaultValue="false" />
-
+    </PreferenceCategory>
 </PreferenceScreen>
