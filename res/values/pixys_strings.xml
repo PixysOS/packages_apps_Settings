@@ -250,4 +250,9 @@
     <string name="search">Search</string>
     <string name="search_apps">Search apps</string>
 
+    <!-- Double tap to sleep -->
+    <string name="double_tap_to_sleep_title">Statusbar</string>
+    <string name="double_tap_to_sleep_summary">Double-tap anywhere on the status bar to put the device to sleep</string>
+    <string name="dtts_gesture_title">Double tap to sleep gesture</string>
+    <string name="dtts_gesture_summary">Double tap on statusbar to sleep </string>
 </resources>
