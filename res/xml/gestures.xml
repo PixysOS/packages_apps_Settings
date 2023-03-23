@@ -40,6 +40,12 @@
         settings:searchable="false"
         settings:controller="com.android.settings.gestures.DoubleTapPowerPreferenceController" />
 
+   <Preference
+        android:key="dtts_gesture_summary"
+        android:title="@string/dtts_gesture_title"
+        android:summary="@string/dtts_gesture_summary"
+        android:fragment="com.android.settings.gestures.DoubleTapSleepSettings" />
+
     <Preference
         android:key="gesture_double_twist_input_summary"
         android:title="@string/double_twist_for_camera_mode_title"
