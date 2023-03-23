@@ -366,4 +366,12 @@
     <!-- Quick unlock -->
     <string name="unlock_quick_unlock_control_title">Quick unlock</string>
     <string name="unlock_quick_unlock_control_summary">Unlock automatically when the correct PIN/password is entered</string>
+
+    <!-- Double tap to sleep -->
+    <string name="double_tap_to_sleep_title">Statusbar</string>
+    <string name="double_tap_to_sleep_summary">Double-tap anywhere on the status bar to put the device to sleep</string>
+    <string name="dtts_gesture_title">Double tap to sleep gesture</string>
+    <string name="dtts_gesture_summary">Double tap on statusbar or lockscreen to sleep </string>
+    <string name="double_tap_to_sleep_lockscreen_title">Lockscreen</string>
+    <string name="double_tap_to_sleep_lockscreen_summary">Double-tap anywhere on the lockscreen to put the device to sleep</string>
 </resources>
