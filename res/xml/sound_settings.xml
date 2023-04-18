@@ -77,6 +77,7 @@
         android:key="separate_ring_volume"
         android:icon="@drawable/ic_ring_volume"
         android:title="@string/separate_ring_volume_option_title"
+        android:summary="@string/volume_link_notification_summary"
         android:order="-155"
         settings:controller="com.android.settings.notification.SeparateRingVolumePreferenceController"/>
 
@@ -96,6 +97,14 @@
         android:title="@string/alarm_volume_option_title"
         android:order="-140"
         settings:controller="com.android.settings.notification.AlarmVolumePreferenceController"/>
+
+    <!-- Separate ring & notification toggle -->
+    <com.pixys.support.preference.SecureSettingSwitchPreference
+        android:key="volume_separate_notification"
+        android:title="@string/volume_separate_notification_title"
+        android:summary="@string/volume_separate_notification_summary"
+        android:order="-135"
+        settings:controller="com.android.settings.notification.SeparateNotificationPreferenceController"/>
 
     <!-- TODO(b/174964721): make this a PrimarySwitchPreference -->
     <!-- Interruptions -->
