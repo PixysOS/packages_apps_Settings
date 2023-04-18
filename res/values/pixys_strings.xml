@@ -452,4 +452,8 @@
     <!-- Smart 5G -->
     <string name="smart_5g_title">Smart 5G</string>
     <string name="smart_5g_summary">Automatically switch between 5G and 4G to reduce battery consumption</string>
+
+    <!-- Volume link notification -->
+    <string name="volume_link_notification_title">Separated Ring and Notification</string>
+    <string name="volume_link_notification_summary">Allow controlling each stream individually</string>
 </resources>
