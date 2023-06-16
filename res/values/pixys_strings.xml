@@ -229,4 +229,8 @@
     <!-- PixysUI -->
     <string name="custom_ui_toggle_title">Use alternate settings UI</string>
     <string name="custom_ui_toggle_summary">A reimagined dashboard UI for PixysOS</string>
+
+    <!-- Smart 5G -->
+    <string name="smart_5g_title">Smart 5G</string>
+    <string name="smart_5g_summary">Automatically switch between 5G and 4G to reduce battery consumption</string>
 </resources>
