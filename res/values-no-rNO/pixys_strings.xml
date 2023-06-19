@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright 2020 Pixys OS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- PixysOS version preference -->
+    <!-- String for removal of sensitive info on about, depending on tap -->
+    <!-- Warning message displayed if user choses not to validate the EAP server -->
+    <!-- Refresh rate -->
+    <!-- Refresh rate -->
+    <!-- Three-fingers-swipe to screenshot -->
+    <!-- Volume button music control -->
+    <!-- Hotspot -->
+    <!--  screen, setting option summary to change custom timeout -->
+    <!-- Hotspot extras -->
+    <!-- Lock screen pattern size -->
+    <!-- Whether a visible red line will be drawn after the user has drawn the unlock pattern incorrectly -->
+    <!-- Whether the dots will be drawn when using the lockscreen pattern -->
+    <!-- AOD Schedule -->
+    <!-- Statusbar net monitor -->
+    <!-- Global Actions -->
+    <!-- Data usage info in QS footer -->
+    <!-- Torch Power button gestures -->
+    <!-- Adaptive Playback -->
+    <!-- Category for theme overlays -->
+    <!-- Monet engine -->
+    <!-- Incall vibrate options -->
+    <!-- Annoying Notifications -->
+    <!-- Notch: Full screen apps -->
+    <!-- Doze on charge -->
+    <!-- Vibration patterns -->
+    <!-- Per-channel vibration pattern -->
+    <!-- In-call notifications -->
+    <!-- Ignore window secure -->
+    <!-- Wake on plug -->
+    <!-- Volume dialog position -->
+    <!-- Notification headers -->
+    <!-- High touch sensitivity -->
+    <!-- Touchscreen hovering -->
+    <!-- High touch polling rate -->
+    <!-- Pocket mode -->
+    <!-- App lock -->
+    <!-- Hidden apps -->
+    <!-- Fullscreen gestures -->
+    <!-- Gesture navbar length -->
+    <!-- PixysUI -->
+    <!-- Pixys Lab -->
+    <!-- Unlimited google photos storage -->
+    <!-- Unlock FPS for specific games -->
+    <!-- Black theme -->
+    <!-- Statusbar tuner -->
+    <!-- General -->
+    <!-- Preference and settings suggestion title text for screen off UDFPS [CHAR LIMIT=60]-->
+    <!-- Summary text for screen off UDFPS [CHAR LIMIT=NONE]-->
+    <!-- Game Space -->
+    <!-- Less boring heads up -->
+    <!-- Message shown in fingerprint enrollment dialog to locate the sensor -->
+    <!-- Message shown when user touches the icon on the screen, instead of the real fingerprint sensor -->
+    <!-- Warning message for the sd card setup -->
+    <!-- Quick unlock -->
+    <!-- Double tap to sleep -->
+    <!-- Generic stuff used everywhere -->
+    <!-- Buttons -->
+    <!-- Key backlight -->
+    <!-- Buttons - Enable navbar -->
+    <!-- Buttons - Swap capacitive keys -->
+    <!-- Others settings -->
+    <!-- Advanced keyboard settings -->
+    <!-- QS Battery estimates -->
+    <!-- Idle Manager -->
+    <!-- Summary for list to control apps that ignore battery saving restrictions -->
+    <!-- Ambient wake toggles -->
+    <!-- PIN scramble -->
+    <!-- Face Unlock -->
+    <!-- Fingerprint wake-and-unlock -->
+</resources>

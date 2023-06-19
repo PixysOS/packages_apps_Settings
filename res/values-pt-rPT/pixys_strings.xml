@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright 2020 Pixys OS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pixys_version">"Versão da PixysOS"</string>
+    <string name="build_date">"Data de compilação"</string>
+    <string name="min_refresh_rate_title">Taxa de atualização mínima</string>
+    <string name="max_refresh_rate_title">Taxa de atualização máxima</string>
+    <string name="swipe_to_screenshot_gesture_title">Deslizar para capturar ecrã</string>
+    <string name="volume_button_music_control_title">Controlo de reprodução</string>
+    <string name="volume_button_music_control_summary">Quando o ecrã está desligado, pressione os botões de volume para mudar as faixas de música</string>
+    <string name="wifi_hotspot_hidden_ssid_title">Rede oculta</string>
+    <string name="wifi_hotspot_hidden_ssid_summary">O nome do seu ponto de acesso não aparecerá na lista de redes Wi-Fi disponíveis.</string>
+    <string name="wifi_hotspot_client_manager_title">Dispositivos conectados</string>
+    <string name="wifi_hotspot_client_manager_list_only_summary">Listar dispositivos conectados ao ponto de acesso</string>
+    <string name="wifi_hotspot_client_limit_title">Limite de dispositivos conectados</string>
+    <string name="wifi_hotspot_blocked_clients_list_title">Dispositivos bloqueados</string>
+    <string name="wifi_hotspot_connected_clients_list_title">Dispositivos conectados</string>
+    <string name="wifi_hotspot_block_client_dialog_title">Bloquear dispositivo</string>
+    <string name="wifi_hotspot_block_client_dialog_text">Esta ação vai desconectar \"<xliff:g id="device_name">%1$s</xliff:g>\" deste dispositivo e adicioná-lo à lista de bloqueio</string>
+    <string name="wifi_hotspot_unblock_client_dialog_title">Desbloquear dispositivo</string>
+    <string name="lock_settings_picker_pattern_size_message">Escolha um tamanho para o padrão</string>
+    <string name="lockpattern_settings_enable_error_path_title">Mostrar erro no padrão</string>
+    <string name="lockpattern_settings_enable_dots_title">Mostrar pontos do padrão</string>
+    <string name="always_on_display_schedule_title">Programação do ecrã ambiente</string>
+    <string name="always_on_display_schedule_sunset">Anoitecer</string>
+    <string name="always_on_display_schedule_sunrise">Amanhecer</string>
+    <string name="disabled">Desativado</string>
+    <string name="always_on_display_schedule_mixed_sunset">Ativar do anoitecer até uma determinada hora</string>
+    <string name="always_on_display_schedule_mixed_sunrise">Ativar de uma determinada hora até ao amanhecer</string>
+    <string name="qs_footer_datausage_title">Utilização de dados</string>
+    <string name="qs_footer_datausage_summary">Mostrar resumo da utilização de dados no rodapé das definições rápidas</string>
+    <string name="incall_vibrate_connect_title">Vibrar ao ligar</string>
+    <string name="incall_vibrate_call_wait_title">Vibrar em chamada em espera</string>
+    <string name="incall_vibrate_disconnect_title">Vibrar ao desligar</string>
+    <string name="notification_sound_vib_screen_on_title">Notificações irritantes</string>
+    <string name="notification_sound_vib_screen_on_summary">Reproduzir som e vibrar para notificações quando o ecrã estiver ligado</string>
+    <string name="display_cutout_force_fullscreen_title">Aplicações em ecrã inteiro</string>
+    <string name="display_cutout_force_fullscreen_summary">Forçar aplicações a ignorar o espaço do entalhe</string>
+    <string name="search">Procurar</string>
+    <string name="search_apps">Procurar aplicações</string>
+    <string name="vibration_pattern_title">Padrão de vibração de toque</string>
+    <string name="pattern_dzzz_dzzz">dzzz-dzzz</string>
+    <string name="pattern_dzzz_da">dzzz-da</string>
+    <string name="pattern_mm_mm_mm">mm-mm-mm</string>
+    <string name="pattern_da_da_dzzz">da-da-dzzz</string>
+    <string name="pattern_da_dzzz_da">da-dzzz-da</string>
+    <string name="pattern_custom">Personalizado</string>
+    <string name="custom_vibration_pattern_title">Padrão personalizado</string>
+    <string name="custom_vibration_pattern_summary">Definir um padrão de vibração personalizado</string>
+    <string name="ignore_window_secure_title">Ignorar sinalizadores de segurança da janela</string>
+    <string name="ignore_window_secure_summary">Remove os limites de gravações e capturas de ecrã para todas as aplicações. Reinicie as aplicações para que a alteração tenha efeito.</string>
+    <string name="volume_panel_on_left_title">Painel de volume à esquerda</string>
+    <string name="volume_panel_on_left_summary">Mostrar o painel de volume no lado esquerdo do ecrã</string>
+    <string name="notification_headers_title">Cabeçalhos das notificações</string>
+    <string name="notification_headers_summary">Mostrar os cabeçalhos na área de notificações</string>
+    <string name="proximity_wake_title">Prevenir despertar acidental</string>
+    <string name="proximity_wake_summary">Verificar o sensor de proximidade antes de ligar o ecrã</string>
+    <string name="app_lock_title">Bloqueio de apps</string>
+    <string name="app_lock_authentication_dialog_title">Desbloquear</string>
+    <string name="app_lock_packages_title">Apps protegidas</string>
+    <string name="app_lock_packages_summary">Selecione as apps a proteger com biometria ou credenciais do dispositivo</string>
+    <string name="app_lock_timeout_title">Tempo de bloqueio automático</string>
+    <string name="app_lock_timeout_summary">Duração de tempo após o qual uma app em segundo plano deve ser bloqueada</string>
+    <string name="app_lock_notifications_disabled_summary">Proteja uma app primeiro</string>
+    <string name="app_lock_biometrics_allowed_title">Ativar biometria para desbloquear</string>
+    <string name="app_lock_footer_text">Os balões serão automaticamente dispensados após o tempo limite</string>
+    <string name="short_label">Curta</string>
+    <string name="long_label">Longa</string>
+    <string name="custom_ui_toggle_title">Usar interface de definições alternativa</string>
+    <string name="statusbar_tuner_title">Definições da barra de estado</string>
+    <string name="less_boring_heads_up_title">Notificações pop-up reduzidas</string>
+    <string name="less_boring_heads_up_summary">Desligar as notificações pop-up para todas as aplicações exceto aplicações de telefone e mensagens</string>
+    <string name="security_settings_face_unlock_redo_face_scan_summary">Remover os dados da verificação de rosto existente e criar uma nova</string>
+    <string name="security_settings_face_unlock_redo_face_scan_title">Analisar rosto novamente</string>
+    <string name="face_redo_confirm_btn">Refazer</string>
+    <string name="face_redo_warning_msg">Deseja remover os dados da verificação de rosto existente e criar uma nova?</string>
+    <string name="face_unlock_method_title">Permitir desbloqueio facial no ecrã de bloqueio</string>
+    <string name="face_unlock_method_default">Quando o ecrã estiver ligado</string>
+    <string name="face_unlock_method_swipe">Ao deslizar no ecrã de bloqueio</string>
+</resources>
