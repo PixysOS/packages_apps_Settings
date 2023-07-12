@@ -217,6 +217,8 @@
     <string name="use_photos_spoof_summary">Spouštět vaše zařízení jako Pixel XL pro aplikaci Google Fotky pouze k poskytnutí neomezeného úložiště pro zálohu</string>
     <string name="use_games_spoof_title">Odemknout vyšší FPS ve hrách</string>
     <string name="use_games_spoof_summary">Napodobí vaše zařízení jako jiný model pro konkrétní hry k\u00a0odemknutí vyšších FPS</string>
+    <string name="system_black_theme_title">Živé barvy</string>
+    <string name="system_black_theme_summary">Použít barevné a tmavší odstíny Monet</string>
     <string name="statusbar_tuner_title">Úprava stavového řádku</string>
     <string name="copied_to_clipboard">Zkopírováno do schránky</string>
     <string name="longpress_to_clipboard">Přidržením zkopírovat</string>
@@ -296,8 +298,6 @@
     <string name="high_power_apps_summary">Dostupnost optimalizace baterie</string>
     <string name="doze_gesture_ambient_title">Zobrazit ambientní displej</string>
     <string name="doze_gesture_ambient_summary">Zobrazit Ambientní displej namísto úplného probuzení obrazovky</string>
-    <string name="unlock_scramble_pin_layout_title">Přeházet rozložení</string>
-    <string name="unlock_scramble_pin_layout_summary">Přeházet rozložení pro zadání PINu při odemykání zařízení</string>
     <string name="security_settings_face_unlock_redo_face_scan_summary">Odstranit stávající sken obličeje a vytvořit nový</string>
     <string name="security_settings_face_unlock_redo_face_scan_title">Znovu naskenovat obličej</string>
     <string name="face_redo_confirm_btn">Znovu</string>
@@ -308,4 +308,8 @@
     <string name="fingerprint_wake_unlock_title">K odemčení použijte otisk prstu</string>
     <string name="fingerprint_wake_unlock_touch">Naslouchá událostem, když je obrazovka vypnutá</string>
     <string name="fingerprint_wake_unlock_press">Naslouchá událostem, pouze když je obrazovka zapnutá</string>
+    <string name="smart_5g_title">Chytré 5G</string>
+    <string name="smart_5g_summary">Automatické přepnutí mezi 5G a 4G ke snížení spotřeby baterie</string>
+    <string name="volume_separate_notification_title">Oddělené vyzvánění a oznámení</string>
+    <string name="volume_separate_notification_summary">Povolit ovládání každého zvuku jednotlivě</string>
 </resources>

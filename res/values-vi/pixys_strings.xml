@@ -294,8 +294,6 @@
     <string name="idle_manager_title">Kết thúc tiến trình chạy nền</string>
     <string name="idle_manager_summary">Dừng tất cả các quy trình nền không cần thiết khi thiết bị không hoạt động</string>
     <string name="high_power_apps_summary">Không tối ưu hóa pin</string>
-    <string name="unlock_scramble_pin_layout_title">Bố trí ngẫu nhiên</string>
-    <string name="unlock_scramble_pin_layout_summary">Bố trí mã PIN ngẫu nhiên khi mở khóa thiết bị</string>
     <string name="security_settings_face_unlock_redo_face_scan_summary">Xoá dữ liệu khuôn mặt hiện tại và tạo cái mới</string>
     <string name="security_settings_face_unlock_redo_face_scan_title">Quét lại dữ liệu khuôn mặt</string>
     <string name="face_redo_confirm_btn">Làm lại</string>

@@ -82,7 +82,8 @@
     <!-- Idle Manager -->
     <!-- Summary for list to control apps that ignore battery saving restrictions -->
     <!-- Ambient wake toggles -->
-    <!-- PIN scramble -->
     <!-- Face Unlock -->
     <!-- Fingerprint wake-and-unlock -->
+    <!-- Smart 5G -->
+    <!-- Separate ring & notification toggle -->
 </resources>

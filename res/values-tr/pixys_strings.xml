@@ -216,6 +216,8 @@
     <string name="use_photos_spoof_summary">Yalnızca yedekleme için sınırsız depolama sağlamak amacıyla cihazınızı Google Fotoğraflar uygulaması için Pixel XL olarak taklit edin</string>
     <string name="use_games_spoof_title">Oyunlarda daha yüksek FPS kilidini açın</string>
     <string name="use_games_spoof_summary">Daha yüksek FPS kilidini açmak için belirli oyunlar için cihazınızı farklı bir model olarak taklit edin</string>
+    <string name="system_black_theme_title">Canlı renkler</string>
+    <string name="system_black_theme_summary">Renkli ve daha koyu renkler kullan</string>
     <string name="statusbar_tuner_title">Durum çubuğu ayarlayıcı</string>
     <string name="copied_to_clipboard">Panoya kopyalandı</string>
     <string name="longpress_to_clipboard">Kopyalamak için uzun basın</string>
@@ -295,8 +297,6 @@
     <string name="high_power_apps_summary">Pil optimizasyonu kullanılabilirliği</string>
     <string name="doze_gesture_ambient_title">Ortam ekranını göster</string>
     <string name="doze_gesture_ambient_summary">Ekranı tamamen uyandırmak yerine ortam ekranını göster</string>
-    <string name="unlock_scramble_pin_layout_title">Karışık düzen</string>
-    <string name="unlock_scramble_pin_layout_summary">Cihazın kilidini açarken PIN düzenini karıştır</string>
     <string name="security_settings_face_unlock_redo_face_scan_summary">Mevcut yüz taramasını kaldır ve yeni bir tarama oluştur</string>
     <string name="security_settings_face_unlock_redo_face_scan_title">Yüz taramasını yeniden yap</string>
     <string name="face_redo_confirm_btn">Yeniden yap</string>
@@ -307,4 +307,8 @@
     <string name="fingerprint_wake_unlock_title">Kilidi açmak için parmak izine dokunun</string>
     <string name="fingerprint_wake_unlock_touch">Ekran kapalıyken olayları dinler</string>
     <string name="fingerprint_wake_unlock_press">Olayları yalnızca ekran açıkken dinler</string>
+    <string name="smart_5g_title">Akıllı 5G</string>
+    <string name="smart_5g_summary">Pil tüketimini azaltmak için 5G ve 4G arasında otomatik olarak geçiş yapın</string>
+    <string name="volume_separate_notification_title">Ayrılmış Zil ve Bildirim sesi</string>
+    <string name="volume_separate_notification_summary">Her akışı ayrı ayrı kontrol etmeye izin ver</string>
 </resources>

@@ -217,6 +217,8 @@
     <string name="use_photos_spoof_summary">Palsukan perangkat Anda sebagai Pixel XL untuk aplikasi Google Foto hanya untuk menyediakan penyimpanan tak terbatas untuk cadangan</string>
     <string name="use_games_spoof_title">Buka FPS yang lebih tinggi dalam game</string>
     <string name="use_games_spoof_summary">Palsukan perangkat Anda sebagai model yang berbeda untuk game tertentu untuk membuka FPS yang lebih tinggi</string>
+    <string name="system_black_theme_title">Warna Jelas</string>
+    <string name="system_black_theme_summary">Gunakan nuansa monet penuh warna dan lebih gelap</string>
     <string name="statusbar_tuner_title">Penyetel bilah status</string>
     <string name="copied_to_clipboard">Disalin ke papan klip</string>
     <string name="longpress_to_clipboard">Tekan lama untuk menyalin</string>
@@ -294,8 +296,6 @@
     <string name="idle_manager_title">Matikan proses latar belakang</string>
     <string name="idle_manager_summary">Hentikan semua proses latar belakang yang tidak penting saat perangkat tidak digunakan</string>
     <string name="high_power_apps_summary">Ketersediaan pengoptimalan baterai</string>
-    <string name="unlock_scramble_pin_layout_title">Tata letak acak</string>
-    <string name="unlock_scramble_pin_layout_summary">Acak tata letak PIN saat membuka perangkat</string>
     <string name="security_settings_face_unlock_redo_face_scan_summary">Hapus pemindaian wajah yang ada dan buat pemindaian baru</string>
     <string name="security_settings_face_unlock_redo_face_scan_title">Ulangi pemindaian wajah</string>
     <string name="face_redo_confirm_btn">Ulangi</string>
@@ -306,4 +306,8 @@
     <string name="fingerprint_wake_unlock_title">Sentuh sensor sidik jari untuk membuka kunci</string>
     <string name="fingerprint_wake_unlock_touch">Mendeteksi saat layar mati</string>
     <string name="fingerprint_wake_unlock_press">Hanya mendeteksi setelah layar menyala</string>
+    <string name="smart_5g_title">5G Cerdas</string>
+    <string name="smart_5g_summary">Secara otomatis beralih antara 5G dan 4G untuk mengurangi konsumsi baterai</string>
+    <string name="volume_separate_notification_title">Dering dan Notifikasi Terpisah</string>
+    <string name="volume_separate_notification_summary">Izinkan mengontrol setiap aliran satu per satu</string>
 </resources>

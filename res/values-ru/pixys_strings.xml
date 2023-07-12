@@ -218,6 +218,8 @@
     <string name="use_photos_spoof_summary">Маскировка устройства под Pixel XL для \"Google Фото\", чтобы предоставить неограниченное хранилище для резервного копирования фотографий</string>
     <string name="use_games_spoof_title">Разблокировать высокий FPS в играх</string>
     <string name="use_games_spoof_summary">Маскировка устройства под другую модель для определенных игр, чтобы разблокировать более высокий FPS</string>
+    <string name="system_black_theme_title">Яркие цвета</string>
+    <string name="system_black_theme_summary">Используйте красочные и темные оттенки monet</string>
     <string name="statusbar_tuner_title">Настройка строки состояния</string>
     <string name="copied_to_clipboard">Скопировано в буфер обмена</string>
     <string name="longpress_to_clipboard">Удерживать для копирования</string>
@@ -295,8 +297,8 @@
     <string name="idle_manager_title">Закрытие фоновых процессов</string>
     <string name="idle_manager_summary">Остановка всех несущественных фоновых процессов, когда устройство простаивает</string>
     <string name="high_power_apps_summary">Доступность оптимизации батареи</string>
-    <string name="unlock_scramble_pin_layout_title">Хитрая раскладка</string>
-    <string name="unlock_scramble_pin_layout_summary">Перемешать схему PIN-кода при разблокировке устройства</string>
+    <string name="doze_gesture_ambient_title">Активный экран</string>
+    <string name="doze_gesture_ambient_summary">Показывать Активный экран вместо полного пробуждения экрана</string>
     <string name="security_settings_face_unlock_redo_face_scan_summary">Удалить использующийся снимок лица и создать новый</string>
     <string name="security_settings_face_unlock_redo_face_scan_title">Повторное сканирование лица</string>
     <string name="face_redo_confirm_btn">Повторить</string>
@@ -307,4 +309,8 @@
     <string name="fingerprint_wake_unlock_title">Прикоснитесь к датчику отпечатка пальца для разблокировки</string>
     <string name="fingerprint_wake_unlock_touch">Прослушивание событий при выключенном экране</string>
     <string name="fingerprint_wake_unlock_press">Прослушивает события только после включения экрана</string>
+    <string name="smart_5g_title">Умный 5G</string>
+    <string name="smart_5g_summary">Автоматическое переключение между 5G и 4G для снижения расхода батареи</string>
+    <string name="volume_separate_notification_title">Раздельно Звонок и Уведомление</string>
+    <string name="volume_separate_notification_summary">Разрешить управление каждым потоком по отдельности</string>
 </resources>
