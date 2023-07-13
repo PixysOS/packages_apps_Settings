@@ -21,8 +21,8 @@ import android.content.Context;
 import com.android.settings.Utils;
 import com.android.settings.core.BasePreferenceController;
 
-public class LinkedVolumesPreferenceController extends BasePreferenceController {
-    public LinkedVolumesPreferenceController(Context context, String key) {
+public class SeparateNotificationPreferenceController extends BasePreferenceController {
+    public SeparateNotificationPreferenceController(Context context, String key) {
         super(context, key);
     }
 

@@ -64,6 +64,7 @@ public class NotificationVolumePreferenceController extends
         if (updateRingerMode()) {
             updateEnabledState();
         }
+        updateVisibility();
     }
 
     /**
@@ -81,6 +82,7 @@ public class NotificationVolumePreferenceController extends
         updateEffectsSuppressor();
         selectPreferenceIconState();
         updateEnabledState();
+        updateVisibility();
     }
 
     @OnLifecycleEvent(Lifecycle.Event.ON_RESUME)
@@ -99,12 +101,13 @@ public class NotificationVolumePreferenceController extends
 
     @Override
     public int getAvailabilityStatus() {
+        boolean separateNotification = isSeparateNotificationConfigEnabled();
         return mContext.getResources().getBoolean(R.bool.config_show_notification_volume)
                 && Utils.isVoiceCapable(mContext)
-                && !mHelper.isSingleVolume()
+                && !mHelper.isSingleVolume() && separateNotification
                 ? (mRingerMode == AudioManager.RINGER_MODE_NORMAL
                     ? AVAILABLE : DISABLED_DEPENDENT_SETTING)
-                : UNSUPPORTED_ON_DEVICE;
+                : CONDITIONALLY_UNAVAILABLE;
     }
 
     @Override
