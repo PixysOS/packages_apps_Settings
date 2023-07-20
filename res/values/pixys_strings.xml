@@ -456,4 +456,8 @@
     <!-- Separate ring & notification toggle -->
     <string name="volume_separate_notification_title">Separated Ring and Notification</string>
     <string name="volume_separate_notification_summary">Allow controlling each stream individually</string>
+
+    <!-- Combined signal icons in status bar -->
+    <string name="combined_status_bar_signal_icons_title">Combined signal icons</string>
+    <string name="combined_status_bar_signal_icons_summary">Enable combined signal icons\n(WARNING: a soft reboot will occur upon enabling combined signal icons)</string>
 </resources>

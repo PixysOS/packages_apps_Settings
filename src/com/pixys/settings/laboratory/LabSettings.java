@@ -59,6 +59,7 @@ public class LabSettings extends SettingsPreferenceFragment implements
 
     private SwitchPreference mGamesSpoof;
     private SwitchPreference mPhotosSpoof;
+    private Preference mCombinedSignalIcons;
 
     @Override
     public void onCreate(Bundle icicle) {
@@ -74,6 +75,9 @@ public class LabSettings extends SettingsPreferenceFragment implements
         mPhotosSpoof = (SwitchPreference) prefScreen.findPreference(KEY_PHOTOS_SPOOF);
         mPhotosSpoof.setChecked(SystemProperties.getBoolean(SYS_PHOTOS_SPOOF, true));
         mPhotosSpoof.setOnPreferenceChangeListener(this);
+
+        mCombinedSignalIcons = findPreference("persist.sys.flags.combined_signal_icons");
+        mCombinedSignalIcons.setOnPreferenceChangeListener(this);
     }
 
     public static void reset(Context mContext) {
@@ -92,6 +96,11 @@ public class LabSettings extends SettingsPreferenceFragment implements
         } else if (preference == mPhotosSpoof) {
             boolean value = (Boolean) newValue;
             SystemProperties.set(SYS_PHOTOS_SPOOF, value ? "true" : "false");
+            return true;
+        } else if (preference == mCombinedSignalIcons) {
+            boolean value = (Boolean) newValue;
+            Settings.Secure.putIntForUser(getContentResolver(),
+                Settings.Secure.ENABLE_COMBINED_SIGNAL_ICONS, value ? 1 : 0, UserHandle.USER_CURRENT);
             return true;
         }
         return false;

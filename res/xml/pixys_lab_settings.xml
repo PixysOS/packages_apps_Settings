@@ -52,4 +52,10 @@
             android:persistent="false"
             android:fragment="com.android.settings.display.HiddenAppSettingsFragment" />
 
+    <com.pixys.support.preference.SystemPropertySwitchPreference
+        android:key="persist.sys.flags.combined_signal_icons"
+        android:title="@string/combined_status_bar_signal_icons_title"
+        android:summary="@string/combined_status_bar_signal_icons_summary"
+        android:defaultValue="false" />
+
 </PreferenceScreen>
