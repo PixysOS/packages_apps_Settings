@@ -99,7 +99,7 @@
 
     <!-- Separate ring & notification toggle -->
     <SwitchPreference
-        android:key="volume_separate_notification"
+        android:key="separate_notification_volume"
         android:title="@string/volume_separate_notification_title"
         android:summary="@string/volume_separate_notification_summary"
         android:order="-135"/>
