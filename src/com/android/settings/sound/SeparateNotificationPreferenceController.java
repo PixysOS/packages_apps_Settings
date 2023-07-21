@@ -30,7 +30,7 @@ import com.android.settingslib.core.AbstractPreferenceController;
 public class SeparateNotificationPreferenceController extends AbstractPreferenceController
         implements Preference.OnPreferenceChangeListener {
 
-    private static final String KEY = "volume_separate_notification";
+    private static final String KEY = "separate_notification_volume";
 
     private SwitchPreference mPreference;
 
