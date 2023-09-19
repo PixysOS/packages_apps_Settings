@@ -458,4 +458,8 @@
 
     <!-- Battery UI -->
     <string name="battery_24_hrs_stats_title">Pixel Battery Usage UI</string>
+    
+    <!-- Screen lock settings -->
+    <string name="screen_lock_settings_title">Screen lock security settings</string>
+    <string name="screen_lock_settings_summary">Customize your screen lock security</string>
 </resources>
