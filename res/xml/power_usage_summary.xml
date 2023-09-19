@@ -46,8 +46,9 @@
 
     <com.pixys.support.preference.SystemSettingSwitchPreference
         android:key="battery_24_hrs_stats"
-        android:title="@string/advanced_battery_preference_summary_with_hours"
-        android:defaultValue="false"
+        android:title="@string/battery_24_hrs_stats_title"
+        android:summary="@string/advanced_battery_preference_summary"
+        android:defaultValue="true"
         settings:searchable="false" />
 
     <Preference
