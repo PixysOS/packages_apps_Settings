@@ -25,6 +25,15 @@
     <string name="pixys_lab_footer">These features are experimental. They can be unstable, have security issues or may even lead to crashes and data loss. Use them at your own risks.</string>
     <string name="pixys_lab_summary">Experimental features</string>
 
+    <!-- Refresh rate --> 
+    <string name="refresh_rate_title">Refresh rate</string>
+    <string name="refresh_rate_summary_vrr_off">%d Hz</string> 
+    <string name="refresh_rate_summary_vrr_on">%d Hz (Adaptive)</string>
+    <string name="refresh_rate_vrr_title">Adaptive refresh rate</string> 
+    <string name="refresh_rate_vrr_summary">Automatically lower the refresh rate when the display is idle, to save power. May cause flickering or color shift on certain displays</string> 
+    <string name="refresh_rate_footer">A higher refresh rate makes the display smoother, but increases power consumption</string>
+    <string name="keywords_refresh_rate">refresh, rate, smooth, peak, 60hz, 90hz, 120hz, 144hz, 165hz</string>
+
     <!-- Unlimited google photos storage -->
     <string name="use_photos_spoof_title">Unlimited Photos storage</string>
     <string name="use_photos_spoof_summary">Spoof your device as Pixel XL for Google Photos app only to provide unlimited storage for backup</string>
